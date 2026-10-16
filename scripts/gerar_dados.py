@@ -4,9 +4,14 @@ salvas do Windsor.ai e do Gmail.
 Uso: python3 scripts/gerar_dados.py <pasta_entrada>
 Arquivos esperados na pasta de entrada (resposta da ferramenta, como veio):
   perfil.json   Windsor get_data: username, followers_count, media_count
-  diario.json   Windsor get_data: date, reach, views, accounts_engaged (últimos 90 dias)
+  diario.json   Windsor get_data: date, reach, views, accounts_engaged, reach_followers,
+                reach_non_followers, profile_links_taps (últimos 180 dias)
+  cidades.json  Windsor get_data: city, audience_city_size
+  publico.json  Windsor get_data: audience_gender_age_name, audience_gender_age_size
+  stories.json  Windsor get_data: story_id, story_timestamp, story_reach, story_views, story_replies, story_interactions
   posts.json    Windsor get_data: media_id, timestamp, media_type, media_caption, media_permalink,
-                media_reach, media_views, media_saved, media_shares, media_like_count, media_comments_count
+                media_reach, media_views, media_saved, media_shares, media_like_count, media_comments_count,
+                media_reel_avg_watch_time, media_reel_skip_rate
   gmail_<threadId>.json   Gmail get_thread (MINIMAL), um arquivo por conversa de aprovação
 A agenda vem de dados/programacao.json (mantida no repositório).
 """
@@ -48,18 +53,47 @@ pf = (rows('perfil.json') or [{}])[0]
 perfil = {'usuario': pf.get('username', 'pediatraflavia'), 'seguidores': int(num(pf.get('followers_count'))),
           'publicacoes': int(num(pf.get('media_count')))}
 
-# Diário: últimos 90 dias, dias sem registro = 0
+# Diário: últimos 180 dias, dias sem registro = 0
 d_in = {str(r.get('date'))[:10]: r for r in rows('diario.json')}
 diario = []
-for i in range(89, -1, -1):
+for i in range(179, -1, -1):
     d = (hoje - timedelta(days=i)).isoformat()
     r = d_in.get(d, {})
     diario.append({'data': d, 'alcance': int(num(r.get('reach'))), 'visualizacoes': int(num(r.get('views'))),
-                   'contas_engajadas': int(num(r.get('accounts_engaged')))})
-ult30 = diario[-30:]
-resumo_30d = {'alcance': sum(x['alcance'] for x in ult30), 'visualizacoes': sum(x['visualizacoes'] for x in ult30),
-              'contas_engajadas': sum(x['contas_engajadas'] for x in ult30)}
+                   'contas_engajadas': int(num(r.get('accounts_engaged'))),
+                   'alcance_seguidores': int(num(r.get('reach_followers'))),
+                   'alcance_nao_seguidores': int(num(r.get('reach_non_followers'))),
+                   'cliques_link_perfil': int(num(r.get('profile_links_taps')))})
 
+
+def resumo(dias):
+    return {k: sum(x[k] for x in dias) for k in ['alcance', 'visualizacoes', 'contas_engajadas', 'alcance_seguidores',
+                                               'alcance_nao_seguidores', 'cliques_link_perfil']}
+
+
+resumo_30d, resumo_90d, resumo_180d = resumo(diario[-30:]), resumo(diario[-90:]), resumo(diario)
+
+# Público
+cidades = []
+for r in rows('cidades.json'):
+    c = str(r.get('city') or '')
+    nome, _, uf = c.partition(', ')
+    cidades.append({'cidade': nome, 'estado': uf.replace(' (state)', ''), 'seguidores': int(num(r.get('audience_city_size')))})
+cidades.sort(key=lambda x: -x['seguidores'])
+GEN = {'F': 'Feminino', 'M': 'Masculino', 'U': 'Não informado'}
+publico = []
+for r in rows('publico.json'):
+    g, _, faixa = str(r.get('audience_gender_age_name') or '').partition('.')
+    publico.append({'genero': GEN.get(g, g), 'faixa_etaria': faixa, 'seguidores': int(num(r.get('audience_gender_age_size')))})
+publico.sort(key=lambda x: (x['genero'], x['faixa_etaria']))
+por_faixa = {}
+for x in publico:
+    por_faixa[x['faixa_etaria']] = por_faixa.get(x['faixa_etaria'], 0) + x['seguidores']
+publico_faixa = [{'faixa_etaria': k, 'seguidores': v} for k, v in sorted(por_faixa.items())]
+por_gen = {}
+for x in publico:
+    por_gen[x['genero']] = por_gen.get(x['genero'], 0) + x['seguidores']
+publico_genero = [{'genero': k, 'seguidores': v} for k, v in por_gen.items()]
 
 # Posts
 def local(ts):
@@ -82,7 +116,9 @@ for r in rows('posts.json'):
                   'alcance': alc, 'visualizacoes': int(num(r.get('media_views'))), 'curtidas': int(num(r.get('media_like_count'))),
                   'comentarios': int(num(r.get('media_comments_count'))), 'salvamentos': int(num(r.get('media_saved'))),
                   'compartilhamentos': int(num(r.get('media_shares'))), 'interacoes': inter,
-                  'taxa_engajamento': round(100 * inter / alc, 1) if alc else 0})
+                  'taxa_engajamento': round(100 * inter / alc, 1) if alc else 0,
+                  'reels_tempo_medio_assistido': r.get('media_reel_avg_watch_time'), 'reels_taxa_pulo': r.get('media_reel_skip_rate'),
+                  'legenda': leg})
 posts.sort(key=lambda p: p['data_hora'][6:8] + p['data_hora'][3:5] + p['data_hora'][:2] + p['data_hora'][9:], reverse=True)
 melhores = sorted(posts, key=lambda p: p['alcance'], reverse=True)[:10]
 por_formato = []
@@ -92,6 +128,23 @@ for f in ['Reels', 'Carrossel', 'Imagem']:
         a = sum(p['alcance'] for p in g)
         por_formato.append({'formato': f, 'posts': len(g), 'alcance_medio': round(a / len(g)),
                             'taxa_engajamento': round(100 * sum(p['interacoes'] for p in g) / a, 1) if a else 0})
+
+# Stories: a API só dá os últimos dias; mantém o histórico já publicado no arquivo anterior
+anterior = {}
+try:
+    anterior = json.load(open(os.path.join(RAIZ, 'dados', 'dados.json'), encoding='utf-8'))
+except Exception:
+    pass
+st = {x['id']: x for x in anterior.get('stories', [])}
+for r in rows('stories.json'):
+    if not r.get('story_id'):
+        continue
+    t = local(r['story_timestamp'])
+    st[str(r['story_id'])] = {'id': str(r['story_id']), 'data': t.strftime('%Y-%m-%d'), 'data_hora': t.strftime('%d/%m/%y %H:%M'),
+                              'alcance': int(num(r.get('story_reach'))), 'visualizacoes': int(num(r.get('story_views'))),
+                              'respostas': int(num(r.get('story_replies'))), 'interacoes': int(num(r.get('story_interactions'))),
+                              'data_hora_iso': t.isoformat()}
+stories = sorted(st.values(), key=lambda x: x.get('data_hora_iso', x['data']), reverse=True)
 
 # Aprovações (mesma regra do dashboard no Claude)
 msgs = {}
@@ -155,6 +208,15 @@ for p in sorted(prog, key=lambda x: x['data']):
     programacao.append({'id': p['id'], 'data': p['data'], 'data_texto': p['data'][8:10] + '/' + p['data'][5:7],
                         'dia': p['dia'], 'hora': p['hora'], 'formato': p['formato'], 'tema': p['tema'],
                         'story_hora': p.get('story_hora') or '', 'aprovacao_post': ap, 'aprovacao_story': ast, 'situacao': sit})
+ASSUNTO = {'carrosseis': 'Carrosséis Lavagem nasal e Marcos do 1º ano', 'carrossel19': 'Carrossel Introdução alimentar',
+           'reels': 'Reels Bebê de 4 meses', 'reels5': '5 Reels novos (21/10 a 04/11)'}
+aprovacoes = []
+for nome, ms in msgs.items():
+    for m in ms:
+        t = datetime.strptime(str(m.get('date'))[:19], '%Y-%m-%dT%H:%M:%S').replace(tzinfo=timezone.utc).astimezone(BRT)
+        txt = re.split(r'Atenciosamente|\bEm \d{1,2} de |&gt;|>|-----', str(m.get('snippet') or ''), flags=re.I)[0].strip()
+        aprovacoes.append({'conversa': ASSUNTO.get(nome, nome), 'data_hora': t.strftime('%d/%m/%y %H:%M'), 'resposta': txt, 'data_hora_iso': t.isoformat()})
+aprovacoes.sort(key=lambda x: x['data_hora_iso'], reverse=True)
 cont = lambda *s: sum(1 for x in programacao if x['situacao'] in s)
 resumo_prog = {'agendados': cont('Agendado'), 'aguardando_aprovacao': cont('Aguardando aprovação', 'Ajustes pedidos'),
                'sem_conteudo': cont('Sem conteúdo', 'Não publicado'), 'publicados': cont('Publicado')}
@@ -162,7 +224,9 @@ resumo_prog = {'agendados': cont('Agendado'), 'aguardando_aprovacao': cont('Agua
 out = {
     'atualizado_em': agora.isoformat(timespec='seconds'),
     'atualizado_em_texto': agora.strftime('%d/%m/%y %H:%M'),
-    'perfil': perfil, 'resumo_30d': resumo_30d, 'diario': diario,
+    'perfil': perfil, 'resumo_30d': resumo_30d, 'resumo_90d': resumo_90d, 'resumo_180d': resumo_180d, 'diario': diario,
+    'publico_cidades': cidades, 'publico_genero_idade': publico, 'publico_faixa_etaria': publico_faixa,
+    'publico_genero': publico_genero, 'stories': stories, 'aprovacoes': aprovacoes,
     'por_formato': por_formato, 'melhores_posts': melhores, 'posts': posts,
     'programacao': programacao, 'resumo_programacao': resumo_prog,
 }
