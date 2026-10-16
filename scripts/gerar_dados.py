@@ -8,6 +8,7 @@ Arquivos esperados na pasta de entrada (resposta da ferramenta, como veio):
                 reach_non_followers, profile_links_taps (últimos 180 dias)
   cidades.json  Windsor get_data: city, audience_city_size
   publico.json  Windsor get_data: audience_gender_age_name, audience_gender_age_size
+  novos.json    Windsor get_data: date, follower_count_1d (últimos 30 dias, até ontem)
   stories.json  Windsor get_data: story_id, story_timestamp, story_reach, story_views, story_replies, story_interactions
   posts.json    Windsor get_data: media_id, timestamp, media_type, media_caption, media_permalink,
                 media_reach, media_views, media_saved, media_shares, media_like_count, media_comments_count,
@@ -146,6 +147,40 @@ for r in rows('stories.json'):
                               'data_hora_iso': t.isoformat()}
 stories = sorted(st.values(), key=lambda x: x.get('data_hora_iso', x['data']), reverse=True)
 
+# Seguidores: a API não guarda histórico do total, então cada execução grava o total do dia
+# (a última execução do dia fica como fechamento) e acumula os novos seguidores por dia.
+hist = {x['data']: x['seguidores'] for x in anterior.get('seguidores_historico', [])}
+if perfil['seguidores'] > 0:
+    hist[hoje.isoformat()] = perfil['seguidores']
+seguidores_historico = [{'data': d, 'seguidores': v} for d, v in sorted(hist.items())]
+nv = {x['data']: x['novos'] for x in anterior.get('novos_seguidores', [])}
+for r in rows('novos.json'):
+    d = str(r.get('date'))[:10]
+    if d and d < hoje.isoformat() and r.get('follower_count_1d') is not None:
+        nv[d] = int(num(r.get('follower_count_1d')))
+novos_seguidores = [{'data': d, 'novos': v} for d, v in sorted(nv.items())]
+
+
+def crescimento(n):
+    ini = (hoje - timedelta(days=n)).isoformat()
+    pts = [x for x in seguidores_historico if x['data'] >= ini]
+    novos = [x for x in novos_seguidores if x['data'] >= ini]
+    c = {'horizonte_dias': n, 'seguidores_atual': perfil['seguidores'],
+         'novos_seguidores': sum(x['novos'] for x in novos), 'dias_com_novos': len(novos)}
+    if pts:
+        c.update({'data_inicio': pts[0]['data'], 'seguidores_inicio': pts[0]['seguidores'],
+                  'variacao': perfil['seguidores'] - pts[0]['seguidores'],
+                  'variacao_pct': round(100 * (perfil['seguidores'] - pts[0]['seguidores']) / pts[0]['seguidores'], 2) if pts[0]['seguidores'] else 0,
+                  'dias_com_total': len(pts), 'periodo_completo': pts[0]['data'] <= (hoje - timedelta(days=n - 1)).isoformat()})
+        # Deixaram de seguir (estimativa) = novos no mesmo intervalo - variação do total
+        nv_int = sum(x['novos'] for x in novos_seguidores if pts[0]['data'] <= x['data'] < hoje.isoformat())
+        c['deixaram_de_seguir_estimado'] = max(0, nv_int - c['variacao'])
+    c['serie'] = pts
+    return c
+
+
+crescimento_seguidores = {'30d': crescimento(30), '90d': crescimento(90), '180d': crescimento(180)}
+
 # Aprovações (mesma regra do dashboard no Claude)
 msgs = {}
 for nome, tid in THREADS.items():
@@ -226,7 +261,9 @@ out = {
     'atualizado_em_texto': agora.strftime('%d/%m/%y %H:%M'),
     'perfil': perfil, 'resumo_30d': resumo_30d, 'resumo_90d': resumo_90d, 'resumo_180d': resumo_180d, 'diario': diario,
     'publico_cidades': cidades, 'publico_genero_idade': publico, 'publico_faixa_etaria': publico_faixa,
-    'publico_genero': publico_genero, 'stories': stories, 'aprovacoes': aprovacoes,
+    'publico_genero': publico_genero,
+    'seguidores_historico': seguidores_historico, 'novos_seguidores': novos_seguidores,
+    'crescimento_seguidores': crescimento_seguidores, 'stories': stories, 'aprovacoes': aprovacoes,
     'por_formato': por_formato, 'melhores_posts': melhores, 'posts': posts,
     'programacao': programacao, 'resumo_programacao': resumo_prog,
 }
