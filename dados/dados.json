@@ -1,0 +1,990 @@
+{
+ "atualizado_em": "2026-10-16T11:24:17-03:00",
+ "atualizado_em_texto": "16/10/26 11:24",
+ "perfil": {
+  "usuario": "pediatraflavia",
+  "seguidores": 1325,
+  "publicacoes": 70
+ },
+ "resumo_30d": {
+  "alcance": 199,
+  "visualizacoes": 655,
+  "contas_engajadas": 33
+ },
+ "diario": [
+  {
+   "data": "2026-07-19",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-20",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-21",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-22",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-23",
+   "alcance": 1,
+   "visualizacoes": 14,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-24",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-25",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-26",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-27",
+   "alcance": 1,
+   "visualizacoes": 6,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-28",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-29",
+   "alcance": 1,
+   "visualizacoes": 11,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-30",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-07-31",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-01",
+   "alcance": 1,
+   "visualizacoes": 9,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-02",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-03",
+   "alcance": 2,
+   "visualizacoes": 3,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-04",
+   "alcance": 1,
+   "visualizacoes": 6,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-05",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-06",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-07",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-08",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-09",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-10",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-11",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-12",
+   "alcance": 1,
+   "visualizacoes": 4,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-13",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-14",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-15",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-16",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-17",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-18",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-19",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-20",
+   "alcance": 1,
+   "visualizacoes": 18,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-21",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-22",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-23",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-24",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-25",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-26",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-27",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-28",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-29",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-30",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-08-31",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-01",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-02",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-03",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-04",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-05",
+   "alcance": 1,
+   "visualizacoes": 31,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-06",
+   "alcance": 2,
+   "visualizacoes": 11,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-07",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-08",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-09",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-10",
+   "alcance": 1,
+   "visualizacoes": 5,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-11",
+   "alcance": 2,
+   "visualizacoes": 3,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-12",
+   "alcance": 1,
+   "visualizacoes": 3,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-13",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-14",
+   "alcance": 1,
+   "visualizacoes": 6,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-15",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-16",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-17",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-18",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-19",
+   "alcance": 1,
+   "visualizacoes": 5,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-20",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-21",
+   "alcance": 1,
+   "visualizacoes": 5,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-22",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-23",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-24",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-25",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-26",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-27",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-28",
+   "alcance": 1,
+   "visualizacoes": 7,
+   "contas_engajadas": 1
+  },
+  {
+   "data": "2026-09-29",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-09-30",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-01",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-02",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-03",
+   "alcance": 1,
+   "visualizacoes": 2,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-04",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-05",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-06",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-07",
+   "alcance": 1,
+   "visualizacoes": 4,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-08",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-09",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-10",
+   "alcance": 2,
+   "visualizacoes": 12,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-11",
+   "alcance": 1,
+   "visualizacoes": 126,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-12",
+   "alcance": 1,
+   "visualizacoes": 6,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-13",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-14",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0
+  },
+  {
+   "data": "2026-10-15",
+   "alcance": 157,
+   "visualizacoes": 385,
+   "contas_engajadas": 29
+  },
+  {
+   "data": "2026-10-16",
+   "alcance": 29,
+   "visualizacoes": 102,
+   "contas_engajadas": 3
+  }
+ ],
+ "por_formato": [
+  {
+   "formato": "Reels",
+   "posts": 1,
+   "alcance_medio": 490,
+   "taxa_engajamento": 2.2
+  },
+  {
+   "formato": "Carrossel",
+   "posts": 5,
+   "alcance_medio": 114,
+   "taxa_engajamento": 7.0
+  },
+  {
+   "formato": "Imagem",
+   "posts": 2,
+   "alcance_medio": 59,
+   "taxa_engajamento": 8.5
+  }
+ ],
+ "melhores_posts": [
+  {
+   "id": "18134849851538503",
+   "data": "2026-04-28",
+   "data_hora": "28/04/26 19:02",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Cuidar de uma criança doente já é um momento delicado.",
+   "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
+   "alcance": 490,
+   "visualizacoes": 628,
+   "curtidas": 8,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 3,
+   "interacoes": 11,
+   "taxa_engajamento": 2.2
+  },
+  {
+   "id": "17887799787462261",
+   "data": "2026-04-07",
+   "data_hora": "07/04/26 19:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Você já ficou na dúvida se deveria se preocupar com algum sintoma do seu bebê?",
+   "link": "https://www.instagram.com/p/DW2LQljkwvH/",
+   "alcance": 174,
+   "visualizacoes": 317,
+   "curtidas": 6,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 7,
+   "taxa_engajamento": 4.0
+  },
+  {
+   "id": "18113162677855294",
+   "data": "2026-05-05",
+   "data_hora": "05/05/26 19:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.",
+   "link": "https://www.instagram.com/p/DX-RfkQjsos/",
+   "alcance": 149,
+   "visualizacoes": 253,
+   "curtidas": 8,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 10,
+   "taxa_engajamento": 6.7
+  },
+  {
+   "id": "18186062029330113",
+   "data": "2026-04-14",
+   "data_hora": "14/04/26 19:03",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
+   "link": "https://www.instagram.com/p/DXIM2lunwFF/",
+   "alcance": 102,
+   "visualizacoes": 165,
+   "curtidas": 8,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 9,
+   "taxa_engajamento": 8.8
+  },
+  {
+   "id": "17861631051624014",
+   "data": "2026-04-21",
+   "data_hora": "21/04/26 19:01",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
+   "link": "https://www.instagram.com/p/DXaORAeAin0/",
+   "alcance": 84,
+   "visualizacoes": 165,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 9,
+   "taxa_engajamento": 10.7
+  },
+  {
+   "id": "18430221184193313",
+   "data": "2026-05-26",
+   "data_hora": "26/05/26 19:02",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Roncos frequentes na infância não devem ser ignorados.",
+   "link": "https://www.instagram.com/p/DY0WJdaEX3t/",
+   "alcance": 65,
+   "visualizacoes": 136,
+   "curtidas": 6,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 6,
+   "taxa_engajamento": 9.2
+  },
+  {
+   "id": "17954727660266527",
+   "data": "2026-10-15",
+   "data_hora": "15/10/26 22:09",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
+   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
+   "alcance": 60,
+   "visualizacoes": 155,
+   "curtidas": 5,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 5,
+   "taxa_engajamento": 8.3
+  },
+  {
+   "id": "18103920689294198",
+   "data": "2026-05-12",
+   "data_hora": "12/05/26 19:04",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "“Muito seletivo”, “come pouco”, “não para sentado”…",
+   "link": "https://www.instagram.com/p/DYQTSO-k3j3/",
+   "alcance": 53,
+   "visualizacoes": 103,
+   "curtidas": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 4,
+   "taxa_engajamento": 7.5
+  }
+ ],
+ "posts": [
+  {
+   "id": "17954727660266527",
+   "data": "2026-10-15",
+   "data_hora": "15/10/26 22:09",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
+   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
+   "alcance": 60,
+   "visualizacoes": 155,
+   "curtidas": 5,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 5,
+   "taxa_engajamento": 8.3
+  },
+  {
+   "id": "18430221184193313",
+   "data": "2026-05-26",
+   "data_hora": "26/05/26 19:02",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Roncos frequentes na infância não devem ser ignorados.",
+   "link": "https://www.instagram.com/p/DY0WJdaEX3t/",
+   "alcance": 65,
+   "visualizacoes": 136,
+   "curtidas": 6,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 6,
+   "taxa_engajamento": 9.2
+  },
+  {
+   "id": "18103920689294198",
+   "data": "2026-05-12",
+   "data_hora": "12/05/26 19:04",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "“Muito seletivo”, “come pouco”, “não para sentado”…",
+   "link": "https://www.instagram.com/p/DYQTSO-k3j3/",
+   "alcance": 53,
+   "visualizacoes": 103,
+   "curtidas": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 4,
+   "taxa_engajamento": 7.5
+  },
+  {
+   "id": "18113162677855294",
+   "data": "2026-05-05",
+   "data_hora": "05/05/26 19:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.",
+   "link": "https://www.instagram.com/p/DX-RfkQjsos/",
+   "alcance": 149,
+   "visualizacoes": 253,
+   "curtidas": 8,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 10,
+   "taxa_engajamento": 6.7
+  },
+  {
+   "id": "18134849851538503",
+   "data": "2026-04-28",
+   "data_hora": "28/04/26 19:02",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Cuidar de uma criança doente já é um momento delicado.",
+   "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
+   "alcance": 490,
+   "visualizacoes": 628,
+   "curtidas": 8,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 3,
+   "interacoes": 11,
+   "taxa_engajamento": 2.2
+  },
+  {
+   "id": "17861631051624014",
+   "data": "2026-04-21",
+   "data_hora": "21/04/26 19:01",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
+   "link": "https://www.instagram.com/p/DXaORAeAin0/",
+   "alcance": 84,
+   "visualizacoes": 165,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 9,
+   "taxa_engajamento": 10.7
+  },
+  {
+   "id": "18186062029330113",
+   "data": "2026-04-14",
+   "data_hora": "14/04/26 19:03",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
+   "link": "https://www.instagram.com/p/DXIM2lunwFF/",
+   "alcance": 102,
+   "visualizacoes": 165,
+   "curtidas": 8,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 9,
+   "taxa_engajamento": 8.8
+  },
+  {
+   "id": "17887799787462261",
+   "data": "2026-04-07",
+   "data_hora": "07/04/26 19:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Você já ficou na dúvida se deveria se preocupar com algum sintoma do seu bebê?",
+   "link": "https://www.instagram.com/p/DW2LQljkwvH/",
+   "alcance": 174,
+   "visualizacoes": 317,
+   "curtidas": 6,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 7,
+   "taxa_engajamento": 4.0
+  }
+ ],
+ "programacao": [
+  {
+   "id": "2026-10-15-febre",
+   "data": "2026-10-15",
+   "data_texto": "15/10",
+   "dia": "Qui",
+   "hora": "22h09",
+   "formato": "Carrossel",
+   "tema": "Febre: PS agora ou pode esperar?",
+   "story_hora": "",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "—",
+   "situacao": "Publicado"
+  },
+  {
+   "id": "2026-10-19-reels-4-meses",
+   "data": "2026-10-19",
+   "data_texto": "19/10",
+   "dia": "Seg",
+   "hora": "19h",
+   "formato": "Reels",
+   "tema": "Seu bebê de 4 meses mudou do nada? Não é birra.",
+   "story_hora": "20h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-10-20-lavagem-nasal",
+   "data": "2026-10-20",
+   "data_texto": "20/10",
+   "dia": "Ter",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "Lavagem nasal sem sufoco: o jeito certo de fazer",
+   "story_hora": "13h30",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-10-21-reels-limao",
+   "data": "2026-10-21",
+   "data_texto": "21/10",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Limão no berço faz o bebê dormir melhor? É mito.",
+   "story_hora": "19h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-10-22-marcos-1-ano",
+   "data": "2026-10-22",
+   "data_texto": "22/10",
+   "dia": "Qui",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "O que esperar do seu bebê em cada fase do 1º ano",
+   "story_hora": "13h30",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-10-26-reels-repelente",
+   "data": "2026-10-26",
+   "data_texto": "26/10",
+   "dia": "Seg",
+   "hora": "19h",
+   "formato": "Reels",
+   "tema": "Repelente em bebê: a partir de quando pode?",
+   "story_hora": "20h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-10-27-introducao-alimentar",
+   "data": "2026-10-27",
+   "data_texto": "27/10",
+   "dia": "Ter",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "Introdução alimentar: o primeiro pratinho do bebê",
+   "story_hora": "13h30",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-10-28-reels-suor",
+   "data": "2026-10-28",
+   "data_texto": "28/10",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Seu bebê sua muito dormindo? Calma, é comum.",
+   "story_hora": "19h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-02-reels-estomatite",
+   "data": "2026-11-02",
+   "data_texto": "02/11",
+   "dia": "Seg",
+   "hora": "19h",
+   "formato": "Reels",
+   "tema": "Feridinhas na boca? Pode ser estomatite.",
+   "story_hora": "20h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-04-reels-6-meses",
+   "data": "2026-11-04",
+   "data_texto": "04/11",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Seu bebê de 6 meses já faz isso?",
+   "story_hora": "19h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  }
+ ],
+ "resumo_programacao": {
+  "agendados": 3,
+  "aguardando_aprovacao": 6,
+  "sem_conteudo": 0,
+  "publicados": 1
+ }
+}
