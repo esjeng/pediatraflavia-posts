@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-16T11:32:40-03:00",
- "atualizado_em_texto": "16/10/26 11:32",
+ "atualizado_em": "2026-10-16T13:05:31-03:00",
+ "atualizado_em_texto": "16/10/26 13:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1325,
@@ -3803,6 +3803,19 @@
    "situacao": "Aguardando aprovação"
   },
   {
+   "id": "2026-10-29-carrossel",
+   "data": "2026-10-29",
+   "data_texto": "29/10",
+   "dia": "Qui",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "A definir",
+   "story_hora": "13h30",
+   "aprovacao_post": "—",
+   "aprovacao_story": "—",
+   "situacao": "Sem conteúdo"
+  },
+  {
    "id": "2026-11-02-reels-estomatite",
    "data": "2026-11-02",
    "data_texto": "02/11",
@@ -3816,6 +3829,19 @@
    "situacao": "Aguardando aprovação"
   },
   {
+   "id": "2026-11-03-carrossel",
+   "data": "2026-11-03",
+   "data_texto": "03/11",
+   "dia": "Ter",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "A definir",
+   "story_hora": "13h30",
+   "aprovacao_post": "—",
+   "aprovacao_story": "—",
+   "situacao": "Sem conteúdo"
+  },
+  {
    "id": "2026-11-04-reels-6-meses",
    "data": "2026-11-04",
    "data_texto": "04/11",
@@ -3827,12 +3853,25 @@
    "aprovacao_post": "Aguardando",
    "aprovacao_story": "Aguardando",
    "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-05-carrossel",
+   "data": "2026-11-05",
+   "data_texto": "05/11",
+   "dia": "Qui",
+   "hora": "12h30",
+   "formato": "Carrossel",
+   "tema": "A definir",
+   "story_hora": "13h30",
+   "aprovacao_post": "—",
+   "aprovacao_story": "—",
+   "situacao": "Sem conteúdo"
   }
  ],
  "resumo_programacao": {
   "agendados": 3,
   "aguardando_aprovacao": 6,
-  "sem_conteudo": 0,
+  "sem_conteudo": 3,
   "publicados": 1
  }
 }
