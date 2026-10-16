@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-16T11:24:17-03:00",
- "atualizado_em_texto": "16/10/26 11:24",
+ "atualizado_em": "2026-10-16T11:31:14-03:00",
+ "atualizado_em_texto": "16/10/26 11:31",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1325,
@@ -9,568 +9,2088 @@
  "resumo_30d": {
   "alcance": 199,
   "visualizacoes": 655,
-  "contas_engajadas": 33
+  "contas_engajadas": 33,
+  "alcance_seguidores": 187,
+  "alcance_nao_seguidores": 12,
+  "cliques_link_perfil": 0
+ },
+ "resumo_90d": {
+  "alcance": 224,
+  "visualizacoes": 786,
+  "contas_engajadas": 33,
+  "alcance_seguidores": 191,
+  "alcance_nao_seguidores": 33,
+  "cliques_link_perfil": 0
+ },
+ "resumo_180d": {
+  "alcance": 1321,
+  "visualizacoes": 2763,
+  "contas_engajadas": 84,
+  "alcance_seguidores": 700,
+  "alcance_nao_seguidores": 628,
+  "cliques_link_perfil": 0
  },
  "diario": [
+  {
+   "data": "2026-04-20",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-21",
+   "alcance": 41,
+   "visualizacoes": 69,
+   "contas_engajadas": 7,
+   "alcance_seguidores": 40,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-22",
+   "alcance": 14,
+   "visualizacoes": 34,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 14,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-23",
+   "alcance": 8,
+   "visualizacoes": 12,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 7,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-24",
+   "alcance": 6,
+   "visualizacoes": 10,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 6,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-25",
+   "alcance": 3,
+   "visualizacoes": 7,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 3,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-26",
+   "alcance": 2,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-27",
+   "alcance": 3,
+   "visualizacoes": 13,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-28",
+   "alcance": 302,
+   "visualizacoes": 368,
+   "contas_engajadas": 5,
+   "alcance_seguidores": 65,
+   "alcance_nao_seguidores": 241,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-29",
+   "alcance": 173,
+   "visualizacoes": 219,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 52,
+   "alcance_nao_seguidores": 121,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-04-30",
+   "alcance": 10,
+   "visualizacoes": 13,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 5,
+   "alcance_nao_seguidores": 5,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-01",
+   "alcance": 7,
+   "visualizacoes": 7,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 5,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-02",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-03",
+   "alcance": 3,
+   "visualizacoes": 3,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-04",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-05",
+   "alcance": 37,
+   "visualizacoes": 62,
+   "contas_engajadas": 5,
+   "alcance_seguidores": 34,
+   "alcance_nao_seguidores": 3,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-06",
+   "alcance": 15,
+   "visualizacoes": 37,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 15,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-07",
+   "alcance": 89,
+   "visualizacoes": 127,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 12,
+   "alcance_nao_seguidores": 77,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-08",
+   "alcance": 4,
+   "visualizacoes": 55,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 2,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-09",
+   "alcance": 3,
+   "visualizacoes": 3,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 3,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-10",
+   "alcance": 177,
+   "visualizacoes": 275,
+   "contas_engajadas": 18,
+   "alcance_seguidores": 78,
+   "alcance_nao_seguidores": 99,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-11",
+   "alcance": 13,
+   "visualizacoes": 15,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 7,
+   "alcance_nao_seguidores": 6,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-12",
+   "alcance": 22,
+   "visualizacoes": 37,
+   "contas_engajadas": 2,
+   "alcance_seguidores": 22,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-13",
+   "alcance": 7,
+   "visualizacoes": 24,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 7,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-14",
+   "alcance": 2,
+   "visualizacoes": 4,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 2,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-15",
+   "alcance": 2,
+   "visualizacoes": 2,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 2,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-16",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-17",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-18",
+   "alcance": 2,
+   "visualizacoes": 2,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 2,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-19",
+   "alcance": 2,
+   "visualizacoes": 30,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-20",
+   "alcance": 2,
+   "visualizacoes": 3,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-21",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-22",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-23",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-24",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-25",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-26",
+   "alcance": 32,
+   "visualizacoes": 77,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 29,
+   "alcance_nao_seguidores": 3,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-27",
+   "alcance": 8,
+   "visualizacoes": 82,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 8,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-28",
+   "alcance": 10,
+   "visualizacoes": 19,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 9,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-29",
+   "alcance": 4,
+   "visualizacoes": 4,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 4,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-30",
+   "alcance": 1,
+   "visualizacoes": 5,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-05-31",
+   "alcance": 4,
+   "visualizacoes": 6,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 4,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-01",
+   "alcance": 0,
+   "visualizacoes": 3,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-02",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-03",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-04",
+   "alcance": 2,
+   "visualizacoes": 5,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 2,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-05",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-06",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-07",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-08",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-09",
+   "alcance": 2,
+   "visualizacoes": 30,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-10",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-11",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-12",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-13",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-14",
+   "alcance": 2,
+   "visualizacoes": 12,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-15",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-16",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-17",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-18",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-19",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-20",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-21",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-22",
+   "alcance": 2,
+   "visualizacoes": 33,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-23",
+   "alcance": 2,
+   "visualizacoes": 2,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-24",
+   "alcance": 1,
+   "visualizacoes": 14,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-25",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-26",
+   "alcance": 57,
+   "visualizacoes": 73,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 57,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-27",
+   "alcance": 4,
+   "visualizacoes": 79,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 3,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-28",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-29",
+   "alcance": 1,
+   "visualizacoes": 60,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-06-30",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-01",
+   "alcance": 2,
+   "visualizacoes": 4,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-02",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-03",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-04",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-05",
+   "alcance": 1,
+   "visualizacoes": 12,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-06",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-07",
+   "alcance": 1,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-08",
+   "alcance": 1,
+   "visualizacoes": 8,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-09",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-10",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-11",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-12",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-13",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-14",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-15",
+   "alcance": 0,
+   "visualizacoes": 1,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-16",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-17",
+   "alcance": 1,
+   "visualizacoes": 12,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-07-18",
+   "alcance": 0,
+   "visualizacoes": 0,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
   {
    "data": "2026-07-19",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-20",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-21",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-22",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-23",
    "alcance": 1,
    "visualizacoes": 14,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-24",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-25",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-26",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-27",
    "alcance": 1,
    "visualizacoes": 6,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-28",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-29",
    "alcance": 1,
    "visualizacoes": 11,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-30",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-07-31",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-01",
    "alcance": 1,
    "visualizacoes": 9,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-02",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-03",
    "alcance": 2,
    "visualizacoes": 3,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-04",
    "alcance": 1,
    "visualizacoes": 6,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-05",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-06",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-07",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-08",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-09",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-10",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-11",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-12",
    "alcance": 1,
    "visualizacoes": 4,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-13",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-14",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-15",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-16",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-17",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-18",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-19",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-20",
    "alcance": 1,
    "visualizacoes": 18,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-21",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-22",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-23",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-24",
    "alcance": 1,
    "visualizacoes": 1,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-25",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-26",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-27",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-28",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-29",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-30",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-08-31",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-01",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-02",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-03",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-04",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-05",
    "alcance": 1,
    "visualizacoes": 31,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-06",
    "alcance": 2,
    "visualizacoes": 11,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-07",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-08",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-09",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-10",
    "alcance": 1,
    "visualizacoes": 5,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-11",
    "alcance": 2,
    "visualizacoes": 3,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-12",
    "alcance": 1,
    "visualizacoes": 3,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-13",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-14",
    "alcance": 1,
    "visualizacoes": 6,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-15",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-16",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-17",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-18",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-19",
    "alcance": 1,
    "visualizacoes": 5,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-20",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-21",
    "alcance": 1,
    "visualizacoes": 5,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-22",
    "alcance": 1,
    "visualizacoes": 1,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-23",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-24",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-25",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-26",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-27",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-28",
    "alcance": 1,
    "visualizacoes": 7,
-   "contas_engajadas": 1
+   "contas_engajadas": 1,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-29",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-09-30",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-01",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-02",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-03",
    "alcance": 1,
    "visualizacoes": 2,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-04",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-05",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-06",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-07",
    "alcance": 1,
    "visualizacoes": 4,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-08",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-09",
    "alcance": 1,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-10",
    "alcance": 2,
    "visualizacoes": 12,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-11",
    "alcance": 1,
    "visualizacoes": 126,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-12",
    "alcance": 1,
    "visualizacoes": 6,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-13",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-14",
    "alcance": 0,
    "visualizacoes": 0,
-   "contas_engajadas": 0
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-15",
    "alcance": 157,
    "visualizacoes": 385,
-   "contas_engajadas": 29
+   "contas_engajadas": 29,
+   "alcance_seguidores": 156,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
   },
   {
    "data": "2026-10-16",
    "alcance": 29,
    "visualizacoes": 102,
-   "contas_engajadas": 3
+   "contas_engajadas": 3,
+   "alcance_seguidores": 28,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  }
+ ],
+ "publico_cidades": [
+  {
+   "cidade": "Belo Horizonte",
+   "estado": "Minas Gerais",
+   "seguidores": 447
+  },
+  {
+   "cidade": "Montes Claros",
+   "estado": "Minas Gerais",
+   "seguidores": 91
+  },
+  {
+   "cidade": "Vespasiano",
+   "estado": "Minas Gerais",
+   "seguidores": 78
+  },
+  {
+   "cidade": "Contagem",
+   "estado": "Minas Gerais",
+   "seguidores": 49
+  },
+  {
+   "cidade": "Lagoa Santa",
+   "estado": "Minas Gerais",
+   "seguidores": 41
+  },
+  {
+   "cidade": "Cordeiro",
+   "estado": "Rio de Janeiro",
+   "seguidores": 39
+  },
+  {
+   "cidade": "São Paulo",
+   "estado": "São Paulo",
+   "seguidores": 36
+  },
+  {
+   "cidade": "Ribeirão das Neves",
+   "estado": "Minas Gerais",
+   "seguidores": 21
+  },
+  {
+   "cidade": "Pará",
+   "estado": "Minas Gerais",
+   "seguidores": 20
+  },
+  {
+   "cidade": "Nova Lima",
+   "estado": "Minas Gerais",
+   "seguidores": 19
+  },
+  {
+   "cidade": "Betim",
+   "estado": "Minas Gerais",
+   "seguidores": 15
+  },
+  {
+   "cidade": "Santa Luzia",
+   "estado": "Minas Gerais",
+   "seguidores": 13
+  },
+  {
+   "cidade": "São José da Lapa",
+   "estado": "Minas Gerais",
+   "seguidores": 12
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "estado": "Rio de Janeiro",
+   "seguidores": 10
+  },
+  {
+   "cidade": "Pedro Leopoldo",
+   "estado": "Minas Gerais",
+   "seguidores": 10
+  },
+  {
+   "cidade": "Goiânia",
+   "estado": "Goiás",
+   "seguidores": 8
+  },
+  {
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
+   "seguidores": 8
+  },
+  {
+   "cidade": "Botumirim",
+   "estado": "Minas Gerais",
+   "seguidores": 7
+  },
+  {
+   "cidade": "Sete Lagoas",
+   "estado": "Minas Gerais",
+   "seguidores": 6
+  },
+  {
+   "cidade": "Conselheiro Lafaiete",
+   "estado": "Minas Gerais",
+   "seguidores": 6
+  },
+  {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
+   "seguidores": 6
+  },
+  {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Uberlândia",
+   "estado": "Minas Gerais",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Brasília",
+   "estado": "Federal District",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Divinópolis",
+   "estado": "Minas Gerais",
+   "seguidores": 4
+  },
+  {
+   "cidade": "Curvelo",
+   "estado": "Minas Gerais",
+   "seguidores": 4
+  },
+  {
+   "cidade": "Curitiba",
+   "estado": "Paraná",
+   "seguidores": 4
+  },
+  {
+   "cidade": "São José dos Campos",
+   "estado": "São Paulo",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Matozinhos",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Maceió",
+   "estado": "Alagoas",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Vila Velha",
+   "estado": "Espírito Santo",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Uberaba",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Teresina",
+   "estado": "Piauí",
+   "seguidores": 3
+  },
+  {
+   "cidade": "São João del Rei",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Varginha",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Itaguara",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Santarém",
+   "estado": "Pará",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Bauru",
+   "estado": "São Paulo",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Coronel Fabriciano",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Cordisburgo",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Itaúna",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Serra",
+   "estado": "Espírito Santo",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Sobral",
+   "estado": "Ceará",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Taguatinga",
+   "estado": "Federal District",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Indaiatuba",
+   "estado": "São Paulo",
+   "seguidores": 2
+  }
+ ],
+ "publico_genero_idade": [
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "13-17",
+   "seguidores": 1
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "18-24",
+   "seguidores": 12
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "25-34",
+   "seguidores": 144
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "35-44",
+   "seguidores": 393
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "45-54",
+   "seguidores": 215
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "55-64",
+   "seguidores": 67
+  },
+  {
+   "genero": "Feminino",
+   "faixa_etaria": "65+",
+   "seguidores": 39
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "18-24",
+   "seguidores": 7
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "25-34",
+   "seguidores": 32
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "35-44",
+   "seguidores": 84
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "45-54",
+   "seguidores": 62
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "55-64",
+   "seguidores": 16
+  },
+  {
+   "genero": "Masculino",
+   "faixa_etaria": "65+",
+   "seguidores": 7
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "13-17",
+   "seguidores": 1
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "18-24",
+   "seguidores": 14
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "25-34",
+   "seguidores": 62
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "35-44",
+   "seguidores": 86
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "45-54",
+   "seguidores": 36
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "55-64",
+   "seguidores": 6
+  },
+  {
+   "genero": "Não informado",
+   "faixa_etaria": "65+",
+   "seguidores": 6
+  }
+ ],
+ "publico_faixa_etaria": [
+  {
+   "faixa_etaria": "13-17",
+   "seguidores": 2
+  },
+  {
+   "faixa_etaria": "18-24",
+   "seguidores": 33
+  },
+  {
+   "faixa_etaria": "25-34",
+   "seguidores": 238
+  },
+  {
+   "faixa_etaria": "35-44",
+   "seguidores": 563
+  },
+  {
+   "faixa_etaria": "45-54",
+   "seguidores": 313
+  },
+  {
+   "faixa_etaria": "55-64",
+   "seguidores": 89
+  },
+  {
+   "faixa_etaria": "65+",
+   "seguidores": 52
+  }
+ ],
+ "publico_genero": [
+  {
+   "genero": "Feminino",
+   "seguidores": 871
+  },
+  {
+   "genero": "Masculino",
+   "seguidores": 208
+  },
+  {
+   "genero": "Não informado",
+   "seguidores": 211
+  }
+ ],
+ "stories": [
+  {
+   "id": "18001795292808610",
+   "data": "2026-10-16",
+   "data_hora": "16/10/26 06:28",
+   "alcance": 0,
+   "visualizacoes": 12,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-10-16T06:28:29-03:00"
+  },
+  {
+   "id": "18106889362962827",
+   "data": "2026-10-15",
+   "data_hora": "15/10/26 12:43",
+   "alcance": 62,
+   "visualizacoes": 78,
+   "respostas": 0,
+   "interacoes": 4,
+   "data_hora_iso": "2026-10-15T12:43:30-03:00"
+  }
+ ],
+ "aprovacoes": [
+  {
+   "conversa": "Carrossel Introdução alimentar",
+   "data_hora": "16/10/26 08:45",
+   "resposta": "APROVADO 19/10",
+   "data_hora_iso": "2026-10-16T08:45:09-03:00"
+  },
+  {
+   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
+   "data_hora": "16/10/26 08:41",
+   "resposta": "Aprovado stories",
+   "data_hora_iso": "2026-10-16T08:41:25-03:00"
+  },
+  {
+   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
+   "data_hora": "15/10/26 23:25",
+   "resposta": "Aprovado todos",
+   "data_hora_iso": "2026-10-15T23:25:04-03:00"
+  },
+  {
+   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
+   "data_hora": "15/10/26 22:33",
+   "resposta": "Faltou os anexos com as imagens",
+   "data_hora_iso": "2026-10-15T22:33:59-03:00"
   }
  ],
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 1,
-   "alcance_medio": 490,
-   "taxa_engajamento": 2.2
+   "posts": 13,
+   "alcance_medio": 58,
+   "taxa_engajamento": 70.3
   },
   {
    "formato": "Carrossel",
-   "posts": 5,
-   "alcance_medio": 114,
-   "taxa_engajamento": 7.0
+   "posts": 21,
+   "alcance_medio": 38,
+   "taxa_engajamento": 41.6
   },
   {
    "formato": "Imagem",
-   "posts": 2,
-   "alcance_medio": 59,
-   "taxa_engajamento": 8.5
+   "posts": 36,
+   "alcance_medio": 15,
+   "taxa_engajamento": 148.3
   }
  ],
  "melhores_posts": [
@@ -589,7 +2109,10 @@
    "salvamentos": 0,
    "compartilhamentos": 3,
    "interacoes": 11,
-   "taxa_engajamento": 2.2
+   "taxa_engajamento": 2.2,
+   "reels_tempo_medio_assistido": 5317,
+   "reels_taxa_pulo": 0.784,
+   "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
    "id": "17887799787462261",
@@ -606,7 +2129,10 @@
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 7,
-   "taxa_engajamento": 4.0
+   "taxa_engajamento": 4.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Você já ficou na dúvida se deveria se preocupar com algum sintoma do seu bebê?\nEssa é uma das maiores angústias das mães, e com razão. Bebês podem piorar rápido, e alguns sinais precisam de atenção imediata.\n👉 Febre em recém-nascidos 👉 Prostração 👉 Dificuldade para respirar 👉 Recusa alimentar 👉 Sinais de desidratação\nEsses são sinais de alerta importantes e não devem ser ignorados.\n💛 Confie no seu instinto: se algo não parece normal, procure avaliação médica.\n📌 Salve esse post para consultar quando precisar 📲 Compartilhe com outras mães\n\n#pediatria #saudedobebe #maternidadereal #maedeprimeiraviagem #pediatra #cuidadoinfantil"
   },
   {
    "id": "18113162677855294",
@@ -616,14 +2142,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.",
    "link": "https://www.instagram.com/p/DX-RfkQjsos/",
-   "alcance": 149,
-   "visualizacoes": 253,
+   "alcance": 148,
+   "visualizacoes": 252,
    "curtidas": 8,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 10,
-   "taxa_engajamento": 6.7
+   "taxa_engajamento": 6.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.\n\nNa maioria das vezes está relacionada a infecções virais leves, mas alguns sinais indicam a necessidade de avaliação médica.\n\nObservar o comportamento da criança é tão importante quanto o sintoma.\n\n🩵 Se houver dúvida, o melhor caminho é sempre avaliar.\n\n📌 Salve este post para consultar quando precisar"
   },
   {
    "id": "18186062029330113",
@@ -633,14 +2162,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 102,
-   "visualizacoes": 165,
+   "alcance": 101,
+   "visualizacoes": 163,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 8.8
+   "taxa_engajamento": 8.9,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
   },
   {
    "id": "17861631051624014",
@@ -650,14 +2182,37 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
    "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 84,
-   "visualizacoes": 165,
+   "alcance": 83,
+   "visualizacoes": 163,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 10.7
+   "taxa_engajamento": 10.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
+  },
+  {
+   "id": "17885285048756351",
+   "data": "2022-11-27",
+   "data_hora": "27/11/22 21:59",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Você sabia que existe a consulta domiciliar?",
+   "link": "https://www.instagram.com/reel/ClfECrjPPKN/",
+   "alcance": 70,
+   "visualizacoes": 606,
+   "curtidas": 17,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 20,
+   "taxa_engajamento": 28.6,
+   "reels_tempo_medio_assistido": 9275,
+   "reels_taxa_pulo": 0.045,
+   "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
   },
   {
    "id": "18430221184193313",
@@ -674,24 +2229,30 @@
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 9.2
+   "taxa_engajamento": 9.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Roncos frequentes na infância não devem ser ignorados.\n\nEm algumas situações, eles podem estar relacionados a:\n• aumento das amígdalas/adenoide\n• sono de má qualidade\n• respiração pela boca\n• pausas respiratórias durante o sono\n\n🚨 Alguns sinais de alerta:\n• sono agitado\n• baba excessiva no travesseiro\n• dificuldade para acordar\n• irritabilidade durante o dia\n• dificuldade de atenção\n\n💛 Dormir bem também faz parte da saúde infantil.\n\n📌 Salve este post para lembrar depois."
   },
   {
-   "id": "17954727660266527",
-   "data": "2026-10-15",
-   "data_hora": "15/10/26 22:09",
-   "formato": "Carrossel",
-   "tipo_instagram": "CAROUSEL_ALBUM",
-   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
-   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 60,
-   "visualizacoes": 155,
-   "curtidas": 5,
+   "id": "18039137938716828",
+   "data": "2023-12-31",
+   "data_hora": "31/12/23 17:13",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Feliz 2024!",
+   "link": "https://www.instagram.com/reel/C1h7_OduI41/",
+   "alcance": 62,
+   "visualizacoes": 739,
+   "curtidas": 16,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 8.3
+   "interacoes": 16,
+   "taxa_engajamento": 25.8,
+   "reels_tempo_medio_assistido": 2292,
+   "reels_taxa_pulo": 0.059,
+   "legenda": "Feliz 2024!"
   },
   {
    "id": "18103920689294198",
@@ -701,14 +2262,37 @@
    "tipo_instagram": "IMAGE",
    "titulo": "“Muito seletivo”, “come pouco”, “não para sentado”…",
    "link": "https://www.instagram.com/p/DYQTSO-k3j3/",
-   "alcance": 53,
-   "visualizacoes": 103,
+   "alcance": 52,
+   "visualizacoes": 102,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 7.5
+   "taxa_engajamento": 7.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "“Muito seletivo”, “come pouco”, “não para sentado”…\n\nA alimentação infantil é uma das maiores fontes de ansiedade para muitas famílias, mas nem sempre a criança está com algum problema.\n\nO apetite varia ao longo do crescimento e pode mudar de acordo com:\n• fase do desenvolvimento\n• rotina\n• sono\n• estímulos\n• doenças recentes\n\n🚨 Alguns sinais merecem atenção:\n• perda de peso\n• dificuldade para crescer\n• cansaço frequente\n• seletividade extrema\n• recusa persistente de grupos alimentares\n\n❌ E um ponto importante:\nforçar, insistir excessivamente ou usar telas durante as refeições costuma piorar a relação da criança com a comida.\n\n💛 Comer precisa ser uma experiência leve, segura e tranquila.\n\n📌 Salve este post para consultar depois."
+  },
+  {
+   "id": "17954727660266527",
+   "data": "2026-10-15",
+   "data_hora": "15/10/26 22:09",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
+   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
+   "alcance": 49,
+   "visualizacoes": 125,
+   "curtidas": 5,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 5,
+   "taxa_engajamento": 10.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   }
  ],
  "posts": [
@@ -720,14 +2304,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 60,
-   "visualizacoes": 155,
+   "alcance": 49,
+   "visualizacoes": 125,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 8.3
+   "taxa_engajamento": 10.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
    "id": "18430221184193313",
@@ -744,7 +2331,10 @@
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 9.2
+   "taxa_engajamento": 9.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Roncos frequentes na infância não devem ser ignorados.\n\nEm algumas situações, eles podem estar relacionados a:\n• aumento das amígdalas/adenoide\n• sono de má qualidade\n• respiração pela boca\n• pausas respiratórias durante o sono\n\n🚨 Alguns sinais de alerta:\n• sono agitado\n• baba excessiva no travesseiro\n• dificuldade para acordar\n• irritabilidade durante o dia\n• dificuldade de atenção\n\n💛 Dormir bem também faz parte da saúde infantil.\n\n📌 Salve este post para lembrar depois."
   },
   {
    "id": "18103920689294198",
@@ -754,14 +2344,17 @@
    "tipo_instagram": "IMAGE",
    "titulo": "“Muito seletivo”, “come pouco”, “não para sentado”…",
    "link": "https://www.instagram.com/p/DYQTSO-k3j3/",
-   "alcance": 53,
-   "visualizacoes": 103,
+   "alcance": 52,
+   "visualizacoes": 102,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 7.5
+   "taxa_engajamento": 7.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "“Muito seletivo”, “come pouco”, “não para sentado”…\n\nA alimentação infantil é uma das maiores fontes de ansiedade para muitas famílias, mas nem sempre a criança está com algum problema.\n\nO apetite varia ao longo do crescimento e pode mudar de acordo com:\n• fase do desenvolvimento\n• rotina\n• sono\n• estímulos\n• doenças recentes\n\n🚨 Alguns sinais merecem atenção:\n• perda de peso\n• dificuldade para crescer\n• cansaço frequente\n• seletividade extrema\n• recusa persistente de grupos alimentares\n\n❌ E um ponto importante:\nforçar, insistir excessivamente ou usar telas durante as refeições costuma piorar a relação da criança com a comida.\n\n💛 Comer precisa ser uma experiência leve, segura e tranquila.\n\n📌 Salve este post para consultar depois."
   },
   {
    "id": "18113162677855294",
@@ -771,14 +2364,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.",
    "link": "https://www.instagram.com/p/DX-RfkQjsos/",
-   "alcance": 149,
-   "visualizacoes": 253,
+   "alcance": 148,
+   "visualizacoes": 252,
    "curtidas": 8,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 10,
-   "taxa_engajamento": 6.7
+   "taxa_engajamento": 6.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.\n\nNa maioria das vezes está relacionada a infecções virais leves, mas alguns sinais indicam a necessidade de avaliação médica.\n\nObservar o comportamento da criança é tão importante quanto o sintoma.\n\n🩵 Se houver dúvida, o melhor caminho é sempre avaliar.\n\n📌 Salve este post para consultar quando precisar"
   },
   {
    "id": "18134849851538503",
@@ -795,7 +2391,10 @@
    "salvamentos": 0,
    "compartilhamentos": 3,
    "interacoes": 11,
-   "taxa_engajamento": 2.2
+   "taxa_engajamento": 2.2,
+   "reels_tempo_medio_assistido": 5317,
+   "reels_taxa_pulo": 0.784,
+   "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
    "id": "17861631051624014",
@@ -805,14 +2404,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
    "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 84,
-   "visualizacoes": 165,
+   "alcance": 83,
+   "visualizacoes": 163,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 10.7
+   "taxa_engajamento": 10.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
   },
   {
    "id": "18186062029330113",
@@ -822,14 +2424,17 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 102,
-   "visualizacoes": 165,
+   "alcance": 101,
+   "visualizacoes": 163,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 8.8
+   "taxa_engajamento": 8.9,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
   },
   {
    "id": "17887799787462261",
@@ -846,7 +2451,1250 @@
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 7,
-   "taxa_engajamento": 4.0
+   "taxa_engajamento": 4.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Você já ficou na dúvida se deveria se preocupar com algum sintoma do seu bebê?\nEssa é uma das maiores angústias das mães, e com razão. Bebês podem piorar rápido, e alguns sinais precisam de atenção imediata.\n👉 Febre em recém-nascidos 👉 Prostração 👉 Dificuldade para respirar 👉 Recusa alimentar 👉 Sinais de desidratação\nEsses são sinais de alerta importantes e não devem ser ignorados.\n💛 Confie no seu instinto: se algo não parece normal, procure avaliação médica.\n📌 Salve esse post para consultar quando precisar 📲 Compartilhe com outras mães\n\n#pediatria #saudedobebe #maternidadereal #maedeprimeiraviagem #pediatra #cuidadoinfantil"
+  },
+  {
+   "id": "18039137938716828",
+   "data": "2023-12-31",
+   "data_hora": "31/12/23 17:13",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Feliz 2024!",
+   "link": "https://www.instagram.com/reel/C1h7_OduI41/",
+   "alcance": 62,
+   "visualizacoes": 739,
+   "curtidas": 16,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 25.8,
+   "reels_tempo_medio_assistido": 2292,
+   "reels_taxa_pulo": 0.059,
+   "legenda": "Feliz 2024!"
+  },
+  {
+   "id": "18102511747343777",
+   "data": "2023-09-22",
+   "data_hora": "22/09/23 18:22",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Hoje, quero compartilhar com vocês algo que toca meu coração como pediatra: a mágica da leitura na infância. 📖💕",
+   "link": "https://www.instagram.com/p/Cxgk70KOv9D/",
+   "alcance": 49,
+   "visualizacoes": 0,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 10,
+   "taxa_engajamento": 20.4,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Hoje, quero compartilhar com vocês algo que toca meu coração como pediatra: a mágica da leitura na infância. 📖💕\n\nAcreditem, aqueles momentos preciosos em que vocês seguram um livro e leem para seus pequenos não são apenas momentos comuns. São oportunidades de construir conexões poderosas e fortalecer o desenvolvimento de seus filhos.\n\n🌟 A imaginação floresce quando as páginas se abrem. Cada história é uma aventura que os transporta para mundos inexplorados. As palavras se tornam asas que os fazem voar.\n\n🧠 Além disso, a leitura estimula o desenvolvimento cognitivo. As crianças aprendem novas palavras, expandem seu vocabulário e desenvolvem habilidades de compreensão desde tenra idade.\n\n💪 O poder da leitura não para por aí. Ela nutre a empatia, permitindo que os pequenos entendam diferentes perspectivas e se conectem emocionalmente com os personagens.\n\n❤️ A leitura em família também cria laços inquebráveis. É uma maneira especial de passar tempo juntos, abraçados na cama, explorando histórias e compartilhando risadas.\n\nEntão, aqui está o desafio para vocês: reservem um tempinho a cada dia para mergulhar nas páginas de um livro com seus filhos. Não é apenas uma atividade, é um investimento no futuro deles. 🌟\n\nE compartilhem suas experiências conosco! Usem a hashtag #LeituraInfantil e deixem nos comentários as histórias favoritas dos seus pequenos. Vamos espalhar o amor pela leitura! 📚💖\n\nLembre-se, cada página virada é um passo na jornada incrível do crescimento e aprendizado das crianças. Juntos, podemos enriquecer suas vidas por meio das palavras e da imaginação. ✨\n\n#Pediatra #LeituraNaInfância #DesenvolvimentoInfantil #AmorPelaLeitura"
+  },
+  {
+   "id": "17980642424512308",
+   "data": "2023-07-27",
+   "data_hora": "27/07/23 18:30",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão qu",
+   "link": "https://www.instagram.com/p/CvN0mHHOac3/",
+   "alcance": 49,
+   "visualizacoes": 0,
+   "curtidas": 26,
+   "comentarios": 14,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 40,
+   "taxa_engajamento": 81.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão que sinto pela minha profissão e pelos meus pacientes maravilhosos.\n\nCuidar das crianças é a minha paixão e missão de vida. Ver cada sorriso, acompanhar seu crescimento saudável e contribuir para o seu bem-estar enche meu coração de alegria e satisfação.\n\nAgradeço de todo o coração às famílias que confiam no meu trabalho e me permitem fazer parte da vida de seus pequenos tesouros. É uma honra poder estar presente nesse momento tão especial da infância, proporcionando cuidado, carinho e atenção a cada um deles.\n\nA jornada como pediatra é desafiadora, mas é a dedicação e o carinho que fazem cada obstáculo valer a pena. Agradeço também aos meus colegas de profissão, que compartilham dessa mesma paixão e juntos buscam oferecer o melhor atendimento para nossos pacientes.\n\nPara todos os meus pacientes e suas famílias, saibam que cada um de vocês ocupa um lugar especial no meu coração. Agradeço por me permitirem ser parte de suas histórias e confiarem na minha capacidade de cuidar e zelar pelo bem-estar das crianças.\n\nHoje, no Dia do Pediatra, reafirmo meu compromisso em seguir oferecendo o melhor cuidado possível para cada criança que cruza o meu caminho. Que o amor e o carinho continuem guiando minha jornada na pediatria!\n\n#DiaDoPediatra #AmoMinhaProfissão #AmoMeusPacientes #Gratidão\" 🌟👩‍⚕️💙"
+  },
+  {
+   "id": "17989207807979237",
+   "data": "2023-07-04",
+   "data_hora": "04/07/23 15:15",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Gostaria de explicar um pouco sobre alguns testes que são realizados em recém-nascidos para cuidarmos da saúde do seu be",
+   "link": "https://www.instagram.com/p/CuSP7KWv34B/",
+   "alcance": 43,
+   "visualizacoes": 0,
+   "curtidas": 16,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 37.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Gostaria de explicar um pouco sobre alguns testes que são realizados em recém-nascidos para cuidarmos da saúde do seu bebê da melhor maneira possível. Esses exames são muito importantes para identificarmos precocemente possíveis problemas e agirmos de forma adequada. A maioria deles é realizada ainda na maternidade pela equipe de pediatra, enfermeira e fonoaudióloga.\n\n1. 👀 Teste do reflexo vermelho ou Teste do olhinho. Esse é um exame simples em que observamos o reflexo vermelho na pupila do seu bebê usando uma luz especial. Isso nos ajuda a identificar problemas oculares que podem ser tratados, como catarata ou glaucoma.\n\n2. ❤️ Triagem de cardiopatia congênita crítica ou teste do coraçãozinho. Com ele, buscamos identificar anomalias no coração do seu bebê. Utilizamos a oximetria de pulso, que mede a quantidade de oxigênio no sangue. Quando esse teste está alterado, realizamos o ecocardiograma, que é um ultrassom do coração.\n\n3. 👅 Avaliação do frênulo lingual ou Teste da linguinha. Esse exame consiste em verificar a mobilidade da língua. Se houver um freio lingual curto (chamado popularmente de \"língua presa\") que dificulte a amamentação, poderemos recomendar um procedimento chamado frenotomia para soltar o freio lingual e garantir um desenvolvimento adequado da fala e da alimentação.\n\n4. 👂 Triagem auditiva neonatal ou Teste da orelhinha. Com ele, buscamos detectar possíveis problemas de audição. São utilizados métodos como as emissões otoacústicas ou o potencial evocado auditivo do tronco cerebral. É um exame indolor e não invasivo. \n\n5. 👣 Triagem neonatal ou Teste do pezinho. Ele é obrigatório e consiste em coletar algumas gotinhas de sangue do calcanhar do seu bebê. Deve ser realizado entre o 3º e o 5º dia de vida do bebê. Esse teste nos ajuda a identificar precocemente doenças genéticas ou metabólicas graves. Detectar essas condições logo no início permite que iniciemos o tratamento imediatamente, garantindo um prognóstico melhor e uma qualidade de vida mais saudável para o seu filho.\n\nSe tiver qualquer dúvida sobre os exames ou quiser mais informações, estou aqui para ajudar. Conte comigo para cuidar do seu pequeno tesouro!"
+  },
+  {
+   "id": "17999780125761937",
+   "data": "2023-04-27",
+   "data_hora": "27/04/23 14:12",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "A bronquiolite viral aguda (BVA) é uma infecção respiratória comum em crianças, especialmente em bebês menores de 2 anos",
+   "link": "https://www.instagram.com/p/CrjCvETu059/",
+   "alcance": 32,
+   "visualizacoes": 0,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 2,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 34.4,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A bronquiolite viral aguda (BVA) é uma infecção respiratória comum em crianças, especialmente em bebês menores de 2 anos de idade. A doença é causada por um vírus que afeta as vias aéreas inferiores, incluindo os bronquíolos, que são os menores tubos que transportam ar para os pulmões.\n\nEmbora não haja uma maneira garantida de prevenir a BVA, existem algumas medidas que podem ser tomadas para reduzir o risco de contrair a doença. São algumas dessas medidas:\n\n. Lavagem das mãos: A bronquiolite viral aguda é altamente contagiosa e é transmitida através do contato com as secreções respiratórias de uma pessoa infectada. Uma maneira eficaz de reduzir o risco de infecção é lavando as mãos com frequência, especialmente antes de tocar o rosto, o nariz ou a boca.\n\n. Distanciamento social: Evitar o contato próximo com pessoas infectadas pode ajudar a prevenir a propagação da doença. Em particular, bebês menores de 2 anos de idade devem evitar o contato com pessoas que estejam com sintomas respiratórios, como tosse, secreção nasal ou espirros. Converse com os parentes e amigos para não visitarem o bebê se estiverem com algum sintoma.\n\n. Amamentação: A amamentação exclusiva até os 6 meses de idade pode ajudar a proteger os bebês contra a bronquiolite viral aguda. O leite materno contém anticorpos que ajudam a fortalecer o sistema imunológico do bebê e a reduzir o risco de infecções respiratórias.\n\n. Vacinação: Atualmente, não há vacina disponível para prevenir a bronquiolite viral aguda. No entanto, existem vacinas para prevenir outras doenças respiratórias, como a gripe. É importante garantir que todas as crianças estejam com as vacinas em dia para ajudar a prevenir doenças que possam aumentar o risco de contrair a bronquiolite.\n\n. Cuidados com a higiene: Manter uma boa higiene, como limpar e desinfetar superfícies com frequência e evitar compartilhar objetos pessoais, pode ajudar a prevenir a propagação da doença.\n\nMarque nos comentários uma mamãe que precisa saber disso!"
+  },
+  {
+   "id": "17983929908003195",
+   "data": "2023-04-05",
+   "data_hora": "05/04/23 15:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A obesidade é uma condição complexa e multifatorial. ",
+   "link": "https://www.instagram.com/p/Cqqe5osrYDa/",
+   "alcance": 18,
+   "visualizacoes": 0,
+   "curtidas": 7,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 7,
+   "taxa_engajamento": 38.9,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A obesidade é uma condição complexa e multifatorial. \n\nO apoio familiar e a abordagem multiprofissional são fundamentais para ajudar seu filho a desenvolver um relacionamento saudável com a comida e com o próprio corpo.\n\nLembre-se de que a mudança de hábitos pode levar tempo e requer paciência. É importante ser um modelo positivo e incentivar seu filho a fazer escolhas saudáveis, em vez de impor restrições ou fazer comentários negativos sobre seu peso ou aparência.\n\nOs pais são modelos de comportamento para seus filhos, então é essencial dar o exemplo quando se trata de hábitos saudáveis. Certifique-se de que você mesma esteja mantendo uma alimentação equilibrada, sendo ativa e mostrando entusiasmo em relação a um estilo de vida saudável. Seu filho é mais propenso a seguir seus passos se vê você se comportando de maneira saudável.\n\nEncoraje seu filho a amar e cuidar de seu corpo, independentemente de seu tamanho ou aparência!"
+  },
+  {
+   "id": "18356783569057143",
+   "data": "2023-04-02",
+   "data_hora": "02/04/23 15:13",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "As principais características da criança com Transtorno do Espectro Autista (TEA) são:",
+   "link": "https://www.instagram.com/p/Cqix3sWO0nK/",
+   "alcance": 20,
+   "visualizacoes": 0,
+   "curtidas": 13,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 13,
+   "taxa_engajamento": 65.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "As principais características da criança com Transtorno do Espectro Autista (TEA) são:\n\n🔹Dificuldade na comunicação: podem ter dificuldades em desenvolver habilidades de comunicação, como falar, entender gestos ou expressões faciais e se comunicar de forma eficaz. Elas podem ter problemas para iniciar conversas e manter o contato visual.\n\n🔹Dificuldade em interagir socialmente: podem ter dificuldades em interagir com outras crianças ou adultos. Elas podem ter problemas para entender os sinais sociais e podem ter dificuldades em fazer amigos. Elas podem preferir brincar sozinhas e evitar situações sociais.\n\n🔹Comportamentos repetitivos: podem ter padrões repetitivos de comportamento, interesse ou atividades. Por exemplo, elas podem insistir em seguir uma rotina específica, repetir determinadas palavras ou frases, ou se concentrar em um interesse específico.\n\n🔹Hipersensibilidade ou hipossensibilidade sensorial: podem ter sensibilidade sensorial aumentada ou diminuída. Elas podem ser excessivamente sensíveis a luz, sons ou texturas, ou podem não sentir dor ou temperatura normalmente.\n\n🔹Habilidades específicas: Algumas crianças possuem habilidades excepcionais em áreas específicas, como matemática, música ou arte. Elas podem ter um interesse particularmente forte em um assunto específico e se destacar nessa área.\n\n🔹Dificuldades de aprendizado: podem ter dificuldades em aprender e assimilar informações, especialmente quando se trata de tarefas que envolvem habilidades sociais ou de comunicação.\n\nÉ importante lembrar que o autismo é um espectro e que cada criança com autismo é única, com suas próprias habilidades, interesses e desafios. 💙"
+  },
+  {
+   "id": "18006083512617211",
+   "data": "2023-03-29",
+   "data_hora": "29/03/23 15:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Antes de mais nada, é importante lembrar que a decisão de fazer cama compartilhada com o bebê é algo muito pessoal e que",
+   "link": "https://www.instagram.com/p/CqYdkWVPRbE/",
+   "alcance": 19,
+   "visualizacoes": 0,
+   "curtidas": 11,
+   "comentarios": 3,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 14,
+   "taxa_engajamento": 73.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Antes de mais nada, é importante lembrar que a decisão de fazer cama compartilhada com o bebê é algo muito pessoal e que deve ser tomada com base nas necessidades e preferências da família.\n\nNo entanto, existem algumas medidas que podem ser tomadas para tornar essa prática mais segura:\n\n. O bebê deve dormir de barriga para cima, que a posição mais segura para ele;\n. A cama compartilhada é com a mãe, que deve dormir entre o pai e o bebê, de lado e de costas para o pai, numa posição segura em forma de \"C\";\n. Escolha uma cama grande, que tenha espaço suficiente para acomodar você, seu parceiro e o bebê, sem que haja risco de quedas ou sufocamento;\n. Utilize um colchão firme: evite usar colchões macios, pois podem representar risco de sufocamento para o bebê; \n. Não utilize cobertores, travesseiros ou almofadas;\n. Não deixe espaço ou vão entre o colchão ou a parede, onde o bebê possa rolar e ficar preso ou sufocar;\n. Mães que tem o cabelo longo devem dormir com ele preso;\n. Esteja sempre alerta e fique atenta aos movimentos do bebê.\n\nLembre-se de que a cama compartilhada não é recomendada para todos os bebês e famílias. Ela é contra-indicada se:\n. O bebê for prematuro, tenha doença do refluxo gastroesofágico ou qualquer doença que facilite o sufocamento;\n. Um dos pais (ou os dois) seja tabagista, obeso, faça uso de medicação para dormir ou tenha ingerido bebida alcoólica antes de dormir.\n\nAgora me conta o que você prefere: cama compartilhada ou bebê no bercinho?"
+  },
+  {
+   "id": "17992099669733650",
+   "data": "2023-03-26",
+   "data_hora": "26/03/23 15:02",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Se você é mãe de menino, já ouviu ou até recebeu a recomendação de que precisa fazer \"exercícios\" ou \"massagens\" no pint",
+   "link": "https://www.instagram.com/p/CqQu8b1MKeL/",
+   "alcance": 22,
+   "visualizacoes": 0,
+   "curtidas": 15,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 72.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Se você é mãe de menino, já ouviu ou até recebeu a recomendação de que precisa fazer \"exercícios\" ou \"massagens\" no pintinho do seu bebê para expor a glande.\n\nAfinal, será que os tais exercícios para \"abrir\" o pintinho são mesmo necessários?\n\nNÃO!\n\nO piupiu é fechadinho no começo da vida para proteção. Nada de puxar e forçar! Aquela pele que recobre a glande é coladinha justamente para evitar o contato prolongado com o xixi e o cocô do bebê.\n\nA massagem realizada no bebê com fimose não traz nenhum benefício. Pelo contrário, além de causar dor e desconforto também pode levar a microtraumas e inflamação no local, causando um processo de cicatrização que contribuirá ainda mais para o estreitamento da glande, ou seja, vai fechar mais ainda o pintinho do menino!\n\nA limpeza da genitália do bebê deve ocorrer com naturalidade, na parte exposta da glande, sem esforço, com tranquilidade e paciência.\n\nMarque uma mamãe de menino que precisa saber disso!"
+  },
+  {
+   "id": "17956332359319397",
+   "data": "2023-03-22",
+   "data_hora": "22/03/23 15:02",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Amamentar deitada é descanso para a mamãe!",
+   "link": "https://www.instagram.com/p/CqGbxJ5r3IJ/",
+   "alcance": 46,
+   "visualizacoes": 0,
+   "curtidas": 14,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 15,
+   "taxa_engajamento": 32.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Amamentar deitada é descanso para a mamãe!\n\nEvite essa posição (mas não é proibido), se o seu bebê tem Doença do Refluxo Gastroesofágico (DRGE) ou otites de repetição ou se está em tratamento para otite.\n\n❌ Bebês que tomam mamadeira NÃO devem mamar deitados!\n\nPara os bebês que que apresentam DRGE, é recomendado que sejam amamentados com o tronco mais elevado e sejam colocados na posição vertical e para arrotar por mais tempo (cerca de 30 minutos).\n\nMarque uma mamãe que amamenta para que ela saiba disso!"
+  },
+  {
+   "id": "17972387744021011",
+   "data": "2023-03-08",
+   "data_hora": "08/03/23 11:52",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "🌸 Feliz dia da Mulher! 🌸",
+   "link": "https://www.instagram.com/p/CpiC_S5OWbh/",
+   "alcance": 40,
+   "visualizacoes": 0,
+   "curtidas": 16,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 40.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "🌸 Feliz dia da Mulher! 🌸"
+  },
+  {
+   "id": "17943803834600548",
+   "data": "2023-02-27",
+   "data_hora": "27/02/23 15:17",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Essa é a dúvida de muitas mamães!",
+   "link": "https://www.instagram.com/p/CpLPRItvRIo/",
+   "alcance": 37,
+   "visualizacoes": 0,
+   "curtidas": 12,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 12,
+   "taxa_engajamento": 32.4,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Essa é a dúvida de muitas mamães!\n\nO sonho de toda mãe é que o seu bebê durma a noite toda! Mas quando isso realmente acontece, vem aquela pergunta inevitável: acordar ou não acordar o bebê para mamar?\n\nSe o bebê for um recém-nascido, no começo é natural que ele acorde sozinho várias vezes durante a noite para mamar. Isso porque os bebês comportam apenas um pequeno volume no seu estômago, e isso faz com que ele sinta fome num intervalo menor e acabe acordando mais vezes.\n\nMas e se o bebê não acordar sozinho?\n\nSe ele está se desenvolvendo corretamente e com o ganho de peso como o esperado, não é necessário acordá-lo a cada 3 horas para mamar de madrugada. Já nos casos em que o bebê apresenta baixo ganho de peso, ou nasceu com baixo peso, ou prematuro ou tem risco de hipoglicemia, é importante que você se informe com o pediatra dele para ter a orientação adequada individualizada para o seu filho.  \n\nQuando o bebê cresce, por volta dos 3 meses de idade, a necessidade de mamar em intervalos pequenos vai aos poucos diminuindo. Com isso, não há nada de errado em um bebê dormir por mais horas seguidas durante a noite! \n\nMas e aí? Preciso acordar o bebê para mamar? Depende da idade do pequeno, de seu desenvolvimento e das recomendações do pediatra após avaliar individualmente cada bebê!   Mas se seu bebê já for maiorzinho, não tem essa necessidade. Pode dormir tranquila! Aproveita!\n\nQue tal marcar nesse post uma mamãe que precisa saber disso?"
+  },
+  {
+   "id": "17981594695940820",
+   "data": "2023-02-23",
+   "data_hora": "23/02/23 18:12",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A dermatite atópica é uma doença crônica influenciada por fatores diversos. A criança que a apresenta necessita de cuida",
+   "link": "https://www.instagram.com/p/CpBQDVbv0pm/",
+   "alcance": 18,
+   "visualizacoes": 0,
+   "curtidas": 10,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 61.1,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A dermatite atópica é uma doença crônica influenciada por fatores diversos. A criança que a apresenta necessita de cuidados para um melhor controle da doença. Dentre eles:\n\n. Banhos rápidos;\n. Evitar muitos banhos por dia;\n. Não esfregar a pele com bucha;\n. Usar gel lavante (mais suave que sabonete);\n. Aplicar bastante creme hidratante após o banho;\n. Usar roupas de tecido natural, como o algodão.\n\nMedicamentos prescritos pelo pediatra devem ser utilizados nas crises, em associação com a hidratação intensiva da pele.\n\nComo está o controle da dermatite do seu filho?\n\n#dermatiteatopica #peledobebe #peledacrianca #pediatra"
+  },
+  {
+   "id": "17965674539220781",
+   "data": "2023-02-19",
+   "data_hora": "19/02/23 15:45",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "O bebê nasce e todos já querem logo ir visitar. Mas vamos com calma!",
+   "link": "https://www.instagram.com/p/Co2sE0Wvol6/",
+   "alcance": 12,
+   "visualizacoes": 0,
+   "curtidas": 15,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 15,
+   "taxa_engajamento": 125.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "O bebê nasce e todos já querem logo ir visitar. Mas vamos com calma!\n\nMuitos não sabem que os primeiros dias de vida nem sempre é o melhor momento de receber visitas. No primeiro mês, o bebê está se acostumando com a vida fora da barriga da mamãe e os pais estão se acostumando com a nova rotina e privação de sono.\n\nAs visitas que enchem o quarto da maternidade ou a casa do bebê podem deixá-lo irritado, causando choro e perturbação no sono.\n\nNesse momento a mãe precisa muito descansar, principalmente enquanto o recém-nascido dorme! E enquanto a mamãe amamenta, o pai descansa para revezar nos cuidados com o bebê durante o dia e a noite.\n\nAlém disso, muitas pessoas acham que uma simples gripe não seria motivo para deixar de visitar o recém-nascido. Porém, uma simples gripe para você pode ser um problemão para o bebê que acabou de chegar, podendo levá-lo até à internação. Então se estiver com qualquer sintoma, não visite um recém-nascido!\n\nDivulgue essa informação e me conta nos comentários: como foi com você, recebeu visitas?\n\n#pediatra ##recémnascido #newborn #saude"
+  },
+  {
+   "id": "17864092418869174",
+   "data": "2023-02-16",
+   "data_hora": "16/02/23 16:12",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "A lavagem nasal com soro fisiológico faz parte do tratamento da rinite, gripe, resfriado e sinusite.",
+   "link": "https://www.instagram.com/reel/CovAvp-LgWG/",
+   "alcance": 15,
+   "visualizacoes": 623,
+   "curtidas": 44,
+   "comentarios": 4,
+   "salvamentos": 4,
+   "compartilhamentos": 0,
+   "interacoes": 52,
+   "taxa_engajamento": 346.7,
+   "reels_tempo_medio_assistido": 13832,
+   "reels_taxa_pulo": 0.011,
+   "legenda": "A lavagem nasal com soro fisiológico faz parte do tratamento da rinite, gripe, resfriado e sinusite.\n\nAprenda como fazê-la corretamente e envie o vídeo para outra mamãe para ela aprender também!"
+  },
+  {
+   "id": "17938303121492093",
+   "data": "2023-02-11",
+   "data_hora": "11/02/23 13:55",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "E para as mamães, muita disposição! 😅👇",
+   "link": "https://www.instagram.com/p/Coh5LXPyVwF/",
+   "alcance": 9,
+   "visualizacoes": 0,
+   "curtidas": 11,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 122.2,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "E para as mamães, muita disposição! 😅👇\n\nVão levar as crianças para se divertirem em algum bloquinho?\n\nNão se esqueçam de fazer esse check-list:\n. Roupa leve para o calor;\n. Água para manter uma boa hidratação;\n. Protetor solar e boné/ chapéu para não se queimar;\n. Frutas e lanches, pois às vezes não é fácil encontrar algo que a criança possa comer no meio da folia;\n. Identificação com o nome da criança, nomes dos pais e o número do celular, assim fica mais fácil se por acaso se perderem.\n\nAgora me contem: pra qual bloquinho infantil vocês estão indo? Deixem dicas nos comentários e divirtam-se!"
+  },
+  {
+   "id": "17942507927446572",
+   "data": "2023-02-08",
+   "data_hora": "08/02/23 15:12",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "O tipo mais comum de alergia à picada de inseto é o Prurigo Estrófulo, que geralmente aparece no primeiro ou segundo ano",
+   "link": "https://www.instagram.com/p/CoaTm73yyJA/",
+   "alcance": 16,
+   "visualizacoes": 0,
+   "curtidas": 17,
+   "comentarios": 0,
+   "salvamentos": 5,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 137.5,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "O tipo mais comum de alergia à picada de inseto é o Prurigo Estrófulo, que geralmente aparece no primeiro ou segundo ano de vida e melhora por volta dos 10 anos.\n\nJá a Anafilaxia, mais rara, pode ocorrer em qualquer idade e pode ser fatal.\n\nO diagnóstico é clínico, feito através da história e sintomas que o paciente apresentou. Caso ocorra reação, procure saber qual foi o inseto causador e anote os sintomas apresentados. Também podem ser feitos testes alérgicos laboratoriais ou na pele. \n\nMarque uma amiga aqui para que ela saiba o que fazer! 👇"
+  },
+  {
+   "id": "17951102573303895",
+   "data": "2023-02-01",
+   "data_hora": "01/02/23 11:08",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "A Síndrome da Creche é como chamamos as infecções de repetição que as crianças de até 3 anos pegam durante o primeiro an",
+   "link": "https://www.instagram.com/p/CoH2Cz1uFjM/",
+   "alcance": 9,
+   "visualizacoes": 0,
+   "curtidas": 10,
+   "comentarios": 1,
+   "salvamentos": 3,
+   "compartilhamentos": 0,
+   "interacoes": 14,
+   "taxa_engajamento": 155.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A Síndrome da Creche é como chamamos as infecções de repetição que as crianças de até 3 anos pegam durante o primeiro ano de escola.\n\nO primeiro ano de escolinha é o pior de todos, sem dúvida! E isso acontece, pois os bebês ainda estão com o sistema imunológico em formação, então falta maturidade dele para combater os vírus e bactérias.\n\nQuando a criança começa a frequentar a creche ou escola, entra em contato com outras crianças e consequentemente com uma grande variedade de agentes infecciosos. Quando uma adoece, passa para as demais. \n\nAs infecções mais comuns nesse primeiro ano são: gripe, resfriado, otite, gastroenterite, bronquiolite, faringite e estomatite. São as famosas \"escolites\".\n\nAdoecer faz parte do desenvolvimento do sistema imunológico. Ele precisa entrar em contato com os vírus e bactérias para produzir anticorpos para combatê-los! Por isso as vacinas são tão importantes, nelas o agente infeccioso já vem morto ou atenuado, não causa a doença e ativa nosso sistema imunológico para produzir anticorpos contra aquele determinado agente.\n\nSão esperadas 10 a 12 infecções virais por ano em crianças que frequentam a escola! É muito, mas isso não significa que seu filho tenha baixa imunidade! \n\nE o que fazer para minimizar essas infecções?\n. Manter a vacinação em dia;\n. Não enviar a criança ainda doente para escola;\n. Manter alimentação saudável e variada;\n. Deixar a criança brincar ao ar livre e ter contato com a natureza;\n. Promover atividade física diária;\n. Rotina de sono adequada e\n. Acompanhamento de rotina com pediatra.\n\nJá que o ano letivo está recomeçando, compartilhe com uma mamãe para que ela possa se informar também!"
+  },
+  {
+   "id": "18059256322369499",
+   "data": "2023-01-25",
+   "data_hora": "25/01/23 16:20",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Você sabia que um dos pontos mais importantes da introdução alimentar do bebê é que ele entre em contato com as diversas",
+   "link": "https://www.instagram.com/p/Cn2YQ38ORBA/",
+   "alcance": 13,
+   "visualizacoes": 0,
+   "curtidas": 10,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 84.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Você sabia que um dos pontos mais importantes da introdução alimentar do bebê é que ele entre em contato com as diversas texturas dos mais variados alimentos? Mas quando estes são colocados na redinha, o bebê perde a oportunidade de adquirir este aprendizado.\n\nA redinha/ chupeta de alimentação:\n\n. Impede a criança de conhecer a verdadeira textura do alimento;\n. Atrapalha a aceitação de novos alimentos;\n. Aumenta o risco de contaminação;\n. Retém as fibras das frutas;\n. Aumenta as chances de constipação intestinal.\n\nQue tal deixar o bebê livre para explorar os alimentos? Faz uma bagunça, mas é muito importante para o desenvolvimento dele e para uma boa aceitação dos alimentos!"
+  },
+  {
+   "id": "18338696851038142",
+   "data": "2023-01-22",
+   "data_hora": "22/01/23 23:06",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Saiba disso antes de oferecer chupeta ao seu bebê!",
+   "link": "https://www.instagram.com/p/CnvYT7gtmXr/",
+   "alcance": 14,
+   "visualizacoes": 0,
+   "curtidas": 14,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 14,
+   "taxa_engajamento": 100.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Saiba disso antes de oferecer chupeta ao seu bebê!\n\n#bebê #pediatra #pediatrabh"
+  },
+  {
+   "id": "17944019810348566",
+   "data": "2023-01-18",
+   "data_hora": "18/01/23 14:22",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Após tantos casos de gastroenterite nos últimos dias, fiz esse post para as famílias saberem quais são os sinais de peri",
+   "link": "https://www.instagram.com/reel/CnkI-ZYKneG/",
+   "alcance": 9,
+   "visualizacoes": 517,
+   "curtidas": 10,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 122.2,
+   "reels_tempo_medio_assistido": 5304,
+   "reels_taxa_pulo": 0.01,
+   "legenda": "Após tantos casos de gastroenterite nos últimos dias, fiz esse post para as famílias saberem quais são os sinais de perigo e quando é necessário levar a criança ao pronto atendimento.\n\nLembrando sempre que o mais importante nos casos de diarreia e vômito é manter a criança bem hidratada, aumentando o volume de líquidos ingeridos, com soro de reidratação oral, sucos naturais, chás e sopas.\n\n#gastroenterite #desidratação #pediatra #pediatrabh"
+  },
+  {
+   "id": "17992167823677035",
+   "data": "2023-01-15",
+   "data_hora": "15/01/23 10:51",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Ofereça o sono quando o bebê estiver com sono!",
+   "link": "https://www.instagram.com/p/CncCqDOO6sI/",
+   "alcance": 8,
+   "visualizacoes": 0,
+   "curtidas": 12,
+   "comentarios": 1,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 14,
+   "taxa_engajamento": 175.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Ofereça o sono quando o bebê estiver com sono!\n\n#sonoinfantil #bebê #pediatra #pediatrabh"
+  },
+  {
+   "id": "17996347198627905",
+   "data": "2023-01-12",
+   "data_hora": "12/01/23 10:37",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Do Story para o Feed, pois o tema merece!",
+   "link": "https://www.instagram.com/reel/CnUSUTEB-Qu/",
+   "alcance": 9,
+   "visualizacoes": 178,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 2,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 122.2,
+   "reels_tempo_medio_assistido": 8386,
+   "reels_taxa_pulo": 0.034,
+   "legenda": "Do Story para o Feed, pois o tema merece!\n\n#sonoinfantil #pediatra #bebes"
+  },
+  {
+   "id": "17851333052901982",
+   "data": "2023-01-08",
+   "data_hora": "08/01/23 17:55",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "As boias e coletes de espuma expandida são os mais seguros pois:",
+   "link": "https://www.instagram.com/p/CnKxoAZOuHf/",
+   "alcance": 7,
+   "visualizacoes": 0,
+   "curtidas": 7,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 8,
+   "taxa_engajamento": 114.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "As boias e coletes de espuma expandida são os mais seguros pois:\n\n. Mantém sempre a cabeça fora da água \n. Não furam\n. São difíceis de serem retirados\n. Não prejudicam o equilíbrio \n. Permitem movimentos livres\n\nAo comprar, deve ser observado sempre a faixa de peso indicada para cada boia/colete.\n\nE atenção: mesmo que a criança esteja com o acessório, ainda é necessário um adulto responsável e sóbrio mantendo-se à distância de um braço da criança, para que seja possível rápido socorro em caso de falha do dispositivo."
+  },
+  {
+   "id": "17949502994272467",
+   "data": "2023-01-04",
+   "data_hora": "04/01/23 10:51",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Confira mais uma dica das férias com as crianças!",
+   "link": "https://www.instagram.com/p/Cm_t22PuYjv/",
+   "alcance": 26,
+   "visualizacoes": 0,
+   "curtidas": 14,
+   "comentarios": 0,
+   "salvamentos": 2,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 61.5,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Confira mais uma dica das férias com as crianças!\n\nÉ melhor ter as coisas mais importantes à mão, do que sair para procurar um lugar onde comprá-las em uma cidade desconhecida.\n\nSalve esse post para consultar na hora de arrumar as malas!"
+  },
+  {
+   "id": "18074373616333830",
+   "data": "2022-12-31",
+   "data_hora": "31/12/22 12:36",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!",
+   "link": "https://www.instagram.com/reel/Cm1mH5dhbO_/",
+   "alcance": 47,
+   "visualizacoes": 668,
+   "curtidas": 33,
+   "comentarios": 2,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 35,
+   "taxa_engajamento": 74.5,
+   "reels_tempo_medio_assistido": 8971,
+   "reels_taxa_pulo": 0.019,
+   "legenda": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!"
+  },
+  {
+   "id": "18003138742558106",
+   "data": "2022-12-24",
+   "data_hora": "24/12/22 18:33",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Feliz Natal! 🎄",
+   "link": "https://www.instagram.com/reel/CmkNrkehO_C/",
+   "alcance": 19,
+   "visualizacoes": 546,
+   "curtidas": 33,
+   "comentarios": 6,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 39,
+   "taxa_engajamento": 205.3,
+   "reels_tempo_medio_assistido": 5396,
+   "reels_taxa_pulo": 0.016,
+   "legenda": "Feliz Natal! 🎄"
+  },
+  {
+   "id": "17966101450943469",
+   "data": "2022-12-20",
+   "data_hora": "20/12/22 18:21",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Vamos tornar as férias escolares mais divertidas para as crianças e mais leves para as mamães!",
+   "link": "https://www.instagram.com/p/CmZ5dxVuvAF/",
+   "alcance": 12,
+   "visualizacoes": 0,
+   "curtidas": 11,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 12,
+   "taxa_engajamento": 100.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Vamos tornar as férias escolares mais divertidas para as crianças e mais leves para as mamães!\n\n#brincadeiras #feriasescolares #criancasemtela #pediatra"
+  },
+  {
+   "id": "18008613835516911",
+   "data": "2022-12-15",
+   "data_hora": "15/12/22 17:53",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Fiquem atentos! Medidas preventivas podem evitar 90% dos acidentes domésticos!",
+   "link": "https://www.instagram.com/p/CmM-SpuuMIH/",
+   "alcance": 9,
+   "visualizacoes": 0,
+   "curtidas": 12,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 13,
+   "taxa_engajamento": 144.4,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Fiquem atentos! Medidas preventivas podem evitar 90% dos acidentes domésticos!\n\nOs períodos em que o número de acidentes aumenta são nas férias escolares, nos finais de semana e no verão, mais comumente no final da tarde e começo da noite.\n\nAs quedas representam a maioria dos acidentes, seguidas pelas queimaduras.\n\nA cozinha e o banheiro são os ambientes com maior frequência de acidentes e onde ocorrem as lesões mais graves.\n\nPrevenir é sempre a melhor medida!\n\n#acidentesdomesticos #crianças #pediatra"
+  },
+  {
+   "id": "17972475382831774",
+   "data": "2022-12-11",
+   "data_hora": "11/12/22 12:42",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Gostou da dica? Compartilhe com uma mamãe de primeira viagem! ",
+   "link": "https://www.instagram.com/reel/CmCGeK9tTNt/",
+   "alcance": 6,
+   "visualizacoes": 743,
+   "curtidas": 12,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 13,
+   "taxa_engajamento": 216.7,
+   "reels_tempo_medio_assistido": 6942,
+   "reels_taxa_pulo": 0.009,
+   "legenda": "Gostou da dica? Compartilhe com uma mamãe de primeira viagem! \n\n#dicasmaternidade #bebe #pediatra"
+  },
+  {
+   "id": "17959987448178783",
+   "data": "2022-12-07",
+   "data_hora": "07/12/22 14:01",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "A crise febril é uma situação que gera ansiedade e insegurança nas mamães e papais.",
+   "link": "https://www.instagram.com/p/Cl39U5lsEF6/",
+   "alcance": 19,
+   "visualizacoes": 0,
+   "curtidas": 18,
+   "comentarios": 1,
+   "salvamentos": 3,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 115.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A crise febril é uma situação que gera ansiedade e insegurança nas mamães e papais.\n\nPossui um excelente prognóstico e evolução benigna. O maior risco para essas crianças é a recorrência.\n\nA primeira conduta ao final da crise é avaliar e identificar o processo infeccioso que está causando a febre.\n\nEmbora os antitérmicos possam melhorar o conforto da criança, eles não atuam na prevenção de crises subsequentes.\n\nO uso de medicação para prevenção de novas crises deve ser individualizado, uma vez que essas medicações possuem potenciais efeitos colaterais.\n\nFicou alguma dúvida? Pode me perguntar nos comentários!\n\n#crisefebril #convulsaofebril #bebes #crianças #pediatra"
+  },
+  {
+   "id": "17955305435203660",
+   "data": "2022-12-04",
+   "data_hora": "04/12/22 22:08",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Não normalize o atraso na fala. Não fique esperando a sua criança falar “no tempo dela”. Se você achar que ela tem um at",
+   "link": "https://www.instagram.com/reel/ClxGDjRrZVA/",
+   "alcance": 5,
+   "visualizacoes": 626,
+   "curtidas": 15,
+   "comentarios": 0,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 320.0,
+   "reels_tempo_medio_assistido": 8571,
+   "reels_taxa_pulo": 0.01,
+   "legenda": "Não normalize o atraso na fala. Não fique esperando a sua criança falar “no tempo dela”. Se você achar que ela tem um atraso, marque já uma avaliação com uma pediatra e uma fonoaudióloga!\n\n#atrasonafala #bebes #crianças #desenvolvimentoinfantil #pediatra"
+  },
+  {
+   "id": "18345070126035733",
+   "data": "2022-11-30",
+   "data_hora": "30/11/22 11:46",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Como estão sendo os saltos por aí? Conta pra mim nos comentários!",
+   "link": "https://www.instagram.com/reel/CllrdBLp4-E/",
+   "alcance": 10,
+   "visualizacoes": 10829,
+   "curtidas": 247,
+   "comentarios": 7,
+   "salvamentos": 16,
+   "compartilhamentos": 0,
+   "interacoes": 270,
+   "taxa_engajamento": 2700.0,
+   "reels_tempo_medio_assistido": 12808,
+   "reels_taxa_pulo": 0.001,
+   "legenda": "Como estão sendo os saltos por aí? Conta pra mim nos comentários!\n\n#saltosdedesenvolvimento #bebes #pediatra #desenvolvimentoinfantil"
+  },
+  {
+   "id": "17885285048756351",
+   "data": "2022-11-27",
+   "data_hora": "27/11/22 21:59",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Você sabia que existe a consulta domiciliar?",
+   "link": "https://www.instagram.com/reel/ClfECrjPPKN/",
+   "alcance": 70,
+   "visualizacoes": 606,
+   "curtidas": 17,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 20,
+   "taxa_engajamento": 28.6,
+   "reels_tempo_medio_assistido": 9275,
+   "reels_taxa_pulo": 0.045,
+   "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
+  },
+  {
+   "id": "17985121753669236",
+   "data": "2022-11-23",
+   "data_hora": "23/11/22 15:00",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "❄️ Como congelar?",
+   "link": "https://www.instagram.com/p/ClUBCA6r7rx/",
+   "alcance": 12,
+   "visualizacoes": 0,
+   "curtidas": 16,
+   "comentarios": 0,
+   "salvamentos": 6,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 183.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "❄️ Como congelar?\n\nO leite materno pode ser mantido na geladeira por 12 horas ou no congelador/freezer por 15 dias.\n⁠\n⁠Após fazer a ordenha do seu leite, armazene preferencialmente em saquinhos com fecho hermético próprios para guardar leite (como os da foto) ou em frascos de vidro com tampa. Deixe um espaço de dois dedos antes da boca do frasco, pois o leite se expande ao congelar.⁠\n⁠\n🔥 Como descongelar?⁠\n⁠\n⁠O leite deve ser aquecido em banho-maria com o fogo já desligado. Aqueça a água até começarem a formar bolhinhas. Coloque o frasco fechado dentro do recipiente com a água quente. Agite de vez em quando para descongelar completamente.⁠\n⁠\n⁠🚨 Atenção! Não descongele em temperatura ambiente, ou esquente diretamente no fogão ou micro-ondas e nem use o leite em receitas que vão ao forno.⁠\n⁠\n💕 Gostou das dicas? Marque aqui uma mamãe que também vai gostar!"
+  },
+  {
+   "id": "17968051027863151",
+   "data": "2022-11-16",
+   "data_hora": "16/11/22 15:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Porque devemos esperar os 6 meses de idade para iniciar a introdução alimentar?",
+   "link": "https://www.instagram.com/p/ClB_03_PfTk/",
+   "alcance": 8,
+   "visualizacoes": 0,
+   "curtidas": 17,
+   "comentarios": 0,
+   "salvamentos": 2,
+   "compartilhamentos": 0,
+   "interacoes": 19,
+   "taxa_engajamento": 237.5,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Porque devemos esperar os 6 meses de idade para iniciar a introdução alimentar?\n\nA partir dos seis meses o bebê:\n. Sustenta a cabeça e tronco;\n. Senta-se sozinho ou com o mínimo de apoio;\n. Perde o reflexo de esticar a língua para mamar (protrusão da língua), o que faria com que ele empurrasse a comida para fora da boca;\n. Passa a ser mais curioso;\n. Abre a boca mais facilmente para provar os alimentos;\n. Apresenta enzimas intestinais mais eficazes para digerir novos alimentos;\n. Apresenta flora intestinal já estabelecida, o que reduz o risco de infecções;\n. Apresenta menor risco de desenvolver alergia alimentar, pois o sistema imunológico já está pronto para entrar em contato com novas proteínas.\n\nEntão tenha paciência e aguarde o tempo certo do seu bebê!"
+  },
+  {
+   "id": "17956859444163476",
+   "data": "2022-11-08",
+   "data_hora": "08/11/22 16:46",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "A cólica do lactente é a causa de desespero de muitas mamães e papais. É muito difícil ver o seu filho chorar e não pode",
+   "link": "https://www.instagram.com/p/CktlJ10Otk2/",
+   "alcance": 6,
+   "visualizacoes": 0,
+   "curtidas": 14,
+   "comentarios": 2,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 16,
+   "taxa_engajamento": 266.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A cólica do lactente é a causa de desespero de muitas mamães e papais. É muito difícil ver o seu filho chorar e não poder resolver o problema!\n\nA cólica do bebê é causada pela imaturidade intestinal. Ou seja, é o intestino do bebê que ainda está se adaptando.\n\nPodemos instituir medidas para diminuir o choro e deixar o bebê mais confortável:\n. Pegar o bebê no colo (contato direto da barriga do bebê com a barriga do cuidador); \n. Enrolar o bebê em uma manta ou cobertor;\n. Flexionar as coxas do bebê sobre a barriga;\n. Dar um banho morno;\n. Reduzir estímulos para o bebê (evitar locais com muito barulho ou excesso de pessoas);\n. Procurar um ambiente tranquilo, podendo ser usada música ambiente suave; \n. Não utilizar chás, trocar marcas de leite ou usar medicamentos sem a orientação do Pediatra; \n\nA boa noticia é que na maioria dos casos as cólicas desaparecem após os 3 meses de vida. \n\nEntão tenha calma, pois isso vai passar!\n\n#colicalactente #pediatrabh #pediatralagoasanta"
+  },
+  {
+   "id": "17926431914602421",
+   "data": "2022-11-06",
+   "data_hora": "06/11/22 16:28",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Cada bebê tem seu tempo! O importante é continuar oferecendo sempre alimentos saudáveis. Se não estiver aceitando, tente",
+   "link": "https://www.instagram.com/reel/CkoY-6uP4m_/",
+   "alcance": 7,
+   "visualizacoes": 405,
+   "curtidas": 22,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 314.3,
+   "reels_tempo_medio_assistido": 12199,
+   "reels_taxa_pulo": 0.005,
+   "legenda": "Cada bebê tem seu tempo! O importante é continuar oferecendo sempre alimentos saudáveis. Se não estiver aceitando, tente mudar o modo de preparo ou a forma de apresentação. E aí, como está sendo a introdução alimentar?"
+  },
+  {
+   "id": "17953253762194842",
+   "data": "2022-11-03",
+   "data_hora": "03/11/22 14:29",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Começando um novo ciclo! Após uma pausa para curtir meus filhotes, retorno aos poucos, muito empolgada com as novidades ",
+   "link": "https://www.instagram.com/p/CkgdkHUurv9/",
+   "alcance": 6,
+   "visualizacoes": 0,
+   "curtidas": 39,
+   "comentarios": 2,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 41,
+   "taxa_engajamento": 683.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Começando um novo ciclo! Após uma pausa para curtir meus filhotes, retorno aos poucos, muito empolgada com as novidades que teremos por aqui!"
+  },
+  {
+   "id": "18104500120132821",
+   "data": "2020-05-25",
+   "data_hora": "25/05/20 08:42",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "O Ministério da Saúde fez um livrinho para as crianças entenderem sobre o coronavírus. Está disponível em PDF no link ab",
+   "link": "https://www.instagram.com/p/CAnAzoOF-DD/",
+   "alcance": 5,
+   "visualizacoes": 0,
+   "curtidas": 38,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 41,
+   "taxa_engajamento": 820.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "O Ministério da Saúde fez um livrinho para as crianças entenderem sobre o coronavírus. Está disponível em PDF no link abaixo. . . .\n#Repost @minsaude .\n. . .\nRECADO PARA AS CRIANÇAS!\nTodo mundo está falando sobre coronavírus agora, não é? Saiba tudo sobre esse vírus e como se proteger acessando a história completa em tinyurl.com/s93dd5n ou saude.gov.br/coronavirus #coronavirus #covid19 #pediatria"
+  },
+  {
+   "id": "17888823097555606",
+   "data": "2020-05-22",
+   "data_hora": "22/05/20 13:44",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "#Repost @sbim_nacional ・・・",
+   "link": "https://www.instagram.com/p/CAf079lg3ar/",
+   "alcance": 5,
+   "visualizacoes": 0,
+   "curtidas": 19,
+   "comentarios": 2,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 440.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#Repost @sbim_nacional ・・・\nA gestante possui um calendário especial com recomendações de vacinas que devem ser tomadas para prevenir problemas graves com a sua saúde e a de seu bebê. São elas: gripe, hepatite B e a dTpa (contra difteria, tétano e coqueluche). .\n.A gestante vacinada transfere seus anticorpos (agentes de defesa) para o bebê através da placenta e, após o nascimento, pelo leite materno. As vacinas indicadas estão disponíveis nas Unidades Básicas de Saúde - UBS (vacinação gratuita) e em serviços privados (vacinação paga).\n.\n.A SBIm possui um site desenvolvido especialmente para esse público! Além do Calendário Vacinal da Gestante, lá você encontra curiosidades sobre o tema, um guia completo sobre vacinação e um mapa que indica a USB e os serviços privados de vacinação mais próximos.\n.\n.Acesse vacinasparagravidas.com.br e informe-se.\n\n#SBIm #saúde #vacinas #imunização #gravidez #VacinasParaGrávidas #InformaçãoDeVerdade"
+  },
+  {
+   "id": "17885068780573159",
+   "data": "2020-05-17",
+   "data_hora": "17/05/20 23:49",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "#Repost @saudemg ・・・",
+   "link": "https://www.instagram.com/p/CAUCJERgK2R/",
+   "alcance": 5,
+   "visualizacoes": 0,
+   "curtidas": 43,
+   "comentarios": 0,
+   "salvamentos": 3,
+   "compartilhamentos": 0,
+   "interacoes": 46,
+   "taxa_engajamento": 920.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#Repost @saudemg ・・・\nMarque um amigo ou amiga nos comentários e compartilhe essa informação! .\n.\n.\n#vacinas #vacinacao #pediatria #pediatrabh #pediatraburitis"
+  },
+  {
+   "id": "18091368916153534",
+   "data": "2020-03-21",
+   "data_hora": "21/03/20 06:49",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "O isolamento social protege as pessoas dos grupos de risco (idosos, gestantes e pessoas com comorbidades). Ficando em ca",
+   "link": "https://www.instagram.com/p/B9_cIWigIQr/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 33,
+   "comentarios": 0,
+   "salvamentos": 2,
+   "compartilhamentos": 0,
+   "interacoes": 35,
+   "taxa_engajamento": 875.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "O isolamento social protege as pessoas dos grupos de risco (idosos, gestantes e pessoas com comorbidades). Ficando em casa, você diminui as chances de transmissão da doença para essas pessoas! Mesmo que você tenha poucas chances de desenvolver a doença mais grave, pense nos outros que podem morrer por causa dela! #fiqueemcasa #coronavirus #novocoronavirus  #Repost @prefeiturabh\n・・・\nPara conter o avanço do coronavírus, é preciso evitar aglomerações de pessoas. Por isso, em caso de tosse e coriza, fique em casa e mantenha-se isolado. Caso tenha febre e dificuldade para respirar, procure imediatamente uma unidade de saúde. \nMais informações sobre o coronavírus em pbh.gov.br"
+  },
+  {
+   "id": "17947150345317747",
+   "data": "2020-03-07",
+   "data_hora": "07/03/20 07:00",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "A campanha de vacinação contra a gripe começa no dia 23/03 e temos que vacinar todas as crianças menores de 6 anos! Lemb",
+   "link": "https://www.instagram.com/p/B9baQQzA_y7/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 20,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 21,
+   "taxa_engajamento": 525.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "A campanha de vacinação contra a gripe começa no dia 23/03 e temos que vacinar todas as crianças menores de 6 anos! Lembrando também que a campanha de vacinação contra o sarampo termina no dia 13/03 e a população alvo são crianças a partir de 5 anos e adolescentes que não receberam a tríplice viral! Vamos vacinar nossas crianças! Não há nada melhor que a prevenção!  #Repost @minsaude\n・・・\nO @governodobrasil conseguiu antecipar em 23 dias o início da vacinação contra a gripe. Isso mesmo! A campanha, que estava prevista para começar só em abril, terá início no dia 23 de março. A vacinação vai auxiliar os profissionais de saúde a descartarem influenza na triagem de casos para o #Coronavírus.\n\nA primeira fase da campanha é voltada para gestantes, crianças até seis anos, mulheres até 45 dias após o parto e idosos, historicamente mais vulnerável à doença, que pode levar até a morte.\n\nSaiba mais: acesse o link na bio e clique em \"Campanha contra a gripe será antecipada\". #VacinaBrasil #Vacinação #Saúde #SUS"
+  },
+  {
+   "id": "17931190024082013",
+   "data": "2018-06-07",
+   "data_hora": "07/06/18 10:12",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Cuidado com as queimaduras, principalmente com as crianças! Soltem fogos de artifício com segurança! #Repost @medicina_c",
+   "link": "https://www.instagram.com/p/BjuYQQ8hOqW/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 20,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 20,
+   "taxa_engajamento": 500.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Cuidado com as queimaduras, principalmente com as crianças! Soltem fogos de artifício com segurança! #Repost @medicina_cfm with @get_repost\n・・・\nQueimaduras com artefatos explosivos lideram o ranking de acidentes no mês de junho.⠀\n⠀\nPor essa razão é o mês de em que se intensificam as campanhas de prevenção às queimaduras - Dia Nacional de Luta Contra as Queimaduras, principalmente em função dos fogos de artifício, dos balões e fogueiras também presentes nas festas e que fazem crescer o número de acidentes com queimaduras em todo o país.⠀\n⠀\nSaiba Mais:  https://bit.ly/2HlfsAD⠀\n⠀\n #fogosdeartificiocausamacidentes #fogosdeartificio #prevencao #cuidadofogosdeartificio #acidentesfogosdeartifico #tanamao #cfm #sbcm #sbot #amb"
+  },
+  {
+   "id": "17933528893003183",
+   "data": "2018-04-01",
+   "data_hora": "01/04/18 10:27",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "#felizpascoa #pediatriacomamor",
+   "link": "https://www.instagram.com/p/BhB4zw8gtZz/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 21,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 22,
+   "taxa_engajamento": 550.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#felizpascoa #pediatriacomamor"
+  },
+  {
+   "id": "17921188807104977",
+   "data": "2018-03-29",
+   "data_hora": "29/03/18 13:56",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Presente lindo! Feliz Páscoa a todos! Obrigada, Thor! @anacarolinaerthal #felizpascoa",
+   "link": "https://www.instagram.com/p/Bg6iT4BnErX/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 23,
+   "comentarios": 3,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 26,
+   "taxa_engajamento": 650.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Presente lindo! Feliz Páscoa a todos! Obrigada, Thor! @anacarolinaerthal #felizpascoa"
+  },
+  {
+   "id": "17893250557158055",
+   "data": "2018-01-26",
+   "data_hora": "26/01/18 19:45",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "#vacina #febreamarela #pediatria #mamaes #repost  @minsaude",
+   "link": "https://www.instagram.com/p/Bebg-0tAL9O/",
+   "alcance": 3,
+   "visualizacoes": 0,
+   "curtidas": 19,
+   "comentarios": 4,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 23,
+   "taxa_engajamento": 766.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#vacina #febreamarela #pediatria #mamaes #repost  @minsaude"
+  },
+  {
+   "id": "17847037075234823",
+   "data": "2018-01-26",
+   "data_hora": "26/01/18 19:37",
+   "formato": "Reels",
+   "tipo_instagram": "VIDEO",
+   "titulo": "#Repost @minsaude ・・・",
+   "link": "https://www.instagram.com/p/Bebf7i5gswq/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 13,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 13,
+   "taxa_engajamento": 325.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#Repost @minsaude ・・・\nQuem já tomou uma dose da vacina contra a Febre Amarela não precisa se vacinar novamente. Assista ao vídeo e saiba quais as indicações para a vacinação e quais as restrições. Acesse https://goo.gl/Arf1ed e saiba mais sobre a dose fracionada da vacina. #FebreAmarela #vacinação"
+  },
+  {
+   "id": "17878851766197943",
+   "data": "2018-01-16",
+   "data_hora": "16/01/18 15:37",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Uma breve explicação sobre a importância de se colocar os bebês de bruços, quando acordados e supervisionados por um adu",
+   "link": "https://www.instagram.com/p/BeBUnmoA-vl/",
+   "alcance": 6,
+   "visualizacoes": 0,
+   "curtidas": 36,
+   "comentarios": 7,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 44,
+   "taxa_engajamento": 733.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Uma breve explicação sobre a importância de se colocar os bebês de bruços, quando acordados e supervisionados por um adulto! Lembrando que a posição segura para o bebê dormir é de barriga pra cima!  #Repost @clinicaheads with @get_repost\n・・・\nÉ importante que os bebês fiquem de bruços, enquanto acordados e supervisionados para garantir que eles gastem tempo se fortalecendo. Há pesquisas que mostram que os bebês que não passam um tempo de bruços podem ter atraso no seu desenvolvimento motor, atrasando o tempo para se sentar ou rastejar, em comparação com bebês que passam mais tempo de bruços durante o dia.\n\nFicar de bruços é importante porque: • Fortalece o pescoço, ombro de seu bebê e demais músculos posteriores;\n• Incentiva o bebê para levantar a sua cabeça e ganhar mais controle da mesma;\n• Promove o rolar e o rastejar;\n• Ajuda evitar o desenvolvimento da cabeça achatada. \n#dicasheads #bebedebruços #fortalecimentodobebe #dicadesaude #infancia #bemestar #saude #bebe #medicina #instababy #clinicaheads #pediatra #pediatria #drgerdschreen"
+  },
+  {
+   "id": "17888048482145834",
+   "data": "2017-12-24",
+   "data_hora": "24/12/17 18:13",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "🎄 Feliz Natal a todos! 🎄 Que o menino Jesus continue abençoando as nossas vidas! 🌟 #entaoenatal #feliznatal #merrychrist",
+   "link": "https://www.instagram.com/p/BdGYOQlgQCi/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 30,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 30,
+   "taxa_engajamento": 750.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "🎄 Feliz Natal a todos! 🎄 Que o menino Jesus continue abençoando as nossas vidas! 🌟 #entaoenatal #feliznatal #merrychristmas #pediatria #pediatriacomamor"
+  },
+  {
+   "id": "17881566766162638",
+   "data": "2017-11-23",
+   "data_hora": "23/11/17 21:05",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "",
+   "link": "https://www.instagram.com/p/Bb23OlsA78Z/",
+   "alcance": 5,
+   "visualizacoes": 0,
+   "curtidas": 54,
+   "comentarios": 2,
+   "salvamentos": 3,
+   "compartilhamentos": 0,
+   "interacoes": 59,
+   "taxa_engajamento": 1180.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": ""
+  },
+  {
+   "id": "17894542090052797",
+   "data": "2017-08-23",
+   "data_hora": "23/08/17 12:38",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Dicas para um sono seguro para os bebês! Ainda é recomendado que o bebê durma no quarto dos pais, em berço próprio ‼️, a",
+   "link": "https://www.instagram.com/p/BYJECbqAWD2/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 26,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 27,
+   "taxa_engajamento": 675.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Dicas para um sono seguro para os bebês! Ainda é recomendado que o bebê durma no quarto dos pais, em berço próprio ‼️, até os 6 meses! #sonoseguro #pediatria #bebê #prevençãomortesúbita 👶🏻❤️"
+  },
+  {
+   "id": "17873634544087682",
+   "data": "2017-07-10",
+   "data_hora": "10/07/17 17:15",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Atenção mamães e papais de crianças com alergias respiratórias! Sabem aquelas orientações que sempre passo nas consultas",
+   "link": "https://www.instagram.com/p/BWYQwlFAiFI/",
+   "alcance": 2,
+   "visualizacoes": 0,
+   "curtidas": 36,
+   "comentarios": 0,
+   "salvamentos": 3,
+   "compartilhamentos": 0,
+   "interacoes": 39,
+   "taxa_engajamento": 1950.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Atenção mamães e papais de crianças com alergias respiratórias! Sabem aquelas orientações que sempre passo nas consultas? Sem elas o tratamento pode não fazer efeito. É preciso tirar o que desencadeia a alergia, para que o tratamento possa ser eficaz!\nNo link estão algumas orientações da Sociedade Brasileira de Pediatria sobre a importância do controle ambiental para o tratamento das alergias!\n✅ https://goo.gl/KqWkx3"
+  },
+  {
+   "id": "17855820481132697",
+   "data": "2017-04-07",
+   "data_hora": "07/04/17 11:10",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "#diamundialdasaude #pediatria #pediatriacomamor #criancasaudavel #criancasegura #saude",
+   "link": "https://www.instagram.com/p/BSlkSU4A0Bn/",
+   "alcance": 2,
+   "visualizacoes": 0,
+   "curtidas": 23,
+   "comentarios": 1,
+   "salvamentos": 1,
+   "compartilhamentos": 0,
+   "interacoes": 25,
+   "taxa_engajamento": 1250.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "#diamundialdasaude #pediatria #pediatriacomamor #criancasaudavel #criancasegura #saude"
+  },
+  {
+   "id": "17875334581036385",
+   "data": "2017-03-27",
+   "data_hora": "27/03/17 21:35",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Seu filho está gordinho? Não significa que ele está saudável! A obesidade infantil é um problema crescente na atualidade",
+   "link": "https://www.instagram.com/p/BSKXGv4AHoQ/",
+   "alcance": 3,
+   "visualizacoes": 0,
+   "curtidas": 31,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 32,
+   "taxa_engajamento": 1066.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Seu filho está gordinho? Não significa que ele está saudável! A obesidade infantil é um problema crescente na atualidade. A criança obesa tem maior risco de ser um adulto obeso e de desenvolver hipertensão, diabetes e deslipidemia. Acompanhamento com o pediatra, alimentação saudável (evitar as guloseimas, sucos artificiais, refrigerante!!!) e realização de atividade física são medidas essenciais para evitar esse problema!\n\nSaiba mais em:\n\ngoo.gl/Vpfww0\n\ngoo.gl/M1Ob59\n\n#criancasaudavel #obesidadenao #alimentacaosaudavel #pediatria"
+  },
+  {
+   "id": "17876301727036880",
+   "data": "2017-03-24",
+   "data_hora": "24/03/17 12:23",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "@Regrann from @vidadepediatra -  as temperaturas começam a cair, você corre para encapotar o seu filho, certo? O problem",
+   "link": "https://www.instagram.com/p/BSBpkSVgo1o/",
+   "alcance": 3,
+   "visualizacoes": 0,
+   "curtidas": 13,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 14,
+   "taxa_engajamento": 466.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "@Regrann from @vidadepediatra -  as temperaturas começam a cair, você corre para encapotar o seu filho, certo? O problema é que, às vezes, os pais esquecem que também precisam se cuidar! Resultado: ficam gripados – o que aumenta as chances de as crianças também ficarem doentes. Portanto, se você já está sentido o nariz entupir e a cabeça pesar, saiba como agir para proteger a saúde da sua família. 🌡Evite contato excessivo\nNormalmente, a gripe é transmitida até 5 dias depois do início dos sintomas. Nesse período, tente não beijar demais a criança. É duro, mas é por pouco tempo. Depois você mata a saudade. 💦 Lave as mãos\nQuando você espirra ou tosse, o vírus pode ficar instalado na sua mão. Por isso, os médicos aconselham lavá-las sempre, principalmente antes de pegar a criança. 🏡 Abra a janela\nVocê e seu filho estão em um ambiente fechado? Agasalhe-o e deixe portas e janelas abertas. Se for levá-lo à escola, por exemplo, abra o vidro do carro do seu lado. 🚫Mantenha a distância\nSe precisar dormir no mesmo cômodo da criança, coloque a cama dela a uma distância mínima de 3 metros. Assim, minimiza o risco de as gotículas com o vírus atingi-la. ❌Não deixe o vírus se espalhar\nDepois de usar lenços de papel para assoar o nariz, jogue-os no lixo imediatamente. Também não coma no mesmo prato ou use o mesmo copo do seu filho. 😷 Use máscara se estiver amamentando\nAinda não se sabe se a gripe pode ser transmitida pelo leite materno, portanto, se seus sintomas não forem muito graves e o pediatra do seu filho liberar, pode continuar amamentando durante a doença. Nessa fase, é aconselhado usar uma máscara de proteção, daquelas vendidas em farmácias. Isso diminui os riscos de o bebê ser contaminado. 💊Considere tomar remédio\nJá existem no mercado algumas opções de medicamentos que melhoram os sintomas da gripe. Se quiser tomá-los, consulte um médico. Só ele pode receitar o melhor tipo para você. 😴Descanse\nPara a doença ir embora mais depressa, a receita não muda: repouse, beba muito líquido e alimente-se bem. O resto é questão de tempo. 💉Vacine-se\nA principal maneira de evitar que a gripe pegue você de novo é estar imunizado contra ela. 📚apoio revista crescer"
+  },
+  {
+   "id": "17876928442000778",
+   "data": "2017-03-20",
+   "data_hora": "20/03/17 15:38",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "@Regrann from @minsaude -  Brincar é coisa séria!  #pediatria #brincadeiras #criancasaudavel #desenvolvimentoinfantil",
+   "link": "https://www.instagram.com/p/BR3spebAyjI/",
+   "alcance": 3,
+   "visualizacoes": 0,
+   "curtidas": 25,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 26,
+   "taxa_engajamento": 866.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "@Regrann from @minsaude -  Brincar é coisa séria!  #pediatria #brincadeiras #criancasaudavel #desenvolvimentoinfantil"
+  },
+  {
+   "id": "17872269322063495",
+   "data": "2017-02-16",
+   "data_hora": "16/02/17 17:42",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "\"Não há leite que se compare ao leite materno\"",
+   "link": "https://www.instagram.com/p/BQlhbM8gBEp/",
+   "alcance": 2,
+   "visualizacoes": 0,
+   "curtidas": 23,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 23,
+   "taxa_engajamento": 1150.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "\"Não há leite que se compare ao leite materno\"\n\nhttps://goo.gl/p6eMHa\n\nhttps://goo.gl/9DxxIz\n\n#aleitamentomaterno #leitematerno #amamentacao #pediatria #sbp"
+  },
+  {
+   "id": "17850923191134754",
+   "data": "2017-02-10",
+   "data_hora": "10/02/17 12:53",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Levar uma criança doente ao pronto socorro é sempre o melhor a fazer?",
+   "link": "https://www.instagram.com/p/BQVjhZpg3hk/",
+   "alcance": 3,
+   "visualizacoes": 0,
+   "curtidas": 19,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 19,
+   "taxa_engajamento": 633.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Levar uma criança doente ao pronto socorro é sempre o melhor a fazer?\n\nhttps://goo.gl/tZtmIK\n\n#pediatria #puericultura #crescimento #desenvolvimento #criancasaudavel #sbp #conversandocomopediatra"
+  },
+  {
+   "id": "17848694587170578",
+   "data": "2017-02-08",
+   "data_hora": "08/02/17 10:25",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Aproveitando a volta às aulas!",
+   "link": "https://www.instagram.com/p/BQQJGxlg54q/",
+   "alcance": 5,
+   "visualizacoes": 0,
+   "curtidas": 17,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 17,
+   "taxa_engajamento": 340.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Aproveitando a volta às aulas!\n@Regrann from @minsaude -  Livros, cadernos e estojos merecem atenção especial neste período de volta às aulas! O sobrepeso nas costas dos alunos pode ser prejudicial à coluna. De acordo com o Instituto Nacional de Traumatologia e Ortopedia (Into), a mochila não deve ter mais de 10% do peso corporal da criança. #minsaúde #PromoçãodaSaúde #saúde #SaúdenasRedes #SUS - #regrann #pediatria"
+  },
+  {
+   "id": "17870853349005665",
+   "data": "2017-01-26",
+   "data_hora": "26/01/17 16:04",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Como prevenir afogamentos?",
+   "link": "https://www.instagram.com/p/BPvReO3gi9E/",
+   "alcance": 4,
+   "visualizacoes": 0,
+   "curtidas": 15,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 15,
+   "taxa_engajamento": 375.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Como prevenir afogamentos?\n\nhttp://criancasegura.org.br/dicas/dicas-de-prevencao-afogamento/\n\nhttps://www.sbp.com.br/arquivo/acidentes-por-submersao-afogamentos/\n\n#pediatria #prevencao #criancasegura #sbp"
   }
  ],
  "programacao": [
