@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-16T19:16:37-03:00",
- "atualizado_em_texto": "16/10/26 19:16",
+ "atualizado_em": "2026-10-16T22:03:44-03:00",
+ "atualizado_em_texto": "16/10/26 22:03",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1325,
@@ -2252,6 +2252,18 @@
  ],
  "aprovacoes": [
   {
+   "conversa": "5 Reels novos (21/10 a 04/11)",
+   "data_hora": "16/10/26 20:39",
+   "resposta": "APROVADO TODOS Em sex., 16 de out. de 2026 às 09:51, Edilson Junior &lt;esj.eng@gmail.com",
+   "data_hora_iso": "2026-10-16T20:39:51-03:00"
+  },
+  {
+   "conversa": "Reels Bebê de 4 meses",
+   "data_hora": "16/10/26 20:30",
+   "resposta": "APROVADO REELS",
+   "data_hora_iso": "2026-10-16T20:30:16-03:00"
+  },
+  {
    "conversa": "Carrossel Introdução alimentar",
    "data_hora": "16/10/26 08:45",
    "resposta": "APROVADO 19/10",
@@ -3923,9 +3935,9 @@
    "formato": "Reels",
    "tema": "Seu bebê de 4 meses mudou do nada? Não é birra.",
    "story_hora": "20h",
-   "aprovacao_post": "Aguardando",
+   "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Aguardando aprovação"
+   "situacao": "Agendado"
   },
   {
    "id": "2026-10-20-lavagem-nasal",
@@ -3949,9 +3961,9 @@
    "formato": "Reels",
    "tema": "Limão no berço faz o bebê dormir melhor? É mito.",
    "story_hora": "19h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-10-22-marcos-1-ano",
@@ -3975,9 +3987,9 @@
    "formato": "Reels",
    "tema": "Repelente em bebê: a partir de quando pode?",
    "story_hora": "20h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-10-27-introducao-alimentar",
@@ -4001,9 +4013,9 @@
    "formato": "Reels",
    "tema": "Seu bebê sua muito dormindo? Calma, é comum.",
    "story_hora": "19h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-10-29-carrossel",
@@ -4027,9 +4039,9 @@
    "formato": "Reels",
    "tema": "Feridinhas na boca? Pode ser estomatite.",
    "story_hora": "20h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-03-carrossel",
@@ -4053,9 +4065,9 @@
    "formato": "Reels",
    "tema": "Seu bebê de 6 meses já faz isso?",
    "story_hora": "19h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-05-carrossel",
@@ -4072,8 +4084,8 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 3,
-  "aguardando_aprovacao": 6,
+  "agendados": 9,
+  "aguardando_aprovacao": 0,
   "sem_conteudo": 3,
   "publicados": 1
  }
