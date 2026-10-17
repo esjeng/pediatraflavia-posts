@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-16T22:03:44-03:00",
- "atualizado_em_texto": "16/10/26 22:03",
+ "atualizado_em": "2026-10-17T07:05:18-03:00",
+ "atualizado_em_texto": "17/10/26 07:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1325,
   "publicacoes": 70
  },
  "resumo_30d": {
-  "alcance": 272,
-  "visualizacoes": 998,
-  "contas_engajadas": 37,
-  "alcance_seguidores": 213,
-  "alcance_nao_seguidores": 59,
+  "alcance": 338,
+  "visualizacoes": 1112,
+  "contas_engajadas": 38,
+  "alcance_seguidores": 222,
+  "alcance_nao_seguidores": 116,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 297,
-  "visualizacoes": 1129,
-  "contas_engajadas": 37,
-  "alcance_seguidores": 217,
-  "alcance_nao_seguidores": 80,
+  "alcance": 363,
+  "visualizacoes": 1243,
+  "contas_engajadas": 38,
+  "alcance_seguidores": 226,
+  "alcance_nao_seguidores": 137,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1394,
-  "visualizacoes": 3106,
-  "contas_engajadas": 88,
-  "alcance_seguidores": 726,
-  "alcance_nao_seguidores": 675,
+  "alcance": 1459,
+  "visualizacoes": 3220,
+  "contas_engajadas": 89,
+  "alcance_seguidores": 735,
+  "alcance_nao_seguidores": 731,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-20",
-   "alcance": 1,
-   "visualizacoes": 0,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 1,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-04-21",
    "alcance": 41,
@@ -1644,11 +1635,20 @@
   },
   {
    "data": "2026-10-16",
-   "alcance": 102,
-   "visualizacoes": 445,
-   "contas_engajadas": 7,
-   "alcance_seguidores": 54,
-   "alcance_nao_seguidores": 48,
+   "alcance": 166,
+   "visualizacoes": 556,
+   "contas_engajadas": 8,
+   "alcance_seguidores": 63,
+   "alcance_nao_seguidores": 103,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-17",
+   "alcance": 2,
+   "visualizacoes": 3,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 2,
    "cliques_link_perfil": 0
   }
  ],
@@ -2029,6 +2029,10 @@
   {
    "data": "2026-10-16",
    "seguidores": 1325
+  },
+  {
+   "data": "2026-10-17",
+   "seguidores": 1325
   }
  ],
  "novos_seguidores": [
@@ -2146,6 +2150,10 @@
   },
   {
    "data": "2026-10-15",
+   "novos": 2
+  },
+  {
+   "data": "2026-10-16",
    "novos": 0
   }
  ],
@@ -2153,18 +2161,22 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1325,
-   "novos_seguidores": 7,
-   "dias_com_novos": 29,
+   "novos_seguidores": 9,
+   "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 1,
+   "dias_com_total": 2,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 0,
    "serie": [
     {
      "data": "2026-10-16",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-10-17",
      "seguidores": 1325
     }
    ]
@@ -2172,18 +2184,22 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1325,
-   "novos_seguidores": 7,
-   "dias_com_novos": 29,
+   "novos_seguidores": 9,
+   "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 1,
+   "dias_com_total": 2,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 0,
    "serie": [
     {
      "data": "2026-10-16",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-10-17",
      "seguidores": 1325
     }
    ]
@@ -2191,18 +2207,22 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1325,
-   "novos_seguidores": 7,
-   "dias_com_novos": 29,
+   "novos_seguidores": 9,
+   "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 1,
+   "dias_com_total": 2,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 0,
    "serie": [
     {
      "data": "2026-10-16",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-10-17",
      "seguidores": 1325
     }
    ]
@@ -2213,8 +2233,8 @@
    "id": "18635364949049850",
    "data": "2026-10-16",
    "data_hora": "16/10/26 16:41",
-   "alcance": 20,
-   "visualizacoes": 25,
+   "alcance": 27,
+   "visualizacoes": 35,
    "respostas": 0,
    "interacoes": 0,
    "data_hora_iso": "2026-10-16T16:41:30-03:00"
@@ -2223,8 +2243,8 @@
    "id": "17950695747337829",
    "data": "2026-10-16",
    "data_hora": "16/10/26 15:37",
-   "alcance": 26,
-   "visualizacoes": 33,
+   "alcance": 31,
+   "visualizacoes": 39,
    "respostas": 0,
    "interacoes": 0,
    "data_hora_iso": "2026-10-16T15:37:25-03:00"
@@ -2299,13 +2319,13 @@
    "formato": "Carrossel",
    "posts": 21,
    "alcance_medio": 40,
-   "taxa_engajamento": 40.9
+   "taxa_engajamento": 40.8
   },
   {
    "formato": "Imagem",
    "posts": 36,
-   "alcance_medio": 17,
-   "taxa_engajamento": 133.1
+   "alcance_medio": 18,
+   "taxa_engajamento": 121.0
   }
  ],
  "melhores_posts": [
@@ -2328,6 +2348,26 @@
    "reels_tempo_medio_assistido": 5310,
    "reels_taxa_pulo": 0.783,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
+  },
+  {
+   "id": "18430221184193313",
+   "data": "2026-05-26",
+   "data_hora": "26/05/26 19:02",
+   "formato": "Imagem",
+   "tipo_instagram": "IMAGE",
+   "titulo": "Roncos frequentes na infância não devem ser ignorados.",
+   "link": "https://www.instagram.com/p/DY0WJdaEX3t/",
+   "alcance": 179,
+   "visualizacoes": 306,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 10,
+   "taxa_engajamento": 5.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Roncos frequentes na infância não devem ser ignorados.\n\nEm algumas situações, eles podem estar relacionados a:\n• aumento das amígdalas/adenoide\n• sono de má qualidade\n• respiração pela boca\n• pausas respiratórias durante o sono\n\n🚨 Alguns sinais de alerta:\n• sono agitado\n• baba excessiva no travesseiro\n• dificuldade para acordar\n• irritabilidade durante o dia\n• dificuldade de atenção\n\n💛 Dormir bem também faz parte da saúde infantil.\n\n📌 Salve este post para lembrar depois."
   },
   {
    "id": "17887799787462261",
@@ -2368,26 +2408,6 @@
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.\n\nNa maioria das vezes está relacionada a infecções virais leves, mas alguns sinais indicam a necessidade de avaliação médica.\n\nObservar o comportamento da criança é tão importante quanto o sintoma.\n\n🩵 Se houver dúvida, o melhor caminho é sempre avaliar.\n\n📌 Salve este post para consultar quando precisar"
-  },
-  {
-   "id": "18430221184193313",
-   "data": "2026-05-26",
-   "data_hora": "26/05/26 19:02",
-   "formato": "Imagem",
-   "tipo_instagram": "IMAGE",
-   "titulo": "Roncos frequentes na infância não devem ser ignorados.",
-   "link": "https://www.instagram.com/p/DY0WJdaEX3t/",
-   "alcance": 119,
-   "visualizacoes": 237,
-   "curtidas": 9,
-   "comentarios": 0,
-   "salvamentos": 0,
-   "compartilhamentos": 1,
-   "interacoes": 10,
-   "taxa_engajamento": 8.4,
-   "reels_tempo_medio_assistido": null,
-   "reels_taxa_pulo": null,
-   "legenda": "Roncos frequentes na infância não devem ser ignorados.\n\nEm algumas situações, eles podem estar relacionados a:\n• aumento das amígdalas/adenoide\n• sono de má qualidade\n• respiração pela boca\n• pausas respiratórias durante o sono\n\n🚨 Alguns sinais de alerta:\n• sono agitado\n• baba excessiva no travesseiro\n• dificuldade para acordar\n• irritabilidade durante o dia\n• dificuldade de atenção\n\n💛 Dormir bem também faz parte da saúde infantil.\n\n📌 Salve este post para lembrar depois."
   },
   {
    "id": "18186062029330113",
@@ -2437,14 +2457,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 78,
-   "visualizacoes": 222,
+   "alcance": 81,
+   "visualizacoes": 230,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 11.5,
+   "taxa_engajamento": 11.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2519,14 +2539,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 78,
-   "visualizacoes": 222,
+   "alcance": 81,
+   "visualizacoes": 230,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 9,
-   "taxa_engajamento": 11.5,
+   "taxa_engajamento": 11.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2539,14 +2559,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "Roncos frequentes na infância não devem ser ignorados.",
    "link": "https://www.instagram.com/p/DY0WJdaEX3t/",
-   "alcance": 119,
-   "visualizacoes": 237,
+   "alcance": 179,
+   "visualizacoes": 306,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 10,
-   "taxa_engajamento": 8.4,
+   "taxa_engajamento": 5.6,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Roncos frequentes na infância não devem ser ignorados.\n\nEm algumas situações, eles podem estar relacionados a:\n• aumento das amígdalas/adenoide\n• sono de má qualidade\n• respiração pela boca\n• pausas respiratórias durante o sono\n\n🚨 Alguns sinais de alerta:\n• sono agitado\n• baba excessiva no travesseiro\n• dificuldade para acordar\n• irritabilidade durante o dia\n• dificuldade de atenção\n\n💛 Dormir bem também faz parte da saúde infantil.\n\n📌 Salve este post para lembrar depois."
