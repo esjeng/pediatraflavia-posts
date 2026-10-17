@@ -1,33 +1,33 @@
 {
- "atualizado_em": "2026-10-17T13:04:06-03:00",
- "atualizado_em_texto": "17/10/26 13:04",
+ "atualizado_em": "2026-10-17T16:03:31-03:00",
+ "atualizado_em_texto": "17/10/26 16:03",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1325,
+  "seguidores": 1324,
   "publicacoes": 70
  },
  "resumo_30d": {
-  "alcance": 338,
-  "visualizacoes": 1112,
-  "contas_engajadas": 38,
-  "alcance_seguidores": 222,
-  "alcance_nao_seguidores": 116,
+  "alcance": 364,
+  "visualizacoes": 1156,
+  "contas_engajadas": 40,
+  "alcance_seguidores": 235,
+  "alcance_nao_seguidores": 129,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 363,
-  "visualizacoes": 1243,
-  "contas_engajadas": 38,
-  "alcance_seguidores": 226,
-  "alcance_nao_seguidores": 137,
+  "alcance": 389,
+  "visualizacoes": 1287,
+  "contas_engajadas": 40,
+  "alcance_seguidores": 239,
+  "alcance_nao_seguidores": 150,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1459,
-  "visualizacoes": 3220,
-  "contas_engajadas": 89,
-  "alcance_seguidores": 735,
-  "alcance_nao_seguidores": 731,
+  "alcance": 1485,
+  "visualizacoes": 3264,
+  "contas_engajadas": 91,
+  "alcance_seguidores": 748,
+  "alcance_nao_seguidores": 744,
   "cliques_link_perfil": 0
  },
  "diario": [
@@ -1644,11 +1644,11 @@
   },
   {
    "data": "2026-10-17",
-   "alcance": 2,
-   "visualizacoes": 3,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 2,
+   "alcance": 28,
+   "visualizacoes": 47,
+   "contas_engajadas": 2,
+   "alcance_seguidores": 13,
+   "alcance_nao_seguidores": 15,
    "cliques_link_perfil": 0
   }
  ],
@@ -2032,7 +2032,7 @@
   },
   {
    "data": "2026-10-17",
-   "seguidores": 1325
+   "seguidores": 1324
   }
  ],
  "novos_seguidores": [
@@ -2160,16 +2160,16 @@
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1325,
+   "seguidores_atual": 1324,
    "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 0,
-   "variacao_pct": 0.0,
+   "variacao": -1,
+   "variacao_pct": -0.08,
    "dias_com_total": 2,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 0,
+   "deixaram_de_seguir_estimado": 1,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2177,22 +2177,22 @@
     },
     {
      "data": "2026-10-17",
-     "seguidores": 1325
+     "seguidores": 1324
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1325,
+   "seguidores_atual": 1324,
    "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 0,
-   "variacao_pct": 0.0,
+   "variacao": -1,
+   "variacao_pct": -0.08,
    "dias_com_total": 2,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 0,
+   "deixaram_de_seguir_estimado": 1,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2200,22 +2200,22 @@
     },
     {
      "data": "2026-10-17",
-     "seguidores": 1325
+     "seguidores": 1324
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1325,
+   "seguidores_atual": 1324,
    "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 0,
-   "variacao_pct": 0.0,
+   "variacao": -1,
+   "variacao_pct": -0.08,
    "dias_com_total": 2,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 0,
+   "deixaram_de_seguir_estimado": 1,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2223,7 +2223,7 @@
     },
     {
      "data": "2026-10-17",
-     "seguidores": 1325
+     "seguidores": 1324
     }
    ]
   }
