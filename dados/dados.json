@@ -1,33 +1,33 @@
 {
- "atualizado_em": "2026-10-18T16:06:05-03:00",
- "atualizado_em_texto": "18/10/26 16:06",
+ "atualizado_em": "2026-10-18T19:06:52-03:00",
+ "atualizado_em_texto": "18/10/26 19:06",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1324,
-  "publicacoes": 70
+  "publicacoes": 71
  },
  "resumo_30d": {
-  "alcance": 370,
-  "visualizacoes": 1162,
-  "contas_engajadas": 40,
-  "alcance_seguidores": 239,
-  "alcance_nao_seguidores": 131,
+  "alcance": 413,
+  "visualizacoes": 1229,
+  "contas_engajadas": 43,
+  "alcance_seguidores": 260,
+  "alcance_nao_seguidores": 153,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 395,
-  "visualizacoes": 1293,
-  "contas_engajadas": 40,
-  "alcance_seguidores": 243,
-  "alcance_nao_seguidores": 152,
+  "alcance": 438,
+  "visualizacoes": 1360,
+  "contas_engajadas": 43,
+  "alcance_seguidores": 264,
+  "alcance_nao_seguidores": 174,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1450,
-  "visualizacoes": 3201,
-  "contas_engajadas": 84,
-  "alcance_seguidores": 712,
-  "alcance_nao_seguidores": 745,
+  "alcance": 1493,
+  "visualizacoes": 3268,
+  "contas_engajadas": 87,
+  "alcance_seguidores": 733,
+  "alcance_nao_seguidores": 767,
   "cliques_link_perfil": 0
  },
  "diario": [
@@ -1644,11 +1644,11 @@
   },
   {
    "data": "2026-10-18",
-   "alcance": 0,
-   "visualizacoes": 0,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 0,
+   "alcance": 43,
+   "visualizacoes": 67,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 21,
+   "alcance_nao_seguidores": 22,
    "cliques_link_perfil": 0
   }
  ],
@@ -2250,6 +2250,16 @@
  },
  "stories": [
   {
+   "id": "17915421462523737",
+   "data": "2026-10-18",
+   "data_hora": "18/10/26 18:44",
+   "alcance": 0,
+   "visualizacoes": 11,
+   "respostas": 0,
+   "interacoes": 1,
+   "data_hora_iso": "2026-10-18T18:44:08-03:00"
+  },
+  {
    "id": "18635364949049850",
    "data": "2026-10-16",
    "data_hora": "16/10/26 16:41",
@@ -2290,50 +2300,13 @@
    "data_hora_iso": "2026-10-15T12:43:30-03:00"
   }
  ],
- "aprovacoes": [
-  {
-   "conversa": "5 Reels novos (21/10 a 04/11)",
-   "data_hora": "16/10/26 20:39",
-   "resposta": "APROVADO TODOS Em sex., 16 de out. de 2026 às 09:51, Edilson Junior &lt;esj.eng@gmail.com",
-   "data_hora_iso": "2026-10-16T20:39:51-03:00"
-  },
-  {
-   "conversa": "Reels Bebê de 4 meses",
-   "data_hora": "16/10/26 20:30",
-   "resposta": "APROVADO REELS",
-   "data_hora_iso": "2026-10-16T20:30:16-03:00"
-  },
-  {
-   "conversa": "Carrossel Introdução alimentar",
-   "data_hora": "16/10/26 08:45",
-   "resposta": "APROVADO 19/10",
-   "data_hora_iso": "2026-10-16T08:45:09-03:00"
-  },
-  {
-   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
-   "data_hora": "16/10/26 08:41",
-   "resposta": "Aprovado stories",
-   "data_hora_iso": "2026-10-16T08:41:25-03:00"
-  },
-  {
-   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
-   "data_hora": "15/10/26 23:25",
-   "resposta": "Aprovado todos",
-   "data_hora_iso": "2026-10-15T23:25:04-03:00"
-  },
-  {
-   "conversa": "Carrosséis Lavagem nasal e Marcos do 1º ano",
-   "data_hora": "15/10/26 22:33",
-   "resposta": "Faltou os anexos com as imagens",
-   "data_hora_iso": "2026-10-15T22:33:59-03:00"
-  }
- ],
+ "aprovacoes": [],
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 13,
-   "alcance_medio": 59,
-   "taxa_engajamento": 69.2
+   "posts": 14,
+   "alcance_medio": 57,
+   "taxa_engajamento": 66.1
   },
   {
    "formato": "Carrossel",
@@ -2450,6 +2423,26 @@
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
   },
   {
+   "id": "17954727660266527",
+   "data": "2026-10-15",
+   "data_hora": "15/10/26 22:09",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
+   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
+   "alcance": 84,
+   "visualizacoes": 244,
+   "curtidas": 11,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 11,
+   "taxa_engajamento": 13.1,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17861631051624014",
    "data": "2026-04-21",
    "data_hora": "21/04/26 19:01",
@@ -2468,26 +2461,6 @@
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
-  },
-  {
-   "id": "17954727660266527",
-   "data": "2026-10-15",
-   "data_hora": "15/10/26 22:09",
-   "formato": "Carrossel",
-   "tipo_instagram": "CAROUSEL_ALBUM",
-   "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
-   "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 82,
-   "visualizacoes": 237,
-   "curtidas": 11,
-   "comentarios": 0,
-   "salvamentos": 0,
-   "compartilhamentos": 0,
-   "interacoes": 11,
-   "taxa_engajamento": 13.4,
-   "reels_tempo_medio_assistido": null,
-   "reels_taxa_pulo": null,
-   "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
    "id": "17885285048756351",
@@ -2552,6 +2525,26 @@
  ],
  "posts": [
   {
+   "id": "18128700929494804",
+   "data": "2026-10-18",
+   "data_hora": "18/10/26 18:01",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
+   "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
+   "alcance": 39,
+   "visualizacoes": 61,
+   "curtidas": 1,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 2,
+   "taxa_engajamento": 5.1,
+   "reels_tempo_medio_assistido": 5297,
+   "reels_taxa_pulo": 0.659,
+   "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
+  },
+  {
    "id": "17954727660266527",
    "data": "2026-10-15",
    "data_hora": "15/10/26 22:09",
@@ -2559,14 +2552,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 82,
-   "visualizacoes": 237,
+   "alcance": 84,
+   "visualizacoes": 244,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 13.4,
+   "taxa_engajamento": 13.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3975,9 +3968,9 @@
    "formato": "Reels",
    "tema": "Dia do Médico (18 de outubro)",
    "story_hora": "18h30",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Publicado"
   },
   {
    "id": "2026-10-18-reels-congresso",
@@ -3988,9 +3981,9 @@
    "formato": "Reels",
    "tema": "Novidades do 42º Congresso Brasileiro de Pediatria",
    "story_hora": "21h30",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-10-19-reels-4-meses",
@@ -4150,9 +4143,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 9,
-  "aguardando_aprovacao": 2,
+  "agendados": 10,
+  "aguardando_aprovacao": 0,
   "sem_conteudo": 3,
-  "publicados": 1
+  "publicados": 2
  }
 }
