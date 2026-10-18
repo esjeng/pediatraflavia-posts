@@ -24,7 +24,8 @@ ENT = sys.argv[1]
 BRT = timezone(timedelta(hours=-3))
 DRA = 'pediatraflavia@gmail.com'
 THREADS = {'carrosseis': '1a14254e6bf5d439', 'carrossel19': '1a1428a10d8a2223',
-           'reels': '1a144974d4e71fc1', 'reels5': '1a144c436b301612'}
+           'reels': '1a144974d4e71fc1', 'reels5': '1a144c436b301612',
+           'congresso': '1a14f194cb4f41ff'}
 
 
 def rows(nome):
@@ -244,7 +245,8 @@ for p in sorted(prog, key=lambda x: x['data']):
                         'dia': p['dia'], 'hora': p['hora'], 'formato': p['formato'], 'tema': p['tema'],
                         'story_hora': p.get('story_hora') or '', 'aprovacao_post': ap, 'aprovacao_story': ast, 'situacao': sit})
 ASSUNTO = {'carrosseis': 'Carrosséis Lavagem nasal e Marcos do 1º ano', 'carrossel19': 'Carrossel Introdução alimentar',
-           'reels': 'Reels Bebê de 4 meses', 'reels5': '5 Reels novos (21/10 a 04/11)'}
+           'reels': 'Reels Bebê de 4 meses', 'reels5': '5 Reels novos (21/10 a 04/11)',
+           'congresso': 'Reels Congresso de Pediatria (18/10)'}
 aprovacoes = []
 for nome, ms in msgs.items():
     for m in ms:
