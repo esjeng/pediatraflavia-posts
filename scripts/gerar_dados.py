@@ -25,7 +25,7 @@ BRT = timezone(timedelta(hours=-3))
 DRA = 'pediatraflavia@gmail.com'
 THREADS = {'carrosseis': '1a14254e6bf5d439', 'carrossel19': '1a1428a10d8a2223',
            'reels': '1a144974d4e71fc1', 'reels5': '1a144c436b301612',
-           'congresso': '1a14f194cb4f41ff'}
+           'congresso': '1a14f194cb4f41ff', 'diamedico': '1a150259c0ea27fd'}
 
 
 def rows(nome):
@@ -228,7 +228,8 @@ for p in sorted(prog, key=lambda x: x['data']):
     if p.get('story_fixo') and any('SEM STORY' in own(m.get('snippet')) for m in ms):
         ast = 'Sem story'
     tipos = [FORMATO.get(t, t) for t in str(p.get('media_type')).split('|')]
-    pub = any(x['data'] == p['data'] and x['formato'] in tipos for x in posts)
+    ini_leg = p.get('legenda_inicio') or ''
+    pub = any(x['data'] == p['data'] and x['formato'] in tipos and x['legenda'].startswith(ini_leg) for x in posts)
     if pub:
         sit = 'Publicado'
     elif p.get('sem_conteudo'):
@@ -246,7 +247,8 @@ for p in sorted(prog, key=lambda x: x['data']):
                         'story_hora': p.get('story_hora') or '', 'aprovacao_post': ap, 'aprovacao_story': ast, 'situacao': sit})
 ASSUNTO = {'carrosseis': 'Carrosséis Lavagem nasal e Marcos do 1º ano', 'carrossel19': 'Carrossel Introdução alimentar',
            'reels': 'Reels Bebê de 4 meses', 'reels5': '5 Reels novos (21/10 a 04/11)',
-           'congresso': 'Reels Congresso de Pediatria (18/10)'}
+           'congresso': 'Reels Congresso de Pediatria (18/10)',
+           'diamedico': 'Reels Dia do Médico (18/10)'}
 aprovacoes = []
 for nome, ms in msgs.items():
     for m in ms:
