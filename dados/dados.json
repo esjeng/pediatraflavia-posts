@@ -1,6 +1,6 @@
 {
- "atualizado_em": "2026-10-18T07:05:10-03:00",
- "atualizado_em_texto": "18/10/26 07:05",
+ "atualizado_em": "2026-10-18T10:05:04-03:00",
+ "atualizado_em_texto": "18/10/26 10:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1324,
@@ -3967,6 +3967,19 @@
    "situacao": "Publicado"
   },
   {
+   "id": "2026-10-18-reels-congresso",
+   "data": "2026-10-18",
+   "data_texto": "18/10",
+   "dia": "Dom",
+   "hora": "21h",
+   "formato": "Reels",
+   "tema": "Novidades do 42º Congresso Brasileiro de Pediatria",
+   "story_hora": "21h30",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
    "id": "2026-10-19-reels-4-meses",
    "data": "2026-10-19",
    "data_texto": "19/10",
@@ -4125,7 +4138,7 @@
  ],
  "resumo_programacao": {
   "agendados": 9,
-  "aguardando_aprovacao": 0,
+  "aguardando_aprovacao": 1,
   "sem_conteudo": 3,
   "publicados": 1
  }
