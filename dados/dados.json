@@ -1,33 +1,33 @@
 {
- "atualizado_em": "2026-10-17T19:06:41-03:00",
- "atualizado_em_texto": "17/10/26 19:06",
+ "atualizado_em": "2026-10-17T22:03:57-03:00",
+ "atualizado_em_texto": "17/10/26 22:03",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1324,
   "publicacoes": 70
  },
  "resumo_30d": {
-  "alcance": 364,
-  "visualizacoes": 1156,
+  "alcance": 370,
+  "visualizacoes": 1162,
   "contas_engajadas": 40,
-  "alcance_seguidores": 235,
-  "alcance_nao_seguidores": 129,
+  "alcance_seguidores": 239,
+  "alcance_nao_seguidores": 131,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 389,
-  "visualizacoes": 1287,
+  "alcance": 395,
+  "visualizacoes": 1293,
   "contas_engajadas": 40,
-  "alcance_seguidores": 239,
-  "alcance_nao_seguidores": 150,
+  "alcance_seguidores": 243,
+  "alcance_nao_seguidores": 152,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1485,
-  "visualizacoes": 3264,
+  "alcance": 1491,
+  "visualizacoes": 3270,
   "contas_engajadas": 91,
-  "alcance_seguidores": 748,
-  "alcance_nao_seguidores": 744,
+  "alcance_seguidores": 752,
+  "alcance_nao_seguidores": 746,
   "cliques_link_perfil": 0
  },
  "diario": [
@@ -1644,11 +1644,11 @@
   },
   {
    "data": "2026-10-17",
-   "alcance": 28,
-   "visualizacoes": 47,
+   "alcance": 34,
+   "visualizacoes": 53,
    "contas_engajadas": 2,
-   "alcance_seguidores": 13,
-   "alcance_nao_seguidores": 15,
+   "alcance_seguidores": 17,
+   "alcance_nao_seguidores": 17,
    "cliques_link_perfil": 0
   }
  ],
