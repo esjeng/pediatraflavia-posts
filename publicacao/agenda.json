@@ -1,0 +1,211 @@
+{
+ "conta": "pediatraflavia",
+ "observacao": "Agenda do publicador. Só entra aqui o que já foi aprovado pela Dra. Flávia (aprovado: true). Horários em Brasília. Arquivos fixados no commit \"sha\".",
+ "itens": [
+  {
+   "id": "2026-10-20-lavagem-nasal",
+   "quando": "2026-10-20T12:30:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Carrossel Lavagem nasal sem sufoco",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-16-lavagem-nasal",
+   "imagens": [
+    "lavagem-01.jpg",
+    "lavagem-02.jpg",
+    "lavagem-03.jpg",
+    "lavagem-04.jpg",
+    "lavagem-05.jpg",
+    "lavagem-06.jpg",
+    "lavagem-07.jpg",
+    "lavagem-08.jpg",
+    "lavagem-09.jpg"
+   ],
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-20-lavagem-nasal-story",
+   "quando": "2026-10-20T13:30:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Carrossel Lavagem nasal sem sufoco",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-16-lavagem-nasal",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-21-reels-limao",
+   "quando": "2026-10-21T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Reels Limão no berço",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-01-limao-no-berco",
+   "video": "reels.mp4",
+   "capa": "capa.jpg",
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-21-reels-limao-story",
+   "quando": "2026-10-21T19:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Reels Limão no berço",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-01-limao-no-berco",
+   "video": "story.mp4",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-22-marcos-1-ano",
+   "quando": "2026-10-22T12:30:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Carrossel Marcos do 1º ano",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-17-marcos-1-ano",
+   "imagens": [
+    "marcos-01.jpg",
+    "marcos-02.jpg",
+    "marcos-03.jpg",
+    "marcos-04.jpg",
+    "marcos-05.jpg",
+    "marcos-06.jpg",
+    "marcos-07.jpg",
+    "marcos-08.jpg",
+    "marcos-09.jpg"
+   ],
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-22-marcos-1-ano-story",
+   "quando": "2026-10-22T13:30:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Carrossel Marcos do 1º ano",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-17-marcos-1-ano",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-26-reels-repelente",
+   "quando": "2026-10-26T19:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Reels Repelente em bebê",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-02-repelente",
+   "video": "reels.mp4",
+   "capa": "capa.jpg",
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-26-reels-repelente-story",
+   "quando": "2026-10-26T20:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Reels Repelente em bebê",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-02-repelente",
+   "video": "story.mp4",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-27-introducao-alimentar",
+   "quando": "2026-10-27T12:30:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Carrossel Introdução alimentar",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-19-introducao-alimentar",
+   "imagens": [
+    "ia-01.jpg",
+    "ia-02.jpg",
+    "ia-03.jpg",
+    "ia-04.jpg",
+    "ia-05.jpg",
+    "ia-06.jpg"
+   ],
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-27-introducao-alimentar-story",
+   "quando": "2026-10-27T13:30:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Carrossel Introdução alimentar",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/2026-10-19-introducao-alimentar",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-28-reels-suor",
+   "quando": "2026-10-28T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Reels Suor dormindo",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-03-suor-dormindo",
+   "video": "reels.mp4",
+   "capa": "capa.jpg",
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-10-28-reels-suor-story",
+   "quando": "2026-10-28T19:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Reels Suor dormindo",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-03-suor-dormindo",
+   "video": "story.mp4",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-11-02-reels-estomatite",
+   "quando": "2026-11-02T19:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Reels Estomatite",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-04-estomatite",
+   "video": "reels.mp4",
+   "capa": "capa.jpg",
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-11-02-reels-estomatite-story",
+   "quando": "2026-11-02T20:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Reels Estomatite",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-04-estomatite",
+   "video": "story.mp4",
+   "imagem": "story.jpg",
+   "aprovado": true
+  },
+  {
+   "id": "2026-11-04-reels-6-meses",
+   "quando": "2026-11-04T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Reels Bebê de 6 meses",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-05-desenvolvimento-6-meses",
+   "video": "reels.mp4",
+   "capa": "capa.jpg",
+   "legenda": "legenda.txt",
+   "aprovado": true
+  },
+  {
+   "id": "2026-11-04-reels-6-meses-story",
+   "quando": "2026-11-04T19:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story de divulgação: Reels Bebê de 6 meses",
+   "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
+   "pasta": "posts/reels-05-desenvolvimento-6-meses",
+   "video": "story.mp4",
+   "imagem": "story.jpg",
+   "aprovado": true
+  }
+ ]
+}
