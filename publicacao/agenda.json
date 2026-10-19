@@ -88,6 +88,91 @@
    "aprovado": true
   },
   {
+   "id": "2026-10-23-reels-06-engasgo",
+   "quando": "2026-10-23T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Engasgo: o que fazer nos primeiros minutos",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-06-engasgo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "video": "reels.mp4",
+   "capa": "capa.jpg"
+  },
+  {
+   "id": "2026-10-23-reels-06-engasgo-story",
+   "quando": "2026-10-23T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Engasgo: o que fazer nos primeiros minutos",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-06-engasgo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "video": "story.mp4",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-24-mito-dente-febre",
+   "quando": "2026-10-24T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Mito ou verdade: dente nascendo dá febre?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-24-mito-dente-febre",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "dente-01.jpg",
+    "dente-02.jpg",
+    "dente-03.jpg",
+    "dente-04.jpg",
+    "dente-05.jpg",
+    "dente-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-24-mito-dente-febre-story",
+   "quando": "2026-10-24T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Mito ou verdade: dente nascendo dá febre?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-24-mito-dente-febre",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-25-consulta-em-casa",
+   "quando": "2026-10-25T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Como funciona a consulta pediátrica em casa",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-25-consulta-em-casa",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "casa-01.jpg",
+    "casa-02.jpg",
+    "casa-03.jpg",
+    "casa-04.jpg",
+    "casa-05.jpg",
+    "casa-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-25-consulta-em-casa-story",
+   "quando": "2026-10-25T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Como funciona a consulta pediátrica em casa",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-25-consulta-em-casa",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
    "id": "2026-10-26-reels-repelente",
    "quando": "2026-10-26T18:00:00-03:00",
    "tipo": "reels",
@@ -162,6 +247,119 @@
    "aprovado": true
   },
   {
+   "id": "2026-10-29-protetor-solar",
+   "quando": "2026-10-29T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Protetor solar no bebê: a partir de quando e como usar",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-29-protetor-solar",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "solar-01.jpg",
+    "solar-02.jpg",
+    "solar-03.jpg",
+    "solar-04.jpg",
+    "solar-05.jpg",
+    "solar-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-29-protetor-solar-story",
+   "quando": "2026-10-29T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Protetor solar no bebê: a partir de quando e como usar",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-29-protetor-solar",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-30-reels-07-afogamento",
+   "quando": "2026-10-30T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Afogamento é silencioso: 5 regras de segurança na água",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-07-afogamento",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "video": "reels.mp4",
+   "capa": "capa.jpg"
+  },
+  {
+   "id": "2026-10-30-reels-07-afogamento-story",
+   "quando": "2026-10-30T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Afogamento é silencioso: 5 regras de segurança na água",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-07-afogamento",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "video": "story.mp4",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-31-mito-acucar-agitacao",
+   "quando": "2026-10-31T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Mito ou verdade: açúcar deixa a criança agitada?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-31-mito-acucar-agitacao",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "acucar-01.jpg",
+    "acucar-02.jpg",
+    "acucar-03.jpg",
+    "acucar-04.jpg",
+    "acucar-05.jpg",
+    "acucar-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-31-mito-acucar-agitacao-story",
+   "quando": "2026-10-31T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Mito ou verdade: açúcar deixa a criança agitada?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-31-mito-acucar-agitacao",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-01-caixinha-perguntas",
+   "quando": "2026-11-01T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Caixinha de perguntas: qual sua maior dúvida sobre o seu filho?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-01-caixinha-perguntas",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "perguntas-01.jpg",
+    "perguntas-02.jpg",
+    "perguntas-03.jpg",
+    "perguntas-04.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-01-caixinha-perguntas-story",
+   "quando": "2026-11-01T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Caixinha de perguntas: qual sua maior dúvida sobre o seu filho?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-01-caixinha-perguntas",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
    "id": "2026-11-02-reels-estomatite",
    "quando": "2026-11-02T18:00:00-03:00",
    "tipo": "reels",
@@ -185,6 +383,36 @@
    "aprovado": true
   },
   {
+   "id": "2026-11-03-desidratacao-calor",
+   "quando": "2026-11-03T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Calor: sinais de desidratação e como hidratar",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-03-desidratacao-calor",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "hidrata-01.jpg",
+    "hidrata-02.jpg",
+    "hidrata-03.jpg",
+    "hidrata-04.jpg",
+    "hidrata-05.jpg",
+    "hidrata-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-03-desidratacao-calor-story",
+   "quando": "2026-11-03T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Calor: sinais de desidratação e como hidratar",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-03-desidratacao-calor",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
    "id": "2026-11-04-reels-6-meses",
    "quando": "2026-11-04T18:00:00-03:00",
    "tipo": "reels",
@@ -206,6 +434,36 @@
    "video": "story.mp4",
    "imagem": "story.jpg",
    "aprovado": true
+  },
+  {
+   "id": "2026-11-05-picadas-estrofulo",
+   "quando": "2026-11-05T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Picada de inseto: reação normal ou alergia? (estrófulo)",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-05-picadas-estrofulo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "picadas-01.jpg",
+    "picadas-02.jpg",
+    "picadas-03.jpg",
+    "picadas-04.jpg",
+    "picadas-05.jpg",
+    "picadas-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-05-picadas-estrofulo-story",
+   "quando": "2026-11-05T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Picada de inseto: reação normal ou alergia? (estrófulo)",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-11-05-picadas-estrofulo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
   }
  ]
 }
