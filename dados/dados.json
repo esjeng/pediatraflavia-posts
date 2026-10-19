@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-18T22:05:48-03:00",
- "atualizado_em_texto": "18/10/26 22:05",
+ "atualizado_em": "2026-10-19T07:08:08-03:00",
+ "atualizado_em_texto": "19/10/26 07:08",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1324,
   "publicacoes": 72
  },
  "resumo_30d": {
-  "alcance": 413,
-  "visualizacoes": 1229,
-  "contas_engajadas": 43,
-  "alcance_seguidores": 260,
-  "alcance_nao_seguidores": 153,
+  "alcance": 566,
+  "visualizacoes": 1452,
+  "contas_engajadas": 49,
+  "alcance_seguidores": 304,
+  "alcance_nao_seguidores": 262,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 438,
-  "visualizacoes": 1360,
-  "contas_engajadas": 43,
-  "alcance_seguidores": 264,
-  "alcance_nao_seguidores": 174,
+  "alcance": 592,
+  "visualizacoes": 1588,
+  "contas_engajadas": 49,
+  "alcance_seguidores": 309,
+  "alcance_nao_seguidores": 283,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1493,
-  "visualizacoes": 3268,
-  "contas_engajadas": 87,
-  "alcance_seguidores": 733,
-  "alcance_nao_seguidores": 767,
+  "alcance": 1633,
+  "visualizacoes": 3462,
+  "contas_engajadas": 92,
+  "alcance_seguidores": 764,
+  "alcance_nao_seguidores": 876,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-22",
-   "alcance": 14,
-   "visualizacoes": 34,
-   "contas_engajadas": 1,
-   "alcance_seguidores": 14,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-04-23",
    "alcance": 8,
@@ -1644,11 +1635,20 @@
   },
   {
    "data": "2026-10-18",
-   "alcance": 43,
-   "visualizacoes": 67,
-   "contas_engajadas": 3,
-   "alcance_seguidores": 21,
-   "alcance_nao_seguidores": 22,
+   "alcance": 184,
+   "visualizacoes": 282,
+   "contas_engajadas": 9,
+   "alcance_seguidores": 65,
+   "alcance_nao_seguidores": 119,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-19",
+   "alcance": 13,
+   "visualizacoes": 13,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 1,
+   "alcance_nao_seguidores": 12,
    "cliques_link_perfil": 0
   }
  ],
@@ -2037,6 +2037,10 @@
   {
    "data": "2026-10-18",
    "seguidores": 1324
+  },
+  {
+   "data": "2026-10-19",
+   "seguidores": 1324
   }
  ],
  "novos_seguidores": [
@@ -2163,19 +2167,23 @@
   {
    "data": "2026-10-17",
    "novos": 0
+  },
+  {
+   "data": "2026-10-18",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1324,
-   "novos_seguidores": 9,
+   "novos_seguidores": 8,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -1,
    "variacao_pct": -0.08,
-   "dias_com_total": 3,
+   "dias_com_total": 4,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 1,
    "serie": [
@@ -2189,6 +2197,10 @@
     },
     {
      "data": "2026-10-18",
+     "seguidores": 1324
+    },
+    {
+     "data": "2026-10-19",
      "seguidores": 1324
     }
    ]
@@ -2197,12 +2209,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1324,
    "novos_seguidores": 9,
-   "dias_com_novos": 31,
+   "dias_com_novos": 32,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -1,
    "variacao_pct": -0.08,
-   "dias_com_total": 3,
+   "dias_com_total": 4,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 1,
    "serie": [
@@ -2216,6 +2228,10 @@
     },
     {
      "data": "2026-10-18",
+     "seguidores": 1324
+    },
+    {
+     "data": "2026-10-19",
      "seguidores": 1324
     }
    ]
@@ -2224,12 +2240,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1324,
    "novos_seguidores": 9,
-   "dias_com_novos": 31,
+   "dias_com_novos": 32,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -1,
    "variacao_pct": -0.08,
-   "dias_com_total": 3,
+   "dias_com_total": 4,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 1,
    "serie": [
@@ -2244,19 +2260,33 @@
     {
      "data": "2026-10-18",
      "seguidores": 1324
+    },
+    {
+     "data": "2026-10-19",
+     "seguidores": 1324
     }
    ]
   }
  },
  "stories": [
   {
+   "id": "18102314264036728",
+   "data": "2026-10-18",
+   "data_hora": "18/10/26 21:31",
+   "alcance": 12,
+   "visualizacoes": 13,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-10-18T21:31:17-03:00"
+  },
+  {
    "id": "17915421462523737",
    "data": "2026-10-18",
    "data_hora": "18/10/26 18:44",
-   "alcance": 0,
-   "visualizacoes": 11,
-   "respostas": 0,
-   "interacoes": 1,
+   "alcance": 40,
+   "visualizacoes": 49,
+   "respostas": 3,
+   "interacoes": 5,
    "data_hora_iso": "2026-10-18T18:44:08-03:00"
   },
   {
@@ -2305,8 +2335,8 @@
   {
    "formato": "Reels",
    "posts": 15,
-   "alcance_medio": 58,
-   "taxa_engajamento": 61.9
+   "alcance_medio": 63,
+   "taxa_engajamento": 56.8
   },
   {
    "formato": "Carrossel",
@@ -2403,6 +2433,26 @@
    "legenda": "A tosse é um dos sintomas mais comuns na infância — mas nem sempre é algo simples.\n\nNa maioria das vezes está relacionada a infecções virais leves, mas alguns sinais indicam a necessidade de avaliação médica.\n\nObservar o comportamento da criança é tão importante quanto o sintoma.\n\n🩵 Se houver dúvida, o melhor caminho é sempre avaliar.\n\n📌 Salve este post para consultar quando precisar"
   },
   {
+   "id": "18128700929494804",
+   "data": "2026-10-18",
+   "data_hora": "18/10/26 18:01",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
+   "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
+   "alcance": 125,
+   "visualizacoes": 159,
+   "curtidas": 3,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 5,
+   "taxa_engajamento": 4.0,
+   "reels_tempo_medio_assistido": 3617,
+   "reels_taxa_pulo": 0.777,
+   "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
+  },
+  {
    "id": "18186062029330113",
    "data": "2026-04-14",
    "data_hora": "14/04/26 19:03",
@@ -2423,26 +2473,6 @@
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
   },
   {
-   "id": "18128700929494804",
-   "data": "2026-10-18",
-   "data_hora": "18/10/26 18:01",
-   "formato": "Reels",
-   "tipo_instagram": "REELS",
-   "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
-   "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 89,
-   "visualizacoes": 120,
-   "curtidas": 3,
-   "comentarios": 1,
-   "salvamentos": 0,
-   "compartilhamentos": 1,
-   "interacoes": 5,
-   "taxa_engajamento": 5.6,
-   "reels_tempo_medio_assistido": 3982,
-   "reels_taxa_pulo": 0.753,
-   "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
-  },
-  {
    "id": "17954727660266527",
    "data": "2026-10-15",
    "data_hora": "15/10/26 22:09",
@@ -2451,7 +2481,7 @@
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
    "alcance": 85,
-   "visualizacoes": 245,
+   "visualizacoes": 246,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
@@ -2532,16 +2562,16 @@
    "tipo_instagram": "REELS",
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 16,
-   "visualizacoes": 31,
+   "alcance": 59,
+   "visualizacoes": 66,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 25.0,
-   "reels_tempo_medio_assistido": 8581,
-   "reels_taxa_pulo": 0.444,
+   "taxa_engajamento": 6.8,
+   "reels_tempo_medio_assistido": 3286,
+   "reels_taxa_pulo": 0.914,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2552,16 +2582,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
    "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 89,
-   "visualizacoes": 120,
+   "alcance": 125,
+   "visualizacoes": 159,
    "curtidas": 3,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 5,
-   "taxa_engajamento": 5.6,
-   "reels_tempo_medio_assistido": 3982,
-   "reels_taxa_pulo": 0.753,
+   "taxa_engajamento": 4.0,
+   "reels_tempo_medio_assistido": 3617,
+   "reels_taxa_pulo": 0.777,
    "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
   },
   {
@@ -2573,7 +2603,7 @@
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
    "alcance": 85,
-   "visualizacoes": 245,
+   "visualizacoes": 246,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
