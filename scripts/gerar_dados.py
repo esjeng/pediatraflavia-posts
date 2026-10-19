@@ -13,13 +13,23 @@ Arquivos esperados na pasta de entrada (resposta da ferramenta, como veio):
   posts.json    Windsor get_data: media_id, timestamp, media_type, media_caption, media_permalink,
                 media_reach, media_views, media_saved, media_shares, media_like_count, media_comments_count,
                 media_reel_avg_watch_time, media_reel_skip_rate
-  gmail_<threadId>.json   Gmail get_thread (MINIMAL), um arquivo por conversa de aprovação
+  gmail_<threadId>.json   Gmail get_thread (MINIMAL) de automacao.esj@gmail.com, um arquivo por conversa de aprovação
 A agenda vem de dados/programacao.json (mantida no repositório).
+No campo "thread" de cada item da agenda vai o id da conversa de aprovação no Gmail.
+
+Uso auxiliar: python3 scripts/gerar_dados.py --threads
+  lista (uma por linha) as conversas que ainda precisam ser lidas: itens com "thread" cuja aprovação
+  de post ou story ainda não foi registrada (post_fixo/story_fixo vazios).
 """
 import json, re, sys, glob, os
 from datetime import datetime, timedelta, timezone
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if sys.argv[1:] == ['--threads']:
+    _p = json.load(open(os.path.join(RAIZ, 'dados', 'programacao.json'), encoding='utf-8'))
+    print('\n'.join(sorted({x['thread'] for x in _p if x.get('thread') and len(x['thread']) > 12
+                             and not (x.get('post_fixo') and x.get('story_fixo'))})))
+    sys.exit(0)
 ENT = sys.argv[1]
 BRT = timezone(timedelta(hours=-3))
 DRA = 'pediatraflavia@gmail.com'
@@ -182,18 +192,16 @@ def crescimento(n):
 
 crescimento_seguidores = {'30d': crescimento(30), '90d': crescimento(90), '180d': crescimento(180)}
 
-# Aprovações (mesma regra do dashboard no Claude)
+# Aprovações: um arquivo gmail_<threadId>.json por conversa (Gmail automacao.esj@gmail.com)
 msgs = {}
-for nome, tid in THREADS.items():
-    lst = []
-    p = os.path.join(ENT, f'gmail_{tid}.json')
-    if os.path.exists(p):
-        a = json.load(open(p, encoding='utf-8'))
-        if isinstance(a, list) and a and isinstance(a[0], dict) and isinstance(a[0].get('text'), str):
-            a = json.loads(a[0]['text'])
-        lst = [m for m in (a.get('messages') or []) if DRA in str(m.get('sender', '')).lower()]
-        lst.sort(key=lambda m: str(m.get('date')))
-    msgs[nome] = lst
+for p in glob.glob(os.path.join(ENT, 'gmail_*.json')):
+    tid = os.path.basename(p)[6:-5]
+    a = json.load(open(p, encoding='utf-8'))
+    if isinstance(a, list) and a and isinstance(a[0], dict) and isinstance(a[0].get('text'), str):
+        a = json.loads(a[0]['text'])
+    lst = [m for m in ((a or {}).get('messages') or []) if DRA in str(m.get('sender', '')).lower()]
+    lst.sort(key=lambda m: str(m.get('date')))
+    msgs[tid] = lst
 
 
 def own(s):
@@ -222,7 +230,7 @@ def decide(ms, ok, story):
 prog = json.load(open(os.path.join(RAIZ, 'dados', 'programacao.json'), encoding='utf-8'))
 programacao = []
 for p in sorted(prog, key=lambda x: x['data']):
-    ms = msgs.get(p.get('thread'), [])
+    ms = msgs.get(THREADS.get(p.get('thread'), p.get('thread')), [])
     ap = p.get('post_fixo') or (decide(ms, p.get('post_ok'), False) if p.get('thread') else '—')
     ast = p.get('story_fixo') or (decide(ms, p.get('story_ok'), True) if p.get('thread') else '—')
     if p.get('story_fixo') and any('SEM STORY' in own(m.get('snippet')) for m in ms):
@@ -249,6 +257,10 @@ ASSUNTO = {'carrosseis': 'Carrosséis Lavagem nasal e Marcos do 1º ano', 'carro
            'reels': 'Reels Bebê de 4 meses', 'reels5': '5 Reels novos (21/10 a 04/11)',
            'congresso': 'Reels Congresso de Pediatria (18/10)',
            'diamedico': 'Reels Dia do Médico (18/10)'}
+ASSUNTO = {THREADS[k]: v for k, v in ASSUNTO.items()}
+for p in prog:
+    if p.get('thread') and p['thread'] not in THREADS:
+        ASSUNTO.setdefault(p['thread'], p['tema'])
 aprovacoes = []
 for nome, ms in msgs.items():
     for m in ms:
