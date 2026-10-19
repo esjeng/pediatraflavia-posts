@@ -1,7 +1,8 @@
 """Publicador do Instagram: lista o que está na hora de publicar.
 
 Uso (na tarefa agendada):
-  curl -sL https://raw.githubusercontent.com/esjeng/pediatraflavia-posts/main/publicacao/vencidos.py | python3 - --conta pediatraflavia
+  curl -sL "https://api.github.com/repos/esjeng/pediatraflavia-posts/contents/publicacao/vencidos.py" -H "Accept: application/vnd.github.raw" | python3 -
+Por padrão lê as agendas de todas as contas; --conta pediatraflavia (ou raquetada) restringe a uma.
 Opcional para teste: --agora 2026-10-20T12:30
 
 Lê publicacao/agenda.json do repositório da conta (via API do GitHub, sem cache) e imprime um JSON
@@ -25,15 +26,8 @@ def get(url, accept=None):
         return r.read().decode('utf-8')
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--conta', required=True, choices=CONTAS)
-    ap.add_argument('--agora')
-    ap.add_argument('--antes', type=int, default=35)
-    ap.add_argument('--depois', type=int, default=10)
-    a = ap.parse_args()
-    cfg = CONTAS[a.conta]
-    agora = datetime.fromisoformat(a.agora).replace(tzinfo=BRT) if a.agora else datetime.now(BRT)
+def vencidos(conta, agora, a):
+    cfg = CONTAS[conta]
     try:
         agenda = json.loads(get(f"https://api.github.com/repos/{cfg['repo']}/contents/publicacao/agenda.json",
                                 'application/vnd.github.raw'))
@@ -71,11 +65,31 @@ def main():
                 alts = [{'image_url': cdn(it['imagem'])}]
         else:
             continue
-        itens.append({'id': it['id'], 'descricao': it.get('descricao', ''), 'quando': it['quando'],
+        itens.append({'conta': conta, 'account': cfg['conta_ig'], 'id': it['id'], 'descricao': it.get('descricao', ''),
+                      'quando': it['quando'], 'ordem': (it['quando'], t == 'story'),
                       'action': acao, 'params': p, 'alternativas': alts})
-    print(json.dumps({'conta': a.conta, 'connector': 'instagram', 'account': cfg['conta_ig'],
-                      'agora': agora.isoformat(timespec='minutes'), 'itens': itens, 'bloqueados': bloqueados},
-                     ensure_ascii=False, indent=1))
+    return itens, [dict(b, conta=conta) for b in bloqueados]
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('--conta', choices=list(CONTAS) + ['todas'], default='todas')
+    ap.add_argument('--agora')
+    ap.add_argument('--antes', type=int, default=35)
+    ap.add_argument('--depois', type=int, default=10)
+    a = ap.parse_args()
+    agora = datetime.fromisoformat(a.agora).replace(tzinfo=BRT) if a.agora else datetime.now(BRT)
+    itens, bloqueados, erros = [], [], []
+    for conta in (CONTAS if a.conta == 'todas' else [a.conta]):
+        try:
+            i, b = vencidos(conta, agora, a)
+            itens += i; bloqueados += b
+        except Exception as e:  # uma conta com problema não impede a outra
+            erros.append({'conta': conta, 'erro': repr(e)})
+    # posts antes dos stories; dentro disso, por horário e conta
+    itens.sort(key=lambda x: (x.pop('ordem')[1], x['quando'], x['conta']))
+    print(json.dumps({'connector': 'instagram', 'agora': agora.isoformat(timespec='minutes'),
+                      'itens': itens, 'bloqueados': bloqueados, 'erros': erros}, ensure_ascii=False, indent=1))
 
 
 if __name__ == '__main__':

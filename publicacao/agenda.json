@@ -1,10 +1,10 @@
 {
  "conta": "pediatraflavia",
- "observacao": "Agenda do publicador. Só entra aqui o que já foi aprovado pela Dra. Flávia (aprovado: true). Horários em Brasília. Arquivos fixados no commit \"sha\".",
+ "observacao": "Agenda do publicador. Só entra aqui o que já foi aprovado pela Dra. Flávia (aprovado: true). Horários em Brasília. Arquivos fixados no commit \"sha\". Grade desde 19/10: @pediatraflavia às 18h, story junto com o post.",
  "itens": [
   {
    "id": "2026-10-20-lavagem-nasal",
-   "quando": "2026-10-20T12:30:00-03:00",
+   "quando": "2026-10-20T18:00:00-03:00",
    "tipo": "carrossel",
    "descricao": "Carrossel Lavagem nasal sem sufoco",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -25,7 +25,7 @@
   },
   {
    "id": "2026-10-20-lavagem-nasal-story",
-   "quando": "2026-10-20T13:30:00-03:00",
+   "quando": "2026-10-20T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Carrossel Lavagem nasal sem sufoco",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -47,7 +47,7 @@
   },
   {
    "id": "2026-10-21-reels-limao-story",
-   "quando": "2026-10-21T19:00:00-03:00",
+   "quando": "2026-10-21T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Reels Limão no berço",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -58,7 +58,7 @@
   },
   {
    "id": "2026-10-22-marcos-1-ano",
-   "quando": "2026-10-22T12:30:00-03:00",
+   "quando": "2026-10-22T18:00:00-03:00",
    "tipo": "carrossel",
    "descricao": "Carrossel Marcos do 1º ano",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -79,7 +79,7 @@
   },
   {
    "id": "2026-10-22-marcos-1-ano-story",
-   "quando": "2026-10-22T13:30:00-03:00",
+   "quando": "2026-10-22T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Carrossel Marcos do 1º ano",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -89,7 +89,7 @@
   },
   {
    "id": "2026-10-26-reels-repelente",
-   "quando": "2026-10-26T19:00:00-03:00",
+   "quando": "2026-10-26T18:00:00-03:00",
    "tipo": "reels",
    "descricao": "Reels Repelente em bebê",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -101,7 +101,7 @@
   },
   {
    "id": "2026-10-26-reels-repelente-story",
-   "quando": "2026-10-26T20:00:00-03:00",
+   "quando": "2026-10-26T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Reels Repelente em bebê",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -112,7 +112,7 @@
   },
   {
    "id": "2026-10-27-introducao-alimentar",
-   "quando": "2026-10-27T12:30:00-03:00",
+   "quando": "2026-10-27T18:00:00-03:00",
    "tipo": "carrossel",
    "descricao": "Carrossel Introdução alimentar",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -130,7 +130,7 @@
   },
   {
    "id": "2026-10-27-introducao-alimentar-story",
-   "quando": "2026-10-27T13:30:00-03:00",
+   "quando": "2026-10-27T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Carrossel Introdução alimentar",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -152,7 +152,7 @@
   },
   {
    "id": "2026-10-28-reels-suor-story",
-   "quando": "2026-10-28T19:00:00-03:00",
+   "quando": "2026-10-28T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Reels Suor dormindo",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -163,7 +163,7 @@
   },
   {
    "id": "2026-11-02-reels-estomatite",
-   "quando": "2026-11-02T19:00:00-03:00",
+   "quando": "2026-11-02T18:00:00-03:00",
    "tipo": "reels",
    "descricao": "Reels Estomatite",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -175,7 +175,7 @@
   },
   {
    "id": "2026-11-02-reels-estomatite-story",
-   "quando": "2026-11-02T20:00:00-03:00",
+   "quando": "2026-11-02T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Reels Estomatite",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
@@ -198,7 +198,7 @@
   },
   {
    "id": "2026-11-04-reels-6-meses-story",
-   "quando": "2026-11-04T19:00:00-03:00",
+   "quando": "2026-11-04T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story de divulgação: Reels Bebê de 6 meses",
    "sha": "df7b38b602332c8cf64cf8c1282e4ba4cff52a63",
