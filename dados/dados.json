@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-21T06:06:49-03:00",
- "atualizado_em_texto": "21/10/26 06:06",
+ "atualizado_em": "2026-10-22T06:06:38-03:00",
+ "atualizado_em_texto": "22/10/26 06:06",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1322,
-  "publicacoes": 74
+  "publicacoes": 75
  },
  "resumo_30d": {
-  "alcance": 711,
-  "visualizacoes": 1771,
-  "contas_engajadas": 58,
-  "alcance_seguidores": 384,
-  "alcance_nao_seguidores": 327,
+  "alcance": 757,
+  "visualizacoes": 1871,
+  "contas_engajadas": 61,
+  "alcance_seguidores": 427,
+  "alcance_nao_seguidores": 329,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 737,
-  "visualizacoes": 1898,
-  "contas_engajadas": 58,
-  "alcance_seguidores": 389,
-  "alcance_nao_seguidores": 348,
+  "alcance": 784,
+  "visualizacoes": 1999,
+  "contas_engajadas": 61,
+  "alcance_seguidores": 432,
+  "alcance_nao_seguidores": 351,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1765,
-  "visualizacoes": 3764,
-  "contas_engajadas": 101,
-  "alcance_seguidores": 831,
-  "alcance_nao_seguidores": 941,
+  "alcance": 1809,
+  "visualizacoes": 3858,
+  "contas_engajadas": 104,
+  "alcance_seguidores": 871,
+  "alcance_nao_seguidores": 944,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-25",
-   "alcance": 3,
-   "visualizacoes": 7,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 3,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-04-26",
    "alcance": 2,
@@ -1644,8 +1635,17 @@
   },
   {
    "data": "2026-10-21",
-   "alcance": 1,
-   "visualizacoes": 1,
+   "alcance": 46,
+   "visualizacoes": 100,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 43,
+   "alcance_nao_seguidores": 3,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-22",
+   "alcance": 2,
+   "visualizacoes": 2,
    "contas_engajadas": 0,
    "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 447
+   "seguidores": 435
   },
   {
    "cidade": "Montes Claros",
@@ -1666,12 +1666,12 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 78
+   "seguidores": 81
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 49
+   "seguidores": 47
   },
   {
    "cidade": "Lagoa Santa",
@@ -1681,7 +1681,7 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 39
+   "seguidores": 37
   },
   {
    "cidade": "São Paulo",
@@ -1691,7 +1691,7 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 21
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
@@ -1701,22 +1701,22 @@
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 19
-  },
-  {
-   "cidade": "Betim",
-   "estado": "Minas Gerais",
-   "seguidores": 15
+   "seguidores": 18
   },
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
-   "seguidores": 13
+   "seguidores": 16
   },
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 12
+   "seguidores": 14
+  },
+  {
+   "cidade": "Betim",
+   "estado": "Minas Gerais",
+   "seguidores": 14
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1726,7 +1726,12 @@
   {
    "cidade": "Pedro Leopoldo",
    "estado": "Minas Gerais",
-   "seguidores": 10
+   "seguidores": 9
+  },
+  {
+   "cidade": "Botumirim",
+   "estado": "Minas Gerais",
+   "seguidores": 8
   },
   {
    "cidade": "Goiânia",
@@ -1739,7 +1744,7 @@
    "seguidores": 8
   },
   {
-   "cidade": "Botumirim",
+   "cidade": "Sabará",
    "estado": "Minas Gerais",
    "seguidores": 7
   },
@@ -1749,19 +1754,14 @@
    "seguidores": 6
   },
   {
-   "cidade": "Conselheiro Lafaiete",
-   "estado": "Minas Gerais",
-   "seguidores": 6
-  },
-  {
    "cidade": "Cantagalo",
    "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
-   "cidade": "Sabará",
+   "cidade": "Conselheiro Lafaiete",
    "estado": "Minas Gerais",
-   "seguidores": 5
+   "seguidores": 6
   },
   {
    "cidade": "Uberlândia",
@@ -1787,6 +1787,11 @@
    "cidade": "Curitiba",
    "estado": "Paraná",
    "seguidores": 4
+  },
+  {
+   "cidade": "São Lourenço",
+   "estado": "Minas Gerais",
+   "seguidores": 3
   },
   {
    "cidade": "São José dos Campos",
@@ -1872,11 +1877,6 @@
    "cidade": "Taguatinga",
    "estado": "Federal District",
    "seguidores": 3
-  },
-  {
-   "cidade": "Indaiatuba",
-   "estado": "São Paulo",
-   "seguidores": 2
   }
  ],
  "publico_genero_idade": [
@@ -1893,12 +1893,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 144
+   "seguidores": 139
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 393
+   "seguidores": 396
   },
   {
    "genero": "Feminino",
@@ -1908,12 +1908,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "55-64",
-   "seguidores": 67
+   "seguidores": 65
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "65+",
-   "seguidores": 39
+   "seguidores": 40
   },
   {
    "genero": "Masculino",
@@ -1928,17 +1928,17 @@
   {
    "genero": "Masculino",
    "faixa_etaria": "35-44",
-   "seguidores": 84
+   "seguidores": 81
   },
   {
    "genero": "Masculino",
    "faixa_etaria": "45-54",
-   "seguidores": 62
+   "seguidores": 61
   },
   {
    "genero": "Masculino",
    "faixa_etaria": "55-64",
-   "seguidores": 16
+   "seguidores": 15
   },
   {
    "genero": "Masculino",
@@ -1963,12 +1963,12 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "35-44",
-   "seguidores": 86
+   "seguidores": 85
   },
   {
    "genero": "Não informado",
    "faixa_etaria": "45-54",
-   "seguidores": 36
+   "seguidores": 37
   },
   {
    "genero": "Não informado",
@@ -1992,11 +1992,11 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 238
+   "seguidores": 233
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 563
+   "seguidores": 562
   },
   {
    "faixa_etaria": "45-54",
@@ -2004,21 +2004,21 @@
   },
   {
    "faixa_etaria": "55-64",
-   "seguidores": 89
+   "seguidores": 86
   },
   {
    "faixa_etaria": "65+",
-   "seguidores": 52
+   "seguidores": 53
   }
  ],
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 871
+   "seguidores": 868
   },
   {
    "genero": "Masculino",
-   "seguidores": 208
+   "seguidores": 203
   },
   {
    "genero": "Não informado",
@@ -2048,6 +2048,10 @@
   },
   {
    "data": "2026-10-21",
+   "seguidores": 1322
+  },
+  {
+   "data": "2026-10-22",
    "seguidores": 1322
   }
  ],
@@ -2186,6 +2190,10 @@
   },
   {
    "data": "2026-10-20",
+   "novos": 1
+  },
+  {
+   "data": "2026-10-21",
    "novos": 0
   }
  ],
@@ -2193,15 +2201,15 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1322,
-   "novos_seguidores": 8,
+   "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 6,
+   "dias_com_total": 7,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 4,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2225,6 +2233,10 @@
     },
     {
      "data": "2026-10-21",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-22",
      "seguidores": 1322
     }
    ]
@@ -2232,15 +2244,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1322,
-   "novos_seguidores": 9,
-   "dias_com_novos": 34,
+   "novos_seguidores": 10,
+   "dias_com_novos": 35,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 6,
+   "dias_com_total": 7,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 4,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2264,6 +2276,10 @@
     },
     {
      "data": "2026-10-21",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-22",
      "seguidores": 1322
     }
    ]
@@ -2271,15 +2287,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1322,
-   "novos_seguidores": 9,
-   "dias_com_novos": 34,
+   "novos_seguidores": 10,
+   "dias_com_novos": 35,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 6,
+   "dias_com_total": 7,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 4,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2304,11 +2320,25 @@
     {
      "data": "2026-10-21",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-10-22",
+     "seguidores": 1322
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18020483246728067",
+   "data": "2026-10-21",
+   "data_hora": "21/10/26 18:06",
+   "alcance": 25,
+   "visualizacoes": 36,
+   "respostas": 0,
+   "interacoes": 1,
+   "data_hora_iso": "2026-10-21T18:06:45-03:00"
+  },
   {
    "id": "17874061623639179",
    "data": "2026-10-20",
@@ -2401,9 +2431,9 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 16,
-   "alcance_medio": 65,
-   "taxa_engajamento": 52.2
+   "posts": 17,
+   "alcance_medio": 62,
+   "taxa_engajamento": 51.7
   },
   {
    "formato": "Carrossel",
@@ -2587,16 +2617,16 @@
    "tipo_instagram": "REELS",
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 77,
-   "visualizacoes": 88,
+   "alcance": 78,
+   "visualizacoes": 90,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 5.2,
-   "reels_tempo_medio_assistido": 3750,
-   "reels_taxa_pulo": 0.883,
+   "taxa_engajamento": 5.1,
+   "reels_tempo_medio_assistido": 3771,
+   "reels_taxa_pulo": 0.861,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2622,6 +2652,26 @@
  ],
  "posts": [
   {
+   "id": "18110119487242185",
+   "data": "2026-10-21",
+   "data_hora": "21/10/26 18:05",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!",
+   "link": "https://www.instagram.com/reel/DexVLgsiAR7/",
+   "alcance": 14,
+   "visualizacoes": 22,
+   "curtidas": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 2,
+   "taxa_engajamento": 14.3,
+   "reels_tempo_medio_assistido": 7808,
+   "reels_taxa_pulo": 0.5,
+   "legenda": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!\n\nNão há evidência científica de que o cheiro do limão melhore o sono. E deixar a fruta no berço ainda pode irritar a pele, causar engasgo se o bebê levar à boca e atrair insetos.\n\nO que ajuda de verdade:\n✔️ rotina calma antes de dormir\n✔️ berço vazio, sem objetos, travesseiros ou pelúcias\n✔️ bebê de barriga para cima\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #sonoseguro #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "18008630672785658",
    "data": "2026-10-20",
    "data_hora": "20/10/26 18:05",
@@ -2629,14 +2679,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
-   "alcance": 23,
-   "visualizacoes": 58,
-   "curtidas": 3,
+   "alcance": 28,
+   "visualizacoes": 73,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 3,
-   "taxa_engajamento": 13.0,
+   "interacoes": 5,
+   "taxa_engajamento": 17.9,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2650,15 +2700,15 @@
    "titulo": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙",
    "link": "https://www.instagram.com/reel/DesSJ6hDVfw/",
    "alcance": 43,
-   "visualizacoes": 52,
+   "visualizacoes": 54,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
    "taxa_engajamento": 11.6,
-   "reels_tempo_medio_assistido": 4273,
-   "reels_taxa_pulo": 0.841,
+   "reels_tempo_medio_assistido": 4465,
+   "reels_taxa_pulo": 0.822,
    "legenda": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙\n\nPor volta dessa idade, o sono e o comportamento do bebê amadurecem, e essas mudanças são esperadas. Com rotina, um ambiente tranquilo e paciência, a fase costuma passar.\n\n⚠️ Mas fique atenta: febre, recusa para mamar, choro que não acalma ou perda de algo que ele já fazia pedem avaliação.\n\n📌 Salve e envie para outra mãe que está nessa fase!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #bebe4meses #sonodobebe #desenvolvimentoinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2669,16 +2719,16 @@
    "tipo_instagram": "REELS",
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 77,
-   "visualizacoes": 88,
+   "alcance": 78,
+   "visualizacoes": 90,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 5.2,
-   "reels_tempo_medio_assistido": 3750,
-   "reels_taxa_pulo": 0.883,
+   "taxa_engajamento": 5.1,
+   "reels_tempo_medio_assistido": 3771,
+   "reels_taxa_pulo": 0.861,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2870,7 +2920,7 @@
    "titulo": "Feliz 2024!",
    "link": "https://www.instagram.com/reel/C1h7_OduI41/",
    "alcance": 64,
-   "visualizacoes": 0,
+   "visualizacoes": 741,
    "curtidas": 16,
    "comentarios": 0,
    "salvamentos": 0,
@@ -2878,7 +2928,7 @@
    "interacoes": 16,
    "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": 2294,
-   "reels_taxa_pulo": 0,
+   "reels_taxa_pulo": 0.062,
    "legenda": "Feliz 2024!"
   },
   {
@@ -4179,7 +4229,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-10-22-marcos-1-ano",
@@ -4378,9 +4428,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 16,
+  "agendados": 15,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 5
+  "publicados": 6
  }
 }
