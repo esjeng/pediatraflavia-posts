@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-24T06:05:41-03:00",
- "atualizado_em_texto": "24/10/26 06:05",
+ "atualizado_em": "2026-10-25T06:06:06-03:00",
+ "atualizado_em_texto": "25/10/26 06:06",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1322,
   "publicacoes": 76
  },
  "resumo_30d": {
-  "alcance": 822,
-  "visualizacoes": 2040,
+  "alcance": 825,
+  "visualizacoes": 2047,
   "contas_engajadas": 66,
-  "alcance_seguidores": 490,
+  "alcance_seguidores": 493,
   "alcance_nao_seguidores": 332,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 849,
-  "visualizacoes": 2168,
+  "alcance": 851,
+  "visualizacoes": 2169,
   "contas_engajadas": 66,
-  "alcance_seguidores": 495,
+  "alcance_seguidores": 497,
   "alcance_nao_seguidores": 354,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1870,
-  "visualizacoes": 4013,
-  "contas_engajadas": 109,
-  "alcance_seguidores": 932,
-  "alcance_nao_seguidores": 945,
+  "alcance": 1571,
+  "visualizacoes": 3652,
+  "contas_engajadas": 104,
+  "alcance_seguidores": 870,
+  "alcance_nao_seguidores": 704,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-28",
-   "alcance": 302,
-   "visualizacoes": 368,
-   "contas_engajadas": 5,
-   "alcance_seguidores": 65,
-   "alcance_nao_seguidores": 241,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-04-29",
    "alcance": 173,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-10-24",
+   "alcance": 3,
+   "visualizacoes": 7,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 3,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-25",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1656,27 +1656,27 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 434
+   "seguidores": 436
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 91
+   "seguidores": 90
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 81
+   "seguidores": 80
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 48
+   "seguidores": 46
   },
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 42
+   "seguidores": 41
   },
   {
    "cidade": "São Paulo",
@@ -1701,7 +1701,12 @@
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 18
+   "seguidores": 19
+  },
+  {
+   "cidade": "São José da Lapa",
+   "estado": "Minas Gerais",
+   "seguidores": 15
   },
   {
    "cidade": "Betim",
@@ -1710,11 +1715,6 @@
   },
   {
    "cidade": "Santa Luzia",
-   "estado": "Minas Gerais",
-   "seguidores": 15
-  },
-  {
-   "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
    "seguidores": 14
   },
@@ -1744,13 +1744,13 @@
    "seguidores": 8
   },
   {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 7
-  },
-  {
    "cidade": "Cantagalo",
    "estado": "Rio de Janeiro",
+   "seguidores": 8
+  },
+  {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
    "seguidores": 7
   },
   {
@@ -1874,8 +1874,8 @@
    "seguidores": 3
   },
   {
-   "cidade": "São Gonçalo",
-   "estado": "Rio de Janeiro",
+   "cidade": "Santo André",
+   "estado": "São Paulo",
    "seguidores": 2
   }
  ],
@@ -1958,12 +1958,12 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "25-34",
-   "seguidores": 62
+   "seguidores": 61
   },
   {
    "genero": "Não informado",
    "faixa_etaria": "35-44",
-   "seguidores": 85
+   "seguidores": 86
   },
   {
    "genero": "Não informado",
@@ -1992,11 +1992,11 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 233
+   "seguidores": 232
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 562
+   "seguidores": 563
   },
   {
    "faixa_etaria": "45-54",
@@ -2060,6 +2060,10 @@
   },
   {
    "data": "2026-10-24",
+   "seguidores": 1322
+  },
+  {
+   "data": "2026-10-25",
    "seguidores": 1322
   }
  ],
@@ -2211,6 +2215,10 @@
   {
    "data": "2026-10-23",
    "novos": 0
+  },
+  {
+   "data": "2026-10-24",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
@@ -2223,7 +2231,7 @@
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 9,
+   "dias_com_total": 10,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 4,
    "serie": [
@@ -2261,6 +2269,10 @@
     },
     {
      "data": "2026-10-24",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-25",
      "seguidores": 1322
     }
    ]
@@ -2269,12 +2281,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1322,
    "novos_seguidores": 10,
-   "dias_com_novos": 37,
+   "dias_com_novos": 38,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 9,
+   "dias_com_total": 10,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 4,
    "serie": [
@@ -2312,6 +2324,10 @@
     },
     {
      "data": "2026-10-24",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-25",
      "seguidores": 1322
     }
    ]
@@ -2320,12 +2336,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1322,
    "novos_seguidores": 10,
-   "dias_com_novos": 37,
+   "dias_com_novos": 38,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 9,
+   "dias_com_total": 10,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 4,
    "serie": [
@@ -2363,6 +2379,10 @@
     },
     {
      "data": "2026-10-24",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-25",
      "seguidores": 1322
     }
    ]
@@ -2488,8 +2508,8 @@
   {
    "formato": "Carrossel",
    "posts": 23,
-   "alcance_medio": 39,
-   "taxa_engajamento": 39.2
+   "alcance_medio": 40,
+   "taxa_engajamento": 39.1
   },
   {
    "formato": "Imagem",
@@ -2709,14 +2729,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 20,
-   "visualizacoes": 53,
+   "alcance": 23,
+   "visualizacoes": 59,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 20.0,
+   "taxa_engajamento": 17.4,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -2749,14 +2769,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
-   "alcance": 29,
-   "visualizacoes": 77,
+   "alcance": 30,
+   "visualizacoes": 78,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 17.2,
+   "taxa_engajamento": 16.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -4338,7 +4358,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Não publicado"
   },
   {
    "id": "2026-10-25-consulta-em-casa",
@@ -4498,9 +4518,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 13,
+  "agendados": 12,
   "aguardando_aprovacao": 0,
-  "sem_conteudo": 1,
+  "sem_conteudo": 2,
   "publicados": 7
  }
 }
