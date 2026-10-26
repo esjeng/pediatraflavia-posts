@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-25T06:06:06-03:00",
- "atualizado_em_texto": "25/10/26 06:06",
+ "atualizado_em": "2026-10-26T06:06:24-03:00",
+ "atualizado_em_texto": "26/10/26 06:06",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1322,
+  "seguidores": 1323,
   "publicacoes": 76
  },
  "resumo_30d": {
-  "alcance": 825,
-  "visualizacoes": 2047,
+  "alcance": 833,
+  "visualizacoes": 2073,
   "contas_engajadas": 66,
-  "alcance_seguidores": 493,
+  "alcance_seguidores": 501,
   "alcance_nao_seguidores": 332,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 851,
-  "visualizacoes": 2169,
+  "alcance": 859,
+  "visualizacoes": 2195,
   "contas_engajadas": 66,
-  "alcance_seguidores": 497,
+  "alcance_seguidores": 505,
   "alcance_nao_seguidores": 354,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1571,
-  "visualizacoes": 3652,
-  "contas_engajadas": 104,
-  "alcance_seguidores": 870,
-  "alcance_nao_seguidores": 704,
+  "alcance": 1406,
+  "visualizacoes": 3459,
+  "contas_engajadas": 103,
+  "alcance_seguidores": 826,
+  "alcance_nao_seguidores": 583,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-29",
-   "alcance": 173,
-   "visualizacoes": 219,
-   "contas_engajadas": 1,
-   "alcance_seguidores": 52,
-   "alcance_nao_seguidores": 121,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-04-30",
    "alcance": 10,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-10-25",
+   "alcance": 8,
+   "visualizacoes": 26,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 8,
+   "alcance_nao_seguidores": 0,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-26",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1656,27 +1656,27 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 436
+   "seguidores": 444
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 90
+   "seguidores": 91
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 80
+   "seguidores": 79
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 46
+   "seguidores": 43
   },
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 41
+   "seguidores": 40
   },
   {
    "cidade": "São Paulo",
@@ -1691,7 +1691,7 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 24
+   "seguidores": 23
   },
   {
    "cidade": "Pará",
@@ -1704,19 +1704,19 @@
    "seguidores": 19
   },
   {
-   "cidade": "São José da Lapa",
-   "estado": "Minas Gerais",
-   "seguidores": 15
-  },
-  {
    "cidade": "Betim",
    "estado": "Minas Gerais",
    "seguidores": 15
   },
   {
-   "cidade": "Santa Luzia",
+   "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
    "seguidores": 14
+  },
+  {
+   "cidade": "Santa Luzia",
+   "estado": "Minas Gerais",
+   "seguidores": 13
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1729,18 +1729,13 @@
    "seguidores": 10
   },
   {
-   "cidade": "Botumirim",
-   "estado": "Minas Gerais",
+   "cidade": "Goiânia",
+   "estado": "Goiás",
    "seguidores": 8
   },
   {
    "cidade": "Fortaleza",
    "estado": "Ceará",
-   "seguidores": 8
-  },
-  {
-   "cidade": "Goiânia",
-   "estado": "Goiás",
    "seguidores": 8
   },
   {
@@ -1750,6 +1745,11 @@
   },
   {
    "cidade": "Sabará",
+   "estado": "Minas Gerais",
+   "seguidores": 7
+  },
+  {
+   "cidade": "Botumirim",
    "estado": "Minas Gerais",
    "seguidores": 7
   },
@@ -1854,11 +1854,6 @@
    "seguidores": 3
   },
   {
-   "cidade": "Itaúna",
-   "estado": "Minas Gerais",
-   "seguidores": 3
-  },
-  {
    "cidade": "Serra",
    "estado": "Espírito Santo",
    "seguidores": 3
@@ -1874,7 +1869,12 @@
    "seguidores": 3
   },
   {
-   "cidade": "Santo André",
+   "cidade": "Nova Friburgo",
+   "estado": "Rio de Janeiro",
+   "seguidores": 2
+  },
+  {
+   "cidade": "Guarulhos",
    "estado": "São Paulo",
    "seguidores": 2
   }
@@ -1908,12 +1908,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "55-64",
-   "seguidores": 65
+   "seguidores": 64
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "65+",
-   "seguidores": 40
+   "seguidores": 41
   },
   {
    "genero": "Masculino",
@@ -2004,11 +2004,11 @@
   },
   {
    "faixa_etaria": "55-64",
-   "seguidores": 86
+   "seguidores": 85
   },
   {
    "faixa_etaria": "65+",
-   "seguidores": 53
+   "seguidores": 54
   }
  ],
  "publico_genero": [
@@ -2065,6 +2065,10 @@
   {
    "data": "2026-10-25",
    "seguidores": 1322
+  },
+  {
+   "data": "2026-10-26",
+   "seguidores": 1323
   }
  ],
  "novos_seguidores": [
@@ -2219,21 +2223,25 @@
   {
    "data": "2026-10-24",
    "novos": 0
+  },
+  {
+   "data": "2026-10-25",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1322,
-   "novos_seguidores": 8,
+   "seguidores_atual": 1323,
+   "novos_seguidores": 7,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 10,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 11,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 4,
+   "deixaram_de_seguir_estimado": 3,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2274,21 +2282,25 @@
     {
      "data": "2026-10-25",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-10-26",
+     "seguidores": 1323
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1322,
+   "seguidores_atual": 1323,
    "novos_seguidores": 10,
-   "dias_com_novos": 38,
+   "dias_com_novos": 39,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 10,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 11,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 4,
+   "deixaram_de_seguir_estimado": 3,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2329,21 +2341,25 @@
     {
      "data": "2026-10-25",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-10-26",
+     "seguidores": 1323
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1322,
+   "seguidores_atual": 1323,
    "novos_seguidores": 10,
-   "dias_com_novos": 38,
+   "dias_com_novos": 39,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 10,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 11,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 4,
+   "deixaram_de_seguir_estimado": 3,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2384,6 +2400,10 @@
     {
      "data": "2026-10-25",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-10-26",
+     "seguidores": 1323
     }
    ]
   }
@@ -2503,13 +2523,13 @@
    "formato": "Reels",
    "posts": 17,
    "alcance_medio": 63,
-   "taxa_engajamento": 51.1
+   "taxa_engajamento": 50.8
   },
   {
    "formato": "Carrossel",
    "posts": 23,
    "alcance_medio": 40,
-   "taxa_engajamento": 39.1
+   "taxa_engajamento": 38.7
   },
   {
    "formato": "Imagem",
@@ -2587,16 +2607,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
    "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 152,
-   "visualizacoes": 194,
+   "alcance": 154,
+   "visualizacoes": 196,
    "curtidas": 3,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 5,
-   "taxa_engajamento": 3.3,
-   "reels_tempo_medio_assistido": 3266,
-   "reels_taxa_pulo": 0.793,
+   "taxa_engajamento": 3.2,
+   "reels_tempo_medio_assistido": 3235,
+   "reels_taxa_pulo": 0.795,
    "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
   },
   {
@@ -2647,14 +2667,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 88,
-   "visualizacoes": 256,
+   "alcance": 90,
+   "visualizacoes": 260,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 12.5,
+   "taxa_engajamento": 12.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2687,16 +2707,16 @@
    "tipo_instagram": "REELS",
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 80,
-   "visualizacoes": 95,
+   "alcance": 82,
+   "visualizacoes": 97,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 5.0,
-   "reels_tempo_medio_assistido": 3775,
-   "reels_taxa_pulo": 0.864,
+   "taxa_engajamento": 4.9,
+   "reels_tempo_medio_assistido": 3702,
+   "reels_taxa_pulo": 0.867,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2729,14 +2749,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 23,
-   "visualizacoes": 59,
+   "alcance": 29,
+   "visualizacoes": 71,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 17.4,
+   "taxa_engajamento": 13.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -2749,16 +2769,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!",
    "link": "https://www.instagram.com/reel/DexVLgsiAR7/",
-   "alcance": 25,
-   "visualizacoes": 36,
+   "alcance": 26,
+   "visualizacoes": 37,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 12.0,
-   "reels_tempo_medio_assistido": 6360,
-   "reels_taxa_pulo": 0.6,
+   "taxa_engajamento": 11.5,
+   "reels_tempo_medio_assistido": 6138,
+   "reels_taxa_pulo": 0.615,
    "legenda": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!\n\nNão há evidência científica de que o cheiro do limão melhore o sono. E deixar a fruta no berço ainda pode irritar a pele, causar engasgo se o bebê levar à boca e atrair insetos.\n\nO que ajuda de verdade:\n✔️ rotina calma antes de dormir\n✔️ berço vazio, sem objetos, travesseiros ou pelúcias\n✔️ bebê de barriga para cima\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #sonoseguro #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2769,14 +2789,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
-   "alcance": 30,
-   "visualizacoes": 78,
+   "alcance": 31,
+   "visualizacoes": 82,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 16.7,
+   "taxa_engajamento": 16.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2789,16 +2809,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙",
    "link": "https://www.instagram.com/reel/DesSJ6hDVfw/",
-   "alcance": 45,
-   "visualizacoes": 57,
+   "alcance": 46,
+   "visualizacoes": 58,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 13.3,
-   "reels_tempo_medio_assistido": 4812,
-   "reels_taxa_pulo": 0.809,
+   "taxa_engajamento": 13.0,
+   "reels_tempo_medio_assistido": 4721,
+   "reels_taxa_pulo": 0.813,
    "legenda": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙\n\nPor volta dessa idade, o sono e o comportamento do bebê amadurecem, e essas mudanças são esperadas. Com rotina, um ambiente tranquilo e paciência, a fase costuma passar.\n\n⚠️ Mas fique atenta: febre, recusa para mamar, choro que não acalma ou perda de algo que ele já fazia pedem avaliação.\n\n📌 Salve e envie para outra mãe que está nessa fase!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #bebe4meses #sonodobebe #desenvolvimentoinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2809,16 +2829,16 @@
    "tipo_instagram": "REELS",
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 80,
-   "visualizacoes": 95,
+   "alcance": 82,
+   "visualizacoes": 97,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 5.0,
-   "reels_tempo_medio_assistido": 3775,
-   "reels_taxa_pulo": 0.864,
+   "taxa_engajamento": 4.9,
+   "reels_tempo_medio_assistido": 3702,
+   "reels_taxa_pulo": 0.867,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2829,16 +2849,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
    "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 152,
-   "visualizacoes": 194,
+   "alcance": 154,
+   "visualizacoes": 196,
    "curtidas": 3,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 5,
-   "taxa_engajamento": 3.3,
-   "reels_tempo_medio_assistido": 3266,
-   "reels_taxa_pulo": 0.793,
+   "taxa_engajamento": 3.2,
+   "reels_tempo_medio_assistido": 3235,
+   "reels_taxa_pulo": 0.795,
    "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
   },
   {
@@ -2849,14 +2869,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️",
    "link": "https://www.instagram.com/p/DeiUbARiEMF/",
-   "alcance": 88,
-   "visualizacoes": 256,
+   "alcance": 90,
+   "visualizacoes": 260,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 12.5,
+   "taxa_engajamento": 12.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -4371,7 +4391,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Não publicado"
   },
   {
    "id": "2026-10-26-reels-repelente",
@@ -4518,9 +4538,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 12,
+  "agendados": 11,
   "aguardando_aprovacao": 0,
-  "sem_conteudo": 2,
+  "sem_conteudo": 3,
   "publicados": 7
  }
 }
