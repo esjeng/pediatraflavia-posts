@@ -88,91 +88,6 @@
    "aprovado": true
   },
   {
-   "id": "2026-10-23-reels-06-engasgo",
-   "quando": "2026-10-23T18:00:00-03:00",
-   "tipo": "reels",
-   "descricao": "Engasgo: o que fazer nos primeiros minutos",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/reels-06-engasgo",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "legenda": "legenda.txt",
-   "video": "reels.mp4",
-   "capa": "capa.jpg"
-  },
-  {
-   "id": "2026-10-23-reels-06-engasgo-story",
-   "quando": "2026-10-23T18:00:00-03:00",
-   "tipo": "story",
-   "descricao": "Story: Engasgo: o que fazer nos primeiros minutos",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/reels-06-engasgo",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "video": "story.mp4",
-   "imagem": "story.jpg"
-  },
-  {
-   "id": "2026-10-24-mito-dente-febre",
-   "quando": "2026-10-24T18:00:00-03:00",
-   "tipo": "carrossel",
-   "descricao": "Mito ou verdade: dente nascendo dá febre?",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/2026-10-24-mito-dente-febre",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "legenda": "legenda.txt",
-   "imagens": [
-    "dente-01.jpg",
-    "dente-02.jpg",
-    "dente-03.jpg",
-    "dente-04.jpg",
-    "dente-05.jpg",
-    "dente-06.jpg"
-   ]
-  },
-  {
-   "id": "2026-10-24-mito-dente-febre-story",
-   "quando": "2026-10-24T18:00:00-03:00",
-   "tipo": "story",
-   "descricao": "Story: Mito ou verdade: dente nascendo dá febre?",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/2026-10-24-mito-dente-febre",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "imagem": "story.jpg"
-  },
-  {
-   "id": "2026-10-25-consulta-em-casa",
-   "quando": "2026-10-25T18:00:00-03:00",
-   "tipo": "carrossel",
-   "descricao": "Como funciona a consulta pediátrica em casa",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/2026-10-25-consulta-em-casa",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "legenda": "legenda.txt",
-   "imagens": [
-    "casa-01.jpg",
-    "casa-02.jpg",
-    "casa-03.jpg",
-    "casa-04.jpg",
-    "casa-05.jpg",
-    "casa-06.jpg"
-   ]
-  },
-  {
-   "id": "2026-10-25-consulta-em-casa-story",
-   "quando": "2026-10-25T18:00:00-03:00",
-   "tipo": "story",
-   "descricao": "Story: Como funciona a consulta pediátrica em casa",
-   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
-   "pasta": "posts/2026-10-25-consulta-em-casa",
-   "aprovado": false,
-   "thread": "1a1560995dcfad7a",
-   "imagem": "story.jpg"
-  },
-  {
    "id": "2026-10-26-reels-repelente",
    "quando": "2026-10-26T18:00:00-03:00",
    "tipo": "reels",
@@ -461,6 +376,91 @@
    "descricao": "Story: Picada de inseto: reação normal ou alergia? (estrófulo)",
    "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
    "pasta": "posts/2026-11-05-picadas-estrofulo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-06-reels-06-engasgo",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Engasgo: o que fazer nos primeiros minutos",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-06-engasgo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "video": "reels.mp4",
+   "capa": "capa.jpg"
+  },
+  {
+   "id": "2026-11-06-reels-06-engasgo-story",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Engasgo: o que fazer nos primeiros minutos",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/reels-06-engasgo",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "video": "story.mp4",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-07-mito-dente-febre",
+   "quando": "2026-11-07T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Mito ou verdade: dente nascendo dá febre?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-24-mito-dente-febre",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "dente-01.jpg",
+    "dente-02.jpg",
+    "dente-03.jpg",
+    "dente-04.jpg",
+    "dente-05.jpg",
+    "dente-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-07-mito-dente-febre-story",
+   "quando": "2026-11-07T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Mito ou verdade: dente nascendo dá febre?",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-24-mito-dente-febre",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-08-consulta-em-casa",
+   "quando": "2026-11-08T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Como funciona a consulta pediátrica em casa",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-25-consulta-em-casa",
+   "aprovado": false,
+   "thread": "1a1560995dcfad7a",
+   "legenda": "legenda.txt",
+   "imagens": [
+    "casa-01.jpg",
+    "casa-02.jpg",
+    "casa-03.jpg",
+    "casa-04.jpg",
+    "casa-05.jpg",
+    "casa-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-08-consulta-em-casa-story",
+   "quando": "2026-11-08T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Como funciona a consulta pediátrica em casa",
+   "sha": "14688010156b3b7a819f8b3a22b3caba568fbee7",
+   "pasta": "posts/2026-10-25-consulta-em-casa",
    "aprovado": false,
    "thread": "1a1560995dcfad7a",
    "imagem": "story.jpg"
