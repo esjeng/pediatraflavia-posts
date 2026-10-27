@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-26T06:06:24-03:00",
- "atualizado_em_texto": "26/10/26 06:06",
+ "atualizado_em": "2026-10-27T06:07:59-03:00",
+ "atualizado_em_texto": "27/10/26 06:07",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1323,
-  "publicacoes": 76
+  "seguidores": 1322,
+  "publicacoes": 77
  },
  "resumo_30d": {
-  "alcance": 833,
-  "visualizacoes": 2073,
-  "contas_engajadas": 66,
-  "alcance_seguidores": 501,
-  "alcance_nao_seguidores": 332,
+  "alcance": 880,
+  "visualizacoes": 2141,
+  "contas_engajadas": 71,
+  "alcance_seguidores": 544,
+  "alcance_nao_seguidores": 336,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 859,
-  "visualizacoes": 2195,
-  "contas_engajadas": 66,
-  "alcance_seguidores": 505,
-  "alcance_nao_seguidores": 354,
+  "alcance": 905,
+  "visualizacoes": 2252,
+  "contas_engajadas": 71,
+  "alcance_seguidores": 547,
+  "alcance_nao_seguidores": 358,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1406,
-  "visualizacoes": 3459,
-  "contas_engajadas": 103,
-  "alcance_seguidores": 826,
-  "alcance_nao_seguidores": 583,
+  "alcance": 1443,
+  "visualizacoes": 3514,
+  "contas_engajadas": 108,
+  "alcance_seguidores": 864,
+  "alcance_nao_seguidores": 582,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-04-30",
-   "alcance": 10,
-   "visualizacoes": 13,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 5,
-   "alcance_nao_seguidores": 5,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-01",
    "alcance": 7,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-10-26",
-   "alcance": 0,
+   "alcance": 46,
+   "visualizacoes": 68,
+   "contas_engajadas": 5,
+   "alcance_seguidores": 42,
+   "alcance_nao_seguidores": 4,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-27",
+   "alcance": 1,
    "visualizacoes": 0,
    "contas_engajadas": 0,
-   "alcance_seguidores": 0,
+   "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1666,7 +1666,7 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 79
+   "seguidores": 81
   },
   {
    "cidade": "Contagem",
@@ -1686,12 +1686,12 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 37
+   "seguidores": 36
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 23
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
@@ -1701,7 +1701,7 @@
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 19
+   "seguidores": 18
   },
   {
    "cidade": "Betim",
@@ -1716,7 +1716,7 @@
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
-   "seguidores": 13
+   "seguidores": 12
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1869,13 +1869,13 @@
    "seguidores": 3
   },
   {
-   "cidade": "Nova Friburgo",
-   "estado": "Rio de Janeiro",
+   "cidade": "Barbacena",
+   "estado": "Minas Gerais",
    "seguidores": 2
   },
   {
-   "cidade": "Guarulhos",
-   "estado": "São Paulo",
+   "cidade": "Canaã dos Carajas",
+   "estado": "Pará",
    "seguidores": 2
   }
  ],
@@ -1898,7 +1898,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 396
+   "seguidores": 395
   },
   {
    "genero": "Feminino",
@@ -1963,7 +1963,7 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "35-44",
-   "seguidores": 86
+   "seguidores": 87
   },
   {
    "genero": "Não informado",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 868
+   "seguidores": 867
   },
   {
    "genero": "Masculino",
@@ -2022,7 +2022,7 @@
   },
   {
    "genero": "Não informado",
-   "seguidores": 211
+   "seguidores": 212
   }
  ],
  "seguidores_historico": [
@@ -2069,6 +2069,10 @@
   {
    "data": "2026-10-26",
    "seguidores": 1323
+  },
+  {
+   "data": "2026-10-27",
+   "seguidores": 1322
   }
  ],
  "novos_seguidores": [
@@ -2226,22 +2230,26 @@
   },
   {
    "data": "2026-10-25",
+   "novos": 1
+  },
+  {
+   "data": "2026-10-26",
    "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1323,
-   "novos_seguidores": 7,
+   "seguidores_atual": 1322,
+   "novos_seguidores": 8,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -2,
-   "variacao_pct": -0.15,
-   "dias_com_total": 11,
+   "variacao": -3,
+   "variacao_pct": -0.23,
+   "dias_com_total": 12,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 5,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2286,21 +2294,25 @@
     {
      "data": "2026-10-26",
      "seguidores": 1323
+    },
+    {
+     "data": "2026-10-27",
+     "seguidores": 1322
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1323,
-   "novos_seguidores": 10,
-   "dias_com_novos": 39,
+   "seguidores_atual": 1322,
+   "novos_seguidores": 11,
+   "dias_com_novos": 40,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -2,
-   "variacao_pct": -0.15,
-   "dias_com_total": 11,
+   "variacao": -3,
+   "variacao_pct": -0.23,
+   "dias_com_total": 12,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 5,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2345,21 +2357,25 @@
     {
      "data": "2026-10-26",
      "seguidores": 1323
+    },
+    {
+     "data": "2026-10-27",
+     "seguidores": 1322
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1323,
-   "novos_seguidores": 10,
-   "dias_com_novos": 39,
+   "seguidores_atual": 1322,
+   "novos_seguidores": 11,
+   "dias_com_novos": 40,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -2,
-   "variacao_pct": -0.15,
-   "dias_com_total": 11,
+   "variacao": -3,
+   "variacao_pct": -0.23,
+   "dias_com_total": 12,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 3,
+   "deixaram_de_seguir_estimado": 5,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2404,11 +2420,25 @@
     {
      "data": "2026-10-26",
      "seguidores": 1323
+    },
+    {
+     "data": "2026-10-27",
+     "seguidores": 1322
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18017393960958206",
+   "data": "2026-10-26",
+   "data_hora": "26/10/26 18:04",
+   "alcance": 36,
+   "visualizacoes": 47,
+   "respostas": 1,
+   "interacoes": 2,
+   "data_hora_iso": "2026-10-26T18:04:40-03:00"
+  },
   {
    "id": "18228520567329927",
    "data": "2026-10-22",
@@ -2521,15 +2551,15 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 17,
-   "alcance_medio": 63,
-   "taxa_engajamento": 50.8
+   "posts": 18,
+   "alcance_medio": 61,
+   "taxa_engajamento": 50.4
   },
   {
    "formato": "Carrossel",
    "posts": 23,
    "alcance_medio": 40,
-   "taxa_engajamento": 38.7
+   "taxa_engajamento": 38.6
   },
   {
    "formato": "Imagem",
@@ -2607,16 +2637,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
    "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 154,
-   "visualizacoes": 196,
+   "alcance": 155,
+   "visualizacoes": 197,
    "curtidas": 3,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 5,
    "taxa_engajamento": 3.2,
-   "reels_tempo_medio_assistido": 3235,
-   "reels_taxa_pulo": 0.795,
+   "reels_tempo_medio_assistido": 3219,
+   "reels_taxa_pulo": 0.796,
    "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
   },
   {
@@ -2742,6 +2772,26 @@
  ],
  "posts": [
   {
+   "id": "18020578413134183",
+   "data": "2026-10-26",
+   "data_hora": "26/10/26 18:04",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
+   "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
+   "alcance": 15,
+   "visualizacoes": 15,
+   "curtidas": 3,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 3,
+   "taxa_engajamento": 20.0,
+   "reels_tempo_medio_assistido": 4211,
+   "reels_taxa_pulo": 0.643,
+   "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17966081609983732",
    "data": "2026-10-22",
    "data_hora": "22/10/26 18:04",
@@ -2750,7 +2800,7 @@
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
    "alcance": 29,
-   "visualizacoes": 71,
+   "visualizacoes": 72,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
@@ -2789,14 +2839,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
-   "alcance": 31,
-   "visualizacoes": 82,
+   "alcance": 33,
+   "visualizacoes": 86,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 16.1,
+   "taxa_engajamento": 15.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2849,16 +2899,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙",
    "link": "https://www.instagram.com/reel/DepmcOzEZOs/",
-   "alcance": 154,
-   "visualizacoes": 196,
+   "alcance": 155,
+   "visualizacoes": 197,
    "curtidas": 3,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 5,
    "taxa_engajamento": 3.2,
-   "reels_tempo_medio_assistido": 3235,
-   "reels_taxa_pulo": 0.795,
+   "reels_tempo_medio_assistido": 3219,
+   "reels_taxa_pulo": 0.796,
    "legenda": "Hoje, 18 de outubro, é Dia do Médico! 🩺💙\n\nA data homenageia São Lucas, que, segundo a tradição, era médico e é o padroeiro da medicina.\n\nPara mim, ser pediatra é acompanhar cada fase do crescimento, cuidar com calma e no ritmo de cada criança, caminhar junto das famílias e, a cada consulta, cuidar também do futuro.\n\nA cada família que confia no meu cuidado: obrigada por me deixar fazer parte da história dos seus filhos. ❤️\n\nE um feliz Dia do Médico a todos os colegas que dedicam a vida a cuidar de pessoas!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#diadomedico #18deoutubro #pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #medicina #gratidao #maternidade"
   },
   {
@@ -4404,7 +4454,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-10-27-introducao-alimentar",
@@ -4538,9 +4588,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 11,
+  "agendados": 10,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 3,
-  "publicados": 7
+  "publicados": 8
  }
 }
