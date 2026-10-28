@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-27T06:07:59-03:00",
- "atualizado_em_texto": "27/10/26 06:07",
+ "atualizado_em": "2026-10-28T06:05:42-03:00",
+ "atualizado_em_texto": "28/10/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1322,
-  "publicacoes": 77
+  "publicacoes": 78
  },
  "resumo_30d": {
-  "alcance": 880,
-  "visualizacoes": 2141,
-  "contas_engajadas": 71,
-  "alcance_seguidores": 544,
-  "alcance_nao_seguidores": 336,
+  "alcance": 965,
+  "visualizacoes": 2292,
+  "contas_engajadas": 78,
+  "alcance_seguidores": 592,
+  "alcance_nao_seguidores": 373,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 905,
-  "visualizacoes": 2252,
-  "contas_engajadas": 71,
-  "alcance_seguidores": 547,
-  "alcance_nao_seguidores": 358,
+  "alcance": 990,
+  "visualizacoes": 2410,
+  "contas_engajadas": 79,
+  "alcance_seguidores": 595,
+  "alcance_nao_seguidores": 395,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1443,
-  "visualizacoes": 3514,
-  "contas_engajadas": 108,
-  "alcance_seguidores": 864,
-  "alcance_nao_seguidores": 582,
+  "alcance": 1522,
+  "visualizacoes": 3665,
+  "contas_engajadas": 116,
+  "alcance_seguidores": 907,
+  "alcance_nao_seguidores": 618,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-01",
-   "alcance": 7,
-   "visualizacoes": 7,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 5,
-   "alcance_nao_seguidores": 2,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-02",
    "alcance": 0,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-10-27",
-   "alcance": 1,
+   "alcance": 87,
+   "visualizacoes": 158,
+   "contas_engajadas": 8,
+   "alcance_seguidores": 49,
+   "alcance_nao_seguidores": 38,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-28",
+   "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
-   "alcance_seguidores": 1,
+   "alcance_seguidores": 0,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1661,7 +1661,7 @@
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 91
+   "seguidores": 92
   },
   {
    "cidade": "Vespasiano",
@@ -1686,7 +1686,7 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 36
+   "seguidores": 37
   },
   {
    "cidade": "Ribeirão das Neves",
@@ -1711,7 +1711,7 @@
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 13
   },
   {
    "cidade": "Santa Luzia",
@@ -1754,11 +1754,6 @@
    "seguidores": 7
   },
   {
-   "cidade": "Sete Lagoas",
-   "estado": "Minas Gerais",
-   "seguidores": 6
-  },
-  {
    "cidade": "Conselheiro Lafaiete",
    "estado": "Minas Gerais",
    "seguidores": 6
@@ -1771,6 +1766,11 @@
   {
    "cidade": "Brasília",
    "estado": "Federal District",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Sete Lagoas",
+   "estado": "Minas Gerais",
    "seguidores": 5
   },
   {
@@ -1869,8 +1869,8 @@
    "seguidores": 3
   },
   {
-   "cidade": "Barbacena",
-   "estado": "Minas Gerais",
+   "cidade": "Mogi das Cruzes",
+   "estado": "São Paulo",
    "seguidores": 2
   },
   {
@@ -1893,12 +1893,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 139
+   "seguidores": 138
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 395
+   "seguidores": 396
   },
   {
    "genero": "Feminino",
@@ -1992,11 +1992,11 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 232
+   "seguidores": 231
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 563
+   "seguidores": 564
   },
   {
    "faixa_etaria": "45-54",
@@ -2072,6 +2072,10 @@
   },
   {
    "data": "2026-10-27",
+   "seguidores": 1322
+  },
+  {
+   "data": "2026-10-28",
    "seguidores": 1322
   }
  ],
@@ -2234,6 +2238,10 @@
   },
   {
    "data": "2026-10-26",
+   "novos": 1
+  },
+  {
+   "data": "2026-10-27",
    "novos": 0
   }
  ],
@@ -2241,15 +2249,15 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1322,
-   "novos_seguidores": 8,
+   "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 12,
+   "dias_com_total": 13,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 5,
+   "deixaram_de_seguir_estimado": 6,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2297,6 +2305,10 @@
     },
     {
      "data": "2026-10-27",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-28",
      "seguidores": 1322
     }
    ]
@@ -2304,15 +2316,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1322,
-   "novos_seguidores": 11,
-   "dias_com_novos": 40,
+   "novos_seguidores": 12,
+   "dias_com_novos": 41,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 12,
+   "dias_com_total": 13,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 5,
+   "deixaram_de_seguir_estimado": 6,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2360,6 +2372,10 @@
     },
     {
      "data": "2026-10-27",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-10-28",
      "seguidores": 1322
     }
    ]
@@ -2367,15 +2383,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1322,
-   "novos_seguidores": 11,
-   "dias_com_novos": 40,
+   "novos_seguidores": 12,
+   "dias_com_novos": 41,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 12,
+   "dias_com_total": 13,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 5,
+   "deixaram_de_seguir_estimado": 6,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2424,11 +2440,25 @@
     {
      "data": "2026-10-27",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-10-28",
+     "seguidores": 1322
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18114635930591506",
+   "data": "2026-10-27",
+   "data_hora": "27/10/26 18:05",
+   "alcance": 20,
+   "visualizacoes": 31,
+   "respostas": 0,
+   "interacoes": 1,
+   "data_hora_iso": "2026-10-27T18:05:40-03:00"
+  },
   {
    "id": "18017393960958206",
    "data": "2026-10-26",
@@ -2540,32 +2570,25 @@
    "data_hora_iso": "2026-10-15T12:43:30-03:00"
   }
  ],
- "aprovacoes": [
-  {
-   "conversa": "Engasgo: o que fazer nos primeiros minutos",
-   "data_hora": "20/10/26 20:53",
-   "resposta": "APROVADO TODOS",
-   "data_hora_iso": "2026-10-20T20:53:56-03:00"
-  }
- ],
+ "aprovacoes": [],
  "por_formato": [
   {
    "formato": "Reels",
    "posts": 18,
-   "alcance_medio": 61,
-   "taxa_engajamento": 50.4
+   "alcance_medio": 63,
+   "taxa_engajamento": 48.5
   },
   {
    "formato": "Carrossel",
-   "posts": 23,
-   "alcance_medio": 40,
-   "taxa_engajamento": 38.6
+   "posts": 24,
+   "alcance_medio": 39,
+   "taxa_engajamento": 38.4
   },
   {
    "formato": "Imagem",
    "posts": 36,
    "alcance_medio": 19,
-   "taxa_engajamento": 117.4
+   "taxa_engajamento": 117.3
   }
  ],
  "melhores_posts": [
@@ -2772,6 +2795,26 @@
  ],
  "posts": [
   {
+   "id": "18092425349701320",
+   "data": "2026-10-27",
+   "data_hora": "27/10/26 18:05",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.",
+   "link": "https://www.instagram.com/p/DfAyCAyDNOt/",
+   "alcance": 12,
+   "visualizacoes": 38,
+   "curtidas": 5,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 5,
+   "taxa_engajamento": 41.7,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.\n\nNeste post você vai ver:\n✔️ quando começar\n✔️ como montar o primeiro pratinho\n✔️ o que evitar no 1º ano\n✔️ dicas de textura e paciência\n\nLembre-se: recusar faz parte! Pode levar várias tentativas até o bebê aceitar um alimento novo.\n\n📌 Salve para consultar na hora de preparar o pratinho e envie para quem também cuida do seu bebê.\n\n🩺 Acompanhamento da introdução alimentar em casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #introducaoalimentar #alimentacaoinfantil #bebe6meses #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "18020578413134183",
    "data": "2026-10-26",
    "data_hora": "26/10/26 18:04",
@@ -2779,16 +2822,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
-   "alcance": 15,
-   "visualizacoes": 15,
+   "alcance": 55,
+   "visualizacoes": 62,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 20.0,
-   "reels_tempo_medio_assistido": 4211,
-   "reels_taxa_pulo": 0.643,
+   "taxa_engajamento": 5.5,
+   "reels_tempo_medio_assistido": 2291,
+   "reels_taxa_pulo": 0.881,
    "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2799,14 +2842,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 29,
-   "visualizacoes": 72,
+   "alcance": 34,
+   "visualizacoes": 88,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 13.8,
+   "taxa_engajamento": 11.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -2819,16 +2862,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!",
    "link": "https://www.instagram.com/reel/DexVLgsiAR7/",
-   "alcance": 26,
-   "visualizacoes": 37,
+   "alcance": 27,
+   "visualizacoes": 38,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 11.5,
-   "reels_tempo_medio_assistido": 6138,
-   "reels_taxa_pulo": 0.615,
+   "taxa_engajamento": 11.1,
+   "reels_tempo_medio_assistido": 6009,
+   "reels_taxa_pulo": 0.63,
    "legenda": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!\n\nNão há evidência científica de que o cheiro do limão melhore o sono. E deixar a fruta no berço ainda pode irritar a pele, causar engasgo se o bebê levar à boca e atrair insetos.\n\nO que ajuda de verdade:\n✔️ rotina calma antes de dormir\n✔️ berço vazio, sem objetos, travesseiros ou pelúcias\n✔️ bebê de barriga para cima\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #sonoseguro #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2839,14 +2882,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
-   "alcance": 33,
-   "visualizacoes": 86,
+   "alcance": 34,
+   "visualizacoes": 87,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 15.2,
+   "taxa_engajamento": 14.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3119,14 +3162,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão qu",
    "link": "https://www.instagram.com/p/CvN0mHHOac3/",
-   "alcance": 49,
+   "alcance": 50,
    "visualizacoes": 0,
    "curtidas": 26,
    "comentarios": 14,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 40,
-   "taxa_engajamento": 81.6,
+   "taxa_engajamento": 80.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão que sinto pela minha profissão e pelos meus pacientes maravilhosos.\n\nCuidar das crianças é a minha paixão e missão de vida. Ver cada sorriso, acompanhar seu crescimento saudável e contribuir para o seu bem-estar enche meu coração de alegria e satisfação.\n\nAgradeço de todo o coração às famílias que confiam no meu trabalho e me permitem fazer parte da vida de seus pequenos tesouros. É uma honra poder estar presente nesse momento tão especial da infância, proporcionando cuidado, carinho e atenção a cada um deles.\n\nA jornada como pediatra é desafiadora, mas é a dedicação e o carinho que fazem cada obstáculo valer a pena. Agradeço também aos meus colegas de profissão, que compartilham dessa mesma paixão e juntos buscam oferecer o melhor atendimento para nossos pacientes.\n\nPara todos os meus pacientes e suas famílias, saibam que cada um de vocês ocupa um lugar especial no meu coração. Agradeço por me permitirem ser parte de suas histórias e confiarem na minha capacidade de cuidar e zelar pelo bem-estar das crianças.\n\nHoje, no Dia do Pediatra, reafirmo meu compromisso em seguir oferecendo o melhor cuidado possível para cada criança que cruza o meu caminho. Que o amor e o carinho continuem guiando minha jornada na pediatria!\n\n#DiaDoPediatra #AmoMinhaProfissão #AmoMeusPacientes #Gratidão\" 🌟👩‍⚕️💙"
@@ -4405,45 +4448,6 @@
    "situacao": "Publicado"
   },
   {
-   "id": "2026-10-23-reels-06-engasgo",
-   "data": "2026-10-23",
-   "data_texto": "23/10",
-   "dia": "Sex",
-   "hora": "18h",
-   "formato": "Reels",
-   "tema": "Engasgo: o que fazer nos primeiros minutos",
-   "story_hora": "18h",
-   "aprovacao_post": "Aprovado",
-   "aprovacao_story": "Aprovado",
-   "situacao": "Não publicado"
-  },
-  {
-   "id": "2026-10-24-mito-dente-febre",
-   "data": "2026-10-24",
-   "data_texto": "24/10",
-   "dia": "Sáb",
-   "hora": "18h",
-   "formato": "Carrossel",
-   "tema": "Mito ou verdade: dente nascendo dá febre?",
-   "story_hora": "18h",
-   "aprovacao_post": "Aprovado",
-   "aprovacao_story": "Aprovado",
-   "situacao": "Não publicado"
-  },
-  {
-   "id": "2026-10-25-consulta-em-casa",
-   "data": "2026-10-25",
-   "data_texto": "25/10",
-   "dia": "Dom",
-   "hora": "18h",
-   "formato": "Carrossel",
-   "tema": "Como funciona a consulta pediátrica em casa",
-   "story_hora": "18h",
-   "aprovacao_post": "Aprovado",
-   "aprovacao_story": "Aprovado",
-   "situacao": "Não publicado"
-  },
-  {
    "id": "2026-10-26-reels-repelente",
    "data": "2026-10-26",
    "data_texto": "26/10",
@@ -4467,7 +4471,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-10-28-reels-suor",
@@ -4585,12 +4589,51 @@
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
    "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-06-reels-06-engasgo",
+   "data": "2026-11-06",
+   "data_texto": "06/11",
+   "dia": "Sex",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Engasgo: o que fazer nos primeiros minutos",
+   "story_hora": "18h",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-07-mito-dente-febre",
+   "data": "2026-11-07",
+   "data_texto": "07/11",
+   "dia": "Sáb",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Mito ou verdade: dente nascendo dá febre?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-08-consulta-em-casa",
+   "data": "2026-11-08",
+   "data_texto": "08/11",
+   "dia": "Dom",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Como funciona a consulta pediátrica em casa",
+   "story_hora": "18h",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   }
  ],
  "resumo_programacao": {
-  "agendados": 10,
+  "agendados": 12,
   "aguardando_aprovacao": 0,
-  "sem_conteudo": 3,
-  "publicados": 8
+  "sem_conteudo": 0,
+  "publicados": 9
  }
 }
