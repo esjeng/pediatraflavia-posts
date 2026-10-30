@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-29T06:05:38-03:00",
- "atualizado_em_texto": "29/10/26 06:05",
+ "atualizado_em": "2026-10-30T06:05:40-03:00",
+ "atualizado_em_texto": "30/10/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1321,
-  "publicacoes": 79
+  "publicacoes": 80
  },
  "resumo_30d": {
-  "alcance": 1014,
-  "visualizacoes": 2418,
-  "contas_engajadas": 81,
-  "alcance_seguidores": 637,
-  "alcance_nao_seguidores": 377,
+  "alcance": 1104,
+  "visualizacoes": 2616,
+  "contas_engajadas": 86,
+  "alcance_seguidores": 693,
+  "alcance_nao_seguidores": 411,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1039,
-  "visualizacoes": 2536,
-  "contas_engajadas": 82,
-  "alcance_seguidores": 640,
-  "alcance_nao_seguidores": 399,
+  "alcance": 1128,
+  "visualizacoes": 2725,
+  "contas_engajadas": 87,
+  "alcance_seguidores": 695,
+  "alcance_nao_seguidores": 433,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1571,
-  "visualizacoes": 3791,
-  "contas_engajadas": 119,
-  "alcance_seguidores": 952,
-  "alcance_nao_seguidores": 622,
+  "alcance": 1658,
+  "visualizacoes": 3986,
+  "contas_engajadas": 124,
+  "alcance_seguidores": 1007,
+  "alcance_nao_seguidores": 654,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-03",
-   "alcance": 3,
-   "visualizacoes": 3,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 1,
-   "alcance_nao_seguidores": 2,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-04",
    "alcance": 1,
@@ -1644,11 +1635,20 @@
   },
   {
    "data": "2026-10-29",
-   "alcance": 2,
-   "visualizacoes": 6,
+   "alcance": 92,
+   "visualizacoes": 204,
+   "contas_engajadas": 5,
+   "alcance_seguidores": 57,
+   "alcance_nao_seguidores": 35,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-10-30",
+   "alcance": 0,
+   "visualizacoes": 0,
    "contas_engajadas": 0,
-   "alcance_seguidores": 1,
-   "alcance_nao_seguidores": 1,
+   "alcance_seguidores": 0,
+   "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
  ],
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 448
+   "seguidores": 445
   },
   {
    "cidade": "Montes Claros",
@@ -1666,12 +1666,12 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 80
+   "seguidores": 78
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 42
+   "seguidores": 44
   },
   {
    "cidade": "Lagoa Santa",
@@ -1691,7 +1691,7 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 23
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
@@ -1704,19 +1704,19 @@
    "seguidores": 18
   },
   {
-   "cidade": "Betim",
+   "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
    "seguidores": 15
   },
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 13
+   "seguidores": 14
   },
   {
-   "cidade": "Santa Luzia",
+   "cidade": "Betim",
    "estado": "Minas Gerais",
-   "seguidores": 12
+   "seguidores": 14
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1744,14 +1744,14 @@
    "seguidores": 8
   },
   {
-   "cidade": "Botumirim",
+   "cidade": "Sabará",
    "estado": "Minas Gerais",
    "seguidores": 7
   },
   {
-   "cidade": "Sabará",
+   "cidade": "Botumirim",
    "estado": "Minas Gerais",
-   "seguidores": 6
+   "seguidores": 7
   },
   {
    "cidade": "Conselheiro Lafaiete",
@@ -1787,6 +1787,11 @@
    "cidade": "Curitiba",
    "estado": "Paraná",
    "seguidores": 4
+  },
+  {
+   "cidade": "São Lourenço",
+   "estado": "Minas Gerais",
+   "seguidores": 3
   },
   {
    "cidade": "São José dos Campos",
@@ -1859,11 +1864,6 @@
    "seguidores": 3
   },
   {
-   "cidade": "Serra",
-   "estado": "Espírito Santo",
-   "seguidores": 3
-  },
-  {
    "cidade": "Sobral",
    "estado": "Ceará",
    "seguidores": 3
@@ -1874,8 +1874,8 @@
    "seguidores": 3
   },
   {
-   "cidade": "Timóteo",
-   "estado": "Minas Gerais",
+   "cidade": "Guarulhos",
+   "estado": "São Paulo",
    "seguidores": 2
   }
  ],
@@ -1898,7 +1898,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 394
+   "seguidores": 395
   },
   {
    "genero": "Feminino",
@@ -1996,7 +1996,7 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 562
+   "seguidores": 563
   },
   {
    "faixa_etaria": "45-54",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 865
+   "seguidores": 866
   },
   {
    "genero": "Masculino",
@@ -2080,6 +2080,10 @@
   },
   {
    "data": "2026-10-29",
+   "seguidores": 1321
+  },
+  {
+   "data": "2026-10-30",
    "seguidores": 1321
   }
  ],
@@ -2250,6 +2254,10 @@
   },
   {
    "data": "2026-10-28",
+   "novos": 1
+  },
+  {
+   "data": "2026-10-29",
    "novos": 0
   }
  ],
@@ -2263,9 +2271,9 @@
    "seguidores_inicio": 1325,
    "variacao": -4,
    "variacao_pct": -0.3,
-   "dias_com_total": 14,
+   "dias_com_total": 15,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 7,
+   "deixaram_de_seguir_estimado": 8,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2321,6 +2329,10 @@
     },
     {
      "data": "2026-10-29",
+     "seguidores": 1321
+    },
+    {
+     "data": "2026-10-30",
      "seguidores": 1321
     }
    ]
@@ -2328,15 +2340,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1321,
-   "novos_seguidores": 12,
-   "dias_com_novos": 42,
+   "novos_seguidores": 13,
+   "dias_com_novos": 43,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -4,
    "variacao_pct": -0.3,
-   "dias_com_total": 14,
+   "dias_com_total": 15,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 7,
+   "deixaram_de_seguir_estimado": 8,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2392,6 +2404,10 @@
     },
     {
      "data": "2026-10-29",
+     "seguidores": 1321
+    },
+    {
+     "data": "2026-10-30",
      "seguidores": 1321
     }
    ]
@@ -2399,15 +2415,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1321,
-   "novos_seguidores": 12,
-   "dias_com_novos": 42,
+   "novos_seguidores": 13,
+   "dias_com_novos": 43,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -4,
    "variacao_pct": -0.3,
-   "dias_com_total": 14,
+   "dias_com_total": 15,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 7,
+   "deixaram_de_seguir_estimado": 8,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2464,11 +2480,25 @@
     {
      "data": "2026-10-29",
      "seguidores": 1321
+    },
+    {
+     "data": "2026-10-30",
+     "seguidores": 1321
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18160393306519432",
+   "data": "2026-10-29",
+   "data_hora": "29/10/26 18:05",
+   "alcance": 21,
+   "visualizacoes": 27,
+   "respostas": 1,
+   "interacoes": 1,
+   "data_hora_iso": "2026-10-29T18:05:19-03:00"
+  },
   {
    "id": "18155057911527882",
    "data": "2026-10-28",
@@ -2605,14 +2635,14 @@
   {
    "formato": "Reels",
    "posts": 19,
-   "alcance_medio": 61,
-   "taxa_engajamento": 47.4
+   "alcance_medio": 62,
+   "taxa_engajamento": 47.0
   },
   {
    "formato": "Carrossel",
-   "posts": 24,
-   "alcance_medio": 40,
-   "taxa_engajamento": 38.2
+   "posts": 25,
+   "alcance_medio": 39,
+   "taxa_engajamento": 37.9
   },
   {
    "formato": "Imagem",
@@ -2630,16 +2660,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 493,
-   "visualizacoes": 635,
+   "alcance": 502,
+   "visualizacoes": 711,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
-   "compartilhamentos": 3,
-   "interacoes": 11,
-   "taxa_engajamento": 2.2,
-   "reels_tempo_medio_assistido": 5311,
-   "reels_taxa_pulo": 0.781,
+   "compartilhamentos": 4,
+   "interacoes": 12,
+   "taxa_engajamento": 2.4,
+   "reels_tempo_medio_assistido": 5216,
+   "reels_taxa_pulo": 0.787,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
@@ -2825,6 +2855,26 @@
  ],
  "posts": [
   {
+   "id": "18419741839159875",
+   "data": "2026-10-29",
+   "data_hora": "29/10/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
+   "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
+   "alcance": 16,
+   "visualizacoes": 54,
+   "curtidas": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 4,
+   "taxa_engajamento": 25.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
+  },
+  {
    "id": "18135226339669910",
    "data": "2026-10-28",
    "data_hora": "28/10/26 18:03",
@@ -2832,16 +2882,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/DfDWo9SkWPm/",
-   "alcance": 20,
-   "visualizacoes": 23,
-   "curtidas": 1,
+   "alcance": 24,
+   "visualizacoes": 30,
+   "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 1,
-   "taxa_engajamento": 5.0,
-   "reels_tempo_medio_assistido": 3777,
-   "reels_taxa_pulo": 0.75,
+   "interacoes": 3,
+   "taxa_engajamento": 12.5,
+   "reels_tempo_medio_assistido": 4786,
+   "reels_taxa_pulo": 0.64,
    "legenda": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!\n\nO bebê ainda está aprendendo a regular a temperatura do corpo, e no sono profundo é comum suar, principalmente na cabeça. Com o calor chegando, isso fica ainda mais frequente.\n\nComo ajustar:\n✔️ roupa leve, sem excesso de camadas\n✔️ quarto ventilado, nem quente nem frio\n✔️ para saber se ele está com calor, sinta a nuca, não as mãos ou os pés\n\n⚠️ Procure o pediatra se o suor vier com cansaço nas mamadas, ronco ou pausas na respiração, pouco ganho de peso ou febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #calor #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2852,14 +2902,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.",
    "link": "https://www.instagram.com/p/DfAyCAyDNOt/",
-   "alcance": 20,
-   "visualizacoes": 57,
-   "curtidas": 7,
+   "alcance": 23,
+   "visualizacoes": 68,
+   "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 7,
-   "taxa_engajamento": 35.0,
+   "interacoes": 8,
+   "taxa_engajamento": 34.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.\n\nNeste post você vai ver:\n✔️ quando começar\n✔️ como montar o primeiro pratinho\n✔️ o que evitar no 1º ano\n✔️ dicas de textura e paciência\n\nLembre-se: recusar faz parte! Pode levar várias tentativas até o bebê aceitar um alimento novo.\n\n📌 Salve para consultar na hora de preparar o pratinho e envie para quem também cuida do seu bebê.\n\n🩺 Acompanhamento da introdução alimentar em casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #introducaoalimentar #alimentacaoinfantil #bebe6meses #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2872,16 +2922,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
-   "alcance": 61,
-   "visualizacoes": 68,
+   "alcance": 63,
+   "visualizacoes": 71,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 6.6,
-   "reels_tempo_medio_assistido": 2491,
-   "reels_taxa_pulo": 0.862,
+   "taxa_engajamento": 6.3,
+   "reels_tempo_medio_assistido": 2473,
+   "reels_taxa_pulo": 0.866,
    "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2892,14 +2942,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 37,
-   "visualizacoes": 94,
+   "alcance": 38,
+   "visualizacoes": 95,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 13.5,
+   "taxa_engajamento": 13.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -2913,15 +2963,15 @@
    "titulo": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!",
    "link": "https://www.instagram.com/reel/DexVLgsiAR7/",
    "alcance": 31,
-   "visualizacoes": 42,
+   "visualizacoes": 43,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
    "taxa_engajamento": 12.9,
-   "reels_tempo_medio_assistido": 6867,
-   "reels_taxa_pulo": 0.6,
+   "reels_tempo_medio_assistido": 6693,
+   "reels_taxa_pulo": 0.613,
    "legenda": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!\n\nNão há evidência científica de que o cheiro do limão melhore o sono. E deixar a fruta no berço ainda pode irritar a pele, causar engasgo se o bebê levar à boca e atrair insetos.\n\nO que ajuda de verdade:\n✔️ rotina calma antes de dormir\n✔️ berço vazio, sem objetos, travesseiros ou pelúcias\n✔️ bebê de barriga para cima\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #sonoseguro #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3092,16 +3142,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 493,
-   "visualizacoes": 635,
+   "alcance": 502,
+   "visualizacoes": 711,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
-   "compartilhamentos": 3,
-   "interacoes": 11,
-   "taxa_engajamento": 2.2,
-   "reels_tempo_medio_assistido": 5311,
-   "reels_taxa_pulo": 0.781,
+   "compartilhamentos": 4,
+   "interacoes": 12,
+   "taxa_engajamento": 2.4,
+   "reels_tempo_medio_assistido": 5216,
+   "reels_taxa_pulo": 0.787,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
@@ -3460,7 +3510,7 @@
    "compartilhamentos": 0,
    "interacoes": 52,
    "taxa_engajamento": 346.7,
-   "reels_tempo_medio_assistido": 13832,
+   "reels_tempo_medio_assistido": 13813,
    "reels_taxa_pulo": 0.011,
    "legenda": "A lavagem nasal com soro fisiológico faz parte do tratamento da rinite, gripe, resfriado e sinusite.\n\nAprenda como fazê-la corretamente e envie o vídeo para outra mamãe para ela aprender também!"
   },
@@ -4547,7 +4597,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-10-30-reels-07-afogamento",
@@ -4681,9 +4731,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 11,
+  "agendados": 10,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 10
+  "publicados": 11
  }
 }
