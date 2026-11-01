@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-10-31T06:05:22-03:00",
- "atualizado_em_texto": "31/10/26 06:05",
+ "atualizado_em": "2026-11-01T06:05:04-03:00",
+ "atualizado_em_texto": "01/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1322,
-  "publicacoes": 81
+  "seguidores": 1321,
+  "publicacoes": 82
  },
  "resumo_30d": {
-  "alcance": 1158,
-  "visualizacoes": 2699,
-  "contas_engajadas": 92,
-  "alcance_seguidores": 732,
-  "alcance_nao_seguidores": 426,
+  "alcance": 1199,
+  "visualizacoes": 2792,
+  "contas_engajadas": 94,
+  "alcance_seguidores": 767,
+  "alcance_nao_seguidores": 432,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1183,
-  "visualizacoes": 2808,
-  "contas_engajadas": 93,
-  "alcance_seguidores": 734,
-  "alcance_nao_seguidores": 449,
+  "alcance": 1222,
+  "visualizacoes": 2898,
+  "contas_engajadas": 95,
+  "alcance_seguidores": 769,
+  "alcance_nao_seguidores": 453,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1712,
-  "visualizacoes": 4068,
-  "contas_engajadas": 130,
-  "alcance_seguidores": 1045,
-  "alcance_nao_seguidores": 670,
+  "alcance": 1716,
+  "visualizacoes": 4099,
+  "contas_engajadas": 127,
+  "alcance_seguidores": 1046,
+  "alcance_nao_seguidores": 673,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-05",
-   "alcance": 37,
-   "visualizacoes": 62,
-   "contas_engajadas": 5,
-   "alcance_seguidores": 34,
-   "alcance_nao_seguidores": 3,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-06",
    "alcance": 15,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-10-31",
-   "alcance": 0,
-   "visualizacoes": 0,
+   "alcance": 40,
+   "visualizacoes": 92,
+   "contas_engajadas": 2,
+   "alcance_seguidores": 34,
+   "alcance_nao_seguidores": 6,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-01",
+   "alcance": 1,
+   "visualizacoes": 1,
    "contas_engajadas": 0,
-   "alcance_seguidores": 0,
+   "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1666,7 +1666,7 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 78
+   "seguidores": 77
   },
   {
    "cidade": "Contagem",
@@ -1874,7 +1874,7 @@
    "seguidores": 3
   },
   {
-   "cidade": "Taiobeiras",
+   "cidade": "Capitão Enéas",
    "estado": "Minas Gerais",
    "seguidores": 2
   }
@@ -1898,7 +1898,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 395
+   "seguidores": 394
   },
   {
    "genero": "Feminino",
@@ -1996,7 +1996,7 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 563
+   "seguidores": 562
   },
   {
    "faixa_etaria": "45-54",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 867
+   "seguidores": 866
   },
   {
    "genero": "Masculino",
@@ -2089,6 +2089,10 @@
   {
    "data": "2026-10-31",
    "seguidores": 1322
+  },
+  {
+   "data": "2026-11-01",
+   "seguidores": 1321
   }
  ],
  "novos_seguidores": [
@@ -2267,21 +2271,25 @@
   {
    "data": "2026-10-30",
    "novos": 0
+  },
+  {
+   "data": "2026-10-31",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1322,
+   "seguidores_atual": 1321,
    "novos_seguidores": 9,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 16,
+   "variacao": -4,
+   "variacao_pct": -0.3,
+   "dias_com_total": 17,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2346,21 +2354,25 @@
     {
      "data": "2026-10-31",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-01",
+     "seguidores": 1321
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1322,
+   "seguidores_atual": 1321,
    "novos_seguidores": 14,
-   "dias_com_novos": 44,
+   "dias_com_novos": 45,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 16,
+   "variacao": -4,
+   "variacao_pct": -0.3,
+   "dias_com_total": 17,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2425,21 +2437,25 @@
     {
      "data": "2026-10-31",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-01",
+     "seguidores": 1321
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1322,
+   "seguidores_atual": 1321,
    "novos_seguidores": 14,
-   "dias_com_novos": 44,
+   "dias_com_novos": 45,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 16,
+   "variacao": -4,
+   "variacao_pct": -0.3,
+   "dias_com_total": 17,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2504,11 +2520,25 @@
     {
      "data": "2026-10-31",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-01",
+     "seguidores": 1321
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "17992236780020625",
+   "data": "2026-10-31",
+   "data_hora": "31/10/26 18:06",
+   "alcance": 16,
+   "visualizacoes": 22,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-10-31T18:06:12-03:00"
+  },
   {
    "id": "18421324957159624",
    "data": "2026-10-30",
@@ -2665,14 +2695,14 @@
   {
    "formato": "Reels",
    "posts": 20,
-   "alcance_medio": 60,
-   "taxa_engajamento": 46.4
+   "alcance_medio": 61,
+   "taxa_engajamento": 46.0
   },
   {
    "formato": "Carrossel",
-   "posts": 25,
-   "alcance_medio": 39,
-   "taxa_engajamento": 37.9
+   "posts": 26,
+   "alcance_medio": 38,
+   "taxa_engajamento": 37.6
   },
   {
    "formato": "Imagem",
@@ -2879,11 +2909,31 @@
    "interacoes": 20,
    "taxa_engajamento": 28.6,
    "reels_tempo_medio_assistido": 9270,
-   "reels_taxa_pulo": 0.044,
+   "reels_taxa_pulo": 0.041,
    "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
   }
  ],
  "posts": [
+  {
+   "id": "18016449242755402",
+   "data": "2026-10-31",
+   "data_hora": "31/10/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Açúcar deixa a criança agitada? 🍬 Mito!",
+   "link": "https://www.instagram.com/p/DfLFGiXjCh7/",
+   "alcance": 14,
+   "visualizacoes": 38,
+   "curtidas": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 2,
+   "taxa_engajamento": 14.3,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Açúcar deixa a criança agitada? 🍬 Mito!\n\nOs estudos não mostram que o açúcar cause hiperatividade. A agitação costuma vir do ambiente: festa, amigos, empolgação e horário fora da rotina.\n\nMas isso não libera os doces! O açúcar em excesso causa cáries, ganho de peso e deixa o paladar acostumado ao doce. Antes dos 2 anos, o ideal é nada de açúcar.\n\nDicas para o Halloween 🎃\n✔️ combine antes quantos doces pode\n✔️ doce depois da refeição, não no lugar dela\n✔️ ofereça água, não refrigerante\n✔️ escove os dentes depois\n✔️ frutas fantasiadas também fazem sucesso\n\n⚠️ Balas duras, pirulitos e chicletes oferecem risco de engasgo antes dos 4 anos. Confira as embalagens, fique por perto enquanto a criança come e, se houver alergia alimentar, leia os rótulos com atenção.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #halloween #alimentacaoinfantil #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
   {
    "id": "18141583972617808",
    "data": "2026-10-30",
@@ -2892,16 +2942,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Afogamento é silencioso 🌊 E acontece em segundos.",
    "link": "https://www.instagram.com/reel/DfIgO9Hmn0T/",
-   "alcance": 20,
-   "visualizacoes": 24,
-   "curtidas": 4,
+   "alcance": 29,
+   "visualizacoes": 33,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 20.0,
-   "reels_tempo_medio_assistido": 7042,
-   "reels_taxa_pulo": 0.737,
+   "interacoes": 5,
+   "taxa_engajamento": 17.2,
+   "reels_tempo_medio_assistido": 6445,
+   "reels_taxa_pulo": 0.714,
    "legenda": "Afogamento é silencioso 🌊 E acontece em segundos.\n\nA criança que está se afogando não grita nem se debate: afunda em silêncio, até em água rasa, como em baldes, banheiras e piscinas infantis.\n\n5 regras de segurança:\n✔️ um adulto olhando a criança o tempo todo, sem celular\n✔️ piscina cercada, com portão e trava\n✔️ baldes e banheira vazios logo depois de usar\n✔️ boia não é babá: prefira colete salva-vidas\n✔️ aulas de natação ajudam, mas não dispensam a vigilância\n\n⚠️ Se acontecer: tire a criança da água e ligue 192 ou 193. Se ela não estiver respirando, comece a reanimação. Mesmo que pareça bem depois, leve para avaliação médica.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #afogamento #segurancanaagua #segurancainfantil #verao #maternidade #dicasdepediatra"
   },
   {
@@ -2912,14 +2962,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
    "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
-   "alcance": 20,
-   "visualizacoes": 65,
-   "curtidas": 5,
+   "alcance": 21,
+   "visualizacoes": 66,
+   "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 25.0,
+   "interacoes": 6,
+   "taxa_engajamento": 28.6,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -2932,16 +2982,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/DfDWo9SkWPm/",
-   "alcance": 24,
-   "visualizacoes": 30,
+   "alcance": 25,
+   "visualizacoes": 31,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 12.5,
-   "reels_tempo_medio_assistido": 4651,
-   "reels_taxa_pulo": 0.64,
+   "taxa_engajamento": 12.0,
+   "reels_tempo_medio_assistido": 4632,
+   "reels_taxa_pulo": 0.615,
    "legenda": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!\n\nO bebê ainda está aprendendo a regular a temperatura do corpo, e no sono profundo é comum suar, principalmente na cabeça. Com o calor chegando, isso fica ainda mais frequente.\n\nComo ajustar:\n✔️ roupa leve, sem excesso de camadas\n✔️ quarto ventilado, nem quente nem frio\n✔️ para saber se ele está com calor, sinta a nuca, não as mãos ou os pés\n\n⚠️ Procure o pediatra se o suor vier com cansaço nas mamadas, ronco ou pausas na respiração, pouco ganho de peso ou febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #calor #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2952,14 +3002,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.",
    "link": "https://www.instagram.com/p/DfAyCAyDNOt/",
-   "alcance": 23,
-   "visualizacoes": 70,
+   "alcance": 24,
+   "visualizacoes": 72,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 8,
-   "taxa_engajamento": 34.8,
+   "taxa_engajamento": 33.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.\n\nNeste post você vai ver:\n✔️ quando começar\n✔️ como montar o primeiro pratinho\n✔️ o que evitar no 1º ano\n✔️ dicas de textura e paciência\n\nLembre-se: recusar faz parte! Pode levar várias tentativas até o bebê aceitar um alimento novo.\n\n📌 Salve para consultar na hora de preparar o pratinho e envie para quem também cuida do seu bebê.\n\n🩺 Acompanhamento da introdução alimentar em casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #introducaoalimentar #alimentacaoinfantil #bebe6meses #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2972,7 +3022,7 @@
    "tipo_instagram": "REELS",
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
-   "alcance": 64,
+   "alcance": 65,
    "visualizacoes": 72,
    "curtidas": 4,
    "comentarios": 0,
@@ -3281,7 +3331,7 @@
    "interacoes": 16,
    "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": 2294,
-   "reels_taxa_pulo": 0.062,
+   "reels_taxa_pulo": 0.053,
    "legenda": "Feliz 2024!"
   },
   {
@@ -3801,7 +3851,7 @@
    "interacoes": 39,
    "taxa_engajamento": 195.0,
    "reels_tempo_medio_assistido": 5388,
-   "reels_taxa_pulo": 0.018,
+   "reels_taxa_pulo": 0.016,
    "legenda": "Feliz Natal! 🎄"
   },
   {
@@ -3941,7 +3991,7 @@
    "interacoes": 20,
    "taxa_engajamento": 28.6,
    "reels_tempo_medio_assistido": 9270,
-   "reels_taxa_pulo": 0.044,
+   "reels_taxa_pulo": 0.041,
    "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
   },
   {
@@ -4673,7 +4723,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-01-caixinha-perguntas",
@@ -4781,9 +4831,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 9,
+  "agendados": 8,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 12
+  "publicados": 13
  }
 }
