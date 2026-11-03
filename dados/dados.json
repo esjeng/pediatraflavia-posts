@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-02T06:06:29-03:00",
- "atualizado_em_texto": "02/11/26 06:06",
+ "atualizado_em": "2026-11-03T06:06:25-03:00",
+ "atualizado_em_texto": "03/11/26 06:06",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1322,
-  "publicacoes": 83
+  "publicacoes": 84
  },
  "resumo_30d": {
-  "alcance": 1239,
-  "visualizacoes": 2910,
+  "alcance": 1277,
+  "visualizacoes": 2996,
   "contas_engajadas": 98,
-  "alcance_seguidores": 807,
-  "alcance_nao_seguidores": 432,
+  "alcance_seguidores": 843,
+  "alcance_nao_seguidores": 433,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1262,
-  "visualizacoes": 3012,
+  "alcance": 1300,
+  "visualizacoes": 3098,
   "contas_engajadas": 99,
-  "alcance_seguidores": 809,
-  "alcance_nao_seguidores": 453,
+  "alcance_seguidores": 845,
+  "alcance_nao_seguidores": 454,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1742,
-  "visualizacoes": 4182,
-  "contas_engajadas": 130,
-  "alcance_seguidores": 1072,
-  "alcance_nao_seguidores": 673,
+  "alcance": 1691,
+  "visualizacoes": 4141,
+  "contas_engajadas": 129,
+  "alcance_seguidores": 1096,
+  "alcance_nao_seguidores": 597,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-07",
-   "alcance": 89,
-   "visualizacoes": 127,
-   "contas_engajadas": 1,
-   "alcance_seguidores": 12,
-   "alcance_nao_seguidores": 77,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-08",
    "alcance": 4,
@@ -1636,7 +1627,7 @@
   {
    "data": "2026-11-01",
    "alcance": 40,
-   "visualizacoes": 115,
+   "visualizacoes": 116,
    "contas_engajadas": 4,
    "alcance_seguidores": 40,
    "alcance_nao_seguidores": 0,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-11-02",
+   "alcance": 38,
+   "visualizacoes": 85,
+   "contas_engajadas": 0,
+   "alcance_seguidores": 37,
+   "alcance_nao_seguidores": 1,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-03",
    "alcance": 1,
    "visualizacoes": 1,
    "contas_engajadas": 0,
-   "alcance_seguidores": 1,
+   "alcance_seguidores": 0,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1656,17 +1656,17 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 445
+   "seguidores": 450
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 88
+   "seguidores": 89
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 77
+   "seguidores": 73
   },
   {
    "cidade": "Contagem",
@@ -1676,12 +1676,12 @@
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 39
+   "seguidores": 40
   },
   {
    "cidade": "São Paulo",
    "estado": "São Paulo",
-   "seguidores": 37
+   "seguidores": 36
   },
   {
    "cidade": "Cordeiro",
@@ -1691,32 +1691,32 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 24
+   "seguidores": 21
   },
   {
    "cidade": "Pará",
    "estado": "Minas Gerais",
-   "seguidores": 20
+   "seguidores": 19
   },
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 18
+   "seguidores": 17
   },
   {
    "cidade": "Santa Luzia",
+   "estado": "Minas Gerais",
+   "seguidores": 16
+  },
+  {
+   "cidade": "Betim",
    "estado": "Minas Gerais",
    "seguidores": 15
   },
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 14
-  },
-  {
-   "cidade": "Betim",
-   "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 13
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1729,29 +1729,24 @@
    "seguidores": 10
   },
   {
-   "cidade": "Goiânia",
-   "estado": "Goiás",
-   "seguidores": 8
-  },
-  {
    "cidade": "Fortaleza",
    "estado": "Ceará",
    "seguidores": 8
   },
   {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
+   "cidade": "Goiânia",
+   "estado": "Goiás",
    "seguidores": 8
-  },
-  {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 7
   },
   {
    "cidade": "Botumirim",
    "estado": "Minas Gerais",
    "seguidores": 7
+  },
+  {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
+   "seguidores": 6
   },
   {
    "cidade": "Sete Lagoas",
@@ -1771,6 +1766,11 @@
   {
    "cidade": "Brasília",
    "estado": "Federal District",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 5
   },
   {
@@ -1816,11 +1816,6 @@
   {
    "cidade": "Uberaba",
    "estado": "Minas Gerais",
-   "seguidores": 3
-  },
-  {
-   "cidade": "Teresina",
-   "estado": "Piauí",
    "seguidores": 3
   },
   {
@@ -1877,6 +1872,11 @@
    "cidade": "Cintra",
    "estado": "Lisbon District",
    "seguidores": 2
+  },
+  {
+   "cidade": "Patos de Minas",
+   "estado": "Minas Gerais",
+   "seguidores": 2
   }
  ],
  "publico_genero_idade": [
@@ -1893,17 +1893,17 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 139
+   "seguidores": 140
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 394
+   "seguidores": 393
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "45-54",
-   "seguidores": 215
+   "seguidores": 216
   },
   {
    "genero": "Feminino",
@@ -1992,15 +1992,15 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 232
+   "seguidores": 233
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 562
+   "seguidores": 561
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 313
+   "seguidores": 314
   },
   {
    "faixa_etaria": "55-64",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 866
+   "seguidores": 867
   },
   {
    "genero": "Masculino",
@@ -2096,6 +2096,10 @@
   },
   {
    "data": "2026-11-02",
+   "seguidores": 1322
+  },
+  {
+   "data": "2026-11-03",
    "seguidores": 1322
   }
  ],
@@ -2282,6 +2286,10 @@
   },
   {
    "data": "2026-11-01",
+   "novos": 1
+  },
+  {
+   "data": "2026-11-02",
    "novos": 0
   }
  ],
@@ -2289,15 +2297,15 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1322,
-   "novos_seguidores": 9,
+   "novos_seguidores": 10,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 18,
+   "dias_com_total": 19,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2369,6 +2377,10 @@
     },
     {
      "data": "2026-11-02",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-11-03",
      "seguidores": 1322
     }
    ]
@@ -2376,15 +2388,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1322,
-   "novos_seguidores": 14,
-   "dias_com_novos": 46,
+   "novos_seguidores": 15,
+   "dias_com_novos": 47,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 18,
+   "dias_com_total": 19,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2456,6 +2468,10 @@
     },
     {
      "data": "2026-11-02",
+     "seguidores": 1322
+    },
+    {
+     "data": "2026-11-03",
      "seguidores": 1322
     }
    ]
@@ -2463,15 +2479,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1322,
-   "novos_seguidores": 14,
-   "dias_com_novos": 46,
+   "novos_seguidores": 15,
+   "dias_com_novos": 47,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -3,
    "variacao_pct": -0.23,
-   "dias_com_total": 18,
+   "dias_com_total": 19,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 8,
+   "deixaram_de_seguir_estimado": 9,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2544,11 +2560,25 @@
     {
      "data": "2026-11-02",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-03",
+     "seguidores": 1322
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18647459443023012",
+   "data": "2026-11-02",
+   "data_hora": "02/11/26 18:07",
+   "alcance": 17,
+   "visualizacoes": 19,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-02T18:07:17-03:00"
+  },
   {
    "id": "18081956477447911",
    "data": "2026-11-01",
@@ -2724,21 +2754,21 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 20,
-   "alcance_medio": 61,
-   "taxa_engajamento": 45.9
+   "posts": 21,
+   "alcance_medio": 59,
+   "taxa_engajamento": 45.6
   },
   {
    "formato": "Carrossel",
    "posts": 27,
    "alcance_medio": 37,
-   "taxa_engajamento": 37.2
+   "taxa_engajamento": 37.3
   },
   {
    "formato": "Imagem",
    "posts": 36,
-   "alcance_medio": 19,
-   "taxa_engajamento": 117.3
+   "alcance_medio": 18,
+   "taxa_engajamento": 121.7
   }
  ],
  "melhores_posts": [
@@ -2750,15 +2780,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 507,
-   "visualizacoes": 728,
+   "alcance": 508,
+   "visualizacoes": 729,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5216,
+   "reels_tempo_medio_assistido": 5209,
    "reels_taxa_pulo": 0.786,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -2923,27 +2953,47 @@
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
-   "id": "17885285048756351",
-   "data": "2022-11-27",
-   "data_hora": "27/11/22 21:59",
+   "id": "18020578413134183",
+   "data": "2026-10-26",
+   "data_hora": "26/10/26 18:04",
    "formato": "Reels",
    "tipo_instagram": "REELS",
-   "titulo": "Você sabia que existe a consulta domiciliar?",
-   "link": "https://www.instagram.com/reel/ClfECrjPPKN/",
-   "alcance": 70,
-   "visualizacoes": 607,
-   "curtidas": 17,
-   "comentarios": 2,
-   "salvamentos": 1,
+   "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
+   "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
+   "alcance": 65,
+   "visualizacoes": 72,
+   "curtidas": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 20,
-   "taxa_engajamento": 28.6,
-   "reels_tempo_medio_assistido": 9270,
-   "reels_taxa_pulo": 0.041,
-   "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
+   "interacoes": 4,
+   "taxa_engajamento": 6.2,
+   "reels_tempo_medio_assistido": 2417,
+   "reels_taxa_pulo": 0.868,
+   "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   }
  ],
  "posts": [
+  {
+   "id": "18100565078396466",
+   "data": "2026-11-02",
+   "data_hora": "02/11/26 18:05",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!",
+   "link": "https://www.instagram.com/reel/DfQOwewkRYN/",
+   "alcance": 21,
+   "visualizacoes": 30,
+   "curtidas": 0,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 0,
+   "taxa_engajamento": 0.0,
+   "reels_tempo_medio_assistido": 8549,
+   "reels_taxa_pulo": 0.333,
+   "legenda": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!\n\nÉ uma inflamação na boca, com aftas ou feridinhas, muitas vezes causada por vírus e muito comum em crianças pequenas, principalmente quem vai para a creche.\n\nComo aliviar:\n✔️ alimentos frios e pastosos (iogurte, frutas amassadas, papinhas frias)\n✔️ evite comidas ácidas, salgadas ou quentes\n✔️ ofereça líquidos várias vezes ao dia\n\nPara evitar o contágio: lave as mãos com frequência e não compartilhe talheres, copos e chupetas.\n\n⚠️ Procure o pediatra se a criança não conseguir beber, fizer pouco xixi, tiver febre alta ou persistente ou estiver muito abatida.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estomatite #saudeinfantil #creche #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
   {
    "id": "18112516292238315",
    "data": "2026-11-01",
@@ -2952,14 +3002,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Qual é a sua maior dúvida sobre o seu filho? 💬",
    "link": "https://www.instagram.com/p/DfNp1YzCBe_/",
-   "alcance": 14,
-   "visualizacoes": 44,
+   "alcance": 19,
+   "visualizacoes": 60,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 14.3,
+   "taxa_engajamento": 10.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Qual é a sua maior dúvida sobre o seu filho? 💬\n\nSono, alimentação, desenvolvimento, febre, viroses, vacinas... pode perguntar!\n\nDeixe a sua dúvida aqui nos comentários ou responda o story de hoje. As perguntas vão virar posts e eu respondo aqui no perfil. 👇\n\n💡 Para casos específicos do seu filho, o ideal é uma consulta.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #duvidasdemae #caixinhadeperguntas #maternidade #maedeprimeiraviagem #dicasdepediatra"
@@ -2972,14 +3022,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Açúcar deixa a criança agitada? 🍬 Mito!",
    "link": "https://www.instagram.com/p/DfLFGiXjCh7/",
-   "alcance": 18,
-   "visualizacoes": 63,
+   "alcance": 21,
+   "visualizacoes": 69,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 22.2,
+   "taxa_engajamento": 19.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Açúcar deixa a criança agitada? 🍬 Mito!\n\nOs estudos não mostram que o açúcar cause hiperatividade. A agitação costuma vir do ambiente: festa, amigos, empolgação e horário fora da rotina.\n\nMas isso não libera os doces! O açúcar em excesso causa cáries, ganho de peso e deixa o paladar acostumado ao doce. Antes dos 2 anos, o ideal é nada de açúcar.\n\nDicas para o Halloween 🎃\n✔️ combine antes quantos doces pode\n✔️ doce depois da refeição, não no lugar dela\n✔️ ofereça água, não refrigerante\n✔️ escove os dentes depois\n✔️ frutas fantasiadas também fazem sucesso\n\n⚠️ Balas duras, pirulitos e chicletes oferecem risco de engasgo antes dos 4 anos. Confira as embalagens, fique por perto enquanto a criança come e, se houver alergia alimentar, leia os rótulos com atenção.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #halloween #alimentacaoinfantil #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -2992,14 +3042,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Afogamento é silencioso 🌊 E acontece em segundos.",
    "link": "https://www.instagram.com/reel/DfIgO9Hmn0T/",
-   "alcance": 32,
+   "alcance": 33,
    "visualizacoes": 35,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 15.6,
+   "taxa_engajamento": 15.2,
    "reels_tempo_medio_assistido": 6042,
    "reels_taxa_pulo": 0.733,
    "legenda": "Afogamento é silencioso 🌊 E acontece em segundos.\n\nA criança que está se afogando não grita nem se debate: afunda em silêncio, até em água rasa, como em baldes, banheiras e piscinas infantis.\n\n5 regras de segurança:\n✔️ um adulto olhando a criança o tempo todo, sem celular\n✔️ piscina cercada, com portão e trava\n✔️ baldes e banheira vazios logo depois de usar\n✔️ boia não é babá: prefira colete salva-vidas\n✔️ aulas de natação ajudam, mas não dispensam a vigilância\n\n⚠️ Se acontecer: tire a criança da água e ligue 192 ou 193. Se ela não estiver respirando, comece a reanimação. Mesmo que pareça bem depois, leve para avaliação médica.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #afogamento #segurancanaagua #segurancainfantil #verao #maternidade #dicasdepediatra"
@@ -3012,14 +3062,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
    "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
-   "alcance": 21,
-   "visualizacoes": 66,
+   "alcance": 23,
+   "visualizacoes": 68,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 28.6,
+   "taxa_engajamento": 26.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3032,16 +3082,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/DfDWo9SkWPm/",
-   "alcance": 26,
-   "visualizacoes": 32,
+   "alcance": 27,
+   "visualizacoes": 33,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 11.5,
-   "reels_tempo_medio_assistido": 4463,
-   "reels_taxa_pulo": 0.63,
+   "taxa_engajamento": 11.1,
+   "reels_tempo_medio_assistido": 4317,
+   "reels_taxa_pulo": 0.643,
    "legenda": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!\n\nO bebê ainda está aprendendo a regular a temperatura do corpo, e no sono profundo é comum suar, principalmente na cabeça. Com o calor chegando, isso fica ainda mais frequente.\n\nComo ajustar:\n✔️ roupa leve, sem excesso de camadas\n✔️ quarto ventilado, nem quente nem frio\n✔️ para saber se ele está com calor, sinta a nuca, não as mãos ou os pés\n\n⚠️ Procure o pediatra se o suor vier com cansaço nas mamadas, ronco ou pausas na respiração, pouco ganho de peso ou febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #calor #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3292,15 +3342,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 507,
-   "visualizacoes": 728,
+   "alcance": 508,
+   "visualizacoes": 729,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5216,
+   "reels_tempo_medio_assistido": 5209,
    "reels_taxa_pulo": 0.786,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -3372,14 +3422,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Feliz 2024!",
    "link": "https://www.instagram.com/reel/C1h7_OduI41/",
-   "alcance": 64,
+   "alcance": 57,
    "visualizacoes": 741,
    "curtidas": 16,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 16,
-   "taxa_engajamento": 25.0,
+   "taxa_engajamento": 28.1,
    "reels_tempo_medio_assistido": 2294,
    "reels_taxa_pulo": 0.053,
    "legenda": "Feliz 2024!"
@@ -3392,14 +3442,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "Hoje, quero compartilhar com vocês algo que toca meu coração como pediatra: a mágica da leitura na infância. 📖💕",
    "link": "https://www.instagram.com/p/Cxgk70KOv9D/",
-   "alcance": 49,
+   "alcance": 43,
    "visualizacoes": 0,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 20.4,
+   "taxa_engajamento": 23.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Hoje, quero compartilhar com vocês algo que toca meu coração como pediatra: a mágica da leitura na infância. 📖💕\n\nAcreditem, aqueles momentos preciosos em que vocês seguram um livro e leem para seus pequenos não são apenas momentos comuns. São oportunidades de construir conexões poderosas e fortalecer o desenvolvimento de seus filhos.\n\n🌟 A imaginação floresce quando as páginas se abrem. Cada história é uma aventura que os transporta para mundos inexplorados. As palavras se tornam asas que os fazem voar.\n\n🧠 Além disso, a leitura estimula o desenvolvimento cognitivo. As crianças aprendem novas palavras, expandem seu vocabulário e desenvolvem habilidades de compreensão desde tenra idade.\n\n💪 O poder da leitura não para por aí. Ela nutre a empatia, permitindo que os pequenos entendam diferentes perspectivas e se conectem emocionalmente com os personagens.\n\n❤️ A leitura em família também cria laços inquebráveis. É uma maneira especial de passar tempo juntos, abraçados na cama, explorando histórias e compartilhando risadas.\n\nEntão, aqui está o desafio para vocês: reservem um tempinho a cada dia para mergulhar nas páginas de um livro com seus filhos. Não é apenas uma atividade, é um investimento no futuro deles. 🌟\n\nE compartilhem suas experiências conosco! Usem a hashtag #LeituraInfantil e deixem nos comentários as histórias favoritas dos seus pequenos. Vamos espalhar o amor pela leitura! 📚💖\n\nLembre-se, cada página virada é um passo na jornada incrível do crescimento e aprendizado das crianças. Juntos, podemos enriquecer suas vidas por meio das palavras e da imaginação. ✨\n\n#Pediatra #LeituraNaInfância #DesenvolvimentoInfantil #AmorPelaLeitura"
@@ -3412,14 +3462,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão qu",
    "link": "https://www.instagram.com/p/CvN0mHHOac3/",
-   "alcance": 50,
+   "alcance": 45,
    "visualizacoes": 0,
    "curtidas": 26,
    "comentarios": 14,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 40,
-   "taxa_engajamento": 80.0,
+   "taxa_engajamento": 88.9,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "🌟👩‍⚕️ \"Hoje é um dia especial para nós, pediatras! 💙 Quero aproveitar esta ocasião para expressar o amor e a gratidão que sinto pela minha profissão e pelos meus pacientes maravilhosos.\n\nCuidar das crianças é a minha paixão e missão de vida. Ver cada sorriso, acompanhar seu crescimento saudável e contribuir para o seu bem-estar enche meu coração de alegria e satisfação.\n\nAgradeço de todo o coração às famílias que confiam no meu trabalho e me permitem fazer parte da vida de seus pequenos tesouros. É uma honra poder estar presente nesse momento tão especial da infância, proporcionando cuidado, carinho e atenção a cada um deles.\n\nA jornada como pediatra é desafiadora, mas é a dedicação e o carinho que fazem cada obstáculo valer a pena. Agradeço também aos meus colegas de profissão, que compartilham dessa mesma paixão e juntos buscam oferecer o melhor atendimento para nossos pacientes.\n\nPara todos os meus pacientes e suas famílias, saibam que cada um de vocês ocupa um lugar especial no meu coração. Agradeço por me permitirem ser parte de suas histórias e confiarem na minha capacidade de cuidar e zelar pelo bem-estar das crianças.\n\nHoje, no Dia do Pediatra, reafirmo meu compromisso em seguir oferecendo o melhor cuidado possível para cada criança que cruza o meu caminho. Que o amor e o carinho continuem guiando minha jornada na pediatria!\n\n#DiaDoPediatra #AmoMinhaProfissão #AmoMeusPacientes #Gratidão\" 🌟👩‍⚕️💙"
@@ -3432,14 +3482,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "Gostaria de explicar um pouco sobre alguns testes que são realizados em recém-nascidos para cuidarmos da saúde do seu be",
    "link": "https://www.instagram.com/p/CuSP7KWv34B/",
-   "alcance": 43,
+   "alcance": 38,
    "visualizacoes": 0,
    "curtidas": 16,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 16,
-   "taxa_engajamento": 37.2,
+   "taxa_engajamento": 42.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Gostaria de explicar um pouco sobre alguns testes que são realizados em recém-nascidos para cuidarmos da saúde do seu bebê da melhor maneira possível. Esses exames são muito importantes para identificarmos precocemente possíveis problemas e agirmos de forma adequada. A maioria deles é realizada ainda na maternidade pela equipe de pediatra, enfermeira e fonoaudióloga.\n\n1. 👀 Teste do reflexo vermelho ou Teste do olhinho. Esse é um exame simples em que observamos o reflexo vermelho na pupila do seu bebê usando uma luz especial. Isso nos ajuda a identificar problemas oculares que podem ser tratados, como catarata ou glaucoma.\n\n2. ❤️ Triagem de cardiopatia congênita crítica ou teste do coraçãozinho. Com ele, buscamos identificar anomalias no coração do seu bebê. Utilizamos a oximetria de pulso, que mede a quantidade de oxigênio no sangue. Quando esse teste está alterado, realizamos o ecocardiograma, que é um ultrassom do coração.\n\n3. 👅 Avaliação do frênulo lingual ou Teste da linguinha. Esse exame consiste em verificar a mobilidade da língua. Se houver um freio lingual curto (chamado popularmente de \"língua presa\") que dificulte a amamentação, poderemos recomendar um procedimento chamado frenotomia para soltar o freio lingual e garantir um desenvolvimento adequado da fala e da alimentação.\n\n4. 👂 Triagem auditiva neonatal ou Teste da orelhinha. Com ele, buscamos detectar possíveis problemas de audição. São utilizados métodos como as emissões otoacústicas ou o potencial evocado auditivo do tronco cerebral. É um exame indolor e não invasivo. \n\n5. 👣 Triagem neonatal ou Teste do pezinho. Ele é obrigatório e consiste em coletar algumas gotinhas de sangue do calcanhar do seu bebê. Deve ser realizado entre o 3º e o 5º dia de vida do bebê. Esse teste nos ajuda a identificar precocemente doenças genéticas ou metabólicas graves. Detectar essas condições logo no início permite que iniciemos o tratamento imediatamente, garantindo um prognóstico melhor e uma qualidade de vida mais saudável para o seu filho.\n\nSe tiver qualquer dúvida sobre os exames ou quiser mais informações, estou aqui para ajudar. Conte comigo para cuidar do seu pequeno tesouro!"
@@ -3452,14 +3502,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "A bronquiolite viral aguda (BVA) é uma infecção respiratória comum em crianças, especialmente em bebês menores de 2 anos",
    "link": "https://www.instagram.com/p/CrjCvETu059/",
-   "alcance": 32,
+   "alcance": 30,
    "visualizacoes": 0,
    "curtidas": 9,
    "comentarios": 0,
    "salvamentos": 2,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 34.4,
+   "taxa_engajamento": 36.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite viral aguda (BVA) é uma infecção respiratória comum em crianças, especialmente em bebês menores de 2 anos de idade. A doença é causada por um vírus que afeta as vias aéreas inferiores, incluindo os bronquíolos, que são os menores tubos que transportam ar para os pulmões.\n\nEmbora não haja uma maneira garantida de prevenir a BVA, existem algumas medidas que podem ser tomadas para reduzir o risco de contrair a doença. São algumas dessas medidas:\n\n. Lavagem das mãos: A bronquiolite viral aguda é altamente contagiosa e é transmitida através do contato com as secreções respiratórias de uma pessoa infectada. Uma maneira eficaz de reduzir o risco de infecção é lavando as mãos com frequência, especialmente antes de tocar o rosto, o nariz ou a boca.\n\n. Distanciamento social: Evitar o contato próximo com pessoas infectadas pode ajudar a prevenir a propagação da doença. Em particular, bebês menores de 2 anos de idade devem evitar o contato com pessoas que estejam com sintomas respiratórios, como tosse, secreção nasal ou espirros. Converse com os parentes e amigos para não visitarem o bebê se estiverem com algum sintoma.\n\n. Amamentação: A amamentação exclusiva até os 6 meses de idade pode ajudar a proteger os bebês contra a bronquiolite viral aguda. O leite materno contém anticorpos que ajudam a fortalecer o sistema imunológico do bebê e a reduzir o risco de infecções respiratórias.\n\n. Vacinação: Atualmente, não há vacina disponível para prevenir a bronquiolite viral aguda. No entanto, existem vacinas para prevenir outras doenças respiratórias, como a gripe. É importante garantir que todas as crianças estejam com as vacinas em dia para ajudar a prevenir doenças que possam aumentar o risco de contrair a bronquiolite.\n\n. Cuidados com a higiene: Manter uma boa higiene, como limpar e desinfetar superfícies com frequência e evitar compartilhar objetos pessoais, pode ajudar a prevenir a propagação da doença.\n\nMarque nos comentários uma mamãe que precisa saber disso!"
@@ -3532,14 +3582,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "Se você é mãe de menino, já ouviu ou até recebeu a recomendação de que precisa fazer \"exercícios\" ou \"massagens\" no pint",
    "link": "https://www.instagram.com/p/CqQu8b1MKeL/",
-   "alcance": 23,
+   "alcance": 22,
    "visualizacoes": 0,
    "curtidas": 15,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 16,
-   "taxa_engajamento": 69.6,
+   "taxa_engajamento": 72.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Se você é mãe de menino, já ouviu ou até recebeu a recomendação de que precisa fazer \"exercícios\" ou \"massagens\" no pintinho do seu bebê para expor a glande.\n\nAfinal, será que os tais exercícios para \"abrir\" o pintinho são mesmo necessários?\n\nNÃO!\n\nO piupiu é fechadinho no começo da vida para proteção. Nada de puxar e forçar! Aquela pele que recobre a glande é coladinha justamente para evitar o contato prolongado com o xixi e o cocô do bebê.\n\nA massagem realizada no bebê com fimose não traz nenhum benefício. Pelo contrário, além de causar dor e desconforto também pode levar a microtraumas e inflamação no local, causando um processo de cicatrização que contribuirá ainda mais para o estreitamento da glande, ou seja, vai fechar mais ainda o pintinho do menino!\n\nA limpeza da genitália do bebê deve ocorrer com naturalidade, na parte exposta da glande, sem esforço, com tranquilidade e paciência.\n\nMarque uma mamãe de menino que precisa saber disso!"
@@ -3552,14 +3602,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Amamentar deitada é descanso para a mamãe!",
    "link": "https://www.instagram.com/p/CqGbxJ5r3IJ/",
-   "alcance": 48,
+   "alcance": 47,
    "visualizacoes": 0,
    "curtidas": 14,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 15,
-   "taxa_engajamento": 31.2,
+   "taxa_engajamento": 31.9,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Amamentar deitada é descanso para a mamãe!\n\nEvite essa posição (mas não é proibido), se o seu bebê tem Doença do Refluxo Gastroesofágico (DRGE) ou otites de repetição ou se está em tratamento para otite.\n\n❌ Bebês que tomam mamadeira NÃO devem mamar deitados!\n\nPara os bebês que que apresentam DRGE, é recomendado que sejam amamentados com o tronco mais elevado e sejam colocados na posição vertical e para arrotar por mais tempo (cerca de 30 minutos).\n\nMarque uma mamãe que amamenta para que ela saiba disso!"
@@ -3572,14 +3622,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "🌸 Feliz dia da Mulher! 🌸",
    "link": "https://www.instagram.com/p/CpiC_S5OWbh/",
-   "alcance": 42,
+   "alcance": 38,
    "visualizacoes": 0,
    "curtidas": 16,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 16,
-   "taxa_engajamento": 38.1,
+   "taxa_engajamento": 42.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "🌸 Feliz dia da Mulher! 🌸"
@@ -3592,14 +3642,14 @@
    "tipo_instagram": "IMAGE",
    "titulo": "Essa é a dúvida de muitas mamães!",
    "link": "https://www.instagram.com/p/CpLPRItvRIo/",
-   "alcance": 38,
+   "alcance": 36,
    "visualizacoes": 0,
    "curtidas": 12,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 12,
-   "taxa_engajamento": 31.6,
+   "taxa_engajamento": 33.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Essa é a dúvida de muitas mamães!\n\nO sonho de toda mãe é que o seu bebê durma a noite toda! Mas quando isso realmente acontece, vem aquela pergunta inevitável: acordar ou não acordar o bebê para mamar?\n\nSe o bebê for um recém-nascido, no começo é natural que ele acorde sozinho várias vezes durante a noite para mamar. Isso porque os bebês comportam apenas um pequeno volume no seu estômago, e isso faz com que ele sinta fome num intervalo menor e acabe acordando mais vezes.\n\nMas e se o bebê não acordar sozinho?\n\nSe ele está se desenvolvendo corretamente e com o ganho de peso como o esperado, não é necessário acordá-lo a cada 3 horas para mamar de madrugada. Já nos casos em que o bebê apresenta baixo ganho de peso, ou nasceu com baixo peso, ou prematuro ou tem risco de hipoglicemia, é importante que você se informe com o pediatra dele para ter a orientação adequada individualizada para o seu filho.  \n\nQuando o bebê cresce, por volta dos 3 meses de idade, a necessidade de mamar em intervalos pequenos vai aos poucos diminuindo. Com isso, não há nada de errado em um bebê dormir por mais horas seguidas durante a noite! \n\nMas e aí? Preciso acordar o bebê para mamar? Depende da idade do pequeno, de seu desenvolvimento e das recomendações do pediatra após avaliar individualmente cada bebê!   Mas se seu bebê já for maiorzinho, não tem essa necessidade. Pode dormir tranquila! Aproveita!\n\nQue tal marcar nesse post uma mamãe que precisa saber disso?"
@@ -3612,14 +3662,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A dermatite atópica é uma doença crônica influenciada por fatores diversos. A criança que a apresenta necessita de cuida",
    "link": "https://www.instagram.com/p/CpBQDVbv0pm/",
-   "alcance": 18,
+   "alcance": 17,
    "visualizacoes": 0,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 61.1,
+   "taxa_engajamento": 64.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A dermatite atópica é uma doença crônica influenciada por fatores diversos. A criança que a apresenta necessita de cuidados para um melhor controle da doença. Dentre eles:\n\n. Banhos rápidos;\n. Evitar muitos banhos por dia;\n. Não esfregar a pele com bucha;\n. Usar gel lavante (mais suave que sabonete);\n. Aplicar bastante creme hidratante após o banho;\n. Usar roupas de tecido natural, como o algodão.\n\nMedicamentos prescritos pelo pediatra devem ser utilizados nas crises, em associação com a hidratação intensiva da pele.\n\nComo está o controle da dermatite do seu filho?\n\n#dermatiteatopica #peledobebe #peledacrianca #pediatra"
@@ -3692,14 +3742,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "O tipo mais comum de alergia à picada de inseto é o Prurigo Estrófulo, que geralmente aparece no primeiro ou segundo ano",
    "link": "https://www.instagram.com/p/CoaTm73yyJA/",
-   "alcance": 17,
+   "alcance": 16,
    "visualizacoes": 0,
    "curtidas": 17,
    "comentarios": 0,
    "salvamentos": 5,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 129.4,
+   "taxa_engajamento": 137.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "O tipo mais comum de alergia à picada de inseto é o Prurigo Estrófulo, que geralmente aparece no primeiro ou segundo ano de vida e melhora por volta dos 10 anos.\n\nJá a Anafilaxia, mais rara, pode ocorrer em qualquer idade e pode ser fatal.\n\nO diagnóstico é clínico, feito através da história e sintomas que o paciente apresentou. Caso ocorra reação, procure saber qual foi o inseto causador e anote os sintomas apresentados. Também podem ser feitos testes alérgicos laboratoriais ou na pele. \n\nMarque uma amiga aqui para que ela saiba o que fazer! 👇"
@@ -3852,14 +3902,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Confira mais uma dica das férias com as crianças!",
    "link": "https://www.instagram.com/p/Cm_t22PuYjv/",
-   "alcance": 28,
+   "alcance": 25,
    "visualizacoes": 0,
    "curtidas": 14,
    "comentarios": 0,
    "salvamentos": 2,
    "compartilhamentos": 0,
    "interacoes": 16,
-   "taxa_engajamento": 57.1,
+   "taxa_engajamento": 64.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Confira mais uma dica das férias com as crianças!\n\nÉ melhor ter as coisas mais importantes à mão, do que sair para procurar um lugar onde comprá-las em uma cidade desconhecida.\n\nSalve esse post para consultar na hora de arrumar as malas!"
@@ -3872,14 +3922,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!",
    "link": "https://www.instagram.com/reel/Cm1mH5dhbO_/",
-   "alcance": 51,
+   "alcance": 48,
    "visualizacoes": 672,
    "curtidas": 33,
    "comentarios": 2,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 35,
-   "taxa_engajamento": 68.6,
+   "taxa_engajamento": 72.9,
    "reels_tempo_medio_assistido": 8947,
    "reels_taxa_pulo": 0.022,
    "legenda": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!"
@@ -3892,14 +3942,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Feliz Natal! 🎄",
    "link": "https://www.instagram.com/reel/CmkNrkehO_C/",
-   "alcance": 20,
+   "alcance": 19,
    "visualizacoes": 547,
    "curtidas": 33,
    "comentarios": 6,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 39,
-   "taxa_engajamento": 195.0,
+   "taxa_engajamento": 205.3,
    "reels_tempo_medio_assistido": 5388,
    "reels_taxa_pulo": 0.016,
    "legenda": "Feliz Natal! 🎄"
@@ -3912,14 +3962,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Vamos tornar as férias escolares mais divertidas para as crianças e mais leves para as mamães!",
    "link": "https://www.instagram.com/p/CmZ5dxVuvAF/",
-   "alcance": 13,
+   "alcance": 11,
    "visualizacoes": 0,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 12,
-   "taxa_engajamento": 92.3,
+   "taxa_engajamento": 109.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Vamos tornar as férias escolares mais divertidas para as crianças e mais leves para as mamães!\n\n#brincadeiras #feriasescolares #criancasemtela #pediatra"
@@ -3972,14 +4022,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A crise febril é uma situação que gera ansiedade e insegurança nas mamães e papais.",
    "link": "https://www.instagram.com/p/Cl39U5lsEF6/",
-   "alcance": 20,
+   "alcance": 17,
    "visualizacoes": 0,
    "curtidas": 18,
    "comentarios": 1,
    "salvamentos": 3,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 110.0,
+   "taxa_engajamento": 129.4,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A crise febril é uma situação que gera ansiedade e insegurança nas mamães e papais.\n\nPossui um excelente prognóstico e evolução benigna. O maior risco para essas crianças é a recorrência.\n\nA primeira conduta ao final da crise é avaliar e identificar o processo infeccioso que está causando a febre.\n\nEmbora os antitérmicos possam melhorar o conforto da criança, eles não atuam na prevenção de crises subsequentes.\n\nO uso de medicação para prevenção de novas crises deve ser individualizado, uma vez que essas medicações possuem potenciais efeitos colaterais.\n\nFicou alguma dúvida? Pode me perguntar nos comentários!\n\n#crisefebril #convulsaofebril #bebes #crianças #pediatra"
@@ -4032,14 +4082,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Você sabia que existe a consulta domiciliar?",
    "link": "https://www.instagram.com/reel/ClfECrjPPKN/",
-   "alcance": 70,
+   "alcance": 63,
    "visualizacoes": 607,
    "curtidas": 17,
    "comentarios": 2,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 20,
-   "taxa_engajamento": 28.6,
+   "taxa_engajamento": 31.7,
    "reels_tempo_medio_assistido": 9270,
    "reels_taxa_pulo": 0.041,
    "legenda": "Você sabia que existe a consulta domiciliar?\n\nBenefícios:\n. Evita a espera em ambientes cheios;\n. Mantém a criança no seu ambiente e rotina;\n. Menos estresse para a criança;\n. Maior comodidade para toda a família.\n\nGostaria de agendar uma consulta domiciliar para seu filho? Basta me chamar no WhatsApp!\n\n#pediatriacomamor #pediatraadomicilio #consultadomiciliar #consultadomiciliarpediatrica #pediatra"
@@ -4799,7 +4849,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-03-desidratacao-calor",
@@ -4878,12 +4928,116 @@
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
    "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-09-reels-08-otite",
+   "data": "2026-11-09",
+   "data_texto": "09/11",
+   "dia": "Seg",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Dor de ouvido à noite? Pode ser otite.",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-10-lancheira-saudavel",
+   "data": "2026-11-10",
+   "data_texto": "10/11",
+   "dia": "Ter",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Lancheira saudável: monte em 5 passos",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-11-reels-09-telas-sono",
+   "data": "2026-11-11",
+   "data_texto": "11/11",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Tela antes de dormir atrapalha o sono?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-12-mito-andador",
+   "data": "2026-11-12",
+   "data_texto": "12/11",
+   "dia": "Qui",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Mito ou verdade: andador ajuda o bebê a andar?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-13-reels-10-refluxo",
+   "data": "2026-11-13",
+   "data_texto": "13/11",
+   "dia": "Sex",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Bebê golfando: refluxo normal ou sinal de alerta?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-14-mito-diabetes",
+   "data": "2026-11-14",
+   "data_texto": "14/11",
+   "dia": "Sáb",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Mito ou verdade: diabetes é coisa de adulto? (Dia Mundial do Diabetes)",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-15-sono-feriado",
+   "data": "2026-11-15",
+   "data_texto": "15/11",
+   "dia": "Dom",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Feriado sem bagunçar o sono: 4 dicas",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-16-reels-11-intestino-preso",
+   "data": "2026-11-16",
+   "data_texto": "16/11",
+   "dia": "Seg",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Intestino preso no bebê: quando é normal",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
   }
  ],
  "resumo_programacao": {
-  "agendados": 7,
-  "aguardando_aprovacao": 0,
+  "agendados": 6,
+  "aguardando_aprovacao": 8,
   "sem_conteudo": 0,
-  "publicados": 14
+  "publicados": 15
  }
 }
