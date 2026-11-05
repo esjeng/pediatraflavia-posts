@@ -1,54 +1,36 @@
 {
- "atualizado_em": "2026-11-03T06:06:25-03:00",
- "atualizado_em_texto": "03/11/26 06:06",
+ "atualizado_em": "2026-11-05T11:57:35-03:00",
+ "atualizado_em_texto": "05/11/26 11:57",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1322,
-  "publicacoes": 84
+  "seguidores": 1323,
+  "publicacoes": 86
  },
  "resumo_30d": {
-  "alcance": 1277,
-  "visualizacoes": 2996,
-  "contas_engajadas": 98,
-  "alcance_seguidores": 843,
-  "alcance_nao_seguidores": 433,
+  "alcance": 1373,
+  "visualizacoes": 3194,
+  "contas_engajadas": 104,
+  "alcance_seguidores": 931,
+  "alcance_nao_seguidores": 442,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1300,
-  "visualizacoes": 3098,
-  "contas_engajadas": 99,
-  "alcance_seguidores": 845,
-  "alcance_nao_seguidores": 454,
+  "alcance": 1396,
+  "visualizacoes": 3296,
+  "contas_engajadas": 105,
+  "alcance_seguidores": 933,
+  "alcance_nao_seguidores": 463,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1691,
-  "visualizacoes": 4141,
-  "contas_engajadas": 129,
-  "alcance_seguidores": 1096,
-  "alcance_nao_seguidores": 597,
+  "alcance": 1780,
+  "visualizacoes": 4281,
+  "contas_engajadas": 135,
+  "alcance_seguidores": 1179,
+  "alcance_nao_seguidores": 604,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-08",
-   "alcance": 4,
-   "visualizacoes": 55,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 2,
-   "alcance_nao_seguidores": 2,
-   "cliques_link_perfil": 0
-  },
-  {
-   "data": "2026-05-09",
-   "alcance": 3,
-   "visualizacoes": 3,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 3,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-10",
    "alcance": 177,
@@ -1644,10 +1626,28 @@
   },
   {
    "data": "2026-11-03",
+   "alcance": 51,
+   "visualizacoes": 128,
+   "contas_engajadas": 4,
+   "alcance_seguidores": 47,
+   "alcance_nao_seguidores": 4,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-04",
+   "alcance": 45,
+   "visualizacoes": 70,
+   "contas_engajadas": 2,
+   "alcance_seguidores": 40,
+   "alcance_nao_seguidores": 5,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-05",
    "alcance": 1,
    "visualizacoes": 1,
    "contas_engajadas": 0,
-   "alcance_seguidores": 0,
+   "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1656,17 +1656,17 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 450
+   "seguidores": 446
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 89
+   "seguidores": 90
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 73
+   "seguidores": 76
   },
   {
    "cidade": "Contagem",
@@ -1676,7 +1676,7 @@
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 40
+   "seguidores": 41
   },
   {
    "cidade": "São Paulo",
@@ -1686,17 +1686,17 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 35
+   "seguidores": 36
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 21
+   "seguidores": 23
   },
   {
    "cidade": "Pará",
    "estado": "Minas Gerais",
-   "seguidores": 19
+   "seguidores": 20
   },
   {
    "cidade": "Nova Lima",
@@ -1704,19 +1704,19 @@
    "seguidores": 17
   },
   {
-   "cidade": "Santa Luzia",
-   "estado": "Minas Gerais",
-   "seguidores": 16
-  },
-  {
    "cidade": "Betim",
    "estado": "Minas Gerais",
    "seguidores": 15
   },
   {
+   "cidade": "Santa Luzia",
+   "estado": "Minas Gerais",
+   "seguidores": 14
+  },
+  {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 13
+   "seguidores": 12
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1729,6 +1729,11 @@
    "seguidores": 10
   },
   {
+   "cidade": "Botumirim",
+   "estado": "Minas Gerais",
+   "seguidores": 8
+  },
+  {
    "cidade": "Fortaleza",
    "estado": "Ceará",
    "seguidores": 8
@@ -1737,11 +1742,6 @@
    "cidade": "Goiânia",
    "estado": "Goiás",
    "seguidores": 8
-  },
-  {
-   "cidade": "Botumirim",
-   "estado": "Minas Gerais",
-   "seguidores": 7
   },
   {
    "cidade": "Sabará",
@@ -1759,6 +1759,11 @@
    "seguidores": 6
   },
   {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
+   "seguidores": 6
+  },
+  {
    "cidade": "Uberlândia",
    "estado": "Minas Gerais",
    "seguidores": 5
@@ -1766,11 +1771,6 @@
   {
    "cidade": "Brasília",
    "estado": "Federal District",
-   "seguidores": 5
-  },
-  {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
    "seguidores": 5
   },
   {
@@ -1816,6 +1816,11 @@
   {
    "cidade": "Uberaba",
    "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Teresina",
+   "estado": "Piauí",
    "seguidores": 3
   },
   {
@@ -1869,13 +1874,8 @@
    "seguidores": 3
   },
   {
-   "cidade": "Cintra",
-   "estado": "Lisbon District",
-   "seguidores": 2
-  },
-  {
-   "cidade": "Patos de Minas",
-   "estado": "Minas Gerais",
+   "cidade": "Leme",
+   "estado": "São Paulo",
    "seguidores": 2
   }
  ],
@@ -1888,7 +1888,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "18-24",
-   "seguidores": 12
+   "seguidores": 13
   },
   {
    "genero": "Feminino",
@@ -1898,12 +1898,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 393
+   "seguidores": 392
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "45-54",
-   "seguidores": 216
+   "seguidores": 217
   },
   {
    "genero": "Feminino",
@@ -1988,7 +1988,7 @@
   },
   {
    "faixa_etaria": "18-24",
-   "seguidores": 33
+   "seguidores": 34
   },
   {
    "faixa_etaria": "25-34",
@@ -1996,11 +1996,11 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 561
+   "seguidores": 560
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 314
+   "seguidores": 315
   },
   {
    "faixa_etaria": "55-64",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 867
+   "seguidores": 868
   },
   {
    "genero": "Masculino",
@@ -2101,6 +2101,10 @@
   {
    "data": "2026-11-03",
    "seguidores": 1322
+  },
+  {
+   "data": "2026-11-05",
+   "seguidores": 1323
   }
  ],
  "novos_seguidores": [
@@ -2291,21 +2295,29 @@
   {
    "data": "2026-11-02",
    "novos": 0
+  },
+  {
+   "data": "2026-11-03",
+   "novos": 2
+  },
+  {
+   "data": "2026-11-04",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1322,
-   "novos_seguidores": 10,
+   "seguidores_atual": 1323,
+   "novos_seguidores": 12,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 19,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 20,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 9,
+   "deixaram_de_seguir_estimado": 10,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2382,21 +2394,25 @@
     {
      "data": "2026-11-03",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-05",
+     "seguidores": 1323
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1322,
-   "novos_seguidores": 15,
-   "dias_com_novos": 47,
+   "seguidores_atual": 1323,
+   "novos_seguidores": 17,
+   "dias_com_novos": 49,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 19,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 20,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 9,
+   "deixaram_de_seguir_estimado": 10,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2473,21 +2489,25 @@
     {
      "data": "2026-11-03",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-05",
+     "seguidores": 1323
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1322,
-   "novos_seguidores": 15,
-   "dias_com_novos": 47,
+   "seguidores_atual": 1323,
+   "novos_seguidores": 17,
+   "dias_com_novos": 49,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -3,
-   "variacao_pct": -0.23,
-   "dias_com_total": 19,
+   "variacao": -2,
+   "variacao_pct": -0.15,
+   "dias_com_total": 20,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 9,
+   "deixaram_de_seguir_estimado": 10,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2564,11 +2584,25 @@
     {
      "data": "2026-11-03",
      "seguidores": 1322
+    },
+    {
+     "data": "2026-11-05",
+     "seguidores": 1323
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18122838733945946",
+   "data": "2026-11-04",
+   "data_hora": "04/11/26 18:07",
+   "alcance": 21,
+   "visualizacoes": 25,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-04T18:07:17-03:00"
+  },
   {
    "id": "18647459443023012",
    "data": "2026-11-02",
@@ -2750,19 +2784,26 @@
    "data_hora_iso": "2026-10-15T12:43:30-03:00"
   }
  ],
- "aprovacoes": [],
+ "aprovacoes": [
+  {
+   "conversa": "Dor de ouvido à noite? Pode ser otite.",
+   "data_hora": "03/11/26 13:22",
+   "resposta": "APROVADO TODOS",
+   "data_hora_iso": "2026-11-03T13:22:19-03:00"
+  }
+ ],
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 21,
-   "alcance_medio": 59,
-   "taxa_engajamento": 45.6
+   "posts": 22,
+   "alcance_medio": 57,
+   "taxa_engajamento": 44.9
   },
   {
    "formato": "Carrossel",
-   "posts": 27,
+   "posts": 28,
    "alcance_medio": 37,
-   "taxa_engajamento": 37.3
+   "taxa_engajamento": 37.0
   },
   {
    "formato": "Imagem",
@@ -2941,15 +2982,15 @@
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
    "alcance": 83,
-   "visualizacoes": 98,
-   "curtidas": 4,
+   "visualizacoes": 99,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 4.8,
-   "reels_tempo_medio_assistido": 3686,
-   "reels_taxa_pulo": 0.869,
+   "interacoes": 5,
+   "taxa_engajamento": 6.0,
+   "reels_tempo_medio_assistido": 3831,
+   "reels_taxa_pulo": 0.859,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -2961,19 +3002,59 @@
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
    "alcance": 65,
-   "visualizacoes": 72,
-   "curtidas": 4,
+   "visualizacoes": 73,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 6.2,
-   "reels_tempo_medio_assistido": 2417,
-   "reels_taxa_pulo": 0.868,
+   "interacoes": 5,
+   "taxa_engajamento": 7.7,
+   "reels_tempo_medio_assistido": 2421,
+   "reels_taxa_pulo": 0.87,
    "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   }
  ],
  "posts": [
+  {
+   "id": "17991205626065734",
+   "data": "2026-11-04",
+   "data_hora": "04/11/26 18:05",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Seu bebê de 6 meses já faz isso? 👶",
+   "link": "https://www.instagram.com/reel/DfVYWqpjX8U/",
+   "alcance": 20,
+   "visualizacoes": 24,
+   "curtidas": 1,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 1,
+   "taxa_engajamento": 5.0,
+   "reels_tempo_medio_assistido": 3044,
+   "reels_taxa_pulo": 0.773,
+   "legenda": "Seu bebê de 6 meses já faz isso? 👶\n\nAos 6 meses, a maioria dos bebês:\n✔️ rola de bruços para barriga para cima\n✔️ dá risada e reconhece quem é próximo\n✔️ faz sons e \"conversa\" com você\n✔️ leva objetos à boca\n✔️ apoia nas mãos quando está sentado\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n⚠️ Converse com o pediatra se o bebê perdeu algo que já fazia, não reage a sons ou não sorri nem olha nos seus olhos.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desenvolvimentoinfantil #bebe6meses #marcosdodesenvolvimento #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
+   "id": "18096035273257168",
+   "data": "2026-11-03",
+   "data_hora": "03/11/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Calor: sinais de desidratação e como hidratar 💧",
+   "link": "https://www.instagram.com/p/DfSzeICjNs_/",
+   "alcance": 22,
+   "visualizacoes": 61,
+   "curtidas": 3,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 3,
+   "taxa_engajamento": 13.6,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Calor: sinais de desidratação e como hidratar 💧\n\nBebês e crianças perdem líquido mais rápido que os adultos, principalmente no calor ou com diarreia e vômitos.\n\nSinais de alerta:\n✔️ pouco xixi, fralda seca por muitas horas\n✔️ choro sem lágrimas e boca seca\n✔️ olhos fundos e moleira afundada no bebê\n✔️ muito sono ou irritação, criança \"molinha\"\n\nComo hidratar:\n👶 Até 6 meses, em aleitamento exclusivo: ofereça o peito mais vezes, sem água.\n🧒 Depois dos 6 meses: água ao longo do dia, sem esperar pedir, frutas ricas em água, roupa leve e sombra.\n\nCom diarreia ou vômitos, use soro de reidratação oral (da farmácia ou do posto de saúde), pouquinho e muitas vezes. Evite refrigerante, isotônico e suco industrializado.\n\n⚠️ Procure atendimento se a criança quase não fizer xixi, estiver muito sonolenta ou molinha, vomitar tudo o que bebe ou se for um bebê pequeno com diarreia.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desidratacao #calor #verao #saudeinfantil #maedeprimeiraviagem #dicasdepediatra"
+  },
   {
    "id": "18100565078396466",
    "data": "2026-11-02",
@@ -2982,16 +3063,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!",
    "link": "https://www.instagram.com/reel/DfQOwewkRYN/",
-   "alcance": 21,
-   "visualizacoes": 30,
-   "curtidas": 0,
+   "alcance": 30,
+   "visualizacoes": 40,
+   "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 0,
-   "taxa_engajamento": 0.0,
-   "reels_tempo_medio_assistido": 8549,
-   "reels_taxa_pulo": 0.333,
+   "interacoes": 2,
+   "taxa_engajamento": 6.7,
+   "reels_tempo_medio_assistido": 6748,
+   "reels_taxa_pulo": 0.483,
    "legenda": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!\n\nÉ uma inflamação na boca, com aftas ou feridinhas, muitas vezes causada por vírus e muito comum em crianças pequenas, principalmente quem vai para a creche.\n\nComo aliviar:\n✔️ alimentos frios e pastosos (iogurte, frutas amassadas, papinhas frias)\n✔️ evite comidas ácidas, salgadas ou quentes\n✔️ ofereça líquidos várias vezes ao dia\n\nPara evitar o contágio: lave as mãos com frequência e não compartilhe talheres, copos e chupetas.\n\n⚠️ Procure o pediatra se a criança não conseguir beber, fizer pouco xixi, tiver febre alta ou persistente ou estiver muito abatida.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estomatite #saudeinfantil #creche #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3002,14 +3083,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Qual é a sua maior dúvida sobre o seu filho? 💬",
    "link": "https://www.instagram.com/p/DfNp1YzCBe_/",
-   "alcance": 19,
-   "visualizacoes": 60,
-   "curtidas": 2,
+   "alcance": 22,
+   "visualizacoes": 64,
+   "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 2,
-   "taxa_engajamento": 10.5,
+   "interacoes": 4,
+   "taxa_engajamento": 18.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Qual é a sua maior dúvida sobre o seu filho? 💬\n\nSono, alimentação, desenvolvimento, febre, viroses, vacinas... pode perguntar!\n\nDeixe a sua dúvida aqui nos comentários ou responda o story de hoje. As perguntas vão virar posts e eu respondo aqui no perfil. 👇\n\n💡 Para casos específicos do seu filho, o ideal é uma consulta.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #duvidasdemae #caixinhadeperguntas #maternidade #maedeprimeiraviagem #dicasdepediatra"
@@ -3022,14 +3103,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Açúcar deixa a criança agitada? 🍬 Mito!",
    "link": "https://www.instagram.com/p/DfLFGiXjCh7/",
-   "alcance": 21,
-   "visualizacoes": 69,
-   "curtidas": 4,
+   "alcance": 24,
+   "visualizacoes": 79,
+   "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 19.0,
+   "interacoes": 6,
+   "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Açúcar deixa a criança agitada? 🍬 Mito!\n\nOs estudos não mostram que o açúcar cause hiperatividade. A agitação costuma vir do ambiente: festa, amigos, empolgação e horário fora da rotina.\n\nMas isso não libera os doces! O açúcar em excesso causa cáries, ganho de peso e deixa o paladar acostumado ao doce. Antes dos 2 anos, o ideal é nada de açúcar.\n\nDicas para o Halloween 🎃\n✔️ combine antes quantos doces pode\n✔️ doce depois da refeição, não no lugar dela\n✔️ ofereça água, não refrigerante\n✔️ escove os dentes depois\n✔️ frutas fantasiadas também fazem sucesso\n\n⚠️ Balas duras, pirulitos e chicletes oferecem risco de engasgo antes dos 4 anos. Confira as embalagens, fique por perto enquanto a criança come e, se houver alergia alimentar, leia os rótulos com atenção.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #halloween #alimentacaoinfantil #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3042,16 +3123,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Afogamento é silencioso 🌊 E acontece em segundos.",
    "link": "https://www.instagram.com/reel/DfIgO9Hmn0T/",
-   "alcance": 33,
-   "visualizacoes": 35,
+   "alcance": 34,
+   "visualizacoes": 38,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 15.2,
-   "reels_tempo_medio_assistido": 6042,
-   "reels_taxa_pulo": 0.733,
+   "taxa_engajamento": 14.7,
+   "reels_tempo_medio_assistido": 5838,
+   "reels_taxa_pulo": 0.75,
    "legenda": "Afogamento é silencioso 🌊 E acontece em segundos.\n\nA criança que está se afogando não grita nem se debate: afunda em silêncio, até em água rasa, como em baldes, banheiras e piscinas infantis.\n\n5 regras de segurança:\n✔️ um adulto olhando a criança o tempo todo, sem celular\n✔️ piscina cercada, com portão e trava\n✔️ baldes e banheira vazios logo depois de usar\n✔️ boia não é babá: prefira colete salva-vidas\n✔️ aulas de natação ajudam, mas não dispensam a vigilância\n\n⚠️ Se acontecer: tire a criança da água e ligue 192 ou 193. Se ela não estiver respirando, comece a reanimação. Mesmo que pareça bem depois, leve para avaliação médica.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #afogamento #segurancanaagua #segurancainfantil #verao #maternidade #dicasdepediatra"
   },
   {
@@ -3062,14 +3143,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
    "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
-   "alcance": 23,
-   "visualizacoes": 68,
+   "alcance": 24,
+   "visualizacoes": 69,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 26.1,
+   "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3082,16 +3163,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/DfDWo9SkWPm/",
-   "alcance": 27,
-   "visualizacoes": 33,
+   "alcance": 28,
+   "visualizacoes": 34,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 11.1,
-   "reels_tempo_medio_assistido": 4317,
-   "reels_taxa_pulo": 0.643,
+   "taxa_engajamento": 10.7,
+   "reels_tempo_medio_assistido": 4278,
+   "reels_taxa_pulo": 0.621,
    "legenda": "Seu bebê sua muito dormindo? 💧 Na maioria das vezes, é normal!\n\nO bebê ainda está aprendendo a regular a temperatura do corpo, e no sono profundo é comum suar, principalmente na cabeça. Com o calor chegando, isso fica ainda mais frequente.\n\nComo ajustar:\n✔️ roupa leve, sem excesso de camadas\n✔️ quarto ventilado, nem quente nem frio\n✔️ para saber se ele está com calor, sinta a nuca, não as mãos ou os pés\n\n⚠️ Procure o pediatra se o suor vier com cansaço nas mamadas, ronco ou pausas na respiração, pouco ganho de peso ou febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #calor #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3102,14 +3183,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.",
    "link": "https://www.instagram.com/p/DfAyCAyDNOt/",
-   "alcance": 24,
-   "visualizacoes": 72,
+   "alcance": 25,
+   "visualizacoes": 73,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 8,
-   "taxa_engajamento": 33.3,
+   "taxa_engajamento": 32.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Chegou a hora da comidinha! 🥄 A introdução alimentar é uma fase cheia de descobertas e de dúvidas também.\n\nNeste post você vai ver:\n✔️ quando começar\n✔️ como montar o primeiro pratinho\n✔️ o que evitar no 1º ano\n✔️ dicas de textura e paciência\n\nLembre-se: recusar faz parte! Pode levar várias tentativas até o bebê aceitar um alimento novo.\n\n📌 Salve para consultar na hora de preparar o pratinho e envie para quem também cuida do seu bebê.\n\n🩺 Acompanhamento da introdução alimentar em casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #introducaoalimentar #alimentacaoinfantil #bebe6meses #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3123,15 +3204,15 @@
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
    "alcance": 65,
-   "visualizacoes": 72,
-   "curtidas": 4,
+   "visualizacoes": 73,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 6.2,
-   "reels_tempo_medio_assistido": 2417,
-   "reels_taxa_pulo": 0.868,
+   "interacoes": 5,
+   "taxa_engajamento": 7.7,
+   "reels_tempo_medio_assistido": 2421,
+   "reels_taxa_pulo": 0.87,
    "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3142,14 +3223,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 39,
-   "visualizacoes": 97,
-   "curtidas": 5,
+   "alcance": 40,
+   "visualizacoes": 98,
+   "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 12.8,
+   "interacoes": 6,
+   "taxa_engajamento": 15.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -3162,16 +3243,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!",
    "link": "https://www.instagram.com/reel/DexVLgsiAR7/",
-   "alcance": 31,
-   "visualizacoes": 43,
+   "alcance": 32,
+   "visualizacoes": 44,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 12.9,
-   "reels_tempo_medio_assistido": 6508,
-   "reels_taxa_pulo": 0.613,
+   "taxa_engajamento": 12.5,
+   "reels_tempo_medio_assistido": 6507,
+   "reels_taxa_pulo": 0.594,
    "legenda": "Limão no berço faz o bebê dormir melhor? 🍋 Esse \"truque\" viralizou, mas é mito!\n\nNão há evidência científica de que o cheiro do limão melhore o sono. E deixar a fruta no berço ainda pode irritar a pele, causar engasgo se o bebê levar à boca e atrair insetos.\n\nO que ajuda de verdade:\n✔️ rotina calma antes de dormir\n✔️ berço vazio, sem objetos, travesseiros ou pelúcias\n✔️ bebê de barriga para cima\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonodobebe #sonoseguro #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3183,13 +3264,13 @@
    "titulo": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajuda",
    "link": "https://www.instagram.com/p/DeuwgZqjVTc/",
    "alcance": 36,
-   "visualizacoes": 91,
-   "curtidas": 5,
+   "visualizacoes": 92,
+   "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 13.9,
+   "interacoes": 6,
+   "taxa_engajamento": 16.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Nariz entupido atrapalha a mamada, o sono e o humor do bebê, e a lavagem nasal é um dos cuidados mais simples para ajudar. 💧\n\nMas a técnica faz toda a diferença. Neste post você encontra:\n✔️ o que separar antes de começar\n✔️ o passo a passo na posição segura\n✔️ os erros mais comuns\n✔️ quando o nariz entupido pede consulta\n\n📌 Salve para ter à mão no próximo resfriado e envie para quem também cuida do seu bebê.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #lavagemnasal #narizentupido #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3202,16 +3283,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙",
    "link": "https://www.instagram.com/reel/DesSJ6hDVfw/",
-   "alcance": 47,
-   "visualizacoes": 59,
-   "curtidas": 6,
+   "alcance": 48,
+   "visualizacoes": 60,
+   "curtidas": 7,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 6,
-   "taxa_engajamento": 12.8,
-   "reels_tempo_medio_assistido": 4574,
-   "reels_taxa_pulo": 0.816,
+   "interacoes": 7,
+   "taxa_engajamento": 14.6,
+   "reels_tempo_medio_assistido": 4519,
+   "reels_taxa_pulo": 0.82,
    "legenda": "Seu bebê de 4 meses começou a acordar mais, se distrair nas mamadas e pedir mais colo? Calma, não é birra! 💙\n\nPor volta dessa idade, o sono e o comportamento do bebê amadurecem, e essas mudanças são esperadas. Com rotina, um ambiente tranquilo e paciência, a fase costuma passar.\n\n⚠️ Mas fique atenta: febre, recusa para mamar, choro que não acalma ou perda de algo que ele já fazia pedem avaliação.\n\n📌 Salve e envie para outra mãe que está nessa fase!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #bebe4meses #sonodobebe #desenvolvimentoinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3223,15 +3304,15 @@
    "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
    "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
    "alcance": 83,
-   "visualizacoes": 98,
-   "curtidas": 4,
+   "visualizacoes": 99,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 4.8,
-   "reels_tempo_medio_assistido": 3686,
-   "reels_taxa_pulo": 0.869,
+   "interacoes": 5,
+   "taxa_engajamento": 6.0,
+   "reels_tempo_medio_assistido": 3831,
+   "reels_taxa_pulo": 0.859,
    "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -4862,7 +4943,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-04-reels-6-meses",
@@ -4875,7 +4956,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-05-picadas-estrofulo",
@@ -4938,9 +5019,9 @@
    "formato": "Reels",
    "tema": "Dor de ouvido à noite? Pode ser otite.",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-10-lancheira-saudavel",
@@ -4951,9 +5032,9 @@
    "formato": "Carrossel",
    "tema": "Lancheira saudável: monte em 5 passos",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-11-reels-09-telas-sono",
@@ -4964,9 +5045,9 @@
    "formato": "Reels",
    "tema": "Tela antes de dormir atrapalha o sono?",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-12-mito-andador",
@@ -4977,9 +5058,9 @@
    "formato": "Carrossel",
    "tema": "Mito ou verdade: andador ajuda o bebê a andar?",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-13-reels-10-refluxo",
@@ -4990,9 +5071,9 @@
    "formato": "Reels",
    "tema": "Bebê golfando: refluxo normal ou sinal de alerta?",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-14-mito-diabetes",
@@ -5003,9 +5084,9 @@
    "formato": "Carrossel",
    "tema": "Mito ou verdade: diabetes é coisa de adulto? (Dia Mundial do Diabetes)",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-15-sono-feriado",
@@ -5016,9 +5097,9 @@
    "formato": "Carrossel",
    "tema": "Feriado sem bagunçar o sono: 4 dicas",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-16-reels-11-intestino-preso",
@@ -5029,15 +5110,15 @@
    "formato": "Reels",
    "tema": "Intestino preso no bebê: quando é normal",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   }
  ],
  "resumo_programacao": {
-  "agendados": 6,
-  "aguardando_aprovacao": 8,
+  "agendados": 12,
+  "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 15
+  "publicados": 17
  }
 }
