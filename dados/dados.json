@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-05T11:57:35-03:00",
- "atualizado_em_texto": "05/11/26 11:57",
+ "atualizado_em": "2026-11-06T06:05:40-03:00",
+ "atualizado_em_texto": "06/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1323,
-  "publicacoes": 86
+  "publicacoes": 87
  },
  "resumo_30d": {
-  "alcance": 1373,
-  "visualizacoes": 3194,
-  "contas_engajadas": 104,
-  "alcance_seguidores": 931,
-  "alcance_nao_seguidores": 442,
+  "alcance": 1408,
+  "visualizacoes": 3258,
+  "contas_engajadas": 107,
+  "alcance_seguidores": 961,
+  "alcance_nao_seguidores": 447,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1396,
-  "visualizacoes": 3296,
-  "contas_engajadas": 105,
-  "alcance_seguidores": 933,
-  "alcance_nao_seguidores": 463,
+  "alcance": 1432,
+  "visualizacoes": 3364,
+  "contas_engajadas": 108,
+  "alcance_seguidores": 963,
+  "alcance_nao_seguidores": 469,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1780,
-  "visualizacoes": 4281,
-  "contas_engajadas": 135,
-  "alcance_seguidores": 1179,
-  "alcance_nao_seguidores": 604,
+  "alcance": 1639,
+  "visualizacoes": 4074,
+  "contas_engajadas": 120,
+  "alcance_seguidores": 1131,
+  "alcance_nao_seguidores": 511,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-10",
-   "alcance": 177,
-   "visualizacoes": 275,
-   "contas_engajadas": 18,
-   "alcance_seguidores": 78,
-   "alcance_nao_seguidores": 99,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-11",
    "alcance": 13,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-11-05",
-   "alcance": 1,
-   "visualizacoes": 1,
+   "alcance": 37,
+   "visualizacoes": 69,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 31,
+   "alcance_nao_seguidores": 6,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-06",
+   "alcance": 0,
+   "visualizacoes": 0,
    "contas_engajadas": 0,
-   "alcance_seguidores": 1,
+   "alcance_seguidores": 0,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 446
+   "seguidores": 444
   },
   {
    "cidade": "Montes Claros",
@@ -1666,7 +1666,7 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 76
+   "seguidores": 79
   },
   {
    "cidade": "Contagem",
@@ -1676,7 +1676,7 @@
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 41
+   "seguidores": 40
   },
   {
    "cidade": "São Paulo",
@@ -1701,7 +1701,7 @@
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 17
+   "seguidores": 18
   },
   {
    "cidade": "Betim",
@@ -1711,21 +1711,21 @@
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 13
   },
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 12
-  },
-  {
-   "cidade": "Rio de Janeiro",
-   "estado": "Rio de Janeiro",
-   "seguidores": 10
+   "seguidores": 11
   },
   {
    "cidade": "Pedro Leopoldo",
    "estado": "Minas Gerais",
+   "seguidores": 11
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "estado": "Rio de Janeiro",
    "seguidores": 10
   },
   {
@@ -1734,33 +1734,23 @@
    "seguidores": 8
   },
   {
-   "cidade": "Fortaleza",
-   "estado": "Ceará",
-   "seguidores": 8
-  },
-  {
    "cidade": "Goiânia",
    "estado": "Goiás",
    "seguidores": 8
   },
   {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 6
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
+   "seguidores": 8
   },
   {
-   "cidade": "Sete Lagoas",
+   "cidade": "Sabará",
    "estado": "Minas Gerais",
-   "seguidores": 6
+   "seguidores": 7
   },
   {
    "cidade": "Conselheiro Lafaiete",
    "estado": "Minas Gerais",
-   "seguidores": 6
-  },
-  {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
@@ -1771,6 +1761,16 @@
   {
    "cidade": "Brasília",
    "estado": "Federal District",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Sete Lagoas",
+   "estado": "Minas Gerais",
+   "seguidores": 5
+  },
+  {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 5
   },
   {
@@ -1874,7 +1874,7 @@
    "seguidores": 3
   },
   {
-   "cidade": "Leme",
+   "cidade": "Americana",
    "estado": "São Paulo",
    "seguidores": 2
   }
@@ -2105,6 +2105,10 @@
   {
    "data": "2026-11-05",
    "seguidores": 1323
+  },
+  {
+   "data": "2026-11-06",
+   "seguidores": 1323
   }
  ],
  "novos_seguidores": [
@@ -2303,19 +2307,23 @@
   {
    "data": "2026-11-04",
    "novos": 0
+  },
+  {
+   "data": "2026-11-05",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1323,
-   "novos_seguidores": 12,
+   "novos_seguidores": 11,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -2,
    "variacao_pct": -0.15,
-   "dias_com_total": 20,
+   "dias_com_total": 21,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2397,6 +2405,10 @@
     },
     {
      "data": "2026-11-05",
+     "seguidores": 1323
+    },
+    {
+     "data": "2026-11-06",
      "seguidores": 1323
     }
    ]
@@ -2405,12 +2417,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1323,
    "novos_seguidores": 17,
-   "dias_com_novos": 49,
+   "dias_com_novos": 50,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -2,
    "variacao_pct": -0.15,
-   "dias_com_total": 20,
+   "dias_com_total": 21,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2492,6 +2504,10 @@
     },
     {
      "data": "2026-11-05",
+     "seguidores": 1323
+    },
+    {
+     "data": "2026-11-06",
      "seguidores": 1323
     }
    ]
@@ -2500,12 +2516,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1323,
    "novos_seguidores": 17,
-   "dias_com_novos": 49,
+   "dias_com_novos": 50,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": -2,
    "variacao_pct": -0.15,
-   "dias_com_total": 20,
+   "dias_com_total": 21,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2588,11 +2604,25 @@
     {
      "data": "2026-11-05",
      "seguidores": 1323
+    },
+    {
+     "data": "2026-11-06",
+     "seguidores": 1323
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18121166588087303",
+   "data": "2026-11-05",
+   "data_hora": "05/11/26 18:06",
+   "alcance": 13,
+   "visualizacoes": 14,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-05T18:06:28-03:00"
+  },
   {
    "id": "18122838733945946",
    "data": "2026-11-04",
@@ -2796,14 +2826,14 @@
   {
    "formato": "Reels",
    "posts": 22,
-   "alcance_medio": 57,
-   "taxa_engajamento": 44.9
+   "alcance_medio": 58,
+   "taxa_engajamento": 44.7
   },
   {
    "formato": "Carrossel",
-   "posts": 28,
-   "alcance_medio": 37,
-   "taxa_engajamento": 37.0
+   "posts": 29,
+   "alcance_medio": 36,
+   "taxa_engajamento": 36.6
   },
   {
    "formato": "Imagem",
@@ -2921,14 +2951,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 102,
+   "alcance": 103,
    "visualizacoes": 168,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 10.8,
+   "taxa_engajamento": 10.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
@@ -3016,6 +3046,26 @@
  ],
  "posts": [
   {
+   "id": "18119906734771163",
+   "data": "2026-11-05",
+   "data_hora": "05/11/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
+   "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
+   "alcance": 16,
+   "visualizacoes": 34,
+   "curtidas": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 2,
+   "taxa_engajamento": 12.5,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
+  },
+  {
    "id": "17991205626065734",
    "data": "2026-11-04",
    "data_hora": "04/11/26 18:05",
@@ -3023,16 +3073,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 6 meses já faz isso? 👶",
    "link": "https://www.instagram.com/reel/DfVYWqpjX8U/",
-   "alcance": 20,
-   "visualizacoes": 24,
+   "alcance": 24,
+   "visualizacoes": 29,
    "curtidas": 1,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 1,
-   "taxa_engajamento": 5.0,
-   "reels_tempo_medio_assistido": 3044,
-   "reels_taxa_pulo": 0.773,
+   "taxa_engajamento": 4.2,
+   "reels_tempo_medio_assistido": 2763,
+   "reels_taxa_pulo": 0.815,
    "legenda": "Seu bebê de 6 meses já faz isso? 👶\n\nAos 6 meses, a maioria dos bebês:\n✔️ rola de bruços para barriga para cima\n✔️ dá risada e reconhece quem é próximo\n✔️ faz sons e \"conversa\" com você\n✔️ leva objetos à boca\n✔️ apoia nas mãos quando está sentado\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n⚠️ Converse com o pediatra se o bebê perdeu algo que já fazia, não reage a sons ou não sorri nem olha nos seus olhos.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desenvolvimentoinfantil #bebe6meses #marcosdodesenvolvimento #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3044,7 +3094,7 @@
    "titulo": "Calor: sinais de desidratação e como hidratar 💧",
    "link": "https://www.instagram.com/p/DfSzeICjNs_/",
    "alcance": 22,
-   "visualizacoes": 61,
+   "visualizacoes": 63,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
@@ -3063,16 +3113,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!",
    "link": "https://www.instagram.com/reel/DfQOwewkRYN/",
-   "alcance": 30,
-   "visualizacoes": 40,
+   "alcance": 31,
+   "visualizacoes": 42,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 6.7,
-   "reels_tempo_medio_assistido": 6748,
-   "reels_taxa_pulo": 0.483,
+   "taxa_engajamento": 6.5,
+   "reels_tempo_medio_assistido": 6420,
+   "reels_taxa_pulo": 0.5,
    "legenda": "Feridinhas na boca, baba e recusa para comer? 👄 Pode ser estomatite!\n\nÉ uma inflamação na boca, com aftas ou feridinhas, muitas vezes causada por vírus e muito comum em crianças pequenas, principalmente quem vai para a creche.\n\nComo aliviar:\n✔️ alimentos frios e pastosos (iogurte, frutas amassadas, papinhas frias)\n✔️ evite comidas ácidas, salgadas ou quentes\n✔️ ofereça líquidos várias vezes ao dia\n\nPara evitar o contágio: lave as mãos com frequência e não compartilhe talheres, copos e chupetas.\n\n⚠️ Procure o pediatra se a criança não conseguir beber, fizer pouco xixi, tiver febre alta ou persistente ou estiver muito abatida.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estomatite #saudeinfantil #creche #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3103,14 +3153,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Açúcar deixa a criança agitada? 🍬 Mito!",
    "link": "https://www.instagram.com/p/DfLFGiXjCh7/",
-   "alcance": 24,
-   "visualizacoes": 79,
+   "alcance": 25,
+   "visualizacoes": 81,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 25.0,
+   "taxa_engajamento": 24.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Açúcar deixa a criança agitada? 🍬 Mito!\n\nOs estudos não mostram que o açúcar cause hiperatividade. A agitação costuma vir do ambiente: festa, amigos, empolgação e horário fora da rotina.\n\nMas isso não libera os doces! O açúcar em excesso causa cáries, ganho de peso e deixa o paladar acostumado ao doce. Antes dos 2 anos, o ideal é nada de açúcar.\n\nDicas para o Halloween 🎃\n✔️ combine antes quantos doces pode\n✔️ doce depois da refeição, não no lugar dela\n✔️ ofereça água, não refrigerante\n✔️ escove os dentes depois\n✔️ frutas fantasiadas também fazem sucesso\n\n⚠️ Balas duras, pirulitos e chicletes oferecem risco de engasgo antes dos 4 anos. Confira as embalagens, fique por perto enquanto a criança come e, se houver alergia alimentar, leia os rótulos com atenção.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #halloween #alimentacaoinfantil #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3123,16 +3173,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Afogamento é silencioso 🌊 E acontece em segundos.",
    "link": "https://www.instagram.com/reel/DfIgO9Hmn0T/",
-   "alcance": 34,
-   "visualizacoes": 38,
+   "alcance": 35,
+   "visualizacoes": 39,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 14.7,
-   "reels_tempo_medio_assistido": 5838,
-   "reels_taxa_pulo": 0.75,
+   "taxa_engajamento": 14.3,
+   "reels_tempo_medio_assistido": 5672,
+   "reels_taxa_pulo": 0.758,
    "legenda": "Afogamento é silencioso 🌊 E acontece em segundos.\n\nA criança que está se afogando não grita nem se debate: afunda em silêncio, até em água rasa, como em baldes, banheiras e piscinas infantis.\n\n5 regras de segurança:\n✔️ um adulto olhando a criança o tempo todo, sem celular\n✔️ piscina cercada, com portão e trava\n✔️ baldes e banheira vazios logo depois de usar\n✔️ boia não é babá: prefira colete salva-vidas\n✔️ aulas de natação ajudam, mas não dispensam a vigilância\n\n⚠️ Se acontecer: tire a criança da água e ligue 192 ou 193. Se ela não estiver respirando, comece a reanimação. Mesmo que pareça bem depois, leve para avaliação médica.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #afogamento #segurancanaagua #segurancainfantil #verao #maternidade #dicasdepediatra"
   },
   {
@@ -3463,14 +3513,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 102,
+   "alcance": 103,
    "visualizacoes": 168,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 10.8,
+   "taxa_engajamento": 10.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
@@ -4969,7 +5019,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-06-reels-06-engasgo",
@@ -5116,9 +5166,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 12,
+  "agendados": 11,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 17
+  "publicados": 18
  }
 }
