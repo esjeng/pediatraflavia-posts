@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-09T06:06:15-03:00",
- "atualizado_em_texto": "09/11/26 06:06",
+ "atualizado_em": "2026-11-10T06:05:22-03:00",
+ "atualizado_em_texto": "10/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1324,
+  "seguidores": 1325,
   "publicacoes": 90
  },
  "resumo_30d": {
-  "alcance": 1635,
-  "visualizacoes": 3621,
-  "contas_engajadas": 118,
-  "alcance_seguidores": 1062,
-  "alcance_nao_seguidores": 571,
+  "alcance": 1654,
+  "visualizacoes": 3530,
+  "contas_engajadas": 119,
+  "alcance_seguidores": 1082,
+  "alcance_nao_seguidores": 572,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1662,
-  "visualizacoes": 3739,
-  "contas_engajadas": 119,
-  "alcance_seguidores": 1064,
-  "alcance_nao_seguidores": 596,
+  "alcance": 1681,
+  "visualizacoes": 3770,
+  "contas_engajadas": 120,
+  "alcance_seguidores": 1084,
+  "alcance_nao_seguidores": 597,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1827,
-  "visualizacoes": 4373,
+  "alcance": 1845,
+  "visualizacoes": 4404,
   "contas_engajadas": 129,
-  "alcance_seguidores": 1196,
-  "alcance_nao_seguidores": 632,
+  "alcance_seguidores": 1214,
+  "alcance_nao_seguidores": 634,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-14",
-   "alcance": 2,
-   "visualizacoes": 4,
-   "contas_engajadas": 1,
-   "alcance_seguidores": 2,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-15",
    "alcance": 2,
@@ -1644,8 +1635,17 @@
   },
   {
    "data": "2026-11-09",
-   "alcance": 2,
-   "visualizacoes": 2,
+   "alcance": 22,
+   "visualizacoes": 37,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 20,
+   "alcance_nao_seguidores": 2,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-10",
+   "alcance": 0,
+   "visualizacoes": 0,
    "contas_engajadas": 0,
    "alcance_seguidores": 0,
    "alcance_nao_seguidores": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 442
+   "seguidores": 440
   },
   {
    "cidade": "Montes Claros",
@@ -1671,27 +1671,27 @@
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 47
+   "seguidores": 46
   },
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 40
+   "seguidores": 41
   },
   {
    "cidade": "São Paulo",
    "estado": "São Paulo",
-   "seguidores": 36
+   "seguidores": 37
   },
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 36
+   "seguidores": 35
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 22
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
@@ -1704,19 +1704,19 @@
    "seguidores": 19
   },
   {
-   "cidade": "São José da Lapa",
-   "estado": "Minas Gerais",
-   "seguidores": 14
-  },
-  {
    "cidade": "Betim",
    "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 15
   },
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
    "seguidores": 13
+  },
+  {
+   "cidade": "São José da Lapa",
+   "estado": "Minas Gerais",
+   "seguidores": 12
   },
   {
    "cidade": "Pedro Leopoldo",
@@ -1754,6 +1754,11 @@
    "seguidores": 7
   },
   {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
+   "seguidores": 6
+  },
+  {
    "cidade": "Uberlândia",
    "estado": "Minas Gerais",
    "seguidores": 5
@@ -1766,11 +1771,6 @@
   {
    "cidade": "Sete Lagoas",
    "estado": "Minas Gerais",
-   "seguidores": 5
-  },
-  {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
    "seguidores": 5
   },
   {
@@ -1864,18 +1864,18 @@
    "seguidores": 3
   },
   {
-   "cidade": "Jaboatão dos Guararapes",
-   "estado": "Pernambuco",
+   "cidade": "Araguari",
+   "estado": "Minas Gerais",
    "seguidores": 2
   },
   {
-   "cidade": "Manaus",
-   "estado": "Amazonas",
+   "cidade": "Mogi das Cruzes",
+   "estado": "São Paulo",
    "seguidores": 2
   },
   {
-   "cidade": "Serra",
-   "estado": "Espírito Santo",
+   "cidade": "Itaúna",
+   "estado": "Minas Gerais",
    "seguidores": 2
   }
  ],
@@ -1933,7 +1933,7 @@
   {
    "genero": "Masculino",
    "faixa_etaria": "45-54",
-   "seguidores": 61
+   "seguidores": 62
   },
   {
    "genero": "Masculino",
@@ -2000,7 +2000,7 @@
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 316
+   "seguidores": 317
   },
   {
    "faixa_etaria": "55-64",
@@ -2018,7 +2018,7 @@
   },
   {
    "genero": "Masculino",
-   "seguidores": 203
+   "seguidores": 204
   },
   {
    "genero": "Não informado",
@@ -2113,6 +2113,10 @@
   {
    "data": "2026-11-09",
    "seguidores": 1324
+  },
+  {
+   "data": "2026-11-10",
+   "seguidores": 1325
   }
  ],
  "novos_seguidores": [
@@ -2326,20 +2330,24 @@
   },
   {
    "data": "2026-11-08",
+   "novos": 1
+  },
+  {
+   "data": "2026-11-09",
    "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1324,
-   "novos_seguidores": 12,
+   "seguidores_atual": 1325,
+   "novos_seguidores": 13,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -1,
-   "variacao_pct": -0.08,
-   "dias_com_total": 22,
+   "variacao": 0,
+   "variacao_pct": 0.0,
+   "dias_com_total": 23,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2430,19 +2438,23 @@
     {
      "data": "2026-11-09",
      "seguidores": 1324
+    },
+    {
+     "data": "2026-11-10",
+     "seguidores": 1325
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1324,
-   "novos_seguidores": 18,
-   "dias_com_novos": 53,
+   "seguidores_atual": 1325,
+   "novos_seguidores": 19,
+   "dias_com_novos": 54,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -1,
-   "variacao_pct": -0.08,
-   "dias_com_total": 22,
+   "variacao": 0,
+   "variacao_pct": 0.0,
+   "dias_com_total": 23,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2533,19 +2545,23 @@
     {
      "data": "2026-11-09",
      "seguidores": 1324
+    },
+    {
+     "data": "2026-11-10",
+     "seguidores": 1325
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1324,
-   "novos_seguidores": 18,
-   "dias_com_novos": 53,
+   "seguidores_atual": 1325,
+   "novos_seguidores": 19,
+   "dias_com_novos": 54,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": -1,
-   "variacao_pct": -0.08,
-   "dias_com_total": 22,
+   "variacao": 0,
+   "variacao_pct": 0.0,
+   "dias_com_total": 23,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 10,
    "serie": [
@@ -2636,6 +2652,10 @@
     {
      "data": "2026-11-09",
      "seguidores": 1324
+    },
+    {
+     "data": "2026-11-10",
+     "seguidores": 1325
     }
    ]
   }
@@ -2864,14 +2884,14 @@
   {
    "formato": "Reels",
    "posts": 23,
-   "alcance_medio": 61,
+   "alcance_medio": 62,
    "taxa_engajamento": 40.4
   },
   {
    "formato": "Carrossel",
    "posts": 31,
    "alcance_medio": 36,
-   "taxa_engajamento": 35.6
+   "taxa_engajamento": 35.4
   },
   {
    "formato": "Imagem",
@@ -2889,7 +2909,7 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 508,
+   "alcance": 509,
    "visualizacoes": 730,
    "curtidas": 8,
    "comentarios": 0,
@@ -2997,7 +3017,7 @@
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.8,
-   "reels_tempo_medio_assistido": 1398,
+   "reels_tempo_medio_assistido": 1426,
    "reels_taxa_pulo": 0.972,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3091,14 +3111,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 24,
-   "visualizacoes": 64,
-   "curtidas": 3,
-   "comentarios": 0,
+   "alcance": 29,
+   "visualizacoes": 80,
+   "curtidas": 4,
+   "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 3,
-   "taxa_engajamento": 12.5,
+   "interacoes": 5,
+   "taxa_engajamento": 17.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3111,14 +3131,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Dente nascendo dá febre? 🦷 Mito!",
    "link": "https://www.instagram.com/p/DfdGoSwEZsu/",
-   "alcance": 16,
-   "visualizacoes": 50,
+   "alcance": 18,
+   "visualizacoes": 52,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 25.0,
+   "taxa_engajamento": 22.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Dente nascendo dá febre? 🦷 Mito!\n\nO nascimento dos dentes pode deixar a temperatura um pouquinho mais alta, mas febre de verdade (38 °C ou mais) não é causada pelo dente. Se o bebê tem febre, é preciso investigar outra causa.\n\nO que é normal na dentição:\n✔️ muita baba\n✔️ vontade de morder tudo\n✔️ gengiva inchada e mais irritação\n✔️ sono mais agitado por alguns dias\n\nPara aliviar: mordedor gelado (de geladeira, não de congelador), massagem na gengiva com o dedo limpo e muito colo. Evite colares de âmbar ou de dentição e géis anestésicos sem orientação.\n\n⚠️ Febre em bebê com menos de 3 meses, febre que dura mais de 2 a 3 dias, bebê muito abatido, diarreia ou pouco xixi pedem avaliação do pediatra.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #denticao #dentesdebebe #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3139,7 +3159,7 @@
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.8,
-   "reels_tempo_medio_assistido": 1398,
+   "reels_tempo_medio_assistido": 1426,
    "reels_taxa_pulo": 0.972,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3151,14 +3171,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
    "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
-   "alcance": 24,
+   "alcance": 25,
    "visualizacoes": 57,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 12.5,
+   "taxa_engajamento": 12.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3171,16 +3191,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 6 meses já faz isso? 👶",
    "link": "https://www.instagram.com/reel/DfVYWqpjX8U/",
-   "alcance": 25,
-   "visualizacoes": 30,
+   "alcance": 26,
+   "visualizacoes": 31,
    "curtidas": 1,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 1,
-   "taxa_engajamento": 4.0,
-   "reels_tempo_medio_assistido": 2731,
-   "reels_taxa_pulo": 0.821,
+   "taxa_engajamento": 3.8,
+   "reels_tempo_medio_assistido": 2701,
+   "reels_taxa_pulo": 0.828,
    "legenda": "Seu bebê de 6 meses já faz isso? 👶\n\nAos 6 meses, a maioria dos bebês:\n✔️ rola de bruços para barriga para cima\n✔️ dá risada e reconhece quem é próximo\n✔️ faz sons e \"conversa\" com você\n✔️ leva objetos à boca\n✔️ apoia nas mãos quando está sentado\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n⚠️ Converse com o pediatra se o bebê perdeu algo que já fazia, não reage a sons ou não sorri nem olha nos seus olhos.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desenvolvimentoinfantil #bebe6meses #marcosdodesenvolvimento #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3192,7 +3212,7 @@
    "titulo": "Calor: sinais de desidratação e como hidratar 💧",
    "link": "https://www.instagram.com/p/DfSzeICjNs_/",
    "alcance": 24,
-   "visualizacoes": 64,
+   "visualizacoes": 66,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
@@ -3291,14 +3311,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
    "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
-   "alcance": 24,
+   "alcance": 25,
    "visualizacoes": 69,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 25.0,
+   "taxa_engajamento": 24.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3571,7 +3591,7 @@
    "tipo_instagram": "REELS",
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
-   "alcance": 508,
+   "alcance": 509,
    "visualizacoes": 730,
    "curtidas": 8,
    "comentarios": 0,
@@ -5169,7 +5189,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Não publicado"
   },
   {
    "id": "2026-11-10-lancheira-saudavel",
@@ -5264,9 +5284,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 8,
+  "agendados": 7,
   "aguardando_aprovacao": 0,
-  "sem_conteudo": 0,
+  "sem_conteudo": 1,
   "publicados": 21
  }
 }
