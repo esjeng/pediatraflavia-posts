@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-10T06:05:22-03:00",
- "atualizado_em_texto": "10/11/26 06:05",
+ "atualizado_em": "2026-11-11T06:05:37-03:00",
+ "atualizado_em_texto": "11/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1325,
   "publicacoes": 90
  },
  "resumo_30d": {
-  "alcance": 1654,
-  "visualizacoes": 3530,
-  "contas_engajadas": 119,
-  "alcance_seguidores": 1082,
-  "alcance_nao_seguidores": 572,
+  "alcance": 1744,
+  "visualizacoes": 3660,
+  "contas_engajadas": 122,
+  "alcance_seguidores": 1093,
+  "alcance_nao_seguidores": 651,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1681,
-  "visualizacoes": 3770,
-  "contas_engajadas": 120,
-  "alcance_seguidores": 1084,
-  "alcance_nao_seguidores": 597,
+  "alcance": 1771,
+  "visualizacoes": 3906,
+  "contas_engajadas": 123,
+  "alcance_seguidores": 1096,
+  "alcance_nao_seguidores": 675,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1845,
-  "visualizacoes": 4404,
-  "contas_engajadas": 129,
-  "alcance_seguidores": 1214,
-  "alcance_nao_seguidores": 634,
+  "alcance": 1934,
+  "visualizacoes": 4538,
+  "contas_engajadas": 132,
+  "alcance_seguidores": 1224,
+  "alcance_nao_seguidores": 713,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-15",
-   "alcance": 2,
-   "visualizacoes": 2,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 2,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-16",
    "alcance": 1,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-11-10",
+   "alcance": 91,
+   "visualizacoes": 136,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 12,
+   "alcance_nao_seguidores": 79,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-11",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1666,27 +1666,27 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 80
+   "seguidores": 79
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 46
+   "seguidores": 47
   },
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 41
+   "seguidores": 43
   },
   {
    "cidade": "São Paulo",
    "estado": "São Paulo",
-   "seguidores": 37
+   "seguidores": 36
   },
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 35
+   "seguidores": 36
   },
   {
    "cidade": "Ribeirão das Neves",
@@ -1734,13 +1734,13 @@
    "seguidores": 8
   },
   {
-   "cidade": "Fortaleza",
-   "estado": "Ceará",
+   "cidade": "Goiânia",
+   "estado": "Goiás",
    "seguidores": 8
   },
   {
-   "cidade": "Goiânia",
-   "estado": "Goiás",
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
    "seguidores": 8
   },
   {
@@ -1784,11 +1784,6 @@
    "seguidores": 4
   },
   {
-   "cidade": "Curitiba",
-   "estado": "Paraná",
-   "seguidores": 4
-  },
-  {
    "cidade": "São Lourenço",
    "estado": "Minas Gerais",
    "seguidores": 3
@@ -1819,17 +1814,17 @@
    "seguidores": 3
   },
   {
+   "cidade": "Teresina",
+   "estado": "Piauí",
+   "seguidores": 3
+  },
+  {
    "cidade": "São João del Rei",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
   {
    "cidade": "Varginha",
-   "estado": "Minas Gerais",
-   "seguidores": 3
-  },
-  {
-   "cidade": "Itaguara",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
@@ -1859,23 +1854,28 @@
    "seguidores": 3
   },
   {
+   "cidade": "Curitiba",
+   "estado": "Paraná",
+   "seguidores": 3
+  },
+  {
    "cidade": "Taguatinga",
    "estado": "Federal District",
    "seguidores": 3
   },
   {
-   "cidade": "Araguari",
-   "estado": "Minas Gerais",
+   "cidade": "Paulista",
+   "estado": "Pernambuco",
    "seguidores": 2
   },
   {
-   "cidade": "Mogi das Cruzes",
-   "estado": "São Paulo",
+   "cidade": "Jaboatão dos Guararapes",
+   "estado": "Pernambuco",
    "seguidores": 2
   },
   {
-   "cidade": "Itaúna",
-   "estado": "Minas Gerais",
+   "cidade": "São Gonçalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 2
   }
  ],
@@ -1893,17 +1893,17 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 139
+   "seguidores": 140
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 392
+   "seguidores": 391
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "45-54",
-   "seguidores": 218
+   "seguidores": 219
   },
   {
    "genero": "Feminino",
@@ -1992,15 +1992,15 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 232
+   "seguidores": 233
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 560
+   "seguidores": 559
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 317
+   "seguidores": 318
   },
   {
    "faixa_etaria": "55-64",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 868
+   "seguidores": 869
   },
   {
    "genero": "Masculino",
@@ -2116,6 +2116,10 @@
   },
   {
    "data": "2026-11-10",
+   "seguidores": 1325
+  },
+  {
+   "data": "2026-11-11",
    "seguidores": 1325
   }
  ],
@@ -2334,6 +2338,10 @@
   },
   {
    "data": "2026-11-09",
+   "novos": 1
+  },
+  {
+   "data": "2026-11-10",
    "novos": 0
   }
  ],
@@ -2341,15 +2349,15 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1325,
-   "novos_seguidores": 13,
+   "novos_seguidores": 14,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 23,
+   "dias_com_total": 24,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 10,
+   "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2441,6 +2449,10 @@
     },
     {
      "data": "2026-11-10",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-11-11",
      "seguidores": 1325
     }
    ]
@@ -2448,15 +2460,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1325,
-   "novos_seguidores": 19,
-   "dias_com_novos": 54,
+   "novos_seguidores": 20,
+   "dias_com_novos": 55,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 23,
+   "dias_com_total": 24,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 10,
+   "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2548,6 +2560,10 @@
     },
     {
      "data": "2026-11-10",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-11-11",
      "seguidores": 1325
     }
    ]
@@ -2555,15 +2571,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1325,
-   "novos_seguidores": 19,
-   "dias_com_novos": 54,
+   "novos_seguidores": 20,
+   "dias_com_novos": 55,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 0,
    "variacao_pct": 0.0,
-   "dias_com_total": 23,
+   "dias_com_total": 24,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 10,
+   "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2655,6 +2671,10 @@
     },
     {
      "data": "2026-11-10",
+     "seguidores": 1325
+    },
+    {
+     "data": "2026-11-11",
      "seguidores": 1325
     }
    ]
@@ -2885,13 +2905,13 @@
    "formato": "Reels",
    "posts": 23,
    "alcance_medio": 62,
-   "taxa_engajamento": 40.4
+   "taxa_engajamento": 40.2
   },
   {
    "formato": "Carrossel",
    "posts": 31,
-   "alcance_medio": 36,
-   "taxa_engajamento": 35.4
+   "alcance_medio": 39,
+   "taxa_engajamento": 33.2
   },
   {
    "formato": "Imagem",
@@ -3009,17 +3029,37 @@
    "tipo_instagram": "REELS",
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
-   "alcance": 142,
-   "visualizacoes": 156,
+   "alcance": 145,
+   "visualizacoes": 158,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.8,
-   "reels_tempo_medio_assistido": 1426,
+   "reels_tempo_medio_assistido": 1427,
    "reels_taxa_pulo": 0.972,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
+   "id": "17994297489073642",
+   "data": "2026-11-08",
+   "data_hora": "08/11/26 18:03",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
+   "link": "https://www.instagram.com/p/DffrbEXjdCq/",
+   "alcance": 115,
+   "visualizacoes": 209,
+   "curtidas": 6,
+   "comentarios": 1,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 8,
+   "taxa_engajamento": 7.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
   },
   {
    "id": "18186062029330113",
@@ -3080,26 +3120,6 @@
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
-  },
-  {
-   "id": "18124855147924013",
-   "data": "2026-10-18",
-   "data_hora": "18/10/26 21:02",
-   "formato": "Reels",
-   "tipo_instagram": "REELS",
-   "titulo": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reun",
-   "link": "https://www.instagram.com/reel/Dep7C4jDN2n/",
-   "alcance": 83,
-   "visualizacoes": 99,
-   "curtidas": 5,
-   "comentarios": 0,
-   "salvamentos": 0,
-   "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 6.0,
-   "reels_tempo_medio_assistido": 3831,
-   "reels_taxa_pulo": 0.859,
-   "legenda": "O maior congresso de pediatria do Brasil aconteceu aqui em BH! 🩺 De 13 a 17 de outubro, pediatras de todo o país se reuniram no 42º Congresso Brasileiro de Pediatria.\n\nSeparei 5 temas que estiveram em destaque e o que eles significam para a sua família:\n\n👶 Bronquiolite: a prevenção mudou. Hoje, pelo SUS, existe vacina para gestantes a partir de 28 semanas e anticorpo para prematuros e bebês de grupos de risco.\n📱 Telas e redes sociais: evite telas antes dos 2 anos e acompanhe de perto o uso das redes.\n💊 Obesidade infantil: remédios para obesidade (\"canetas\") só com indicação e acompanhamento médico. Nunca para estética.\n🦶 Teste do pezinho: faça entre o 3º e o 5º dia de vida.\n🤱 Amamentação: a mãe que volta ao trabalho precisa de apoio para continuar amamentando.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #congressodepediatria #CBP2026 #bronquiolite #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   }
  ],
  "posts": [
@@ -3111,14 +3131,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 29,
-   "visualizacoes": 80,
-   "curtidas": 4,
+   "alcance": 115,
+   "visualizacoes": 209,
+   "curtidas": 6,
    "comentarios": 1,
    "salvamentos": 0,
-   "compartilhamentos": 0,
-   "interacoes": 5,
-   "taxa_engajamento": 17.2,
+   "compartilhamentos": 1,
+   "interacoes": 8,
+   "taxa_engajamento": 7.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3131,14 +3151,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Dente nascendo dá febre? 🦷 Mito!",
    "link": "https://www.instagram.com/p/DfdGoSwEZsu/",
-   "alcance": 18,
-   "visualizacoes": 52,
-   "curtidas": 4,
+   "alcance": 20,
+   "visualizacoes": 54,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 22.2,
+   "interacoes": 5,
+   "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Dente nascendo dá febre? 🦷 Mito!\n\nO nascimento dos dentes pode deixar a temperatura um pouquinho mais alta, mas febre de verdade (38 °C ou mais) não é causada pelo dente. Se o bebê tem febre, é preciso investigar outra causa.\n\nO que é normal na dentição:\n✔️ muita baba\n✔️ vontade de morder tudo\n✔️ gengiva inchada e mais irritação\n✔️ sono mais agitado por alguns dias\n\nPara aliviar: mordedor gelado (de geladeira, não de congelador), massagem na gengiva com o dedo limpo e muito colo. Evite colares de âmbar ou de dentição e géis anestésicos sem orientação.\n\n⚠️ Febre em bebê com menos de 3 meses, febre que dura mais de 2 a 3 dias, bebê muito abatido, diarreia ou pouco xixi pedem avaliação do pediatra.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #denticao #dentesdebebe #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3151,15 +3171,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
-   "alcance": 142,
-   "visualizacoes": 156,
+   "alcance": 145,
+   "visualizacoes": 158,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.8,
-   "reels_tempo_medio_assistido": 1426,
+   "reels_tempo_medio_assistido": 1427,
    "reels_taxa_pulo": 0.972,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3171,14 +3191,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
    "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
-   "alcance": 25,
-   "visualizacoes": 57,
+   "alcance": 26,
+   "visualizacoes": 61,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 3,
-   "taxa_engajamento": 12.0,
+   "taxa_engajamento": 11.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3191,14 +3211,14 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 6 meses já faz isso? 👶",
    "link": "https://www.instagram.com/reel/DfVYWqpjX8U/",
-   "alcance": 26,
+   "alcance": 27,
    "visualizacoes": 31,
    "curtidas": 1,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 1,
-   "taxa_engajamento": 3.8,
+   "taxa_engajamento": 3.7,
    "reels_tempo_medio_assistido": 2701,
    "reels_taxa_pulo": 0.828,
    "legenda": "Seu bebê de 6 meses já faz isso? 👶\n\nAos 6 meses, a maioria dos bebês:\n✔️ rola de bruços para barriga para cima\n✔️ dá risada e reconhece quem é próximo\n✔️ faz sons e \"conversa\" com você\n✔️ leva objetos à boca\n✔️ apoia nas mãos quando está sentado\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n⚠️ Converse com o pediatra se o bebê perdeu algo que já fazia, não reage a sons ou não sorri nem olha nos seus olhos.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desenvolvimentoinfantil #bebe6meses #marcosdodesenvolvimento #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -5202,7 +5222,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Não publicado"
   },
   {
    "id": "2026-11-11-reels-09-telas-sono",
@@ -5284,9 +5304,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 7,
+  "agendados": 6,
   "aguardando_aprovacao": 0,
-  "sem_conteudo": 1,
+  "sem_conteudo": 2,
   "publicados": 21
  }
 }
