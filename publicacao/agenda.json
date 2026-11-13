@@ -486,7 +486,7 @@
    "descricao": "Escabiose (sarna): carrossel com avatar",
    "sha": "ea9559558d26dd74c53e46c72e528b8ffe2841cb",
    "pasta": "posts/2026-11-13-carrossel-escabiose",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1d2415b9eeb2fe",
    "legenda": "legenda.txt",
    "imagens": [
@@ -498,7 +498,8 @@
     "escabiose-06.jpg",
     "escabiose-07.jpg",
     "escabiose-08.jpg"
-   ]
+   ],
+   "obs": "Liberado pelo Edilson em 13/11 12h24 (conteúdo igual ao Reels aprovado pela Dra. Flávia)."
   },
   {
    "id": "2026-11-13-carrossel-escabiose-story",
@@ -507,9 +508,10 @@
    "descricao": "Story: Escabiose (sarna) carrossel",
    "sha": "ea9559558d26dd74c53e46c72e528b8ffe2841cb",
    "pasta": "posts/2026-11-13-carrossel-escabiose",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1d2415b9eeb2fe",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Liberado pelo Edilson em 13/11 12h24 (conteúdo igual ao Reels aprovado pela Dra. Flávia)."
   },
   {
    "id": "2026-11-14-mito-diabetes",
