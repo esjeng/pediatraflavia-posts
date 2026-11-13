@@ -576,6 +576,19 @@
    "imagem": "story.jpg"
   },
   {
+   "id": "2026-11-13-reels-12-escabiose",
+   "quando": "2026-11-13T12:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Escabiose (sarna): coceira que piora à noite",
+   "sha": "e082144e3d208bec0c1fd261f699b155be7354de",
+   "pasta": "posts/reels-12-escabiose",
+   "aprovado": false,
+   "thread": "1a1d2415b9eeb2fe",
+   "legenda": "legenda.txt",
+   "video": "reels.mp4",
+   "capa": "capa.jpg"
+  },
+  {
    "id": "2026-11-13-reels-10-refluxo",
    "quando": "2026-11-13T18:00:00-03:00",
    "tipo": "reels",
