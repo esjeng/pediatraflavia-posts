@@ -480,28 +480,35 @@
    "obs": "Publicado manualmente em 13/11 ~12h10 (pedido do Edilson); horário movido para fora da janela do publicador para não duplicar."
   },
   {
-   "id": "2026-11-13-reels-10-refluxo",
+   "id": "2026-11-13-carrossel-escabiose",
    "quando": "2026-11-13T18:00:00-03:00",
-   "tipo": "reels",
-   "descricao": "Bebê golfando: refluxo normal ou sinal de alerta?",
-   "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
-   "pasta": "posts/reels-10-refluxo",
-   "aprovado": true,
-   "thread": "1a19d2033082419c",
+   "tipo": "carrossel",
+   "descricao": "Escabiose (sarna): carrossel com avatar",
+   "sha": "ea9559558d26dd74c53e46c72e528b8ffe2841cb",
+   "pasta": "posts/2026-11-13-carrossel-escabiose",
+   "aprovado": false,
+   "thread": "1a1d2415b9eeb2fe",
    "legenda": "legenda.txt",
-   "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "imagens": [
+    "escabiose-01.jpg",
+    "escabiose-02.jpg",
+    "escabiose-03.jpg",
+    "escabiose-04.jpg",
+    "escabiose-05.jpg",
+    "escabiose-06.jpg",
+    "escabiose-07.jpg",
+    "escabiose-08.jpg"
+   ]
   },
   {
-   "id": "2026-11-13-reels-10-refluxo-story",
+   "id": "2026-11-13-carrossel-escabiose-story",
    "quando": "2026-11-13T18:00:00-03:00",
    "tipo": "story",
-   "descricao": "Story: Bebê golfando: refluxo normal ou sinal de alerta?",
-   "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
-   "pasta": "posts/reels-10-refluxo",
-   "aprovado": true,
-   "thread": "1a19d2033082419c",
-   "video": "story.mp4",
+   "descricao": "Story: Escabiose (sarna) carrossel",
+   "sha": "ea9559558d26dd74c53e46c72e528b8ffe2841cb",
+   "pasta": "posts/2026-11-13-carrossel-escabiose",
+   "aprovado": false,
+   "thread": "1a1d2415b9eeb2fe",
    "imagem": "story.jpg"
   },
   {
@@ -564,8 +571,33 @@
    "imagem": "story.jpg"
   },
   {
-   "id": "2026-11-16-reels-11-intestino-preso",
+   "id": "2026-11-16-reels-10-refluxo",
    "quando": "2026-11-16T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Bebê golfando: refluxo normal ou sinal de alerta?",
+   "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
+   "pasta": "posts/reels-10-refluxo",
+   "aprovado": true,
+   "thread": "1a19d2033082419c",
+   "legenda": "legenda.txt",
+   "video": "reels.mp4",
+   "capa": "capa.jpg"
+  },
+  {
+   "id": "2026-11-16-reels-10-refluxo-story",
+   "quando": "2026-11-16T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Bebê golfando: refluxo normal ou sinal de alerta?",
+   "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
+   "pasta": "posts/reels-10-refluxo",
+   "aprovado": true,
+   "thread": "1a19d2033082419c",
+   "video": "story.mp4",
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-17-reels-11-intestino-preso",
+   "quando": "2026-11-17T18:00:00-03:00",
    "tipo": "reels",
    "descricao": "Intestino preso no bebê: quando é normal",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -577,8 +609,8 @@
    "capa": "capa.jpg"
   },
   {
-   "id": "2026-11-16-reels-11-intestino-preso-story",
-   "quando": "2026-11-16T18:00:00-03:00",
+   "id": "2026-11-17-reels-11-intestino-preso-story",
+   "quando": "2026-11-17T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story: Intestino preso no bebê: quando é normal",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -589,8 +621,8 @@
    "imagem": "story.jpg"
   },
   {
-   "id": "2026-11-17-lancheira-saudavel",
-   "quando": "2026-11-17T18:00:00-03:00",
+   "id": "2026-11-18-lancheira-saudavel",
+   "quando": "2026-11-18T18:00:00-03:00",
    "tipo": "carrossel",
    "descricao": "Lancheira saudável: monte em 5 passos",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -608,8 +640,8 @@
    ]
   },
   {
-   "id": "2026-11-17-lancheira-saudavel-story",
-   "quando": "2026-11-17T18:00:00-03:00",
+   "id": "2026-11-18-lancheira-saudavel-story",
+   "quando": "2026-11-18T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story: Lancheira saudável: monte em 5 passos",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -619,8 +651,8 @@
    "imagem": "story.jpg"
   },
   {
-   "id": "2026-11-18-reels-08-otite",
-   "quando": "2026-11-18T18:00:00-03:00",
+   "id": "2026-11-19-reels-08-otite",
+   "quando": "2026-11-19T18:00:00-03:00",
    "tipo": "reels",
    "descricao": "Dor de ouvido à noite? Pode ser otite.",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -632,8 +664,8 @@
    "capa": "capa.jpg"
   },
   {
-   "id": "2026-11-18-reels-08-otite-story",
-   "quando": "2026-11-18T18:00:00-03:00",
+   "id": "2026-11-19-reels-08-otite-story",
+   "quando": "2026-11-19T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story: Dor de ouvido à noite? Pode ser otite.",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -644,8 +676,8 @@
    "imagem": "story.jpg"
   },
   {
-   "id": "2026-11-19-mito-andador",
-   "quando": "2026-11-19T18:00:00-03:00",
+   "id": "2026-11-20-mito-andador",
+   "quando": "2026-11-20T18:00:00-03:00",
    "tipo": "carrossel",
    "descricao": "Mito ou verdade: andador ajuda o bebê a andar?",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -663,8 +695,8 @@
    ]
   },
   {
-   "id": "2026-11-19-mito-andador-story",
-   "quando": "2026-11-19T18:00:00-03:00",
+   "id": "2026-11-20-mito-andador-story",
+   "quando": "2026-11-20T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story: Mito ou verdade: andador ajuda o bebê a andar?",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -674,8 +706,8 @@
    "imagem": "story.jpg"
   },
   {
-   "id": "2026-11-20-reels-09-telas-sono",
-   "quando": "2026-11-20T18:00:00-03:00",
+   "id": "2026-11-21-reels-09-telas-sono",
+   "quando": "2026-11-21T18:00:00-03:00",
    "tipo": "reels",
    "descricao": "Tela antes de dormir atrapalha o sono?",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
@@ -687,8 +719,8 @@
    "capa": "capa.jpg"
   },
   {
-   "id": "2026-11-20-reels-09-telas-sono-story",
-   "quando": "2026-11-20T18:00:00-03:00",
+   "id": "2026-11-21-reels-09-telas-sono-story",
+   "quando": "2026-11-21T18:00:00-03:00",
    "tipo": "story",
    "descricao": "Story: Tela antes de dormir atrapalha o sono?",
    "sha": "fb4fb7d066f90b92f14744149a1a94e7463eca41",
