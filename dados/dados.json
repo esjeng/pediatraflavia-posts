@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-13T08:05:31-03:00",
- "atualizado_em_texto": "13/11/26 08:05",
+ "atualizado_em": "2026-11-14T06:05:56-03:00",
+ "atualizado_em_texto": "14/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1326,
-  "publicacoes": 90
+  "seguidores": 1327,
+  "publicacoes": 93
  },
  "resumo_30d": {
-  "alcance": 1764,
-  "visualizacoes": 3697,
-  "contas_engajadas": 123,
-  "alcance_seguidores": 1106,
-  "alcance_nao_seguidores": 658,
+  "alcance": 1716,
+  "visualizacoes": 3604,
+  "contas_engajadas": 119,
+  "alcance_seguidores": 1049,
+  "alcance_nao_seguidores": 667,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1791,
-  "visualizacoes": 3943,
-  "contas_engajadas": 124,
-  "alcance_seguidores": 1109,
-  "alcance_nao_seguidores": 682,
+  "alcance": 1900,
+  "visualizacoes": 4235,
+  "contas_engajadas": 149,
+  "alcance_seguidores": 1208,
+  "alcance_nao_seguidores": 692,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 1952,
-  "visualizacoes": 4574,
-  "contas_engajadas": 133,
-  "alcance_seguidores": 1236,
-  "alcance_nao_seguidores": 719,
+  "alcance": 2059,
+  "visualizacoes": 4864,
+  "contas_engajadas": 158,
+  "alcance_seguidores": 1333,
+  "alcance_nao_seguidores": 729,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-18",
-   "alcance": 2,
-   "visualizacoes": 2,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 2,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-19",
    "alcance": 2,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-11-13",
-   "alcance": 0,
-   "visualizacoes": 0,
+   "alcance": 108,
+   "visualizacoes": 291,
+   "contas_engajadas": 25,
+   "alcance_seguidores": 98,
+   "alcance_nao_seguidores": 10,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-14",
+   "alcance": 1,
+   "visualizacoes": 1,
    "contas_engajadas": 0,
-   "alcance_seguidores": 0,
+   "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 438
+   "seguidores": 437
   },
   {
    "cidade": "Montes Claros",
@@ -1671,7 +1671,7 @@
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 46
+   "seguidores": 45
   },
   {
    "cidade": "Lagoa Santa",
@@ -1681,17 +1681,17 @@
   {
    "cidade": "São Paulo",
    "estado": "São Paulo",
-   "seguidores": 36
+   "seguidores": 37
   },
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 34
+   "seguidores": 35
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 24
+   "seguidores": 25
   },
   {
    "cidade": "Pará",
@@ -1734,13 +1734,13 @@
    "seguidores": 8
   },
   {
-   "cidade": "Fortaleza",
-   "estado": "Ceará",
+   "cidade": "Goiânia",
+   "estado": "Goiás",
    "seguidores": 8
   },
   {
-   "cidade": "Goiânia",
-   "estado": "Goiás",
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
    "seguidores": 8
   },
   {
@@ -1761,7 +1761,7 @@
   {
    "cidade": "Uberlândia",
    "estado": "Minas Gerais",
-   "seguidores": 5
+   "seguidores": 6
   },
   {
    "cidade": "Brasília",
@@ -1864,18 +1864,18 @@
    "seguidores": 3
   },
   {
-   "cidade": "Curitiba",
-   "estado": "Paraná",
-   "seguidores": 3
-  },
-  {
    "cidade": "Taguatinga",
    "estado": "Federal District",
    "seguidores": 3
   },
   {
-   "cidade": "Americana",
-   "estado": "São Paulo",
+   "cidade": "Curitiba",
+   "estado": "Paraná",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Itabira",
+   "estado": "Minas Gerais",
    "seguidores": 2
   }
  ],
@@ -1898,7 +1898,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 392
+   "seguidores": 391
   },
   {
    "genero": "Feminino",
@@ -1908,7 +1908,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "55-64",
-   "seguidores": 64
+   "seguidores": 65
   },
   {
    "genero": "Feminino",
@@ -1996,7 +1996,7 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 559
+   "seguidores": 558
   },
   {
    "faixa_etaria": "45-54",
@@ -2004,7 +2004,7 @@
   },
   {
    "faixa_etaria": "55-64",
-   "seguidores": 85
+   "seguidores": 86
   },
   {
    "faixa_etaria": "65+",
@@ -2125,6 +2125,10 @@
   {
    "data": "2026-11-13",
    "seguidores": 1326
+  },
+  {
+   "data": "2026-11-14",
+   "seguidores": 1327
   }
  ],
  "novos_seguidores": [
@@ -2354,21 +2358,25 @@
   },
   {
    "data": "2026-11-12",
+   "novos": 1
+  },
+  {
+   "data": "2026-11-13",
    "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1326,
-   "novos_seguidores": 16,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 17,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 1,
-   "variacao_pct": 0.08,
-   "dias_com_total": 25,
-   "periodo_completo": false,
+   "variacao": 2,
+   "variacao_pct": 0.15,
+   "dias_com_total": 26,
+   "periodo_completo": true,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
     {
@@ -2470,19 +2478,23 @@
     {
      "data": "2026-11-13",
      "seguidores": 1326
+    },
+    {
+     "data": "2026-11-14",
+     "seguidores": 1327
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1326,
-   "novos_seguidores": 23,
-   "dias_com_novos": 57,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 24,
+   "dias_com_novos": 58,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 1,
-   "variacao_pct": 0.08,
-   "dias_com_total": 25,
+   "variacao": 2,
+   "variacao_pct": 0.15,
+   "dias_com_total": 26,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2585,19 +2597,23 @@
     {
      "data": "2026-11-13",
      "seguidores": 1326
+    },
+    {
+     "data": "2026-11-14",
+     "seguidores": 1327
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1326,
-   "novos_seguidores": 23,
-   "dias_com_novos": 57,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 24,
+   "dias_com_novos": 58,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 1,
-   "variacao_pct": 0.08,
-   "dias_com_total": 25,
+   "variacao": 2,
+   "variacao_pct": 0.15,
+   "dias_com_total": 26,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2700,11 +2716,25 @@
     {
      "data": "2026-11-13",
      "seguidores": 1326
+    },
+    {
+     "data": "2026-11-14",
+     "seguidores": 1327
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "17887266720511603",
+   "data": "2026-11-13",
+   "data_hora": "13/11/26 18:05",
+   "alcance": 38,
+   "visualizacoes": 49,
+   "respostas": 0,
+   "interacoes": 3,
+   "data_hora_iso": "2026-11-13T18:05:41-03:00"
+  },
   {
    "id": "18045329060832673",
    "data": "2026-11-08",
@@ -2916,26 +2946,19 @@
    "data_hora_iso": "2026-10-15T12:43:30-03:00"
   }
  ],
- "aprovacoes": [
-  {
-   "conversa": "Escabiose (sarna): coceira que piora à noite",
-   "data_hora": "12/11/26 22:02",
-   "resposta": "Aprovado",
-   "data_hora_iso": "2026-11-12T22:02:26-03:00"
-  }
- ],
+ "aprovacoes": [],
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 23,
-   "alcance_medio": 62,
-   "taxa_engajamento": 40.2
+   "posts": 24,
+   "alcance_medio": 63,
+   "taxa_engajamento": 39.3
   },
   {
    "formato": "Carrossel",
-   "posts": 31,
-   "alcance_medio": 39,
-   "taxa_engajamento": 32.9
+   "posts": 32,
+   "alcance_medio": 40,
+   "taxa_engajamento": 32.5
   },
   {
    "formato": "Imagem",
@@ -2954,14 +2977,14 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 731,
+   "visualizacoes": 733,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5195,
+   "reels_tempo_medio_assistido": 5192,
    "reels_taxa_pulo": 0.787,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -3054,14 +3077,14 @@
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
    "alcance": 146,
-   "visualizacoes": 162,
+   "visualizacoes": 163,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.7,
-   "reels_tempo_medio_assistido": 1662,
+   "reels_tempo_medio_assistido": 1661,
    "reels_taxa_pulo": 0.966,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3074,13 +3097,13 @@
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
    "alcance": 126,
-   "visualizacoes": 226,
-   "curtidas": 6,
+   "visualizacoes": 230,
+   "curtidas": 7,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
-   "interacoes": 8,
-   "taxa_engajamento": 6.3,
+   "interacoes": 9,
+   "taxa_engajamento": 7.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3133,20 +3156,60 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
    "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 85,
+   "alcance": 86,
    "visualizacoes": 170,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 12.9,
+   "taxa_engajamento": 12.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
   }
  ],
  "posts": [
+  {
+   "id": "17908451229605676",
+   "data": "2026-11-13",
+   "data_hora": "13/11/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
+   "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
+   "alcance": 41,
+   "visualizacoes": 102,
+   "curtidas": 9,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 9,
+   "taxa_engajamento": 22.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
+   "id": "18438869860197680",
+   "data": "2026-11-13",
+   "data_hora": "13/11/26 12:12",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
+   "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
+   "alcance": 80,
+   "visualizacoes": 131,
+   "curtidas": 19,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 19,
+   "taxa_engajamento": 23.8,
+   "reels_tempo_medio_assistido": 13475,
+   "reels_taxa_pulo": 0.395,
+   "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
   {
    "id": "17994297489073642",
    "data": "2026-11-08",
@@ -3156,13 +3219,13 @@
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
    "alcance": 126,
-   "visualizacoes": 226,
-   "curtidas": 6,
+   "visualizacoes": 230,
+   "curtidas": 7,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
-   "interacoes": 8,
-   "taxa_engajamento": 6.3,
+   "interacoes": 9,
+   "taxa_engajamento": 7.1,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3175,14 +3238,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Dente nascendo dá febre? 🦷 Mito!",
    "link": "https://www.instagram.com/p/DfdGoSwEZsu/",
-   "alcance": 22,
-   "visualizacoes": 61,
+   "alcance": 23,
+   "visualizacoes": 63,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 22.7,
+   "taxa_engajamento": 21.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Dente nascendo dá febre? 🦷 Mito!\n\nO nascimento dos dentes pode deixar a temperatura um pouquinho mais alta, mas febre de verdade (38 °C ou mais) não é causada pelo dente. Se o bebê tem febre, é preciso investigar outra causa.\n\nO que é normal na dentição:\n✔️ muita baba\n✔️ vontade de morder tudo\n✔️ gengiva inchada e mais irritação\n✔️ sono mais agitado por alguns dias\n\nPara aliviar: mordedor gelado (de geladeira, não de congelador), massagem na gengiva com o dedo limpo e muito colo. Evite colares de âmbar ou de dentição e géis anestésicos sem orientação.\n\n⚠️ Febre em bebê com menos de 3 meses, febre que dura mais de 2 a 3 dias, bebê muito abatido, diarreia ou pouco xixi pedem avaliação do pediatra.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #denticao #dentesdebebe #mitoouverdade #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3196,14 +3259,14 @@
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
    "alcance": 146,
-   "visualizacoes": 162,
+   "visualizacoes": 163,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.7,
-   "reels_tempo_medio_assistido": 1662,
+   "reels_tempo_medio_assistido": 1661,
    "reels_taxa_pulo": 0.966,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3636,14 +3699,14 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 731,
+   "visualizacoes": 733,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5195,
+   "reels_tempo_medio_assistido": 5192,
    "reels_taxa_pulo": 0.787,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -3655,14 +3718,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
    "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 85,
+   "alcance": 86,
    "visualizacoes": 170,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 12.9,
+   "taxa_engajamento": 12.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
@@ -4215,15 +4278,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!",
    "link": "https://www.instagram.com/reel/Cm1mH5dhbO_/",
-   "alcance": 48,
-   "visualizacoes": 672,
+   "alcance": 49,
+   "visualizacoes": 673,
    "curtidas": 33,
    "comentarios": 2,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 35,
-   "taxa_engajamento": 72.9,
-   "reels_tempo_medio_assistido": 8947,
+   "taxa_engajamento": 71.4,
+   "reels_tempo_medio_assistido": 8944,
    "reels_taxa_pulo": 0.022,
    "legenda": "Que Deus abençoe nosso novo ano! Que 2023 seja incrível como esse ano foi!"
   },
@@ -4235,15 +4298,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Feliz Natal! 🎄",
    "link": "https://www.instagram.com/reel/CmkNrkehO_C/",
-   "alcance": 19,
-   "visualizacoes": 547,
+   "alcance": 20,
+   "visualizacoes": 548,
    "curtidas": 33,
    "comentarios": 6,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 39,
-   "taxa_engajamento": 205.3,
-   "reels_tempo_medio_assistido": 5388,
+   "taxa_engajamento": 195.0,
+   "reels_tempo_medio_assistido": 5386,
    "reels_taxa_pulo": 0.016,
    "legenda": "Feliz Natal! 🎄"
   },
@@ -5231,22 +5294,22 @@
    "formato": "Reels",
    "tema": "Escabiose (sarna): coceira que piora à noite",
    "story_hora": "",
-   "aprovacao_post": "Aguardando",
+   "aprovacao_post": "Aprovado",
    "aprovacao_story": "—",
-   "situacao": "Aguardando aprovação"
+   "situacao": "Publicado"
   },
   {
-   "id": "2026-11-13-reels-10-refluxo",
+   "id": "2026-11-13-carrossel-escabiose",
    "data": "2026-11-13",
    "data_texto": "13/11",
    "dia": "Sex",
    "hora": "18h",
-   "formato": "Reels",
-   "tema": "Bebê golfando: refluxo normal ou sinal de alerta?",
+   "formato": "Carrossel",
+   "tema": "Escabiose (sarna): carrossel com avatar",
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-14-mito-diabetes",
@@ -5275,10 +5338,23 @@
    "situacao": "Agendado"
   },
   {
-   "id": "2026-11-16-reels-11-intestino-preso",
+   "id": "2026-11-16-reels-10-refluxo",
    "data": "2026-11-16",
    "data_texto": "16/11",
    "dia": "Seg",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Bebê golfando: refluxo normal ou sinal de alerta?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-17-reels-11-intestino-preso",
+   "data": "2026-11-17",
+   "data_texto": "17/11",
+   "dia": "Ter",
    "hora": "18h",
    "formato": "Reels",
    "tema": "Intestino preso no bebê: quando é normal",
@@ -5288,10 +5364,10 @@
    "situacao": "Agendado"
   },
   {
-   "id": "2026-11-17-lancheira-saudavel",
-   "data": "2026-11-17",
-   "data_texto": "17/11",
-   "dia": "Ter",
+   "id": "2026-11-18-lancheira-saudavel",
+   "data": "2026-11-18",
+   "data_texto": "18/11",
+   "dia": "Qua",
    "hora": "18h",
    "formato": "Carrossel",
    "tema": "Lancheira saudável: monte em 5 passos",
@@ -5301,10 +5377,10 @@
    "situacao": "Agendado"
   },
   {
-   "id": "2026-11-18-reels-08-otite",
-   "data": "2026-11-18",
-   "data_texto": "18/11",
-   "dia": "Qua",
+   "id": "2026-11-19-reels-08-otite",
+   "data": "2026-11-19",
+   "data_texto": "19/11",
+   "dia": "Qui",
    "hora": "18h",
    "formato": "Reels",
    "tema": "Dor de ouvido à noite? Pode ser otite.",
@@ -5314,10 +5390,10 @@
    "situacao": "Agendado"
   },
   {
-   "id": "2026-11-19-mito-andador",
-   "data": "2026-11-19",
-   "data_texto": "19/11",
-   "dia": "Qui",
+   "id": "2026-11-20-mito-andador",
+   "data": "2026-11-20",
+   "data_texto": "20/11",
+   "dia": "Sex",
    "hora": "18h",
    "formato": "Carrossel",
    "tema": "Mito ou verdade: andador ajuda o bebê a andar?",
@@ -5327,10 +5403,10 @@
    "situacao": "Agendado"
   },
   {
-   "id": "2026-11-20-reels-09-telas-sono",
-   "data": "2026-11-20",
-   "data_texto": "20/11",
-   "dia": "Sex",
+   "id": "2026-11-21-reels-09-telas-sono",
+   "data": "2026-11-21",
+   "data_texto": "21/11",
+   "dia": "Sáb",
    "hora": "18h",
    "formato": "Reels",
    "tema": "Tela antes de dormir atrapalha o sono?",
@@ -5342,8 +5418,8 @@
  ],
  "resumo_programacao": {
   "agendados": 8,
-  "aguardando_aprovacao": 1,
+  "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 21
+  "publicados": 23
  }
 }
