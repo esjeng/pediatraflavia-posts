@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-14T06:05:56-03:00",
- "atualizado_em_texto": "14/11/26 06:05",
+ "atualizado_em": "2026-11-15T06:05:14-03:00",
+ "atualizado_em_texto": "15/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1327,
-  "publicacoes": 93
+  "publicacoes": 95
  },
  "resumo_30d": {
-  "alcance": 1716,
-  "visualizacoes": 3604,
-  "contas_engajadas": 119,
-  "alcance_seguidores": 1049,
-  "alcance_nao_seguidores": 667,
+  "alcance": 1617,
+  "visualizacoes": 3161,
+  "contas_engajadas": 118,
+  "alcance_seguidores": 1047,
+  "alcance_nao_seguidores": 570,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 1900,
-  "visualizacoes": 4235,
-  "contas_engajadas": 149,
-  "alcance_seguidores": 1208,
-  "alcance_nao_seguidores": 692,
+  "alcance": 1967,
+  "visualizacoes": 4348,
+  "contas_engajadas": 156,
+  "alcance_seguidores": 1269,
+  "alcance_nao_seguidores": 698,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2059,
-  "visualizacoes": 4864,
-  "contas_engajadas": 158,
-  "alcance_seguidores": 1333,
-  "alcance_nao_seguidores": 729,
+  "alcance": 2124,
+  "visualizacoes": 4947,
+  "contas_engajadas": 165,
+  "alcance_seguidores": 1393,
+  "alcance_nao_seguidores": 733,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-19",
-   "alcance": 2,
-   "visualizacoes": 30,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 1,
-   "alcance_nao_seguidores": 2,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-20",
    "alcance": 2,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-11-14",
+   "alcance": 67,
+   "visualizacoes": 113,
+   "contas_engajadas": 7,
+   "alcance_seguidores": 61,
+   "alcance_nao_seguidores": 6,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-15",
    "alcance": 1,
    "visualizacoes": 1,
    "contas_engajadas": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 437
+   "seguidores": 435
   },
   {
    "cidade": "Montes Claros",
@@ -1671,7 +1671,7 @@
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 45
+   "seguidores": 47
   },
   {
    "cidade": "Lagoa Santa",
@@ -1686,20 +1686,20 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 35
+   "seguidores": 36
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 25
-  },
-  {
-   "cidade": "Pará",
-   "estado": "Minas Gerais",
-   "seguidores": 20
+   "seguidores": 24
   },
   {
    "cidade": "Nova Lima",
+   "estado": "Minas Gerais",
+   "seguidores": 19
+  },
+  {
+   "cidade": "Pará",
    "estado": "Minas Gerais",
    "seguidores": 19
   },
@@ -1729,6 +1729,11 @@
    "seguidores": 10
   },
   {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
+   "seguidores": 8
+  },
+  {
    "cidade": "Botumirim",
    "estado": "Minas Gerais",
    "seguidores": 8
@@ -1742,11 +1747,6 @@
    "cidade": "Fortaleza",
    "estado": "Ceará",
    "seguidores": 8
-  },
-  {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 7
   },
   {
    "cidade": "Cantagalo",
@@ -1809,11 +1809,6 @@
    "seguidores": 3
   },
   {
-   "cidade": "Uberaba",
-   "estado": "Minas Gerais",
-   "seguidores": 3
-  },
-  {
    "cidade": "Teresina",
    "estado": "Piauí",
    "seguidores": 3
@@ -1864,17 +1859,22 @@
    "seguidores": 3
   },
   {
-   "cidade": "Taguatinga",
-   "estado": "Federal District",
-   "seguidores": 3
-  },
-  {
    "cidade": "Curitiba",
    "estado": "Paraná",
    "seguidores": 3
   },
   {
-   "cidade": "Itabira",
+   "cidade": "Taguatinga",
+   "estado": "Federal District",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Taiobeiras",
+   "estado": "Minas Gerais",
+   "seguidores": 2
+  },
+  {
+   "cidade": "São Joaquim de Bicas",
    "estado": "Minas Gerais",
    "seguidores": 2
   }
@@ -2129,6 +2129,10 @@
   {
    "data": "2026-11-14",
    "seguidores": 1327
+  },
+  {
+   "data": "2026-11-15",
+   "seguidores": 1327
   }
  ],
  "novos_seguidores": [
@@ -2363,19 +2367,23 @@
   {
    "data": "2026-11-13",
    "novos": 0
+  },
+  {
+   "data": "2026-11-14",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1327,
-   "novos_seguidores": 17,
+   "novos_seguidores": 15,
    "dias_com_novos": 30,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 2,
    "variacao_pct": 0.15,
-   "dias_com_total": 26,
+   "dias_com_total": 27,
    "periodo_completo": true,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2482,6 +2490,10 @@
     {
      "data": "2026-11-14",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-15",
+     "seguidores": 1327
     }
    ]
   },
@@ -2489,12 +2501,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1327,
    "novos_seguidores": 24,
-   "dias_com_novos": 58,
+   "dias_com_novos": 59,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 2,
    "variacao_pct": 0.15,
-   "dias_com_total": 26,
+   "dias_com_total": 27,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2600,6 +2612,10 @@
     },
     {
      "data": "2026-11-14",
+     "seguidores": 1327
+    },
+    {
+     "data": "2026-11-15",
      "seguidores": 1327
     }
    ]
@@ -2608,12 +2624,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1327,
    "novos_seguidores": 24,
-   "dias_com_novos": 58,
+   "dias_com_novos": 59,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 2,
    "variacao_pct": 0.15,
-   "dias_com_total": 26,
+   "dias_com_total": 27,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2720,11 +2736,25 @@
     {
      "data": "2026-11-14",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-15",
+     "seguidores": 1327
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18420060349080882",
+   "data": "2026-11-14",
+   "data_hora": "14/11/26 18:05",
+   "alcance": 13,
+   "visualizacoes": 17,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-14T18:05:22-03:00"
+  },
   {
    "id": "17887266720511603",
    "data": "2026-11-13",
@@ -2951,14 +2981,14 @@
   {
    "formato": "Reels",
    "posts": 24,
-   "alcance_medio": 63,
-   "taxa_engajamento": 39.3
+   "alcance_medio": 64,
+   "taxa_engajamento": 38.8
   },
   {
    "formato": "Carrossel",
-   "posts": 32,
-   "alcance_medio": 40,
-   "taxa_engajamento": 32.5
+   "posts": 33,
+   "alcance_medio": 39,
+   "taxa_engajamento": 32.4
   },
   {
    "formato": "Imagem",
@@ -2977,15 +3007,15 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 733,
+   "visualizacoes": 734,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5192,
-   "reels_taxa_pulo": 0.787,
+   "reels_tempo_medio_assistido": 5187,
+   "reels_taxa_pulo": 0.788,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
@@ -3096,14 +3126,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 126,
-   "visualizacoes": 230,
+   "alcance": 128,
+   "visualizacoes": 233,
    "curtidas": 7,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 9,
-   "taxa_engajamento": 7.1,
+   "taxa_engajamento": 7.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3129,6 +3159,26 @@
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
   },
   {
+   "id": "18438869860197680",
+   "data": "2026-11-13",
+   "data_hora": "13/11/26 12:12",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
+   "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
+   "alcance": 103,
+   "visualizacoes": 156,
+   "curtidas": 21,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 21,
+   "taxa_engajamento": 20.4,
+   "reels_tempo_medio_assistido": 12336,
+   "reels_taxa_pulo": 0.402,
+   "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17954727660266527",
    "data": "2026-10-15",
    "data_hora": "15/10/26 22:09",
@@ -3147,29 +3197,29 @@
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Febre às 2h da manhã e aquela dúvida: corro pro pronto-socorro ou dá pra esperar? 🌡️\n\nFebre é um sinal de defesa do corpo, e na maioria das vezes pode ser acompanhada em casa. Mas alguns sinais pedem atendimento imediato, e saber reconhecê-los traz mais segurança para toda a família.\n\nNeste post separei o que observar em 3 níveis:\n🔴 quando ir ao pronto-socorro agora\n🟡 quando procurar avaliação em até 24 horas\n🟢 quando dá para observar em casa\n\nLembre-se: mais importante que o número no termômetro é como a criança está.\n\n📌 Salve para consultar quando precisar e envie para quem também cuida do seu filho.\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #febreinfantil #febrenobebe #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
-  },
-  {
-   "id": "17861631051624014",
-   "data": "2026-04-21",
-   "data_hora": "21/04/26 19:01",
-   "formato": "Carrossel",
-   "tipo_instagram": "CAROUSEL_ALBUM",
-   "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
-   "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 86,
-   "visualizacoes": 170,
-   "curtidas": 11,
-   "comentarios": 0,
-   "salvamentos": 0,
-   "compartilhamentos": 0,
-   "interacoes": 11,
-   "taxa_engajamento": 12.8,
-   "reels_tempo_medio_assistido": null,
-   "reels_taxa_pulo": null,
-   "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
   }
  ],
  "posts": [
+  {
+   "id": "18360299083169587",
+   "data": "2026-11-14",
+   "data_hora": "14/11/26 18:03",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Diabetes é coisa de adulto? 💙 Mito!",
+   "link": "https://www.instagram.com/p/DfvIKeaEUDZ/",
+   "alcance": 13,
+   "visualizacoes": 24,
+   "curtidas": 4,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 4,
+   "taxa_engajamento": 30.8,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Diabetes é coisa de adulto? 💙 Mito!\n\nCrianças também têm diabetes. O tipo 1 é o mais comum na infância e pode aparecer em qualquer idade, até em bebês. O tipo 2 vem aumentando junto com a obesidade infantil.\n\nSinais de alerta:\n✔️ muito xixi ou volta a fazer xixi na cama\n✔️ muita sede\n✔️ muita fome e, mesmo assim, perda de peso\n✔️ cansaço e irritação sem explicação\n\n🚨 Procure atendimento com urgência se, junto com esses sinais, a criança tiver vômitos, dor de barriga, respiração rápida e funda, hálito com cheiro de fruta ou muita sonolência.\n\nPara prevenir o tipo 2: comida de verdade, menos ultraprocessados e bebidas açucaradas, brincar e se movimentar todos os dias, sono em dia e menos telas. O tipo 1 não é causado pela alimentação: o importante é reconhecer os sinais cedo.\n\n14/11 é o Dia Mundial do Diabetes. Compartilhe e ajude outras famílias!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #diabetesinfantil #diamundialdodiabetes #novembroazul #saudeinfantil #mitoouverdade #dicasdepediatra"
+  },
   {
    "id": "17908451229605676",
    "data": "2026-11-13",
@@ -3178,14 +3228,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 41,
-   "visualizacoes": 102,
-   "curtidas": 9,
+   "alcance": 47,
+   "visualizacoes": 114,
+   "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 9,
-   "taxa_engajamento": 22.0,
+   "interacoes": 10,
+   "taxa_engajamento": 21.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3198,16 +3248,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 80,
-   "visualizacoes": 131,
-   "curtidas": 19,
+   "alcance": 103,
+   "visualizacoes": 156,
+   "curtidas": 21,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 19,
-   "taxa_engajamento": 23.8,
-   "reels_tempo_medio_assistido": 13475,
-   "reels_taxa_pulo": 0.395,
+   "interacoes": 21,
+   "taxa_engajamento": 20.4,
+   "reels_tempo_medio_assistido": 12336,
+   "reels_taxa_pulo": 0.402,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3218,14 +3268,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 126,
-   "visualizacoes": 230,
+   "alcance": 128,
+   "visualizacoes": 233,
    "curtidas": 7,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 9,
-   "taxa_engajamento": 7.1,
+   "taxa_engajamento": 7.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
@@ -3699,15 +3749,15 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 733,
+   "visualizacoes": 734,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5192,
-   "reels_taxa_pulo": 0.787,
+   "reels_tempo_medio_assistido": 5187,
+   "reels_taxa_pulo": 0.788,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
   {
@@ -5322,7 +5372,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-15-sono-feriado",
@@ -5417,9 +5467,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 8,
+  "agendados": 7,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 23
+  "publicados": 24
  }
 }
