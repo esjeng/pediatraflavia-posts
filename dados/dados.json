@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-16T06:05:30-03:00",
- "atualizado_em_texto": "16/11/26 06:05",
+ "atualizado_em": "2026-11-17T06:05:16-03:00",
+ "atualizado_em_texto": "17/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1328,
-  "publicacoes": 97
+  "publicacoes": 98
  },
  "resumo_30d": {
-  "alcance": 1619,
-  "visualizacoes": 3190,
-  "contas_engajadas": 121,
-  "alcance_seguidores": 1064,
-  "alcance_nao_seguidores": 555,
+  "alcance": 1473,
+  "visualizacoes": 2988,
+  "contas_engajadas": 116,
+  "alcance_seguidores": 1032,
+  "alcance_nao_seguidores": 441,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2003,
-  "visualizacoes": 4430,
-  "contas_engajadas": 161,
-  "alcance_seguidores": 1303,
-  "alcance_nao_seguidores": 700,
+  "alcance": 2041,
+  "visualizacoes": 4511,
+  "contas_engajadas": 165,
+  "alcance_seguidores": 1336,
+  "alcance_nao_seguidores": 705,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2158,
-  "visualizacoes": 5026,
-  "contas_engajadas": 170,
-  "alcance_seguidores": 1426,
-  "alcance_nao_seguidores": 734,
+  "alcance": 2196,
+  "visualizacoes": 5107,
+  "contas_engajadas": 174,
+  "alcance_seguidores": 1459,
+  "alcance_nao_seguidores": 739,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-21",
-   "alcance": 0,
-   "visualizacoes": 0,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-22",
    "alcance": 0,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-11-16",
+   "alcance": 38,
+   "visualizacoes": 81,
+   "contas_engajadas": 4,
+   "alcance_seguidores": 33,
+   "alcance_nao_seguidores": 5,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-17",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 436
+   "seguidores": 434
   },
   {
    "cidade": "Montes Claros",
@@ -1666,12 +1666,12 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 77
+   "seguidores": 76
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 47
+   "seguidores": 48
   },
   {
    "cidade": "Lagoa Santa",
@@ -1691,17 +1691,17 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 23
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
    "estado": "Minas Gerais",
-   "seguidores": 20
+   "seguidores": 19
   },
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 19
+   "seguidores": 18
   },
   {
    "cidade": "Betim",
@@ -1711,12 +1711,12 @@
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 15
   },
   {
    "cidade": "São José da Lapa",
    "estado": "Minas Gerais",
-   "seguidores": 12
+   "seguidores": 13
   },
   {
    "cidade": "Rio de Janeiro",
@@ -1749,6 +1749,11 @@
    "seguidores": 8
   },
   {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
+   "seguidores": 7
+  },
+  {
    "cidade": "Conselheiro Lafaiete",
    "estado": "Minas Gerais",
    "seguidores": 7
@@ -1756,11 +1761,6 @@
   {
    "cidade": "Uberlândia",
    "estado": "Minas Gerais",
-   "seguidores": 6
-  },
-  {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
@@ -1869,12 +1869,12 @@
    "seguidores": 3
   },
   {
-   "cidade": "Mogi das Cruzes",
-   "estado": "São Paulo",
+   "cidade": "Santa Juliana",
+   "estado": "Minas Gerais",
    "seguidores": 2
   },
   {
-   "cidade": "São Joaquim de Bicas",
+   "cidade": "Diamantina",
    "estado": "Minas Gerais",
    "seguidores": 2
   }
@@ -1908,7 +1908,7 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "55-64",
-   "seguidores": 65
+   "seguidores": 67
   },
   {
    "genero": "Feminino",
@@ -1968,7 +1968,7 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "45-54",
-   "seguidores": 37
+   "seguidores": 36
   },
   {
    "genero": "Não informado",
@@ -2000,11 +2000,11 @@
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 318
+   "seguidores": 317
   },
   {
    "faixa_etaria": "55-64",
-   "seguidores": 86
+   "seguidores": 88
   },
   {
    "faixa_etaria": "65+",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 871
+   "seguidores": 873
   },
   {
    "genero": "Masculino",
@@ -2022,7 +2022,7 @@
   },
   {
    "genero": "Não informado",
-   "seguidores": 213
+   "seguidores": 212
   }
  ],
  "seguidores_historico": [
@@ -2136,6 +2136,10 @@
   },
   {
    "data": "2026-11-16",
+   "seguidores": 1328
+  },
+  {
+   "data": "2026-11-17",
    "seguidores": 1328
   }
  ],
@@ -2378,6 +2382,10 @@
   },
   {
    "data": "2026-11-15",
+   "novos": 1
+  },
+  {
+   "data": "2026-11-16",
    "novos": 0
   }
  ],
@@ -2385,20 +2393,16 @@
   "30d": {
    "horizonte_dias": 30,
    "seguidores_atual": 1328,
-   "novos_seguidores": 15,
+   "novos_seguidores": 16,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-17",
+   "data_inicio": "2026-10-18",
    "seguidores_inicio": 1324,
    "variacao": 4,
    "variacao_pct": 0.3,
    "dias_com_total": 27,
    "periodo_completo": true,
-   "deixaram_de_seguir_estimado": 11,
+   "deixaram_de_seguir_estimado": 12,
    "serie": [
-    {
-     "data": "2026-10-17",
-     "seguidores": 1324
-    },
     {
      "data": "2026-10-18",
      "seguidores": 1324
@@ -2501,6 +2505,10 @@
     },
     {
      "data": "2026-11-16",
+     "seguidores": 1328
+    },
+    {
+     "data": "2026-11-17",
      "seguidores": 1328
     }
    ]
@@ -2508,15 +2516,15 @@
   "90d": {
    "horizonte_dias": 90,
    "seguidores_atual": 1328,
-   "novos_seguidores": 24,
-   "dias_com_novos": 60,
+   "novos_seguidores": 25,
+   "dias_com_novos": 61,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 3,
    "variacao_pct": 0.23,
-   "dias_com_total": 28,
+   "dias_com_total": 29,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 12,
+   "deixaram_de_seguir_estimado": 13,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2628,6 +2636,10 @@
     },
     {
      "data": "2026-11-16",
+     "seguidores": 1328
+    },
+    {
+     "data": "2026-11-17",
      "seguidores": 1328
     }
    ]
@@ -2635,15 +2647,15 @@
   "180d": {
    "horizonte_dias": 180,
    "seguidores_atual": 1328,
-   "novos_seguidores": 24,
-   "dias_com_novos": 60,
+   "novos_seguidores": 25,
+   "dias_com_novos": 61,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 3,
    "variacao_pct": 0.23,
-   "dias_com_total": 28,
+   "dias_com_total": 29,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 12,
+   "deixaram_de_seguir_estimado": 13,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2756,11 +2768,25 @@
     {
      "data": "2026-11-16",
      "seguidores": 1328
+    },
+    {
+     "data": "2026-11-17",
+     "seguidores": 1328
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "17967099036213093",
+   "data": "2026-11-16",
+   "data_hora": "16/11/26 18:06",
+   "alcance": 11,
+   "visualizacoes": 12,
+   "respostas": 0,
+   "interacoes": 1,
+   "data_hora_iso": "2026-11-16T18:06:22-03:00"
+  },
   {
    "id": "18147275020607303",
    "data": "2026-11-15",
@@ -3006,15 +3032,15 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 24,
-   "alcance_medio": 64,
-   "taxa_engajamento": 38.8
+   "posts": 25,
+   "alcance_medio": 62,
+   "taxa_engajamento": 38.5
   },
   {
    "formato": "Carrossel",
    "posts": 34,
-   "alcance_medio": 38,
-   "taxa_engajamento": 32.2
+   "alcance_medio": 39,
+   "taxa_engajamento": 32.0
   },
   {
    "formato": "Imagem",
@@ -3152,7 +3178,7 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 128,
+   "alcance": 129,
    "visualizacoes": 233,
    "curtidas": 7,
    "comentarios": 1,
@@ -3227,6 +3253,26 @@
  ],
  "posts": [
   {
+   "id": "18096481487693867",
+   "data": "2026-11-16",
+   "data_hora": "16/11/26 18:04",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!",
+   "link": "https://www.instagram.com/reel/Df0RzDFNIhj/",
+   "alcance": 17,
+   "visualizacoes": 29,
+   "curtidas": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 2,
+   "taxa_engajamento": 11.8,
+   "reels_tempo_medio_assistido": 4435,
+   "reels_taxa_pulo": 0.765,
+   "legenda": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!\n\nA \"válvula\" entre o estômago e o esôfago ainda está imatura. Por isso golfar é comum no primeiro ano e melhora sozinho com o tempo.\n\nÉ o refluxo normal quando o bebê ganha peso bem, fica tranquilo depois de golfar e mama bem.\n\nPode ajudar:\n✔️ fazer arrotar no meio e no fim da mamada\n✔️ manter no colo, em pé, por 20 a 30 minutos depois\n✔️ roupas folgadas, sem apertar a barriga\n\nNa hora de dormir: sempre de barriga para cima, no berço plano, mesmo golfando. Não eleve o colchão nem use travesseiros.\n\n⚠️ Procure o pediatra se o bebê não ganha peso, tem vômito em jato, verde ou com sangue, chora muito e recusa mamar, ou tem engasgos e falta de ar.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #refluxo #bebegolfando #amamentacao #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17917659327550412",
    "data": "2026-11-15",
    "data_hora": "15/11/26 18:03",
@@ -3234,14 +3280,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Feriado sem bagunçar o sono 😴 4 dicas de rotina",
    "link": "https://www.instagram.com/p/Dfxs_ENDWyO/",
-   "alcance": 12,
-   "visualizacoes": 33,
+   "alcance": 16,
+   "visualizacoes": 42,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 33.3,
+   "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Feriado sem bagunçar o sono 😴 4 dicas de rotina\n\n✔️ horários parecidos com os de sempre (até 1 hora de diferença)\n✔️ mantenha o ritual: banho, pijama, história e luz baixa\n✔️ ofereça as sonecas no horário, mesmo fora de casa\n✔️ menos telas à noite: desligue 1 hora antes de dormir\n\nVai viajar? Leve a naninha e objetos conhecidos, deixe o quarto escuro e silencioso, use a cadeirinha sempre e programe a estrada no horário da soneca.\n\nA rotina bagunçou? Volte aos poucos, 15 minutos por dia, aproveite a luz natural de manhã e tenha paciência: em 2 a 3 dias tudo volta ao normal.\n\nBom feriado! 💛\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonoinfantil #rotinadesono #feriado #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3255,7 +3301,7 @@
    "titulo": "Diabetes é coisa de adulto? 💙 Mito!",
    "link": "https://www.instagram.com/p/DfvIKeaEUDZ/",
    "alcance": 17,
-   "visualizacoes": 35,
+   "visualizacoes": 37,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
@@ -3274,14 +3320,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 48,
-   "visualizacoes": 119,
+   "alcance": 51,
+   "visualizacoes": 127,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 20.8,
+   "taxa_engajamento": 19.6,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3314,7 +3360,7 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Pediatra em casa: como funciona a consulta? 🏡🩺",
    "link": "https://www.instagram.com/p/DffrbEXjdCq/",
-   "alcance": 128,
+   "alcance": 129,
    "visualizacoes": 233,
    "curtidas": 7,
    "comentarios": 1,
@@ -3374,14 +3420,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
    "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
-   "alcance": 27,
+   "alcance": 28,
    "visualizacoes": 67,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 14.8,
+   "taxa_engajamento": 14.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -5444,7 +5490,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-17-reels-11-intestino-preso",
@@ -5513,9 +5559,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 6,
+  "agendados": 5,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 25
+  "publicados": 26
  }
 }
