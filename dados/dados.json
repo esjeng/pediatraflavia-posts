@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-17T06:05:16-03:00",
- "atualizado_em_texto": "17/11/26 06:05",
+ "atualizado_em": "2026-11-18T06:05:19-03:00",
+ "atualizado_em_texto": "18/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1328,
-  "publicacoes": 98
+  "publicacoes": 99
  },
  "resumo_30d": {
-  "alcance": 1473,
-  "visualizacoes": 2988,
-  "contas_engajadas": 116,
-  "alcance_seguidores": 1032,
-  "alcance_nao_seguidores": 441,
+  "alcance": 1412,
+  "visualizacoes": 2859,
+  "contas_engajadas": 114,
+  "alcance_seguidores": 1022,
+  "alcance_nao_seguidores": 390,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2041,
-  "visualizacoes": 4511,
-  "contas_engajadas": 165,
-  "alcance_seguidores": 1336,
-  "alcance_nao_seguidores": 705,
+  "alcance": 2074,
+  "visualizacoes": 4541,
+  "contas_engajadas": 167,
+  "alcance_seguidores": 1360,
+  "alcance_nao_seguidores": 714,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2196,
-  "visualizacoes": 5107,
-  "contas_engajadas": 174,
-  "alcance_seguidores": 1459,
-  "alcance_nao_seguidores": 739,
+  "alcance": 2230,
+  "visualizacoes": 5155,
+  "contas_engajadas": 176,
+  "alcance_seguidores": 1483,
+  "alcance_nao_seguidores": 749,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-22",
-   "alcance": 0,
-   "visualizacoes": 0,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-23",
    "alcance": 0,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-11-17",
+   "alcance": 34,
+   "visualizacoes": 48,
+   "contas_engajadas": 2,
+   "alcance_seguidores": 24,
+   "alcance_nao_seguidores": 10,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-18",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 434
+   "seguidores": 438
   },
   {
    "cidade": "Montes Claros",
@@ -1666,7 +1666,7 @@
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 76
+   "seguidores": 75
   },
   {
    "cidade": "Contagem",
@@ -1676,7 +1676,7 @@
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 44
+   "seguidores": 43
   },
   {
    "cidade": "São Paulo",
@@ -1686,12 +1686,12 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 37
+   "seguidores": 36
   },
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 24
+   "seguidores": 23
   },
   {
    "cidade": "Pará",
@@ -1701,7 +1701,7 @@
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 18
+   "seguidores": 17
   },
   {
    "cidade": "Betim",
@@ -1711,7 +1711,7 @@
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
-   "seguidores": 15
+   "seguidores": 14
   },
   {
    "cidade": "São José da Lapa",
@@ -1719,28 +1719,18 @@
    "seguidores": 13
   },
   {
+   "cidade": "Pedro Leopoldo",
+   "estado": "Minas Gerais",
+   "seguidores": 12
+  },
+  {
    "cidade": "Rio de Janeiro",
    "estado": "Rio de Janeiro",
    "seguidores": 11
   },
   {
-   "cidade": "Pedro Leopoldo",
-   "estado": "Minas Gerais",
-   "seguidores": 11
-  },
-  {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 8
-  },
-  {
    "cidade": "Botumirim",
    "estado": "Minas Gerais",
-   "seguidores": 8
-  },
-  {
-   "cidade": "Fortaleza",
-   "estado": "Ceará",
    "seguidores": 8
   },
   {
@@ -1749,8 +1739,18 @@
    "seguidores": 8
   },
   {
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
+   "seguidores": 8
+  },
+  {
    "cidade": "Cantagalo",
    "estado": "Rio de Janeiro",
+   "seguidores": 8
+  },
+  {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
    "seguidores": 7
   },
   {
@@ -1869,12 +1869,12 @@
    "seguidores": 3
   },
   {
-   "cidade": "Santa Juliana",
+   "cidade": "Barbacena",
    "estado": "Minas Gerais",
    "seguidores": 2
   },
   {
-   "cidade": "Diamantina",
+   "cidade": "Patos de Minas",
    "estado": "Minas Gerais",
    "seguidores": 2
   }
@@ -1963,12 +1963,12 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "35-44",
-   "seguidores": 86
+   "seguidores": 85
   },
   {
    "genero": "Não informado",
    "faixa_etaria": "45-54",
-   "seguidores": 36
+   "seguidores": 37
   },
   {
    "genero": "Não informado",
@@ -1996,11 +1996,11 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 558
+   "seguidores": 557
   },
   {
    "faixa_etaria": "45-54",
-   "seguidores": 317
+   "seguidores": 318
   },
   {
    "faixa_etaria": "55-64",
@@ -2140,6 +2140,10 @@
   },
   {
    "data": "2026-11-17",
+   "seguidores": 1328
+  },
+  {
+   "data": "2026-11-18",
    "seguidores": 1328
   }
  ],
@@ -2387,6 +2391,10 @@
   {
    "data": "2026-11-16",
    "novos": 0
+  },
+  {
+   "data": "2026-11-17",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
@@ -2395,7 +2403,7 @@
    "seguidores_atual": 1328,
    "novos_seguidores": 16,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-18",
+   "data_inicio": "2026-10-19",
    "seguidores_inicio": 1324,
    "variacao": 4,
    "variacao_pct": 0.3,
@@ -2404,10 +2412,6 @@
    "deixaram_de_seguir_estimado": 12,
    "serie": [
     {
-     "data": "2026-10-18",
-     "seguidores": 1324
-    },
-    {
      "data": "2026-10-19",
      "seguidores": 1324
     },
@@ -2509,6 +2513,10 @@
     },
     {
      "data": "2026-11-17",
+     "seguidores": 1328
+    },
+    {
+     "data": "2026-11-18",
      "seguidores": 1328
     }
    ]
@@ -2517,12 +2525,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1328,
    "novos_seguidores": 25,
-   "dias_com_novos": 61,
+   "dias_com_novos": 62,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 3,
    "variacao_pct": 0.23,
-   "dias_com_total": 29,
+   "dias_com_total": 30,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2640,6 +2648,10 @@
     },
     {
      "data": "2026-11-17",
+     "seguidores": 1328
+    },
+    {
+     "data": "2026-11-18",
      "seguidores": 1328
     }
    ]
@@ -2648,12 +2660,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1328,
    "novos_seguidores": 25,
-   "dias_com_novos": 61,
+   "dias_com_novos": 62,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 3,
    "variacao_pct": 0.23,
-   "dias_com_total": 29,
+   "dias_com_total": 30,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 13,
    "serie": [
@@ -2772,11 +2784,25 @@
     {
      "data": "2026-11-17",
      "seguidores": 1328
+    },
+    {
+     "data": "2026-11-18",
+     "seguidores": 1328
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18111559640524665",
+   "data": "2026-11-17",
+   "data_hora": "17/11/26 18:05",
+   "alcance": 11,
+   "visualizacoes": 13,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-17T18:05:52-03:00"
+  },
   {
    "id": "17967099036213093",
    "data": "2026-11-16",
@@ -3032,9 +3058,9 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 25,
-   "alcance_medio": 62,
-   "taxa_engajamento": 38.5
+   "posts": 26,
+   "alcance_medio": 60,
+   "taxa_engajamento": 38.1
   },
   {
    "formato": "Carrossel",
@@ -3198,16 +3224,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 104,
-   "visualizacoes": 157,
+   "alcance": 107,
+   "visualizacoes": 164,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 21.2,
-   "reels_tempo_medio_assistido": 12684,
-   "reels_taxa_pulo": 0.398,
+   "taxa_engajamento": 20.6,
+   "reels_tempo_medio_assistido": 12475,
+   "reels_taxa_pulo": 0.415,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3218,14 +3244,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 104,
+   "alcance": 105,
    "visualizacoes": 168,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 10.6,
+   "taxa_engajamento": 10.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
@@ -3253,6 +3279,26 @@
  ],
  "posts": [
   {
+   "id": "17966269788249594",
+   "data": "2026-11-17",
+   "data_hora": "17/11/26 18:04",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
+   "link": "https://www.instagram.com/reel/Df22ldlK88y/",
+   "alcance": 15,
+   "visualizacoes": 16,
+   "curtidas": 1,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 1,
+   "taxa_engajamento": 6.7,
+   "reels_tempo_medio_assistido": 2589,
+   "reels_taxa_pulo": 0.667,
+   "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "18096481487693867",
    "data": "2026-11-16",
    "data_hora": "16/11/26 18:04",
@@ -3260,16 +3306,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/Df0RzDFNIhj/",
-   "alcance": 17,
-   "visualizacoes": 29,
+   "alcance": 19,
+   "visualizacoes": 32,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 11.8,
-   "reels_tempo_medio_assistido": 4435,
-   "reels_taxa_pulo": 0.765,
+   "taxa_engajamento": 10.5,
+   "reels_tempo_medio_assistido": 5447,
+   "reels_taxa_pulo": 0.789,
    "legenda": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!\n\nA \"válvula\" entre o estômago e o esôfago ainda está imatura. Por isso golfar é comum no primeiro ano e melhora sozinho com o tempo.\n\nÉ o refluxo normal quando o bebê ganha peso bem, fica tranquilo depois de golfar e mama bem.\n\nPode ajudar:\n✔️ fazer arrotar no meio e no fim da mamada\n✔️ manter no colo, em pé, por 20 a 30 minutos depois\n✔️ roupas folgadas, sem apertar a barriga\n\nNa hora de dormir: sempre de barriga para cima, no berço plano, mesmo golfando. Não eleve o colchão nem use travesseiros.\n\n⚠️ Procure o pediatra se o bebê não ganha peso, tem vômito em jato, verde ou com sangue, chora muito e recusa mamar, ou tem engasgos e falta de ar.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #refluxo #bebegolfando #amamentacao #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3280,14 +3326,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Feriado sem bagunçar o sono 😴 4 dicas de rotina",
    "link": "https://www.instagram.com/p/Dfxs_ENDWyO/",
-   "alcance": 16,
-   "visualizacoes": 42,
-   "curtidas": 4,
+   "alcance": 17,
+   "visualizacoes": 46,
+   "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 4,
-   "taxa_engajamento": 25.0,
+   "interacoes": 5,
+   "taxa_engajamento": 29.4,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Feriado sem bagunçar o sono 😴 4 dicas de rotina\n\n✔️ horários parecidos com os de sempre (até 1 hora de diferença)\n✔️ mantenha o ritual: banho, pijama, história e luz baixa\n✔️ ofereça as sonecas no horário, mesmo fora de casa\n✔️ menos telas à noite: desligue 1 hora antes de dormir\n\nVai viajar? Leve a naninha e objetos conhecidos, deixe o quarto escuro e silencioso, use a cadeirinha sempre e programe a estrada no horário da soneca.\n\nA rotina bagunçou? Volte aos poucos, 15 minutos por dia, aproveite a luz natural de manhã e tenha paciência: em 2 a 3 dias tudo volta ao normal.\n\nBom feriado! 💛\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonoinfantil #rotinadesono #feriado #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3320,14 +3366,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 51,
-   "visualizacoes": 127,
+   "alcance": 54,
+   "visualizacoes": 128,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 19.6,
+   "taxa_engajamento": 18.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3340,16 +3386,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 104,
-   "visualizacoes": 157,
+   "alcance": 107,
+   "visualizacoes": 164,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 21.2,
-   "reels_tempo_medio_assistido": 12684,
-   "reels_taxa_pulo": 0.398,
+   "taxa_engajamento": 20.6,
+   "reels_tempo_medio_assistido": 12475,
+   "reels_taxa_pulo": 0.415,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3880,14 +3926,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 104,
+   "alcance": 105,
    "visualizacoes": 168,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 10.6,
+   "taxa_engajamento": 10.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
@@ -5503,7 +5549,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-18-lancheira-saudavel",
@@ -5559,9 +5605,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 5,
+  "agendados": 4,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 26
+  "publicados": 27
  }
 }
