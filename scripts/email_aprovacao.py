@@ -37,7 +37,8 @@ def montar(sha, lote):
         if it['tipo'] == 'reels':
             img, w, fmt = raw(p, 'capa.jpg'), 260, 'Reels'
             links = (f'<a href="{raw(p, "reels.mp4")}">&#9654;&#65039; Assistir o Reels</a> · '
-                     f'<a href="{raw(p, "story.mp4")}">Assistir o story</a>')
+                     (f'<a href="{raw(p, "story.mp4")}">Assistir o story</a>' if (RAIZ / 'posts' / p / 'story.mp4').exists()
+                     else f'<a href="{raw(p, "story.jpg")}">Ver o story</a>'))
         else:
             img, w, fmt = raw(p, 'preview.jpg'), 560, 'Carrossel'
             links = (f'<a href="{cdn(p, "slides.pdf")}"><b>&#128196; Ver todos os slides</b></a> · '
