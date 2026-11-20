@@ -45,6 +45,14 @@ body{font-family:Poppins,sans-serif;color:#2D3142;background:transparent}
 .big .p{color:#EF8FB8}
 .c{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;text-align:center}
 .sub{font-size:28px;color:#5E6272;font-weight:500}
+.noav .card{padding:26px 36px;gap:32px;border-radius:34px}
+.noav .card .ic{width:104px;height:104px;border-radius:28px}.noav .card .ic svg{width:74px;height:74px}
+.noav .card .t{font-size:42px}
+.noav .big{font-size:100px}.noav .c.el > svg{width:180px;height:180px}
+.noav .sub{font-size:32px}
+.noav div.el:not(.c) > .tag{font-size:60px!important}.r.noav div.el:not(.c) > .tag{font-size:68px!important}
+.r.noav .card .t{font-size:48px}.r.noav .card .ic{width:118px;height:118px}.r.noav .card .ic svg{width:84px;height:84px}
+.r.noav .big{font-size:112px}.r.noav .c.el > svg{width:210px;height:210px}
 .thumb{border-radius:28px;box-shadow:0 24px 60px rgba(45,49,66,.25);border:8px solid #fff}
 '''
 FIT = '''for(const e of document.querySelectorAll('.fit')){let f=parseFloat(getComputedStyle(e).fontSize);
@@ -104,18 +112,34 @@ def els_final(H):
 
 
 LAYOUT_JS = '''(H)=>{for(const s of document.querySelectorAll('section')){
- const cards=[...s.querySelectorAll('.card[data-k]')]; if(!cards.length) continue;
- const hdr=s.querySelector('.el'); let y=hdr.offsetTop+hdr.offsetHeight+36;
- const n=cards.length, gap=n>=4?16:22;
- if(n>=4) cards.forEach(c=>{c.style.padding='16px 28px';c.querySelector('.t').style.fontSize='33px'});
- for(const c of cards){c.style.top=y+'px'; y+=c.offsetHeight+gap}
- const av=s.querySelector('.av'); if(av){const h=Math.max(430,Math.min(690,H-y+10)); av.style.height=h+'px'}
+ const noav=s.classList.contains('noav');
+ const cards=[...s.querySelectorAll('.card[data-k]')];
+ if(cards.length){
+  const hdr=s.querySelector('.el'); let y=hdr.offsetTop+hdr.offsetHeight+(noav?44:36);
+  const n=cards.length, gap=noav?(n>=4?22:30):(n>=4?16:22);
+  if(n>=4&&!noav) cards.forEach(c=>{c.style.padding='16px 28px';c.querySelector('.t').style.fontSize='33px'});
+  for(const c of cards){c.style.top=y+'px'; y+=c.offsetHeight+gap}
+  const av=s.querySelector('.av'); if(av){const h=Math.max(430,Math.min(690,H-y+10)); av.style.height=h+'px'}
+ }
+ if(noav){const els=[...s.querySelectorAll(':scope > .el')];
+  let yy=0; els.forEach((e,k)=>{ if(k){const p=els[k-1];
+     const g=(e.classList.contains('card')&&p.classList.contains('card'))?(els.length>5?22:30):(e.classList.contains('card')?44:34);
+     yy+=p.offsetHeight+g} e.style.top=yy+'px'});
+  const vis=e=>{let r=e.getBoundingClientRect();for(const d of e.querySelectorAll('*')){const q=d.getBoundingClientRect();if(q.width&&q.height)r={top:Math.min(r.top,q.top),bottom:Math.max(r.bottom,q.bottom)}}return r};
+  const sr=s.getBoundingClientRect();
+  let t=1e9,b=-1e9; for(const e of els){const r=vis(e);t=Math.min(t,r.top-sr.top);b=Math.max(b,r.bottom-sr.top)}
+  const a0=150,a1=H-90; let d=(a0+a1)/2-(t+b)/2; d=Math.max(d,a0-t);
+  for(const e of els) e.style.top=(e.offsetTop+d)+'px';
+ }
 }}'''
+
+
+NOAV = '<!--NOAV-->'
 
 
 def pagina(secoes, H, bg=True):
     return ('<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>' + CSS + '</style></head><body>' +
-            ''.join(f'<section class="s{" bg" if bg else ""}" id="s{i}" style="height:{H}px">{s}</section>' for i, s in enumerate(secoes)) +
+            ''.join(f'<section class="s{" bg" if bg else ""}{" noav" if s.startswith(NOAV) else ""}{" r" if H == 1920 else ""}" id="s{i}" style="height:{H}px">{s}</section>' for i, s in enumerate(secoes)) +
             '</body></html>')
 
 
@@ -129,11 +153,12 @@ def abrir(pw, html, nome, H):
 # ---------------- carrossel ----------------
 def carrossel(pw, p):
     H = 1350
-    secs = [fundo(H) + ''.join(els_capa(p, H))]
+    sem = lambda: NOAV + fundo(H, avatar=False, circ=False)
+    secs = [sem() + ''.join(els_capa(p, H))]
     if p.get('veredito'):
-        secs.append(fundo(H) + ''.join(els_veredito(p, H)))
+        secs.append(sem() + ''.join(els_veredito(p, H)))
     for t, cls, its in p['telas']:
-        secs.append(fundo(H) + ''.join(els_lista(t, cls, its, H)))
+        secs.append(sem() + ''.join(els_lista(t, cls, its, H)))
     fin = fundo(H, topo=False) + ''.join(els_final(H))
     secs.append(fin)
     dst = OUT / p['pasta']; dst.mkdir(exist_ok=True)
@@ -210,12 +235,12 @@ def camadas(pw, p):
         dur = 6.5 if n == 1 else 4.5 + n
         cenas.append((t, els_lista(t, cls, its, RH), dur, [0.15] + [0.6 + 0.9 * k for k in range(n)]))
     cenas.append(('fim', els_final(RH), 4.5, [0.1, 0.4, 0.7, 1.0, 1.3]))
-    secs = [''.join(e) for _, e, _, _ in cenas]
+    secs = [(NOAV if k < len(cenas) - 1 else '') + ''.join(e) for k, (_, e, _, _) in enumerate(cenas)]
     pg = abrir(pw, pagina(secs, RH, bg=False), p['pasta'] + '-ov', RH)
     res = []
     for si, (nome, els, dur, dl) in enumerate(cenas):
         lay = []
-        n_el = pg.evaluate(f"document.querySelectorAll('#s{si} > *').length")
+        n_el = pg.evaluate(f"document.querySelector('#s{si}').children.length")
         for k in range(n_el):
             bb = pg.evaluate(f'''()=>{{const s=document.querySelector('#s{si}');const ch=[...s.children];
               ch.forEach((c,j)=>c.style.visibility=j=={k}?'visible':'hidden');
@@ -239,6 +264,18 @@ def ease(t):
     t = max(0.0, min(1.0, t)); return 1 - (1 - t) ** 3
 
 
+BG_SEM = None
+
+
+def fundo_sem(pw):
+    global BG_SEM
+    if BG_SEM is None:
+        pg = abrir(pw, pagina([fundo(RH, avatar=False, circ=False)], RH), 'bgsem', RH)
+        png = TMP / '_bgs.png'; pg.locator('#s0').screenshot(path=str(png)); pg.close()
+        BG_SEM = Image.open(png).convert('RGBA')
+    return BG_SEM
+
+
 def reels(pw, p, base):
     dst = OUT / p['pasta']; dst.mkdir(exist_ok=True)
     cenas = camadas(pw, p)
@@ -250,12 +287,12 @@ def reels(pw, p, base):
            '-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '19', '-c:a', 'aac', '-b:a', '128k',
            '-movflags', '+faststart', str(dst / 'reels.mp4')]
     pr = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    i = 0; capa = None
+    i = 0; capa = None; bs = fundo_sem(pw)
     for si, (nome, dur, lay) in enumerate(cenas):
-        n = int(round(dur * FPS))
+        n = int(round(dur * FPS)); ultima = si == len(cenas) - 1
         for j in range(n):
             t = j / FPS
-            im = Image.fromarray(np.asarray(base[i % len(base)])).convert('RGBA')
+            im = Image.fromarray(np.asarray(base[j % len(base)])).convert('RGBA') if ultima else bs.copy()
             fo = 1.0 if t < dur - 0.3 else max(0.0, (dur - t) / 0.3)  # saída da cena
             if si == len(cenas) - 1: fo = 1.0
             for L, x, y, d in lay:
