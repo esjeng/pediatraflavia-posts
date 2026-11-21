@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-20T06:06:52-03:00",
- "atualizado_em_texto": "20/11/26 06:06",
+ "atualizado_em": "2026-11-21T06:05:18-03:00",
+ "atualizado_em_texto": "21/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1327,
-  "publicacoes": 102
+  "publicacoes": 104
  },
  "resumo_30d": {
-  "alcance": 1466,
-  "visualizacoes": 2837,
-  "contas_engajadas": 115,
-  "alcance_seguidores": 988,
-  "alcance_nao_seguidores": 478,
+  "alcance": 1436,
+  "visualizacoes": 2753,
+  "contas_engajadas": 116,
+  "alcance_seguidores": 959,
+  "alcance_nao_seguidores": 477,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2237,
-  "visualizacoes": 4777,
-  "contas_engajadas": 176,
-  "alcance_seguidores": 1415,
-  "alcance_nao_seguidores": 822,
+  "alcance": 2256,
+  "visualizacoes": 4831,
+  "contas_engajadas": 180,
+  "alcance_seguidores": 1431,
+  "alcance_nao_seguidores": 825,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2393,
-  "visualizacoes": 5391,
-  "contas_engajadas": 185,
-  "alcance_seguidores": 1538,
-  "alcance_nao_seguidores": 857,
+  "alcance": 2411,
+  "visualizacoes": 5444,
+  "contas_engajadas": 189,
+  "alcance_seguidores": 1554,
+  "alcance_nao_seguidores": 859,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-25",
-   "alcance": 1,
-   "visualizacoes": 1,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 1,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-26",
    "alcance": 32,
@@ -1644,8 +1635,17 @@
   },
   {
    "data": "2026-11-20",
+   "alcance": 19,
+   "visualizacoes": 52,
+   "contas_engajadas": 4,
+   "alcance_seguidores": 16,
+   "alcance_nao_seguidores": 3,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-21",
    "alcance": 0,
-   "visualizacoes": 0,
+   "visualizacoes": 2,
    "contas_engajadas": 0,
    "alcance_seguidores": 0,
    "alcance_nao_seguidores": 0,
@@ -1656,17 +1656,17 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 437
+   "seguidores": 434
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 90
+   "seguidores": 89
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 75
+   "seguidores": 76
   },
   {
    "cidade": "Contagem",
@@ -1679,34 +1679,34 @@
    "seguidores": 44
   },
   {
-   "cidade": "São Paulo",
-   "estado": "São Paulo",
-   "seguidores": 37
-  },
-  {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 35
+   "seguidores": 39
   },
   {
-   "cidade": "Ribeirão das Neves",
-   "estado": "Minas Gerais",
-   "seguidores": 24
-  },
-  {
-   "cidade": "Pará",
-   "estado": "Minas Gerais",
-   "seguidores": 19
+   "cidade": "São Paulo",
+   "estado": "São Paulo",
+   "seguidores": 36
   },
   {
    "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 16
+   "seguidores": 22
+  },
+  {
+   "cidade": "Ribeirão das Neves",
+   "estado": "Minas Gerais",
+   "seguidores": 22
+  },
+  {
+   "cidade": "Pará",
+   "estado": "Minas Gerais",
+   "seguidores": 20
   },
   {
    "cidade": "Betim",
    "estado": "Minas Gerais",
-   "seguidores": 15
+   "seguidores": 16
   },
   {
    "cidade": "São José da Lapa",
@@ -1729,6 +1729,11 @@
    "seguidores": 11
   },
   {
+   "cidade": "Sabará",
+   "estado": "Minas Gerais",
+   "seguidores": 8
+  },
+  {
    "cidade": "Botumirim",
    "estado": "Minas Gerais",
    "seguidores": 8
@@ -1744,21 +1749,6 @@
    "seguidores": 8
   },
   {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
-   "seguidores": 8
-  },
-  {
-   "cidade": "Sabará",
-   "estado": "Minas Gerais",
-   "seguidores": 7
-  },
-  {
-   "cidade": "Conselheiro Lafaiete",
-   "estado": "Minas Gerais",
-   "seguidores": 7
-  },
-  {
    "cidade": "Uberlândia",
    "estado": "Minas Gerais",
    "seguidores": 6
@@ -1766,6 +1756,16 @@
   {
    "cidade": "Sete Lagoas",
    "estado": "Minas Gerais",
+   "seguidores": 6
+  },
+  {
+   "cidade": "Conselheiro Lafaiete",
+   "estado": "Minas Gerais",
+   "seguidores": 6
+  },
+  {
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
@@ -1809,6 +1809,11 @@
    "seguidores": 3
   },
   {
+   "cidade": "Timóteo",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
    "cidade": "Teresina",
    "estado": "Piauí",
    "seguidores": 3
@@ -1839,17 +1844,17 @@
    "seguidores": 3
   },
   {
-   "cidade": "Coronel Fabriciano",
-   "estado": "Minas Gerais",
-   "seguidores": 3
-  },
-  {
    "cidade": "Cordisburgo",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
   {
    "cidade": "Itaúna",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Ibirité",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
@@ -1869,13 +1874,8 @@
    "seguidores": 3
   },
   {
-   "cidade": "Capitão Enéas",
-   "estado": "Minas Gerais",
-   "seguidores": 2
-  },
-  {
-   "cidade": "Ibirité",
-   "estado": "Minas Gerais",
+   "cidade": "Jaboatão dos Guararapes",
+   "estado": "Pernambuco",
    "seguidores": 2
   }
  ],
@@ -2153,6 +2153,10 @@
   {
    "data": "2026-11-20",
    "seguidores": 1327
+  },
+  {
+   "data": "2026-11-21",
+   "seguidores": 1327
   }
  ],
  "novos_seguidores": [
@@ -2411,6 +2415,10 @@
   {
    "data": "2026-11-19",
    "novos": 0
+  },
+  {
+   "data": "2026-11-20",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
@@ -2419,7 +2427,7 @@
    "seguidores_atual": 1327,
    "novos_seguidores": 15,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-21",
+   "data_inicio": "2026-10-22",
    "seguidores_inicio": 1322,
    "variacao": 5,
    "variacao_pct": 0.38,
@@ -2428,10 +2436,6 @@
    "deixaram_de_seguir_estimado": 10,
    "serie": [
     {
-     "data": "2026-10-21",
-     "seguidores": 1322
-    },
-    {
      "data": "2026-10-22",
      "seguidores": 1322
     },
@@ -2533,6 +2537,10 @@
     },
     {
      "data": "2026-11-20",
+     "seguidores": 1327
+    },
+    {
+     "data": "2026-11-21",
      "seguidores": 1327
     }
    ]
@@ -2541,12 +2549,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1327,
    "novos_seguidores": 25,
-   "dias_com_novos": 64,
+   "dias_com_novos": 65,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 2,
    "variacao_pct": 0.15,
-   "dias_com_total": 32,
+   "dias_com_total": 33,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 14,
    "serie": [
@@ -2676,6 +2684,10 @@
     },
     {
      "data": "2026-11-20",
+     "seguidores": 1327
+    },
+    {
+     "data": "2026-11-21",
      "seguidores": 1327
     }
    ]
@@ -2684,12 +2696,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1327,
    "novos_seguidores": 25,
-   "dias_com_novos": 64,
+   "dias_com_novos": 65,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 2,
    "variacao_pct": 0.15,
-   "dias_com_total": 32,
+   "dias_com_total": 33,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 14,
    "serie": [
@@ -2820,11 +2832,25 @@
     {
      "data": "2026-11-20",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-21",
+     "seguidores": 1327
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18148654579581980",
+   "data": "2026-11-20",
+   "data_hora": "20/11/26 18:05",
+   "alcance": 7,
+   "visualizacoes": 8,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-20T18:05:23-03:00"
+  },
   {
    "id": "18124029122079444",
    "data": "2026-11-19",
@@ -3112,13 +3138,13 @@
    "formato": "Reels",
    "posts": 27,
    "alcance_medio": 63,
-   "taxa_engajamento": 35.4
+   "taxa_engajamento": 35.3
   },
   {
    "formato": "Carrossel",
-   "posts": 35,
-   "alcance_medio": 38,
-   "taxa_engajamento": 31.9
+   "posts": 36,
+   "alcance_medio": 37,
+   "taxa_engajamento": 32.0
   },
   {
    "formato": "Imagem",
@@ -3331,6 +3357,26 @@
  ],
  "posts": [
   {
+   "id": "17983534857133145",
+   "data": "2026-11-20",
+   "data_hora": "20/11/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Andador ajuda o bebê a andar? 🚼 Mito!",
+   "link": "https://www.instagram.com/p/Df-lAM9kR7M/",
+   "alcance": 8,
+   "visualizacoes": 30,
+   "curtidas": 3,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 1,
+   "interacoes": 4,
+   "taxa_engajamento": 50.0,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Andador ajuda o bebê a andar? 🚼 Mito!\n\nO andador não ajuda o bebê a andar mais cedo e ainda é causa de acidentes graves, como quedas de escada. Por isso, a Sociedade Brasileira de Pediatria contraindica o uso.\n\nOs riscos:\n⚠️ quedas de escada e de degraus\n⚠️ alcance maior a fogão, tomadas e objetos quentes\n⚠️ tombos em tapetes e desníveis\n⚠️ pode estimular andar na ponta dos pés\n\nO que ajuda de verdade: tempo no chão (de bruços desde cedo, com supervisão), espaço seguro para rolar, sentar e engatinhar, móveis firmes para se apoiar e pés descalços em casa.\n\nProcure o pediatra se o bebê não senta sem apoio por volta dos 9 meses, não fica em pé com apoio por volta de 1 ano, não anda sozinho até 1 ano e meio ou perdeu algo que já fazia.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #andador #desenvolvimentoinfantil #segurancainfantil #mitoouverdade #maternidade #dicasdepediatra"
+  },
+  {
    "id": "18131897305945642",
    "data": "2026-11-19",
    "data_hora": "19/11/26 18:04",
@@ -3338,16 +3384,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Dor de ouvido à noite? 👂 Pode ser otite!",
    "link": "https://www.instagram.com/reel/Df8AMUoONMz/",
-   "alcance": 10,
-   "visualizacoes": 12,
+   "alcance": 14,
+   "visualizacoes": 18,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 20.0,
-   "reels_tempo_medio_assistido": 7541,
-   "reels_taxa_pulo": 0.6,
+   "taxa_engajamento": 14.3,
+   "reels_tempo_medio_assistido": 5364,
+   "reels_taxa_pulo": 0.733,
    "legenda": "Dor de ouvido à noite? 👂 Pode ser otite!\n\nA otite média costuma aparecer depois de um resfriado: a secreção fica presa atrás do tímpano. Quando a criança deita, a pressão aumenta e a dor piora, por isso ela acorda chorando.\n\nSinais comuns:\n✔️ mão na orelha ou puxa a orelha\n✔️ choro e irritação, principalmente ao deitar\n✔️ febre\n✔️ bebê que recusa mamar, porque sugar dói\n\nEnquanto isso: analgésico na dose orientada pelo pediatra e cabeceira um pouco mais alta. Nada de cotonete, óleo ou gotas caseiras no ouvido.\n\nE nem toda otite precisa de antibiótico! Muitas melhoram sozinhas. Quem decide é o pediatra, examinando o ouvido.\n\n⚠️ Procure o pediatra se for um bebê com menos de 6 meses, se a dor ou a febre não melhorarem em 48 horas, se sair secreção do ouvido ou se houver inchaço atrás da orelha.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #otite #dordeouvido #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3359,7 +3405,7 @@
    "titulo": "Lancheira saudável: monte em 5 passos 🍎🥪",
    "link": "https://www.instagram.com/p/Df5bZ3qDd-i/",
    "alcance": 16,
-   "visualizacoes": 44,
+   "visualizacoes": 49,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
@@ -3399,15 +3445,15 @@
    "titulo": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/Df0RzDFNIhj/",
    "alcance": 21,
-   "visualizacoes": 35,
+   "visualizacoes": 37,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
    "taxa_engajamento": 9.5,
-   "reels_tempo_medio_assistido": 6734,
-   "reels_taxa_pulo": 0.773,
+   "reels_tempo_medio_assistido": 8356,
+   "reels_taxa_pulo": 0.739,
    "legenda": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!\n\nA \"válvula\" entre o estômago e o esôfago ainda está imatura. Por isso golfar é comum no primeiro ano e melhora sozinho com o tempo.\n\nÉ o refluxo normal quando o bebê ganha peso bem, fica tranquilo depois de golfar e mama bem.\n\nPode ajudar:\n✔️ fazer arrotar no meio e no fim da mamada\n✔️ manter no colo, em pé, por 20 a 30 minutos depois\n✔️ roupas folgadas, sem apertar a barriga\n\nNa hora de dormir: sempre de barriga para cima, no berço plano, mesmo golfando. Não eleve o colchão nem use travesseiros.\n\n⚠️ Procure o pediatra se o bebê não ganha peso, tem vômito em jato, verde ou com sangue, chora muito e recusa mamar, ou tem engasgos e falta de ar.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #refluxo #bebegolfando #amamentacao #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3458,14 +3504,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 56,
+   "alcance": 57,
    "visualizacoes": 132,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 17.9,
+   "taxa_engajamento": 17.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -5680,7 +5726,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-21-reels-09-telas-sono",
@@ -5694,12 +5740,194 @@
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
    "situacao": "Agendado"
+  },
+  {
+   "id": "2026-11-22-reels-00-apresentacao",
+   "data": "2026-11-22",
+   "data_texto": "22/11",
+   "dia": "Dom",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Prazer, eu sou a Dra. Flávia! (Reels de apresentação)",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-23-reels-13-convulsao-febril",
+   "data": "2026-11-23",
+   "data_texto": "23/11",
+   "dia": "Seg",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Convulsão com febre: o que fazer (e o que não fazer)",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-24-novembro-roxo-prematuridade",
+   "data": "2026-11-24",
+   "data_texto": "24/11",
+   "dia": "Ter",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Novembro Roxo: prematuridade e idade corrigida",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-25-reels-14-dengue-criancas",
+   "data": "2026-11-25",
+   "data_texto": "25/11",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Dengue em criança: sinais de alerta",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-26-brotoeja-miliaria",
+   "data": "2026-11-26",
+   "data_texto": "26/11",
+   "dia": "Qui",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Brotoeja (miliária): como aliviar no calor",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-27-reels-15-colica",
+   "data": "2026-11-27",
+   "data_texto": "27/11",
+   "dia": "Sex",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Cólica do bebê: o que ajuda de verdade",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-28-mito-banho-depois-comer",
+   "data": "2026-11-28",
+   "data_texto": "28/11",
+   "dia": "Sáb",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Mito ou verdade: banho depois de comer dá congestão?",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-29-desfralde-sinais",
+   "data": "2026-11-29",
+   "data_texto": "29/11",
+   "dia": "Dom",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Desfralde: 5 sinais de que é hora",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-11-30-reels-16-chupeta",
+   "data": "2026-11-30",
+   "data_texto": "30/11",
+   "dia": "Seg",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Chupeta: quando e como tirar",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-12-01-queimadura-solar",
+   "data": "2026-12-01",
+   "data_texto": "01/12",
+   "dia": "Ter",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Dezembro Laranja: queimadura de sol na criança, o que fazer",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-12-02-reels-17-tosse",
+   "data": "2026-12-02",
+   "data_texto": "02/12",
+   "dia": "Qua",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Tosse na criança: quando se preocupar",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-12-03-maos-pes-boca",
+   "data": "2026-12-03",
+   "data_texto": "03/12",
+   "dia": "Qui",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Doença mãos-pés-boca: sinais e cuidados",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-12-04-reels-18-medir-febre",
+   "data": "2026-12-04",
+   "data_texto": "04/12",
+   "dia": "Sex",
+   "hora": "18h",
+   "formato": "Reels",
+   "tema": "Febre: como medir a temperatura do jeito certo",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
+  },
+  {
+   "id": "2026-12-05-festas-engasgo",
+   "data": "2026-12-05",
+   "data_texto": "05/12",
+   "dia": "Sáb",
+   "hora": "18h",
+   "formato": "Carrossel",
+   "tema": "Festas de fim de ano: alimentos que engasgam os pequenos",
+   "story_hora": "18h",
+   "aprovacao_post": "Aguardando",
+   "aprovacao_story": "Aguardando",
+   "situacao": "Aguardando aprovação"
   }
  ],
  "resumo_programacao": {
-  "agendados": 2,
-  "aguardando_aprovacao": 0,
+  "agendados": 1,
+  "aguardando_aprovacao": 14,
   "sem_conteudo": 0,
-  "publicados": 29
+  "publicados": 30
  }
 }
