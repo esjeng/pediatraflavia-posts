@@ -739,11 +739,12 @@
    "descricao": "Prazer, eu sou a Dra. Flávia! (Reels de apresentação)",
    "sha": "8f48a39f1e121afb5390e791c7011409cc815a54",
    "pasta": "posts/reels-00-apresentacao",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-22-reels-00-apresentacao-story",
@@ -752,9 +753,10 @@
    "descricao": "Story: Prazer, eu sou a Dra. Flávia! (Reels de apresentação)",
    "sha": "8f48a39f1e121afb5390e791c7011409cc815a54",
    "pasta": "posts/reels-00-apresentacao",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-23-reels-13-convulsao-febril",
@@ -763,11 +765,12 @@
    "descricao": "Convulsão com febre: o que fazer (e o que não fazer)",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-13-convulsao-febril",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-23-reels-13-convulsao-febril-story",
@@ -776,9 +779,10 @@
    "descricao": "Story: Convulsão com febre: o que fazer (e o que não fazer)",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-13-convulsao-febril",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-24-novembro-roxo-prematuridade",
@@ -787,7 +791,7 @@
    "descricao": "Novembro Roxo: prematuridade e idade corrigida",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-24-novembro-roxo-prematuridade",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -797,7 +801,8 @@
     "prematuro-04.jpg",
     "prematuro-05.jpg",
     "prematuro-06.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-24-novembro-roxo-prematuridade-story",
@@ -806,9 +811,10 @@
    "descricao": "Story: Novembro Roxo: prematuridade e idade corrigida",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-24-novembro-roxo-prematuridade",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-25-reels-14-dengue-criancas",
@@ -817,11 +823,12 @@
    "descricao": "Dengue em criança: sinais de alerta",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-14-dengue-criancas",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-25-reels-14-dengue-criancas-story",
@@ -830,9 +837,10 @@
    "descricao": "Story: Dengue em criança: sinais de alerta",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-14-dengue-criancas",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-26-brotoeja-miliaria",
@@ -841,7 +849,7 @@
    "descricao": "Brotoeja (miliária): como aliviar no calor",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-26-brotoeja-miliaria",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -851,7 +859,8 @@
     "brotoeja-04.jpg",
     "brotoeja-05.jpg",
     "brotoeja-06.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-26-brotoeja-miliaria-story",
@@ -860,9 +869,10 @@
    "descricao": "Story: Brotoeja (miliária): como aliviar no calor",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-26-brotoeja-miliaria",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-27-reels-15-colica",
@@ -871,11 +881,12 @@
    "descricao": "Cólica do bebê: o que ajuda de verdade",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-15-colica",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-27-reels-15-colica-story",
@@ -884,9 +895,10 @@
    "descricao": "Story: Cólica do bebê: o que ajuda de verdade",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-15-colica",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-28-mito-banho-depois-comer",
@@ -895,7 +907,7 @@
    "descricao": "Mito ou verdade: banho depois de comer dá congestão?",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-28-mito-banho-depois-comer",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -904,7 +916,8 @@
     "congestao-03.jpg",
     "congestao-04.jpg",
     "congestao-05.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-28-mito-banho-depois-comer-story",
@@ -913,9 +926,10 @@
    "descricao": "Story: Mito ou verdade: banho depois de comer dá congestão?",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-28-mito-banho-depois-comer",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-29-desfralde-sinais",
@@ -924,7 +938,7 @@
    "descricao": "Desfralde: 5 sinais de que é hora",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-29-desfralde-sinais",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -933,7 +947,8 @@
     "desfralde-03.jpg",
     "desfralde-04.jpg",
     "desfralde-05.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-29-desfralde-sinais-story",
@@ -942,9 +957,10 @@
    "descricao": "Story: Desfralde: 5 sinais de que é hora",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-11-29-desfralde-sinais",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-30-reels-16-chupeta",
@@ -953,11 +969,12 @@
    "descricao": "Chupeta: quando e como tirar",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-16-chupeta",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-11-30-reels-16-chupeta-story",
@@ -966,9 +983,10 @@
    "descricao": "Story: Chupeta: quando e como tirar",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-16-chupeta",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-01-queimadura-solar",
@@ -977,7 +995,7 @@
    "descricao": "Dezembro Laranja: queimadura de sol na criança, o que fazer",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-01-queimadura-solar",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -987,7 +1005,8 @@
     "solar-04.jpg",
     "solar-05.jpg",
     "solar-06.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-01-queimadura-solar-story",
@@ -996,9 +1015,10 @@
    "descricao": "Story: Dezembro Laranja: queimadura de sol na criança, o que fazer",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-01-queimadura-solar",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-02-reels-17-tosse",
@@ -1007,11 +1027,12 @@
    "descricao": "Tosse na criança: quando se preocupar",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-17-tosse",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-02-reels-17-tosse-story",
@@ -1020,9 +1041,10 @@
    "descricao": "Story: Tosse na criança: quando se preocupar",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-17-tosse",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-03-maos-pes-boca",
@@ -1031,7 +1053,7 @@
    "descricao": "Doença mãos-pés-boca: sinais e cuidados",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-03-maos-pes-boca",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -1041,7 +1063,8 @@
     "mpb-04.jpg",
     "mpb-05.jpg",
     "mpb-06.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-03-maos-pes-boca-story",
@@ -1050,9 +1073,10 @@
    "descricao": "Story: Doença mãos-pés-boca: sinais e cuidados",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-03-maos-pes-boca",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-04-reels-18-medir-febre",
@@ -1061,11 +1085,12 @@
    "descricao": "Febre: como medir a temperatura do jeito certo",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-18-medir-febre",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "video": "reels.mp4",
-   "capa": "capa.jpg"
+   "capa": "capa.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-04-reels-18-medir-febre-story",
@@ -1074,9 +1099,10 @@
    "descricao": "Story: Febre: como medir a temperatura do jeito certo",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/reels-18-medir-febre",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-05-festas-engasgo",
@@ -1085,7 +1111,7 @@
    "descricao": "Festas de fim de ano: alimentos que engasgam os pequenos",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-05-festas-engasgo",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
    "legenda": "legenda.txt",
    "imagens": [
@@ -1094,7 +1120,8 @@
     "festas-03.jpg",
     "festas-04.jpg",
     "festas-05.jpg"
-   ]
+   ],
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   },
   {
    "id": "2026-12-05-festas-engasgo-story",
@@ -1103,9 +1130,10 @@
    "descricao": "Story: Festas de fim de ano: alimentos que engasgam os pequenos",
    "sha": "20e0621bd88390575060955d2913091a672f56f1",
    "pasta": "posts/2026-12-05-festas-engasgo",
-   "aprovado": false,
+   "aprovado": true,
    "thread": "1a1f9d4709aae77e",
-   "imagem": "story.jpg"
+   "imagem": "story.jpg",
+   "obs": "Aprovado pela Dra. Flávia em 22/11 17h14 (APROVADO TODOS)."
   }
  ]
 }
