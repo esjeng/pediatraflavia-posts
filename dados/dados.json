@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-22T06:05:15-03:00",
- "atualizado_em_texto": "22/11/26 06:05",
+ "atualizado_em": "2026-11-23T06:07:01-03:00",
+ "atualizado_em_texto": "23/11/26 06:07",
  "perfil": {
   "usuario": "pediatraflavia",
   "seguidores": 1326,
-  "publicacoes": 105
+  "publicacoes": 106
  },
  "resumo_30d": {
-  "alcance": 1471,
-  "visualizacoes": 2829,
-  "contas_engajadas": 121,
-  "alcance_seguidores": 969,
-  "alcance_nao_seguidores": 502,
+  "alcance": 1570,
+  "visualizacoes": 3015,
+  "contas_engajadas": 139,
+  "alcance_seguidores": 1036,
+  "alcance_nao_seguidores": 534,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2309,
-  "visualizacoes": 4939,
-  "contas_engajadas": 187,
-  "alcance_seguidores": 1460,
-  "alcance_nao_seguidores": 849,
-  "cliques_link_perfil": 0
- },
- "resumo_180d": {
-  "alcance": 2433,
-  "visualizacoes": 5476,
-  "contas_engajadas": 193,
-  "alcance_seguidores": 1554,
+  "alcance": 2411,
+  "visualizacoes": 5132,
+  "contas_engajadas": 205,
+  "alcance_seguidores": 1530,
   "alcance_nao_seguidores": 881,
   "cliques_link_perfil": 0
  },
+ "resumo_180d": {
+  "alcance": 2527,
+  "visualizacoes": 5587,
+  "contas_engajadas": 210,
+  "alcance_seguidores": 1616,
+  "alcance_nao_seguidores": 912,
+  "cliques_link_perfil": 0
+ },
  "diario": [
-  {
-   "data": "2026-05-27",
-   "alcance": 8,
-   "visualizacoes": 82,
-   "contas_engajadas": 1,
-   "alcance_seguidores": 8,
-   "alcance_nao_seguidores": 1,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-28",
    "alcance": 10,
@@ -1636,7 +1627,7 @@
   {
    "data": "2026-11-21",
    "alcance": 54,
-   "visualizacoes": 111,
+   "visualizacoes": 112,
    "contas_engajadas": 7,
    "alcance_seguidores": 29,
    "alcance_nao_seguidores": 25,
@@ -1644,10 +1635,19 @@
   },
   {
    "data": "2026-11-22",
-   "alcance": 0,
-   "visualizacoes": 0,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 0,
+   "alcance": 101,
+   "visualizacoes": 191,
+   "contas_engajadas": 17,
+   "alcance_seguidores": 69,
+   "alcance_nao_seguidores": 32,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-23",
+   "alcance": 1,
+   "visualizacoes": 1,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 1,
    "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
@@ -1656,27 +1656,27 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 434
+   "seguidores": 440
   },
   {
    "cidade": "Montes Claros",
    "estado": "Minas Gerais",
-   "seguidores": 89
+   "seguidores": 90
   },
   {
    "cidade": "Vespasiano",
    "estado": "Minas Gerais",
-   "seguidores": 76
+   "seguidores": 77
   },
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 48
+   "seguidores": 49
   },
   {
    "cidade": "Lagoa Santa",
    "estado": "Minas Gerais",
-   "seguidores": 44
+   "seguidores": 43
   },
   {
    "cidade": "Cordeiro",
@@ -1689,11 +1689,6 @@
    "seguidores": 36
   },
   {
-   "cidade": "Nova Lima",
-   "estado": "Minas Gerais",
-   "seguidores": 22
-  },
-  {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
    "seguidores": 22
@@ -1704,19 +1699,24 @@
    "seguidores": 20
   },
   {
-   "cidade": "Betim",
+   "cidade": "Nova Lima",
    "estado": "Minas Gerais",
-   "seguidores": 16
+   "seguidores": 18
   },
   {
-   "cidade": "São José da Lapa",
+   "cidade": "Betim",
    "estado": "Minas Gerais",
-   "seguidores": 13
+   "seguidores": 14
   },
   {
    "cidade": "Santa Luzia",
    "estado": "Minas Gerais",
    "seguidores": 13
+  },
+  {
+   "cidade": "São José da Lapa",
+   "estado": "Minas Gerais",
+   "seguidores": 12
   },
   {
    "cidade": "Pedro Leopoldo",
@@ -1759,13 +1759,13 @@
    "seguidores": 6
   },
   {
-   "cidade": "Conselheiro Lafaiete",
-   "estado": "Minas Gerais",
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
+   "cidade": "Conselheiro Lafaiete",
+   "estado": "Minas Gerais",
    "seguidores": 6
   },
   {
@@ -1819,6 +1819,11 @@
    "seguidores": 3
   },
   {
+   "cidade": "Capitão Enéas",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
    "cidade": "São João del Rei",
    "estado": "Minas Gerais",
    "seguidores": 3
@@ -1849,13 +1854,13 @@
    "seguidores": 3
   },
   {
-   "cidade": "Itaúna",
+   "cidade": "Ibirité",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
   {
-   "cidade": "Ibirité",
-   "estado": "Minas Gerais",
+   "cidade": "Serra",
+   "estado": "Espírito Santo",
    "seguidores": 3
   },
   {
@@ -1872,11 +1877,6 @@
    "cidade": "Curitiba",
    "estado": "Paraná",
    "seguidores": 3
-  },
-  {
-   "cidade": "Jaboatão dos Guararapes",
-   "estado": "Pernambuco",
-   "seguidores": 2
   }
  ],
  "publico_genero_idade": [
@@ -1898,12 +1898,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 390
+   "seguidores": 388
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "45-54",
-   "seguidores": 219
+   "seguidores": 220
   },
   {
    "genero": "Feminino",
@@ -1933,7 +1933,7 @@
   {
    "genero": "Masculino",
    "faixa_etaria": "45-54",
-   "seguidores": 62
+   "seguidores": 61
   },
   {
    "genero": "Masculino",
@@ -1963,7 +1963,7 @@
   {
    "genero": "Não informado",
    "faixa_etaria": "35-44",
-   "seguidores": 85
+   "seguidores": 86
   },
   {
    "genero": "Não informado",
@@ -1996,7 +1996,7 @@
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 556
+   "seguidores": 555
   },
   {
    "faixa_etaria": "45-54",
@@ -2014,15 +2014,15 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 872
+   "seguidores": 871
   },
   {
    "genero": "Masculino",
-   "seguidores": 203
+   "seguidores": 202
   },
   {
    "genero": "Não informado",
-   "seguidores": 212
+   "seguidores": 213
   }
  ],
  "seguidores_historico": [
@@ -2160,6 +2160,10 @@
   },
   {
    "data": "2026-11-22",
+   "seguidores": 1326
+  },
+  {
+   "data": "2026-11-23",
    "seguidores": 1326
   }
  ],
@@ -2427,6 +2431,10 @@
   {
    "data": "2026-11-21",
    "novos": 0
+  },
+  {
+   "data": "2026-11-22",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
@@ -2435,7 +2443,7 @@
    "seguidores_atual": 1326,
    "novos_seguidores": 15,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-23",
+   "data_inicio": "2026-10-24",
    "seguidores_inicio": 1322,
    "variacao": 4,
    "variacao_pct": 0.3,
@@ -2444,10 +2452,6 @@
    "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
-     "data": "2026-10-23",
-     "seguidores": 1322
-    },
-    {
      "data": "2026-10-24",
      "seguidores": 1322
     },
@@ -2549,6 +2553,10 @@
     },
     {
      "data": "2026-11-22",
+     "seguidores": 1326
+    },
+    {
+     "data": "2026-11-23",
      "seguidores": 1326
     }
    ]
@@ -2557,12 +2565,12 @@
    "horizonte_dias": 90,
    "seguidores_atual": 1326,
    "novos_seguidores": 25,
-   "dias_com_novos": 66,
+   "dias_com_novos": 67,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 1,
    "variacao_pct": 0.08,
-   "dias_com_total": 34,
+   "dias_com_total": 35,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 15,
    "serie": [
@@ -2700,6 +2708,10 @@
     },
     {
      "data": "2026-11-22",
+     "seguidores": 1326
+    },
+    {
+     "data": "2026-11-23",
      "seguidores": 1326
     }
    ]
@@ -2708,12 +2720,12 @@
    "horizonte_dias": 180,
    "seguidores_atual": 1326,
    "novos_seguidores": 25,
-   "dias_com_novos": 66,
+   "dias_com_novos": 67,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
    "variacao": 1,
    "variacao_pct": 0.08,
-   "dias_com_total": 34,
+   "dias_com_total": 35,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 15,
    "serie": [
@@ -2852,11 +2864,25 @@
     {
      "data": "2026-11-22",
      "seguidores": 1326
+    },
+    {
+     "data": "2026-11-23",
+     "seguidores": 1326
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "18573055726079078",
+   "data": "2026-11-22",
+   "data_hora": "22/11/26 18:05",
+   "alcance": 20,
+   "visualizacoes": 26,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-22T18:05:07-03:00"
+  },
   {
    "id": "17871884151660242",
    "data": "2026-11-21",
@@ -3162,15 +3188,15 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 28,
-   "alcance_medio": 62,
-   "taxa_engajamento": 34.7
+   "posts": 29,
+   "alcance_medio": 64,
+   "taxa_engajamento": 33.8
   },
   {
    "formato": "Carrossel",
    "posts": 36,
    "alcance_medio": 38,
-   "taxa_engajamento": 32.1
+   "taxa_engajamento": 32.0
   },
   {
    "formato": "Imagem",
@@ -3189,14 +3215,14 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 734,
+   "visualizacoes": 735,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5187,
+   "reels_tempo_medio_assistido": 5172,
    "reels_taxa_pulo": 0.788,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -3301,6 +3327,26 @@
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
+   "id": "17966269788249594",
+   "data": "2026-11-17",
+   "data_hora": "17/11/26 18:04",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
+   "link": "https://www.instagram.com/reel/Df22ldlK88y/",
+   "alcance": 130,
+   "visualizacoes": 132,
+   "curtidas": 2,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 2,
+   "taxa_engajamento": 1.5,
+   "reels_tempo_medio_assistido": 1203,
+   "reels_taxa_pulo": 0.935,
+   "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17994297489073642",
    "data": "2026-11-08",
    "data_hora": "08/11/26 18:03",
@@ -3321,26 +3367,6 @@
    "legenda": "Pediatra em casa: como funciona a consulta? 🏡🩺\n\nÉ a consulta pediátrica completa, só que no conforto da sua casa, sem trânsito, sem sala de espera e com o bebê tranquilo no ambiente dele.\n\nNa consulta:\n✔️ exame físico completo, com calma\n✔️ avaliação do crescimento (peso, altura e perímetro da cabeça)\n✔️ acompanhamento do desenvolvimento\n✔️ tempo para todas as dúvidas: amamentação, sono, alimentação e vacinas\n\nIdeal para a primeira consulta do recém-nascido, a puericultura de rotina, a amamentação e as mudanças de fase, como a introdução alimentar.\n\n📲 Para agendar, é só chamar no WhatsApp (link na bio) e escolher o melhor dia e horário. Atendo em BH, Lagoa Santa e região.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #recemnascido #maedeprimeiraviagem #maternidade"
   },
   {
-   "id": "17966269788249594",
-   "data": "2026-11-17",
-   "data_hora": "17/11/26 18:04",
-   "formato": "Reels",
-   "tipo_instagram": "REELS",
-   "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
-   "link": "https://www.instagram.com/reel/Df22ldlK88y/",
-   "alcance": 126,
-   "visualizacoes": 128,
-   "curtidas": 2,
-   "comentarios": 0,
-   "salvamentos": 0,
-   "compartilhamentos": 0,
-   "interacoes": 2,
-   "taxa_engajamento": 1.6,
-   "reels_tempo_medio_assistido": 1194,
-   "reels_taxa_pulo": 0.933,
-   "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
-  },
-  {
    "id": "18438869860197680",
    "data": "2026-11-13",
    "data_hora": "13/11/26 12:12",
@@ -3348,16 +3374,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 113,
-   "visualizacoes": 174,
+   "alcance": 114,
+   "visualizacoes": 175,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 19.5,
-   "reels_tempo_medio_assistido": 12997,
-   "reels_taxa_pulo": 0.42,
+   "taxa_engajamento": 19.3,
+   "reels_tempo_medio_assistido": 12900,
+   "reels_taxa_pulo": 0.425,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3383,6 +3409,26 @@
  ],
  "posts": [
   {
+   "id": "18113876990226522",
+   "data": "2026-11-22",
+   "data_hora": "22/11/26 18:03",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Prazer, eu sou a Dra. Flávia! 👋🩺",
+   "link": "https://www.instagram.com/reel/DgDuf55h4Ck/",
+   "alcance": 75,
+   "visualizacoes": 115,
+   "curtidas": 18,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 18,
+   "taxa_engajamento": 24.0,
+   "reels_tempo_medio_assistido": 8514,
+   "reels_taxa_pulo": 0.467,
+   "legenda": "Prazer, eu sou a Dra. Flávia! 👋🩺\n\nSou pediatra e atendo bebês e crianças no conforto da sua casa, em BH, Lagoa Santa e região. Sem trânsito, sem sala de espera e com o seu filho tranquilo no ambiente dele.\n\nAqui no perfil você encontra:\n✔️ dicas de saúde e cuidados do dia a dia\n✔️ mitos e verdades sobre a infância\n✔️ sinais de alerta: quando procurar o pediatra\n\nMe conta nos comentários: qual assunto você quer ver por aqui? 👇\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Agende sua consulta em casa pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "18117589124147097",
    "data": "2026-11-21",
    "data_hora": "21/11/26 18:04",
@@ -3390,16 +3436,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Tela antes de dormir atrapalha o sono? 📱 Atrapalha, sim!",
    "link": "https://www.instagram.com/reel/DgBJuuQz-2T/",
-   "alcance": 40,
-   "visualizacoes": 47,
+   "alcance": 57,
+   "visualizacoes": 68,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 2,
    "interacoes": 7,
-   "taxa_engajamento": 17.5,
-   "reels_tempo_medio_assistido": 5552,
-   "reels_taxa_pulo": 0.8,
+   "taxa_engajamento": 12.3,
+   "reels_tempo_medio_assistido": 4671,
+   "reels_taxa_pulo": 0.793,
    "legenda": "Tela antes de dormir atrapalha o sono? 📱 Atrapalha, sim!\n\nA luz da tela e os estímulos de vídeos e jogos atrasam o sono e deixam a criança mais agitada na hora de deitar.\n\nO que a Sociedade Brasileira de Pediatria recomenda:\n✔️ menores de 2 anos: nada de telas\n✔️ de 2 a 5 anos: até 1 hora por dia, sempre com um adulto\n✔️ para todas as idades: desligar as telas 1 a 2 horas antes de dormir\n\nTroque por: leitura juntos, banho morno, luz baixa, conversa e música calma. E deixe TV, tablet e celular fora do quarto à noite.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonoinfantil #telas #rotinadesono #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3410,14 +3456,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Andador ajuda o bebê a andar? 🚼 Mito!",
    "link": "https://www.instagram.com/p/Df-lAM9kR7M/",
-   "alcance": 13,
-   "visualizacoes": 43,
+   "alcance": 15,
+   "visualizacoes": 48,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 7,
-   "taxa_engajamento": 53.8,
+   "taxa_engajamento": 46.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Andador ajuda o bebê a andar? 🚼 Mito!\n\nO andador não ajuda o bebê a andar mais cedo e ainda é causa de acidentes graves, como quedas de escada. Por isso, a Sociedade Brasileira de Pediatria contraindica o uso.\n\nOs riscos:\n⚠️ quedas de escada e de degraus\n⚠️ alcance maior a fogão, tomadas e objetos quentes\n⚠️ tombos em tapetes e desníveis\n⚠️ pode estimular andar na ponta dos pés\n\nO que ajuda de verdade: tempo no chão (de bruços desde cedo, com supervisão), espaço seguro para rolar, sentar e engatinhar, móveis firmes para se apoiar e pés descalços em casa.\n\nProcure o pediatra se o bebê não senta sem apoio por volta dos 9 meses, não fica em pé com apoio por volta de 1 ano, não anda sozinho até 1 ano e meio ou perdeu algo que já fazia.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #andador #desenvolvimentoinfantil #segurancainfantil #mitoouverdade #maternidade #dicasdepediatra"
@@ -3430,16 +3476,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Dor de ouvido à noite? 👂 Pode ser otite!",
    "link": "https://www.instagram.com/reel/Df8AMUoONMz/",
-   "alcance": 20,
-   "visualizacoes": 26,
+   "alcance": 22,
+   "visualizacoes": 28,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 10.0,
-   "reels_tempo_medio_assistido": 6501,
-   "reels_taxa_pulo": 0.667,
+   "taxa_engajamento": 9.1,
+   "reels_tempo_medio_assistido": 5968,
+   "reels_taxa_pulo": 0.696,
    "legenda": "Dor de ouvido à noite? 👂 Pode ser otite!\n\nA otite média costuma aparecer depois de um resfriado: a secreção fica presa atrás do tímpano. Quando a criança deita, a pressão aumenta e a dor piora, por isso ela acorda chorando.\n\nSinais comuns:\n✔️ mão na orelha ou puxa a orelha\n✔️ choro e irritação, principalmente ao deitar\n✔️ febre\n✔️ bebê que recusa mamar, porque sugar dói\n\nEnquanto isso: analgésico na dose orientada pelo pediatra e cabeceira um pouco mais alta. Nada de cotonete, óleo ou gotas caseiras no ouvido.\n\nE nem toda otite precisa de antibiótico! Muitas melhoram sozinhas. Quem decide é o pediatra, examinando o ouvido.\n\n⚠️ Procure o pediatra se for um bebê com menos de 6 meses, se a dor ou a febre não melhorarem em 48 horas, se sair secreção do ouvido ou se houver inchaço atrás da orelha.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #otite #dordeouvido #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3450,14 +3496,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Lancheira saudável: monte em 5 passos 🍎🥪",
    "link": "https://www.instagram.com/p/Df5bZ3qDd-i/",
-   "alcance": 17,
-   "visualizacoes": 58,
+   "alcance": 20,
+   "visualizacoes": 65,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 35.3,
+   "taxa_engajamento": 30.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Lancheira saudável: monte em 5 passos 🍎🥪\n\n1️⃣ Uma fruta, inteira ou em pedaços\n2️⃣ Um carboidrato: pão integral, tapioca ou bolo caseiro simples\n3️⃣ Uma proteína: ovo cozido, queijo ou iogurte natural\n4️⃣ Água: garrafinha sempre na mochila\n5️⃣ Um toque colorido: palitos de cenoura, pepino ou tomatinho\n\nFora da lancheira: refrigerante, suco de caixinha, biscoito recheado, salgadinho, embutidos e achocolatado pronto.\n\nSegurança: use bolsa térmica com gelo reutilizável para iogurte e queijo, lave bem as frutas e corte uva e tomatinho em 4 para os pequenos.\n\n💡 Deixe a criança escolher entre 2 opções saudáveis, varie as frutas na semana e prepare na noite anterior.\n\n📌 Salve para montar a lancheira da semana!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #lancheirasaudavel #alimentacaoinfantil #lancheescolar #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3470,16 +3516,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
    "link": "https://www.instagram.com/reel/Df22ldlK88y/",
-   "alcance": 126,
-   "visualizacoes": 128,
+   "alcance": 130,
+   "visualizacoes": 132,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 1.6,
-   "reels_tempo_medio_assistido": 1194,
-   "reels_taxa_pulo": 0.933,
+   "taxa_engajamento": 1.5,
+   "reels_tempo_medio_assistido": 1203,
+   "reels_taxa_pulo": 0.935,
    "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3490,16 +3536,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/Df0RzDFNIhj/",
-   "alcance": 22,
-   "visualizacoes": 39,
+   "alcance": 24,
+   "visualizacoes": 41,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 9.1,
-   "reels_tempo_medio_assistido": 8702,
-   "reels_taxa_pulo": 0.72,
+   "taxa_engajamento": 8.3,
+   "reels_tempo_medio_assistido": 9374,
+   "reels_taxa_pulo": 0.704,
    "legenda": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!\n\nA \"válvula\" entre o estômago e o esôfago ainda está imatura. Por isso golfar é comum no primeiro ano e melhora sozinho com o tempo.\n\nÉ o refluxo normal quando o bebê ganha peso bem, fica tranquilo depois de golfar e mama bem.\n\nPode ajudar:\n✔️ fazer arrotar no meio e no fim da mamada\n✔️ manter no colo, em pé, por 20 a 30 minutos depois\n✔️ roupas folgadas, sem apertar a barriga\n\nNa hora de dormir: sempre de barriga para cima, no berço plano, mesmo golfando. Não eleve o colchão nem use travesseiros.\n\n⚠️ Procure o pediatra se o bebê não ganha peso, tem vômito em jato, verde ou com sangue, chora muito e recusa mamar, ou tem engasgos e falta de ar.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #refluxo #bebegolfando #amamentacao #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3570,16 +3616,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 113,
-   "visualizacoes": 174,
+   "alcance": 114,
+   "visualizacoes": 175,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 19.5,
-   "reels_tempo_medio_assistido": 12997,
-   "reels_taxa_pulo": 0.42,
+   "taxa_engajamento": 19.3,
+   "reels_tempo_medio_assistido": 12900,
+   "reels_taxa_pulo": 0.425,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3650,14 +3696,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
    "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
-   "alcance": 28,
+   "alcance": 29,
    "visualizacoes": 67,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 14.3,
+   "taxa_engajamento": 13.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -4071,14 +4117,14 @@
    "titulo": "Cuidar de uma criança doente já é um momento delicado.",
    "link": "https://www.instagram.com/reel/DXsP7eAAZaO/",
    "alcance": 509,
-   "visualizacoes": 734,
+   "visualizacoes": 735,
    "curtidas": 8,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 4,
    "interacoes": 12,
    "taxa_engajamento": 2.4,
-   "reels_tempo_medio_assistido": 5187,
+   "reels_tempo_medio_assistido": 5172,
    "reels_taxa_pulo": 0.788,
    "legenda": "Cuidar de uma criança doente já é um momento delicado.\n\nO ambiente onde esse cuidado acontece faz toda a diferença.\n\nO atendimento pediátrico domiciliar permite que seu filho seja avaliado com calma, no lugar onde ele se sente mais seguro: em casa.\n\nMais do que praticidade, é sobre oferecer um cuidado mais atento, mais tranquilo e realmente individualizado.\n\n📲 Agendamentos pelo WhatsApp \n (31) 97125-1555"
   },
@@ -5796,9 +5842,9 @@
    "formato": "Reels",
    "tema": "Prazer, eu sou a Dra. Flávia! (Reels de apresentação)",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-23-reels-13-convulsao-febril",
@@ -5809,9 +5855,9 @@
    "formato": "Reels",
    "tema": "Convulsão com febre: o que fazer (e o que não fazer)",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-24-novembro-roxo-prematuridade",
@@ -5822,9 +5868,9 @@
    "formato": "Carrossel",
    "tema": "Novembro Roxo: prematuridade e idade corrigida",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-25-reels-14-dengue-criancas",
@@ -5835,9 +5881,9 @@
    "formato": "Reels",
    "tema": "Dengue em criança: sinais de alerta",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-26-brotoeja-miliaria",
@@ -5848,9 +5894,9 @@
    "formato": "Carrossel",
    "tema": "Brotoeja (miliária): como aliviar no calor",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-27-reels-15-colica",
@@ -5861,9 +5907,9 @@
    "formato": "Reels",
    "tema": "Cólica do bebê: o que ajuda de verdade",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-28-mito-banho-depois-comer",
@@ -5874,9 +5920,9 @@
    "formato": "Carrossel",
    "tema": "Mito ou verdade: banho depois de comer dá congestão?",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-29-desfralde-sinais",
@@ -5887,9 +5933,9 @@
    "formato": "Carrossel",
    "tema": "Desfralde: 5 sinais de que é hora",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-11-30-reels-16-chupeta",
@@ -5900,9 +5946,9 @@
    "formato": "Reels",
    "tema": "Chupeta: quando e como tirar",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-12-01-queimadura-solar",
@@ -5913,9 +5959,9 @@
    "formato": "Carrossel",
    "tema": "Dezembro Laranja: queimadura de sol na criança, o que fazer",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-12-02-reels-17-tosse",
@@ -5926,9 +5972,9 @@
    "formato": "Reels",
    "tema": "Tosse na criança: quando se preocupar",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-12-03-maos-pes-boca",
@@ -5939,9 +5985,9 @@
    "formato": "Carrossel",
    "tema": "Doença mãos-pés-boca: sinais e cuidados",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-12-04-reels-18-medir-febre",
@@ -5952,9 +5998,9 @@
    "formato": "Reels",
    "tema": "Febre: como medir a temperatura do jeito certo",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   },
   {
    "id": "2026-12-05-festas-engasgo",
@@ -5965,15 +6011,15 @@
    "formato": "Carrossel",
    "tema": "Festas de fim de ano: alimentos que engasgam os pequenos",
    "story_hora": "18h",
-   "aprovacao_post": "Aguardando",
-   "aprovacao_story": "Aguardando",
-   "situacao": "Aguardando aprovação"
+   "aprovacao_post": "Aprovado",
+   "aprovacao_story": "Aprovado",
+   "situacao": "Agendado"
   }
  ],
  "resumo_programacao": {
-  "agendados": 0,
-  "aguardando_aprovacao": 14,
+  "agendados": 13,
+  "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 31
+  "publicados": 32
  }
 }
