@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-25T06:06:35-03:00",
- "atualizado_em_texto": "25/11/26 06:06",
+ "atualizado_em": "2026-11-26T06:05:25-03:00",
+ "atualizado_em_texto": "26/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1327,
-  "publicacoes": 109
+  "seguidores": 1325,
+  "publicacoes": 110
  },
  "resumo_30d": {
-  "alcance": 1604,
-  "visualizacoes": 3128,
-  "contas_engajadas": 143,
-  "alcance_seguidores": 1055,
-  "alcance_nao_seguidores": 549,
+  "alcance": 1544,
+  "visualizacoes": 3019,
+  "contas_engajadas": 136,
+  "alcance_seguidores": 1029,
+  "alcance_nao_seguidores": 515,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2498,
-  "visualizacoes": 5339,
-  "contas_engajadas": 214,
-  "alcance_seguidores": 1599,
-  "alcance_nao_seguidores": 899,
+  "alcance": 2524,
+  "visualizacoes": 5388,
+  "contas_engajadas": 215,
+  "alcance_seguidores": 1622,
+  "alcance_nao_seguidores": 902,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2601,
-  "visualizacoes": 5771,
-  "contas_engajadas": 218,
-  "alcance_seguidores": 1672,
-  "alcance_nao_seguidores": 930,
+  "alcance": 2627,
+  "visualizacoes": 5815,
+  "contas_engajadas": 219,
+  "alcance_seguidores": 1694,
+  "alcance_nao_seguidores": 934,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-30",
-   "alcance": 1,
-   "visualizacoes": 5,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 1,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-05-31",
    "alcance": 4,
@@ -1644,11 +1635,20 @@
   },
   {
    "data": "2026-11-25",
-   "alcance": 2,
-   "visualizacoes": 1,
+   "alcance": 29,
+   "visualizacoes": 50,
+   "contas_engajadas": 1,
+   "alcance_seguidores": 23,
+   "alcance_nao_seguidores": 6,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-26",
+   "alcance": 0,
+   "visualizacoes": 0,
    "contas_engajadas": 0,
    "alcance_seguidores": 0,
-   "alcance_nao_seguidores": 2,
+   "alcance_nao_seguidores": 0,
    "cliques_link_perfil": 0
   }
  ],
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 440
+   "seguidores": 436
   },
   {
    "cidade": "Montes Claros",
@@ -1671,7 +1671,7 @@
   {
    "cidade": "Contagem",
    "estado": "Minas Gerais",
-   "seguidores": 49
+   "seguidores": 48
   },
   {
    "cidade": "Lagoa Santa",
@@ -1681,7 +1681,7 @@
   {
    "cidade": "Cordeiro",
    "estado": "Rio de Janeiro",
-   "seguidores": 39
+   "seguidores": 40
   },
   {
    "cidade": "São Paulo",
@@ -1691,12 +1691,12 @@
   {
    "cidade": "Ribeirão das Neves",
    "estado": "Minas Gerais",
-   "seguidores": 22
+   "seguidores": 24
   },
   {
    "cidade": "Pará",
    "estado": "Minas Gerais",
-   "seguidores": 20
+   "seguidores": 19
   },
   {
    "cidade": "Nova Lima",
@@ -1706,7 +1706,7 @@
   {
    "cidade": "Betim",
    "estado": "Minas Gerais",
-   "seguidores": 14
+   "seguidores": 15
   },
   {
    "cidade": "Santa Luzia",
@@ -1799,11 +1799,6 @@
    "seguidores": 3
   },
   {
-   "cidade": "Maceió",
-   "estado": "Alagoas",
-   "seguidores": 3
-  },
-  {
    "cidade": "Vila Velha",
    "estado": "Espírito Santo",
    "seguidores": 3
@@ -1834,6 +1829,11 @@
    "seguidores": 3
   },
   {
+   "cidade": "Itaguara",
+   "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
    "cidade": "Santarém",
    "estado": "Pará",
    "seguidores": 3
@@ -1849,12 +1849,12 @@
    "seguidores": 3
   },
   {
-   "cidade": "Itaúna",
+   "cidade": "Ibirité",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
   {
-   "cidade": "Ibirité",
+   "cidade": "Itaúna",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
@@ -1893,12 +1893,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 141
+   "seguidores": 140
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 386
+   "seguidores": 385
   },
   {
    "genero": "Feminino",
@@ -1992,11 +1992,11 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 235
+   "seguidores": 234
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 553
+   "seguidores": 552
   },
   {
    "faixa_etaria": "45-54",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 871
+   "seguidores": 869
   },
   {
    "genero": "Masculino",
@@ -2173,6 +2173,10 @@
   {
    "data": "2026-11-25",
    "seguidores": 1327
+  },
+  {
+   "data": "2026-11-26",
+   "seguidores": 1325
   }
  ],
  "novos_seguidores": [
@@ -2451,27 +2455,27 @@
   {
    "data": "2026-11-24",
    "novos": 0
+  },
+  {
+   "data": "2026-11-25",
+   "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1327,
-   "novos_seguidores": 15,
+   "seguidores_atual": 1325,
+   "novos_seguidores": 14,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-26",
-   "seguidores_inicio": 1323,
-   "variacao": 4,
-   "variacao_pct": 0.3,
+   "data_inicio": "2026-10-27",
+   "seguidores_inicio": 1322,
+   "variacao": 3,
+   "variacao_pct": 0.23,
    "dias_com_total": 27,
    "periodo_completo": true,
    "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
-     "data": "2026-10-26",
-     "seguidores": 1323
-    },
-    {
      "data": "2026-10-27",
      "seguidores": 1322
     },
@@ -2574,21 +2578,25 @@
     {
      "data": "2026-11-25",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-26",
+     "seguidores": 1325
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1327,
+   "seguidores_atual": 1325,
    "novos_seguidores": 26,
-   "dias_com_novos": 69,
+   "dias_com_novos": 70,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 2,
-   "variacao_pct": 0.15,
-   "dias_com_total": 37,
+   "variacao": 0,
+   "variacao_pct": 0.0,
+   "dias_com_total": 38,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 15,
+   "deixaram_de_seguir_estimado": 17,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2737,21 +2745,25 @@
     {
      "data": "2026-11-25",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-26",
+     "seguidores": 1325
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1327,
+   "seguidores_atual": 1325,
    "novos_seguidores": 26,
-   "dias_com_novos": 69,
+   "dias_com_novos": 70,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 2,
-   "variacao_pct": 0.15,
-   "dias_com_total": 37,
+   "variacao": 0,
+   "variacao_pct": 0.0,
+   "dias_com_total": 38,
    "periodo_completo": false,
-   "deixaram_de_seguir_estimado": 15,
+   "deixaram_de_seguir_estimado": 17,
    "serie": [
     {
      "data": "2026-10-16",
@@ -2900,11 +2912,25 @@
     {
      "data": "2026-11-25",
      "seguidores": 1327
+    },
+    {
+     "data": "2026-11-26",
+     "seguidores": 1325
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "17910532401599472",
+   "data": "2026-11-25",
+   "data_hora": "25/11/26 18:04",
+   "alcance": 8,
+   "visualizacoes": 8,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-25T18:04:39-03:00"
+  },
   {
    "id": "18058896251586935",
    "data": "2026-11-24",
@@ -3240,15 +3266,15 @@
  "por_formato": [
   {
    "formato": "Reels",
-   "posts": 30,
-   "alcance_medio": 64,
-   "taxa_engajamento": 32.5
+   "posts": 31,
+   "alcance_medio": 62,
+   "taxa_engajamento": 32.3
   },
   {
    "formato": "Carrossel",
    "posts": 37,
-   "alcance_medio": 37,
-   "taxa_engajamento": 31.1
+   "alcance_medio": 38,
+   "taxa_engajamento": 31.0
   },
   {
    "formato": "Imagem",
@@ -3461,6 +3487,26 @@
  ],
  "posts": [
   {
+   "id": "17978185206151815",
+   "data": "2026-11-25",
+   "data_hora": "25/11/26 18:03",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Dengue em criança: conheça os sinais de alerta 🦟",
+   "link": "https://www.instagram.com/reel/DgLc3NUBpqK/",
+   "alcance": 10,
+   "visualizacoes": 12,
+   "curtidas": 1,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 1,
+   "taxa_engajamento": 10.0,
+   "reels_tempo_medio_assistido": 2145,
+   "reels_taxa_pulo": 0.9,
+   "legenda": "Dengue em criança: conheça os sinais de alerta 🦟\n\nSintomas comuns: febre alta de início súbito, dor no corpo, na cabeça e atrás dos olhos e manchas vermelhas na pele.\n\n⚠️ Atenção: os sinais de alarme costumam aparecer quando a febre baixa, entre o 3º e o 7º dia. Não é hora de relaxar!\n\n🚨 Procure atendimento imediatamente se houver:\n✔️ vômitos que não param ou dor de barriga forte\n✔️ sangramento de nariz ou gengiva\n✔️ criança muito sonolenta, irritada ou mole\n✔️ mãos e pés frios, tontura ou pouco xixi\n\nEm casa: muito líquido (água, soro, sucos naturais) e nada de AAS nem anti-inflamatório. Teve febre? Procure avaliação médica.\n\nE não esqueça: elimine água parada e use repelente adequado para a idade.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #dengue #denguenacrianca #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
+  },
+  {
    "id": "17965147323000584",
    "data": "2026-11-24",
    "data_hora": "24/11/26 18:04",
@@ -3468,14 +3514,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Novembro Roxo: o mês de conscientização sobre a prematuridade 💜",
    "link": "https://www.instagram.com/p/DgI4LjuCAqQ/",
-   "alcance": 11,
-   "visualizacoes": 25,
-   "curtidas": 1,
+   "alcance": 17,
+   "visualizacoes": 41,
+   "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 1,
-   "taxa_engajamento": 9.1,
+   "interacoes": 2,
+   "taxa_engajamento": 11.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Novembro Roxo: o mês de conscientização sobre a prematuridade 💜\n\nÉ considerado prematuro o bebê que nasce antes de 37 semanas de gestação.\n\nIdade corrigida é a idade que o bebê teria se tivesse nascido com 40 semanas. Ela é usada para avaliar o crescimento e o desenvolvimento até cerca de 2 anos.\n\nComo calcular: idade atual menos as semanas que faltaram para 40. Exemplo: nasceu com 32 semanas (8 antes) e hoje tem 6 meses → 4 meses de idade corrigida.\n\nAtenção:\n✔️ as vacinas seguem a idade de nascimento, não a corrigida\n✔️ mãos lavadas e menos aglomeração nos primeiros meses\n✔️ acompanhamento regular com o pediatra\n\n📌 Salve e envie para uma família de prematuro.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #novembroroxo #prematuridade #prematuro #idadecorrigida #maternidade #dicasdepediatra"
@@ -3488,16 +3534,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Convulsão com febre: o que fazer? 🚨 Salve este vídeo!",
    "link": "https://www.instagram.com/reel/DgGTUexTMTu/",
-   "alcance": 26,
-   "visualizacoes": 31,
+   "alcance": 27,
+   "visualizacoes": 32,
    "curtidas": 0,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 0,
    "taxa_engajamento": 0.0,
-   "reels_tempo_medio_assistido": 2597,
-   "reels_taxa_pulo": 0.889,
+   "reels_tempo_medio_assistido": 2555,
+   "reels_taxa_pulo": 0.893,
    "legenda": "Convulsão com febre: o que fazer? 🚨 Salve este vídeo!\n\nA convulsão febril acontece com a febre e é mais comum entre 6 meses e 5 anos. Assusta muito, mas costuma passar sozinha em poucos minutos.\n\nDurante a crise:\n✔️ deite a criança de lado, em lugar seguro\n✔️ marque o tempo da crise\n✔️ nada na boca e não segure os movimentos\n\nNão faça: banho frio, álcool no corpo ou dar líquido e remédio pela boca durante a crise.\n\n🚨 Ligue 192 se a crise durar mais de 5 minutos, se houver dificuldade para respirar ou lábios arroxeados, ou se a criança não acordar bem depois.\n\nToda primeira crise precisa de avaliação médica. Converse com o pediatra sobre como controlar a febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #convulsaofebril #febre #primeirossocorros #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3508,15 +3554,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Prazer, eu sou a Dra. Flávia! 👋🩺",
    "link": "https://www.instagram.com/reel/DgDuf55h4Ck/",
-   "alcance": 103,
-   "visualizacoes": 159,
+   "alcance": 104,
+   "visualizacoes": 161,
    "curtidas": 22,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 23,
-   "taxa_engajamento": 22.3,
-   "reels_tempo_medio_assistido": 8422,
+   "taxa_engajamento": 22.1,
+   "reels_tempo_medio_assistido": 8502,
    "reels_taxa_pulo": 0.476,
    "legenda": "Prazer, eu sou a Dra. Flávia! 👋🩺\n\nSou pediatra e atendo bebês e crianças no conforto da sua casa, em BH, Lagoa Santa e região. Sem trânsito, sem sala de espera e com o seu filho tranquilo no ambiente dele.\n\nAqui no perfil você encontra:\n✔️ dicas de saúde e cuidados do dia a dia\n✔️ mitos e verdades sobre a infância\n✔️ sinais de alerta: quando procurar o pediatra\n\nMe conta nos comentários: qual assunto você quer ver por aqui? 👇\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Agende sua consulta em casa pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3568,16 +3614,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Dor de ouvido à noite? 👂 Pode ser otite!",
    "link": "https://www.instagram.com/reel/Df8AMUoONMz/",
-   "alcance": 23,
-   "visualizacoes": 29,
+   "alcance": 24,
+   "visualizacoes": 30,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 8.7,
-   "reels_tempo_medio_assistido": 5846,
-   "reels_taxa_pulo": 0.708,
+   "taxa_engajamento": 8.3,
+   "reels_tempo_medio_assistido": 5666,
+   "reels_taxa_pulo": 0.72,
    "legenda": "Dor de ouvido à noite? 👂 Pode ser otite!\n\nA otite média costuma aparecer depois de um resfriado: a secreção fica presa atrás do tímpano. Quando a criança deita, a pressão aumenta e a dor piora, por isso ela acorda chorando.\n\nSinais comuns:\n✔️ mão na orelha ou puxa a orelha\n✔️ choro e irritação, principalmente ao deitar\n✔️ febre\n✔️ bebê que recusa mamar, porque sugar dói\n\nEnquanto isso: analgésico na dose orientada pelo pediatra e cabeceira um pouco mais alta. Nada de cotonete, óleo ou gotas caseiras no ouvido.\n\nE nem toda otite precisa de antibiótico! Muitas melhoram sozinhas. Quem decide é o pediatra, examinando o ouvido.\n\n⚠️ Procure o pediatra se for um bebê com menos de 6 meses, se a dor ou a febre não melhorarem em 48 horas, se sair secreção do ouvido ou se houver inchaço atrás da orelha.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #otite #dordeouvido #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3688,14 +3734,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 59,
+   "alcance": 60,
    "visualizacoes": 135,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 16.9,
+   "taxa_engajamento": 16.7,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -5975,7 +6021,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-26-brotoeja-miliaria",
@@ -6109,9 +6155,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 11,
+  "agendados": 10,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 34
+  "publicados": 35
  }
 }
