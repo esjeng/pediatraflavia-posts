@@ -1,45 +1,36 @@
 {
- "atualizado_em": "2026-11-26T06:05:25-03:00",
- "atualizado_em_texto": "26/11/26 06:05",
+ "atualizado_em": "2026-11-27T06:05:52-03:00",
+ "atualizado_em_texto": "27/11/26 06:05",
  "perfil": {
   "usuario": "pediatraflavia",
-  "seguidores": 1325,
-  "publicacoes": 110
+  "seguidores": 1327,
+  "publicacoes": 112
  },
  "resumo_30d": {
-  "alcance": 1544,
-  "visualizacoes": 3019,
+  "alcance": 1516,
+  "visualizacoes": 3003,
   "contas_engajadas": 136,
-  "alcance_seguidores": 1029,
-  "alcance_nao_seguidores": 515,
+  "alcance_seguidores": 1000,
+  "alcance_nao_seguidores": 517,
   "cliques_link_perfil": 0
  },
  "resumo_90d": {
-  "alcance": 2524,
-  "visualizacoes": 5388,
-  "contas_engajadas": 215,
-  "alcance_seguidores": 1622,
-  "alcance_nao_seguidores": 902,
+  "alcance": 2543,
+  "visualizacoes": 5492,
+  "contas_engajadas": 218,
+  "alcance_seguidores": 1637,
+  "alcance_nao_seguidores": 907,
   "cliques_link_perfil": 0
  },
  "resumo_180d": {
-  "alcance": 2627,
-  "visualizacoes": 5815,
-  "contas_engajadas": 219,
-  "alcance_seguidores": 1694,
-  "alcance_nao_seguidores": 934,
+  "alcance": 2642,
+  "visualizacoes": 5913,
+  "contas_engajadas": 222,
+  "alcance_seguidores": 1705,
+  "alcance_nao_seguidores": 939,
   "cliques_link_perfil": 0
  },
  "diario": [
-  {
-   "data": "2026-05-31",
-   "alcance": 4,
-   "visualizacoes": 6,
-   "contas_engajadas": 0,
-   "alcance_seguidores": 4,
-   "alcance_nao_seguidores": 0,
-   "cliques_link_perfil": 0
-  },
   {
    "data": "2026-06-01",
    "alcance": 0,
@@ -1644,6 +1635,15 @@
   },
   {
    "data": "2026-11-26",
+   "alcance": 19,
+   "visualizacoes": 104,
+   "contas_engajadas": 3,
+   "alcance_seguidores": 15,
+   "alcance_nao_seguidores": 5,
+   "cliques_link_perfil": 0
+  },
+  {
+   "data": "2026-11-27",
    "alcance": 0,
    "visualizacoes": 0,
    "contas_engajadas": 0,
@@ -1656,7 +1656,7 @@
   {
    "cidade": "Belo Horizonte",
    "estado": "Minas Gerais",
-   "seguidores": 436
+   "seguidores": 437
   },
   {
    "cidade": "Montes Claros",
@@ -1696,7 +1696,7 @@
   {
    "cidade": "Pará",
    "estado": "Minas Gerais",
-   "seguidores": 19
+   "seguidores": 20
   },
   {
    "cidade": "Nova Lima",
@@ -1739,13 +1739,13 @@
    "seguidores": 8
   },
   {
-   "cidade": "Fortaleza",
-   "estado": "Ceará",
+   "cidade": "Goiânia",
+   "estado": "Goiás",
    "seguidores": 8
   },
   {
-   "cidade": "Goiânia",
-   "estado": "Goiás",
+   "cidade": "Fortaleza",
+   "estado": "Ceará",
    "seguidores": 8
   },
   {
@@ -1759,13 +1759,13 @@
    "seguidores": 6
   },
   {
-   "cidade": "Conselheiro Lafaiete",
-   "estado": "Minas Gerais",
+   "cidade": "Cantagalo",
+   "estado": "Rio de Janeiro",
    "seguidores": 6
   },
   {
-   "cidade": "Cantagalo",
-   "estado": "Rio de Janeiro",
+   "cidade": "Conselheiro Lafaiete",
+   "estado": "Minas Gerais",
    "seguidores": 6
   },
   {
@@ -1796,6 +1796,11 @@
   {
    "cidade": "Matozinhos",
    "estado": "Minas Gerais",
+   "seguidores": 3
+  },
+  {
+   "cidade": "Maceió",
+   "estado": "Alagoas",
    "seguidores": 3
   },
   {
@@ -1849,12 +1854,12 @@
    "seguidores": 3
   },
   {
-   "cidade": "Ibirité",
+   "cidade": "Itaúna",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
   {
-   "cidade": "Itaúna",
+   "cidade": "Ibirité",
    "estado": "Minas Gerais",
    "seguidores": 3
   },
@@ -1866,11 +1871,6 @@
   {
    "cidade": "Sobral",
    "estado": "Ceará",
-   "seguidores": 3
-  },
-  {
-   "cidade": "Curitiba",
-   "estado": "Paraná",
    "seguidores": 3
   },
   {
@@ -1893,12 +1893,12 @@
   {
    "genero": "Feminino",
    "faixa_etaria": "25-34",
-   "seguidores": 140
+   "seguidores": 141
   },
   {
    "genero": "Feminino",
    "faixa_etaria": "35-44",
-   "seguidores": 385
+   "seguidores": 386
   },
   {
    "genero": "Feminino",
@@ -1992,11 +1992,11 @@
   },
   {
    "faixa_etaria": "25-34",
-   "seguidores": 234
+   "seguidores": 235
   },
   {
    "faixa_etaria": "35-44",
-   "seguidores": 552
+   "seguidores": 553
   },
   {
    "faixa_etaria": "45-54",
@@ -2014,7 +2014,7 @@
  "publico_genero": [
   {
    "genero": "Feminino",
-   "seguidores": 869
+   "seguidores": 871
   },
   {
    "genero": "Masculino",
@@ -2177,6 +2177,10 @@
   {
    "data": "2026-11-26",
    "seguidores": 1325
+  },
+  {
+   "data": "2026-11-27",
+   "seguidores": 1327
   }
  ],
  "novos_seguidores": [
@@ -2458,28 +2462,28 @@
   },
   {
    "data": "2026-11-25",
+   "novos": 2
+  },
+  {
+   "data": "2026-11-26",
    "novos": 0
   }
  ],
  "crescimento_seguidores": {
   "30d": {
    "horizonte_dias": 30,
-   "seguidores_atual": 1325,
-   "novos_seguidores": 14,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 16,
    "dias_com_novos": 30,
-   "data_inicio": "2026-10-27",
+   "data_inicio": "2026-10-28",
    "seguidores_inicio": 1322,
-   "variacao": 3,
-   "variacao_pct": 0.23,
+   "variacao": 5,
+   "variacao_pct": 0.38,
    "dias_com_total": 27,
    "periodo_completo": true,
    "deixaram_de_seguir_estimado": 11,
    "serie": [
     {
-     "data": "2026-10-27",
-     "seguidores": 1322
-    },
-    {
      "data": "2026-10-28",
      "seguidores": 1322
     },
@@ -2582,19 +2586,23 @@
     {
      "data": "2026-11-26",
      "seguidores": 1325
+    },
+    {
+     "data": "2026-11-27",
+     "seguidores": 1327
     }
    ]
   },
   "90d": {
    "horizonte_dias": 90,
-   "seguidores_atual": 1325,
-   "novos_seguidores": 26,
-   "dias_com_novos": 70,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 28,
+   "dias_com_novos": 71,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 0,
-   "variacao_pct": 0.0,
-   "dias_com_total": 38,
+   "variacao": 2,
+   "variacao_pct": 0.15,
+   "dias_com_total": 39,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 17,
    "serie": [
@@ -2749,19 +2757,23 @@
     {
      "data": "2026-11-26",
      "seguidores": 1325
+    },
+    {
+     "data": "2026-11-27",
+     "seguidores": 1327
     }
    ]
   },
   "180d": {
    "horizonte_dias": 180,
-   "seguidores_atual": 1325,
-   "novos_seguidores": 26,
-   "dias_com_novos": 70,
+   "seguidores_atual": 1327,
+   "novos_seguidores": 28,
+   "dias_com_novos": 71,
    "data_inicio": "2026-10-16",
    "seguidores_inicio": 1325,
-   "variacao": 0,
-   "variacao_pct": 0.0,
-   "dias_com_total": 38,
+   "variacao": 2,
+   "variacao_pct": 0.15,
+   "dias_com_total": 39,
    "periodo_completo": false,
    "deixaram_de_seguir_estimado": 17,
    "serie": [
@@ -2916,11 +2928,25 @@
     {
      "data": "2026-11-26",
      "seguidores": 1325
+    },
+    {
+     "data": "2026-11-27",
+     "seguidores": 1327
     }
    ]
   }
  },
  "stories": [
+  {
+   "id": "17997779037062406",
+   "data": "2026-11-26",
+   "data_hora": "26/11/26 18:05",
+   "alcance": 7,
+   "visualizacoes": 8,
+   "respostas": 0,
+   "interacoes": 0,
+   "data_hora_iso": "2026-11-26T18:05:21-03:00"
+  },
   {
    "id": "17910532401599472",
    "data": "2026-11-25",
@@ -3267,14 +3293,14 @@
   {
    "formato": "Reels",
    "posts": 31,
-   "alcance_medio": 62,
-   "taxa_engajamento": 32.3
+   "alcance_medio": 63,
+   "taxa_engajamento": 32.1
   },
   {
    "formato": "Carrossel",
-   "posts": 37,
-   "alcance_medio": 38,
-   "taxa_engajamento": 31.0
+   "posts": 38,
+   "alcance_medio": 37,
+   "taxa_engajamento": 30.7
   },
   {
    "formato": "Imagem",
@@ -3392,16 +3418,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
-   "alcance": 147,
-   "visualizacoes": 164,
+   "alcance": 148,
+   "visualizacoes": 165,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.7,
-   "reels_tempo_medio_assistido": 1661,
-   "reels_taxa_pulo": 0.966,
+   "reels_tempo_medio_assistido": 1743,
+   "reels_taxa_pulo": 0.96,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3412,15 +3438,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
    "link": "https://www.instagram.com/reel/Df22ldlK88y/",
-   "alcance": 132,
-   "visualizacoes": 134,
+   "alcance": 133,
+   "visualizacoes": 138,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
    "taxa_engajamento": 1.5,
-   "reels_tempo_medio_assistido": 1196,
+   "reels_tempo_medio_assistido": 1222,
    "reels_taxa_pulo": 0.937,
    "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3452,40 +3478,60 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 116,
-   "visualizacoes": 176,
+   "alcance": 117,
+   "visualizacoes": 178,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 19.0,
-   "reels_tempo_medio_assistido": 12798,
-   "reels_taxa_pulo": 0.43,
+   "taxa_engajamento": 18.8,
+   "reels_tempo_medio_assistido": 12709,
+   "reels_taxa_pulo": 0.435,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
-   "id": "18186062029330113",
-   "data": "2026-04-14",
-   "data_hora": "14/04/26 19:03",
-   "formato": "Carrossel",
-   "tipo_instagram": "CAROUSEL_ALBUM",
-   "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
-   "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 106,
-   "visualizacoes": 168,
-   "curtidas": 10,
-   "comentarios": 0,
-   "salvamentos": 1,
+   "id": "18113876990226522",
+   "data": "2026-11-22",
+   "data_hora": "22/11/26 18:03",
+   "formato": "Reels",
+   "tipo_instagram": "REELS",
+   "titulo": "Prazer, eu sou a Dra. Flávia! 👋🩺",
+   "link": "https://www.instagram.com/reel/DgDuf55h4Ck/",
+   "alcance": 107,
+   "visualizacoes": 165,
+   "curtidas": 22,
+   "comentarios": 1,
+   "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 11,
-   "taxa_engajamento": 10.4,
-   "reels_tempo_medio_assistido": null,
-   "reels_taxa_pulo": null,
-   "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
+   "interacoes": 23,
+   "taxa_engajamento": 21.5,
+   "reels_tempo_medio_assistido": 8357,
+   "reels_taxa_pulo": 0.481,
+   "legenda": "Prazer, eu sou a Dra. Flávia! 👋🩺\n\nSou pediatra e atendo bebês e crianças no conforto da sua casa, em BH, Lagoa Santa e região. Sem trânsito, sem sala de espera e com o seu filho tranquilo no ambiente dele.\n\nAqui no perfil você encontra:\n✔️ dicas de saúde e cuidados do dia a dia\n✔️ mitos e verdades sobre a infância\n✔️ sinais de alerta: quando procurar o pediatra\n\nMe conta nos comentários: qual assunto você quer ver por aqui? 👇\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Agende sua consulta em casa pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #maedeprimeiraviagem #maternidade #dicasdepediatra"
   }
  ],
  "posts": [
+  {
+   "id": "18145918636717606",
+   "data": "2026-11-26",
+   "data_hora": "26/11/26 18:04",
+   "formato": "Carrossel",
+   "tipo_instagram": "CAROUSEL_ALBUM",
+   "titulo": "Brotoejas no calor? 🥵 Pode ser miliária!",
+   "link": "https://www.instagram.com/p/DgOBwHdCPjA/",
+   "alcance": 8,
+   "visualizacoes": 19,
+   "curtidas": 1,
+   "comentarios": 0,
+   "salvamentos": 0,
+   "compartilhamentos": 0,
+   "interacoes": 1,
+   "taxa_engajamento": 12.5,
+   "reels_tempo_medio_assistido": null,
+   "reels_taxa_pulo": null,
+   "legenda": "Brotoejas no calor? 🥵 Pode ser miliária!\n\nSão bolinhas causadas pelo suor preso na pele, muito comuns no pescoço, nas costas, no peito e nas dobrinhas dos bebês.\n\nComo aliviar:\n✔️ roupas leves de algodão, sem excesso de camadas\n✔️ banho morno e secar bem as dobrinhas\n✔️ ambiente fresco e ventilado\n\nEvite cremes e óleos grossos na região e remédios ou pomadas por conta própria.\n\n⚠️ Procure o pediatra se vier com febre, se as bolinhas tiverem pus ou ficarem doloridas, ou se não melhorar em 3 a 4 dias mesmo no fresco.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #brotoeja #miliaria #calor #peledobebe #maternidade #dicasdepediatra"
+  },
   {
    "id": "17978185206151815",
    "data": "2026-11-25",
@@ -3494,16 +3540,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Dengue em criança: conheça os sinais de alerta 🦟",
    "link": "https://www.instagram.com/reel/DgLc3NUBpqK/",
-   "alcance": 10,
-   "visualizacoes": 12,
-   "curtidas": 1,
+   "alcance": 14,
+   "visualizacoes": 16,
+   "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 1,
-   "taxa_engajamento": 10.0,
-   "reels_tempo_medio_assistido": 2145,
-   "reels_taxa_pulo": 0.9,
+   "interacoes": 2,
+   "taxa_engajamento": 14.3,
+   "reels_tempo_medio_assistido": 2245,
+   "reels_taxa_pulo": 0.786,
    "legenda": "Dengue em criança: conheça os sinais de alerta 🦟\n\nSintomas comuns: febre alta de início súbito, dor no corpo, na cabeça e atrás dos olhos e manchas vermelhas na pele.\n\n⚠️ Atenção: os sinais de alarme costumam aparecer quando a febre baixa, entre o 3º e o 7º dia. Não é hora de relaxar!\n\n🚨 Procure atendimento imediatamente se houver:\n✔️ vômitos que não param ou dor de barriga forte\n✔️ sangramento de nariz ou gengiva\n✔️ criança muito sonolenta, irritada ou mole\n✔️ mãos e pés frios, tontura ou pouco xixi\n\nEm casa: muito líquido (água, soro, sucos naturais) e nada de AAS nem anti-inflamatório. Teve febre? Procure avaliação médica.\n\nE não esqueça: elimine água parada e use repelente adequado para a idade.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #dengue #denguenacrianca #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3514,14 +3560,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Novembro Roxo: o mês de conscientização sobre a prematuridade 💜",
    "link": "https://www.instagram.com/p/DgI4LjuCAqQ/",
-   "alcance": 17,
-   "visualizacoes": 41,
-   "curtidas": 2,
+   "alcance": 20,
+   "visualizacoes": 54,
+   "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
-   "interacoes": 2,
-   "taxa_engajamento": 11.8,
+   "interacoes": 3,
+   "taxa_engajamento": 15.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Novembro Roxo: o mês de conscientização sobre a prematuridade 💜\n\nÉ considerado prematuro o bebê que nasce antes de 37 semanas de gestação.\n\nIdade corrigida é a idade que o bebê teria se tivesse nascido com 40 semanas. Ela é usada para avaliar o crescimento e o desenvolvimento até cerca de 2 anos.\n\nComo calcular: idade atual menos as semanas que faltaram para 40. Exemplo: nasceu com 32 semanas (8 antes) e hoje tem 6 meses → 4 meses de idade corrigida.\n\nAtenção:\n✔️ as vacinas seguem a idade de nascimento, não a corrigida\n✔️ mãos lavadas e menos aglomeração nos primeiros meses\n✔️ acompanhamento regular com o pediatra\n\n📌 Salve e envie para uma família de prematuro.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #novembroroxo #prematuridade #prematuro #idadecorrigida #maternidade #dicasdepediatra"
@@ -3534,16 +3580,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Convulsão com febre: o que fazer? 🚨 Salve este vídeo!",
    "link": "https://www.instagram.com/reel/DgGTUexTMTu/",
-   "alcance": 27,
-   "visualizacoes": 32,
+   "alcance": 28,
+   "visualizacoes": 33,
    "curtidas": 0,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 0,
    "taxa_engajamento": 0.0,
-   "reels_tempo_medio_assistido": 2555,
-   "reels_taxa_pulo": 0.893,
+   "reels_tempo_medio_assistido": 2536,
+   "reels_taxa_pulo": 0.897,
    "legenda": "Convulsão com febre: o que fazer? 🚨 Salve este vídeo!\n\nA convulsão febril acontece com a febre e é mais comum entre 6 meses e 5 anos. Assusta muito, mas costuma passar sozinha em poucos minutos.\n\nDurante a crise:\n✔️ deite a criança de lado, em lugar seguro\n✔️ marque o tempo da crise\n✔️ nada na boca e não segure os movimentos\n\nNão faça: banho frio, álcool no corpo ou dar líquido e remédio pela boca durante a crise.\n\n🚨 Ligue 192 se a crise durar mais de 5 minutos, se houver dificuldade para respirar ou lábios arroxeados, ou se a criança não acordar bem depois.\n\nToda primeira crise precisa de avaliação médica. Converse com o pediatra sobre como controlar a febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #convulsaofebril #febre #primeirossocorros #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3554,16 +3600,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Prazer, eu sou a Dra. Flávia! 👋🩺",
    "link": "https://www.instagram.com/reel/DgDuf55h4Ck/",
-   "alcance": 104,
-   "visualizacoes": 161,
+   "alcance": 107,
+   "visualizacoes": 165,
    "curtidas": 22,
    "comentarios": 1,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 23,
-   "taxa_engajamento": 22.1,
-   "reels_tempo_medio_assistido": 8502,
-   "reels_taxa_pulo": 0.476,
+   "taxa_engajamento": 21.5,
+   "reels_tempo_medio_assistido": 8357,
+   "reels_taxa_pulo": 0.481,
    "legenda": "Prazer, eu sou a Dra. Flávia! 👋🩺\n\nSou pediatra e atendo bebês e crianças no conforto da sua casa, em BH, Lagoa Santa e região. Sem trânsito, sem sala de espera e com o seu filho tranquilo no ambiente dele.\n\nAqui no perfil você encontra:\n✔️ dicas de saúde e cuidados do dia a dia\n✔️ mitos e verdades sobre a infância\n✔️ sinais de alerta: quando procurar o pediatra\n\nMe conta nos comentários: qual assunto você quer ver por aqui? 👇\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Agende sua consulta em casa pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #consultaemcasa #puericultura #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3574,16 +3620,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Tela antes de dormir atrapalha o sono? 📱 Atrapalha, sim!",
    "link": "https://www.instagram.com/reel/DgBJuuQz-2T/",
-   "alcance": 62,
-   "visualizacoes": 73,
+   "alcance": 63,
+   "visualizacoes": 74,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 2,
    "interacoes": 7,
-   "taxa_engajamento": 11.3,
-   "reels_tempo_medio_assistido": 4570,
-   "reels_taxa_pulo": 0.79,
+   "taxa_engajamento": 11.1,
+   "reels_tempo_medio_assistido": 4505,
+   "reels_taxa_pulo": 0.794,
    "legenda": "Tela antes de dormir atrapalha o sono? 📱 Atrapalha, sim!\n\nA luz da tela e os estímulos de vídeos e jogos atrasam o sono e deixam a criança mais agitada na hora de deitar.\n\nO que a Sociedade Brasileira de Pediatria recomenda:\n✔️ menores de 2 anos: nada de telas\n✔️ de 2 a 5 anos: até 1 hora por dia, sempre com um adulto\n✔️ para todas as idades: desligar as telas 1 a 2 horas antes de dormir\n\nTroque por: leitura juntos, banho morno, luz baixa, conversa e música calma. E deixe TV, tablet e celular fora do quarto à noite.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonoinfantil #telas #rotinadesono #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3594,14 +3640,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Andador ajuda o bebê a andar? 🚼 Mito!",
    "link": "https://www.instagram.com/p/Df-lAM9kR7M/",
-   "alcance": 15,
-   "visualizacoes": 51,
+   "alcance": 16,
+   "visualizacoes": 53,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 7,
-   "taxa_engajamento": 46.7,
+   "taxa_engajamento": 43.8,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Andador ajuda o bebê a andar? 🚼 Mito!\n\nO andador não ajuda o bebê a andar mais cedo e ainda é causa de acidentes graves, como quedas de escada. Por isso, a Sociedade Brasileira de Pediatria contraindica o uso.\n\nOs riscos:\n⚠️ quedas de escada e de degraus\n⚠️ alcance maior a fogão, tomadas e objetos quentes\n⚠️ tombos em tapetes e desníveis\n⚠️ pode estimular andar na ponta dos pés\n\nO que ajuda de verdade: tempo no chão (de bruços desde cedo, com supervisão), espaço seguro para rolar, sentar e engatinhar, móveis firmes para se apoiar e pés descalços em casa.\n\nProcure o pediatra se o bebê não senta sem apoio por volta dos 9 meses, não fica em pé com apoio por volta de 1 ano, não anda sozinho até 1 ano e meio ou perdeu algo que já fazia.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #andador #desenvolvimentoinfantil #segurancainfantil #mitoouverdade #maternidade #dicasdepediatra"
@@ -3654,15 +3700,15 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!",
    "link": "https://www.instagram.com/reel/Df22ldlK88y/",
-   "alcance": 132,
-   "visualizacoes": 134,
+   "alcance": 133,
+   "visualizacoes": 138,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
    "taxa_engajamento": 1.5,
-   "reels_tempo_medio_assistido": 1196,
+   "reels_tempo_medio_assistido": 1222,
    "reels_taxa_pulo": 0.937,
    "legenda": "Bebê sem fazer cocô há dias? 👶 Pode ser normal!\n\nNo aleitamento materno exclusivo, alguns bebês ficam vários dias sem evacuar e está tudo bem, desde que o cocô venha mole e o bebê esteja tranquilo.\n\nÉ intestino preso quando:\n✔️ o cocô é duro, em bolinhas ou ressecado\n✔️ há dor, muito esforço e choro para evacuar\n✔️ aparecem riscos de sangue, por pequenas fissuras\n\nComo ajudar: água a partir dos 6 meses, frutas como mamão, ameixa, pera e laranja, fibras como feijão, verduras e aveia, e movimentos de bicicletinha com as perninhas e massagem na barriga.\n\nSem orientação, não: nada de chás, óleos, supositórios ou estimular com haste ou termômetro sem falar com o pediatra.\n\n⚠️ Procure o pediatra se for um bebê com menos de 1 mês, se houver vômitos, barriga muito inchada, sangue nas fezes, febre ou se o bebê não estiver ganhando peso.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #intestinopreso #constipacao #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
@@ -3674,16 +3720,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!",
    "link": "https://www.instagram.com/reel/Df0RzDFNIhj/",
-   "alcance": 24,
-   "visualizacoes": 41,
+   "alcance": 25,
+   "visualizacoes": 42,
    "curtidas": 2,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 2,
-   "taxa_engajamento": 8.3,
-   "reels_tempo_medio_assistido": 9374,
-   "reels_taxa_pulo": 0.704,
+   "taxa_engajamento": 8.0,
+   "reels_tempo_medio_assistido": 9725,
+   "reels_taxa_pulo": 0.679,
    "legenda": "Bebê golfando depois de mamar? 🍼 Na maioria das vezes, é normal!\n\nA \"válvula\" entre o estômago e o esôfago ainda está imatura. Por isso golfar é comum no primeiro ano e melhora sozinho com o tempo.\n\nÉ o refluxo normal quando o bebê ganha peso bem, fica tranquilo depois de golfar e mama bem.\n\nPode ajudar:\n✔️ fazer arrotar no meio e no fim da mamada\n✔️ manter no colo, em pé, por 20 a 30 minutos depois\n✔️ roupas folgadas, sem apertar a barriga\n\nNa hora de dormir: sempre de barriga para cima, no berço plano, mesmo golfando. Não eleve o colchão nem use travesseiros.\n\n⚠️ Procure o pediatra se o bebê não ganha peso, tem vômito em jato, verde ou com sangue, chora muito e recusa mamar, ou tem engasgos e falta de ar.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #refluxo #bebegolfando #amamentacao #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3694,14 +3740,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Feriado sem bagunçar o sono 😴 4 dicas de rotina",
    "link": "https://www.instagram.com/p/Dfxs_ENDWyO/",
-   "alcance": 19,
-   "visualizacoes": 50,
+   "alcance": 20,
+   "visualizacoes": 60,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 26.3,
+   "taxa_engajamento": 25.0,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Feriado sem bagunçar o sono 😴 4 dicas de rotina\n\n✔️ horários parecidos com os de sempre (até 1 hora de diferença)\n✔️ mantenha o ritual: banho, pijama, história e luz baixa\n✔️ ofereça as sonecas no horário, mesmo fora de casa\n✔️ menos telas à noite: desligue 1 hora antes de dormir\n\nVai viajar? Leve a naninha e objetos conhecidos, deixe o quarto escuro e silencioso, use a cadeirinha sempre e programe a estrada no horário da soneca.\n\nA rotina bagunçou? Volte aos poucos, 15 minutos por dia, aproveite a luz natural de manhã e tenha paciência: em 2 a 3 dias tudo volta ao normal.\n\nBom feriado! 💛\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #sonoinfantil #rotinadesono #feriado #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3714,14 +3760,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Diabetes é coisa de adulto? 💙 Mito!",
    "link": "https://www.instagram.com/p/DfvIKeaEUDZ/",
-   "alcance": 17,
-   "visualizacoes": 37,
+   "alcance": 18,
+   "visualizacoes": 38,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 23.5,
+   "taxa_engajamento": 22.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Diabetes é coisa de adulto? 💙 Mito!\n\nCrianças também têm diabetes. O tipo 1 é o mais comum na infância e pode aparecer em qualquer idade, até em bebês. O tipo 2 vem aumentando junto com a obesidade infantil.\n\nSinais de alerta:\n✔️ muito xixi ou volta a fazer xixi na cama\n✔️ muita sede\n✔️ muita fome e, mesmo assim, perda de peso\n✔️ cansaço e irritação sem explicação\n\n🚨 Procure atendimento com urgência se, junto com esses sinais, a criança tiver vômitos, dor de barriga, respiração rápida e funda, hálito com cheiro de fruta ou muita sonolência.\n\nPara prevenir o tipo 2: comida de verdade, menos ultraprocessados e bebidas açucaradas, brincar e se movimentar todos os dias, sono em dia e menos telas. O tipo 1 não é causado pela alimentação: o importante é reconhecer os sinais cedo.\n\n14/11 é o Dia Mundial do Diabetes. Compartilhe e ajude outras famílias!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #diabetesinfantil #diamundialdodiabetes #novembroazul #saudeinfantil #mitoouverdade #dicasdepediatra"
@@ -3734,14 +3780,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉",
    "link": "https://www.instagram.com/p/Dfsjd07EUUj/",
-   "alcance": 60,
-   "visualizacoes": 135,
+   "alcance": 61,
+   "visualizacoes": 139,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 10,
-   "taxa_engajamento": 16.7,
+   "taxa_engajamento": 16.4,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)! Arraste e veja o guia completo 👉\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n📌 Salve para consultar e envie para quem cuida das crianças com você.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
@@ -3754,16 +3800,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!",
    "link": "https://www.instagram.com/reel/Dfr7GgAignI/",
-   "alcance": 116,
-   "visualizacoes": 176,
+   "alcance": 117,
+   "visualizacoes": 178,
    "curtidas": 22,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 22,
-   "taxa_engajamento": 19.0,
-   "reels_tempo_medio_assistido": 12798,
-   "reels_taxa_pulo": 0.43,
+   "taxa_engajamento": 18.8,
+   "reels_tempo_medio_assistido": 12709,
+   "reels_taxa_pulo": 0.435,
    "legenda": "Coceira que piora à noite? 😣 Pode ser escabiose (sarna)!\n\nA escabiose é causada por um ácaro minúsculo que entra na pele e provoca muita coceira. Não tem nada a ver com falta de higiene: qualquer família pode pegar. Ela passa pelo contato prolongado de pele com pele e, com menos frequência, por roupas, toalhas e roupas de cama compartilhadas.\n\nSinais comuns:\n✔️ coceira intensa, pior à noite\n✔️ bolinhas entre os dedos, nos punhos e nas axilas\n✔️ nos bebês: palmas das mãos, plantas dos pés, rosto e couro cabeludo\n\nO tratamento é feito com medicamento receitado pelo pediatra, e todos da casa tratam juntos, no mesmo dia, mesmo quem não tem coceira.\n\nEm casa: lave roupas, toalhas e lençóis com água quente ou passe a ferro, guarde em saco fechado por 7 dias o que não puder ser lavado e mantenha as unhas das crianças bem curtinhas.\n\nSem orientação, não: nada de remédio por conta própria.\n\n⚠️ A coceira pode continuar por algumas semanas depois do tratamento. Procure o pediatra se ela não melhorar ou se aparecerem novas bolinhas.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #escabiose #sarna #saudeinfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3814,16 +3860,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.",
    "link": "https://www.instagram.com/reel/Dfah0CdjaYY/",
-   "alcance": 147,
-   "visualizacoes": 164,
+   "alcance": 148,
+   "visualizacoes": 165,
    "curtidas": 3,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 1,
    "interacoes": 4,
    "taxa_engajamento": 2.7,
-   "reels_tempo_medio_assistido": 1661,
-   "reels_taxa_pulo": 0.966,
+   "reels_tempo_medio_assistido": 1743,
+   "reels_taxa_pulo": 0.96,
    "legenda": "Engasgo: o que fazer nos primeiros minutos 🆘 Salve este vídeo e compartilhe com quem cuida do seu filho.\n\nSe a criança está tossindo, chorando ou falando, o ar está passando: deixe tossir e fique ao lado. Não bata nas costas e não coloque o dedo na boca.\n\nEngasgo grave (não consegue tossir, chorar ou falar, lábios arroxeados): peça ajuda, ligue 192 e:\n\n👶 Bebê menor de 1 ano: 5 golpes nas costas, com o bebê de bruços no seu antebraço e a cabeça mais baixa que o corpo. Depois vire e faça 5 compressões no centro do peito com 2 dedos. Repita até o objeto sair.\n\n🧒 Criança maior de 1 ano: abrace por trás, mão fechada um pouco acima do umbigo, e puxe para dentro e para cima, com força, até o objeto sair.\n\n⚠️ Se desmaiar, ligue 192 e comece a reanimação. Nunca tente tirar o objeto às cegas.\n\nPara prevenir: corte uvas e salsichas em pedaços pequenos, no comprido; criança come sentada; brinquedos sem peças pequenas.\n\n💡 Vale muito fazer um curso de primeiros socorros!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #engasgo #primeirossocorros #segurancainfantil #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3834,14 +3880,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Picada de inseto: reação normal ou alergia? 🦟",
    "link": "https://www.instagram.com/p/DfX9GD-DIvF/",
-   "alcance": 31,
-   "visualizacoes": 68,
+   "alcance": 32,
+   "visualizacoes": 69,
    "curtidas": 4,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 4,
-   "taxa_engajamento": 12.9,
+   "taxa_engajamento": 12.5,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Picada de inseto: reação normal ou alergia? 🦟\n\nO estrófulo é uma reação alérgica exagerada à picada de insetos como mosquitos e pulgas, muito comum em crianças pequenas. Aparece como bolinhas avermelhadas e duras, que coçam muito, às vezes com uma bolhinha no meio, em surtos nas áreas expostas.\n\nPicada comum: vermelhidão pequena e coceira leve, que melhoram em 1 a 2 dias.\nEstrófulo: lesões maiores e mais duras, com muita coceira, que duram dias a semanas e surgem novas.\n\nComo cuidar:\n✔️ compressa fria para aliviar a coceira\n✔️ unhas curtas para não coçar e infeccionar\n✔️ banho morno com sabonete suave\n✔️ previna novas picadas: repelente adequado para a idade, telas e mosquiteiro\n\n💊 Antialérgico ou pomada, só com orientação do pediatra.\n\n🚨 Ligue 192 se, depois de uma picada, houver inchaço nos lábios, olhos ou língua, falta de ar ou chiado, ou manchas pelo corpo todo com vômitos, tontura ou desmaio. E procure o pediatra se a picada ficar quente, com pus, se a vermelhidão aumentar ou se vier febre.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #estrofulo #picadadeinseto #alergia #peledobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -3854,16 +3900,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Seu bebê de 6 meses já faz isso? 👶",
    "link": "https://www.instagram.com/reel/DfVYWqpjX8U/",
-   "alcance": 29,
-   "visualizacoes": 34,
+   "alcance": 31,
+   "visualizacoes": 36,
    "curtidas": 1,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 1,
-   "taxa_engajamento": 3.4,
-   "reels_tempo_medio_assistido": 2819,
-   "reels_taxa_pulo": 0.813,
+   "taxa_engajamento": 3.2,
+   "reels_tempo_medio_assistido": 2744,
+   "reels_taxa_pulo": 0.824,
    "legenda": "Seu bebê de 6 meses já faz isso? 👶\n\nAos 6 meses, a maioria dos bebês:\n✔️ rola de bruços para barriga para cima\n✔️ dá risada e reconhece quem é próximo\n✔️ faz sons e \"conversa\" com você\n✔️ leva objetos à boca\n✔️ apoia nas mãos quando está sentado\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n⚠️ Converse com o pediatra se o bebê perdeu algo que já fazia, não reage a sons ou não sorri nem olha nos seus olhos.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #desenvolvimentoinfantil #bebe6meses #marcosdodesenvolvimento #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -3954,16 +4000,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Afogamento é silencioso 🌊 E acontece em segundos.",
    "link": "https://www.instagram.com/reel/DfIgO9Hmn0T/",
-   "alcance": 36,
-   "visualizacoes": 40,
+   "alcance": 37,
+   "visualizacoes": 41,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 13.9,
-   "reels_tempo_medio_assistido": 5535,
-   "reels_taxa_pulo": 0.765,
+   "taxa_engajamento": 13.5,
+   "reels_tempo_medio_assistido": 5602,
+   "reels_taxa_pulo": 0.743,
    "legenda": "Afogamento é silencioso 🌊 E acontece em segundos.\n\nA criança que está se afogando não grita nem se debate: afunda em silêncio, até em água rasa, como em baldes, banheiras e piscinas infantis.\n\n5 regras de segurança:\n✔️ um adulto olhando a criança o tempo todo, sem celular\n✔️ piscina cercada, com portão e trava\n✔️ baldes e banheira vazios logo depois de usar\n✔️ boia não é babá: prefira colete salva-vidas\n✔️ aulas de natação ajudam, mas não dispensam a vigilância\n\n⚠️ Se acontecer: tire a criança da água e ligue 192 ou 193. Se ela não estiver respirando, comece a reanimação. Mesmo que pareça bem depois, leve para avaliação médica.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #afogamento #segurancanaagua #segurancainfantil #verao #maternidade #dicasdepediatra"
   },
   {
@@ -3974,14 +4020,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Protetor solar no bebê: a partir de quando e como usar? ☀️",
    "link": "https://www.instagram.com/p/DfF7gVWDF-D/",
-   "alcance": 26,
-   "visualizacoes": 70,
+   "alcance": 27,
+   "visualizacoes": 71,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 23.1,
+   "taxa_engajamento": 22.2,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Protetor solar no bebê: a partir de quando e como usar? ☀️\n\nAntes dos 6 meses, não use protetor solar. A pele do bebê ainda é muito fina e absorve mais o produto. A proteção é com sombra, roupa leve que cubra braços e pernas, chapéu de aba larga e nada de sol direto.\n\nA partir dos 6 meses:\n✔️ protetor infantil, próprio para bebês e crianças\n✔️ FPS 30 ou mais, com proteção UVA e UVB\n✔️ de preferência com filtro físico (mineral)\n✔️ teste antes em uma pequena área da pele\n\nComo aplicar: 15 a 30 minutos antes de sair no sol, em quantidade generosa, sem esquecer orelhas, nuca, pés e mãos. Reaplique a cada 2 horas e sempre depois da água ou do suor.\n\nE além do protetor: evite o sol das 10h às 16h, use roupa com proteção UV, chapéu, óculos de sol infantis e capriche na hidratação.\n\n📌 Salve para consultar antes de ir para a piscina ou a praia!\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #protetorsolar #verao #peledobebe #saudedobebe #maedeprimeiraviagem #dicasdepediatra"
@@ -4034,16 +4080,16 @@
    "tipo_instagram": "REELS",
    "titulo": "Repelente em bebê: a partir de quando pode? 🦟",
    "link": "https://www.instagram.com/reel/De-NEGxEe4Y/",
-   "alcance": 66,
-   "visualizacoes": 75,
+   "alcance": 67,
+   "visualizacoes": 76,
    "curtidas": 5,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 5,
-   "taxa_engajamento": 7.6,
-   "reels_tempo_medio_assistido": 2412,
-   "reels_taxa_pulo": 0.871,
+   "taxa_engajamento": 7.5,
+   "reels_tempo_medio_assistido": 2435,
+   "reels_taxa_pulo": 0.859,
    "legenda": "Repelente em bebê: a partir de quando pode? 🦟\n\nA maioria dos repelentes é indicada a partir dos 2 meses, mas a idade mínima muda conforme o produto. Por isso, leia sempre o rótulo e, na dúvida, pergunte ao pediatra.\n\nAntes dos 2 meses, aposte na proteção física: telas, mosquiteiro no berço e no carrinho e roupas leves de manga longa.\n\nNa hora de aplicar: passe primeiro nas suas mãos e espalhe na pele do bebê, longe dos olhos, da boca e das mãozinhas. Ao fim do dia, lave a pele.\n\n⚠️ Febre alta de início súbito, manchas vermelhas, vômitos ou criança muito abatida pedem atendimento.\n\n❤️ Curta, compartilhe e siga @pediatraflavia para mais dicas!\n\n🩺 Atendimento pediátrico domiciliar em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #repelente #dengue #saudedobebe #maedeprimeiraviagem #maternidade #dicasdepediatra"
   },
   {
@@ -4054,14 +4100,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanh",
    "link": "https://www.instagram.com/p/Dez57ImkUci/",
-   "alcance": 40,
-   "visualizacoes": 98,
+   "alcance": 41,
+   "visualizacoes": 99,
    "curtidas": 6,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 6,
-   "taxa_engajamento": 15.0,
+   "taxa_engajamento": 14.6,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "Sorriu pela primeira vez? Já senta sem apoio? Cada conquista do primeiro ano é uma festa, e também uma forma de acompanhar se o desenvolvimento vai bem. 👶\n\nReuni os marcos que a maioria dos bebês alcança aos 2, 4, 6, 9 e 12 meses, e os sinais que pedem uma conversa com o pediatra.\n\nLembre-se: cada bebê tem o seu ritmo, e prematuros devem ser avaliados pela idade corrigida.\n\n📌 Salve e confira a cada nova fase. Marque aqui uma mãe que vai gostar!\n\n🩺 Consultas de puericultura no conforto da sua casa, em BH, Lagoa Santa e região. Agende pelo WhatsApp, link na bio.\n\n#pediatra #pediatrabh #pediatralagoasanta #pediatradomiciliar #desenvolvimentoinfantil #marcosdodesenvolvimento #puericultura #primeiroano #maternidade #bebe"
@@ -4274,14 +4320,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙",
    "link": "https://www.instagram.com/p/DXaORAeAin0/",
-   "alcance": 86,
-   "visualizacoes": 170,
+   "alcance": 87,
+   "visualizacoes": 171,
    "curtidas": 11,
    "comentarios": 0,
    "salvamentos": 0,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 12.8,
+   "taxa_engajamento": 12.6,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A bronquiolite é uma das principais causas de internação em bebês, especialmente nos primeiros meses de vida. 💙\n\nMas a boa notícia é que hoje já existem formas eficazes de prevenção, que podem proteger os pequenos justamente no período mais vulnerável.\n\n👶 Entre as principais estratégias estão:\n✔️ Vacinação durante a gestação\n✔️ Imunização do bebê nos primeiros meses de vida\n\nEssas medidas ajudam a reduzir significativamente o risco de formas graves da doença.\n\nSe você está grávida ou tem um bebê pequeno, vale muito conversar com seu pediatra para entender qual é a melhor estratégia para o seu caso.\n\n✨ Informação também é cuidado!\n\n💬 Salve este post para consultar depois e compartilhe com outras famílias — isso pode ajudar muitos bebês!\n\n📍 Atendimento pediátrico domiciliar\n📲 @pediatraflavia\n\n#pediatria #bronquiolite #saudebebe #maternidade #maedeprimeiraviagem #vacinas #prevencao #cuidadoinfantil #pediatradomiciliar #bebe"
@@ -4294,14 +4340,14 @@
    "tipo_instagram": "CAROUSEL_ALBUM",
    "titulo": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️",
    "link": "https://www.instagram.com/p/DXIM2lunwFF/",
-   "alcance": 106,
-   "visualizacoes": 168,
+   "alcance": 107,
+   "visualizacoes": 169,
    "curtidas": 10,
    "comentarios": 0,
    "salvamentos": 1,
    "compartilhamentos": 0,
    "interacoes": 11,
-   "taxa_engajamento": 10.4,
+   "taxa_engajamento": 10.3,
    "reels_tempo_medio_assistido": null,
    "reels_taxa_pulo": null,
    "legenda": "A febre é uma das maiores causas de preocupação nos pais e com razão. 🌡️\nMas nem toda febre é perigosa… ao mesmo tempo, alguns casos precisam de atenção imediata.\n👶 Em bebês pequenos, especialmente menores de 3 meses, a febre pode ser o único sinal de algo mais sério.\nPor isso, mais importante do que apenas medir a temperatura é observar o comportamento do bebê.\n💛 Se você já ficou em dúvida em algum momento, esse post já cumpriu seu papel.\nSalve para consultar quando precisar e compartilhe com outras mães 🤍\n\n#pediatria #pediatra #saudedobebe #maedeprimeiraviagem #febreembebe #recemnascido #cuidadoscomobebe #maternidadereal #pediatriacomamor #dicasdepediatra"
@@ -6034,7 +6080,7 @@
    "story_hora": "18h",
    "aprovacao_post": "Aprovado",
    "aprovacao_story": "Aprovado",
-   "situacao": "Agendado"
+   "situacao": "Publicado"
   },
   {
    "id": "2026-11-27-reels-15-colica",
@@ -6155,9 +6201,9 @@
   }
  ],
  "resumo_programacao": {
-  "agendados": 10,
+  "agendados": 9,
   "aguardando_aprovacao": 0,
   "sem_conteudo": 0,
-  "publicados": 35
+  "publicados": 36
  }
 }
